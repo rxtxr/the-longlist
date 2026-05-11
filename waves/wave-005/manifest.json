@@ -1,0 +1,51 @@
+{
+  "wave": 5,
+  "timestamp": "2026-05-10T14:19:33.284037",
+  "stats": {
+    "agencies": 45,
+    "people": 36,
+    "eras": 18,
+    "work": 31,
+    "life": 31,
+    "technology": 15,
+    "philosophy": 15,
+    "scandals": 9,
+    "visuals": 11,
+    "total": 211
+  },
+  "checked": 39,
+  "corrected": [
+    "AMV BBDO London — Abbott Mead Vickers",
+    "BBDO — Batten Barton Durstine & Osborn",
+    "Benton & Bowles",
+    "Die Geschichte der deutschen Werbeagentur Scholz & Friends (gegründet 1981)",
+    "GGK — Grey Group Kommunikation Deutschland",
+    "Omnicom Group",
+    "Springer & Jacoby Hamburg"
+  ],
+  "ok": 32,
+  "skipped": 0,
+  "errors": [],
+  "gaps_researched": [
+    "D'Arcy Masius Benton & Bowles",
+    "TBWA\\Chiat\\Day",
+    "David Droga",
+    "Bartle Bogle Hegarty",
+    "Shirley Polykoff",
+    "WPP Group",
+    "Holger Jung",
+    "Mad Men",
+    "Maurice Saatchi",
+    "Lintas",
+    "Bauhaus",
+    "Google",
+    "Alan Parker",
+    "John Pearce",
+    "We try harder",
+    "Haribo",
+    "Margaret Thatcher",
+    "Philip Morris",
+    "Marion Harper Jr.",
+    "Don Draper"
+  ]
+}

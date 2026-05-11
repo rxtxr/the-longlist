@@ -1,0 +1,51 @@
+╭──────────────╮
+│ Lücken-Welle │
+╰──────────────╯
+
+============================================================
+WELLE 2 — Lücken-Forschung
+============================================================
+
+  Identifizierte Lücken (10):
+    - Die Rolle der Marktforschung in der Werbeagentur (vor und nach Account Planning)
+    - Die Entstehung und Entwicklung der Direct Marketing Agenturen (1960er–1990er)
+    - Die Einführung der 15-Sekunden-Spots und ihr Einfluss auf die Kreativität (1980er)
+    - Die Bedeutung der Verpackungsgestaltung als Werbedisziplin (1950er–heute)
+    - Die Entwicklung der Media-Agenturen und ihre Trennung von den Full-Service-Agenturen (ab 1990er)
+    - Die Geschichte der deutschen Werbeagentur Scholz & Friends (gegründet 1981)
+    - Die Rolle von Werbeclubs und Berufsverbänden (z.B. ADC, D&AD, Art Directors Club)
+    - Die Auswirkungen der Wirtschaftskrisen auf die Werbebranche (1929, 1973, 2008)
+    - Die Entwicklung der Internen Kommunikation als Werbedisziplin (Corporate Publishing)
+    - Die Geschichte der österreichischen Werbeszene und ihre Prägung durch Hans Dommaschk (z.B. Demner, Merlicek & Bergmann)
+  [Historiker] Recherchiere: Die Rolle der Marktforschung in der Werbeagentur (vor und nach Account Planning)
+  [Historiker] ✓ knowledge/agencies/die_rolle_der_marktforschung_in_der_werbeagentur_vor_und_nach_account_planning.md
+  [Historiker] Recherchiere: Die Entstehung und Entwicklung der Direct Marketing Agenturen (1960er–1990er)
+  [Historiker] ✓ knowledge/agencies/die_entstehung_und_entwicklung_der_direct_marketing_agenturen_1960er_1990er.md
+  [Historiker] Recherchiere: Die Einführung der 15-Sekunden-Spots und ihr Einfluss auf die Kreativität (1980er)
+  [Historiker] ✓ knowledge/technology/die_einfuehrung_der_15_sekunden_spots_und_ihr_einfluss_auf_die_kreativitaet_1980.md
+  [Historiker] Recherchiere: Die Bedeutung der Verpackungsgestaltung als Werbedisziplin (1950er–heute)
+  [Historiker] ✓ knowledge/work/die_bedeutung_der_verpackungsgestaltung_als_werbedisziplin_1950er_heute.md
+  [Historiker] Recherchiere: Die Entwicklung der Media-Agenturen und ihre Trennung von den Full-Service-Agenturen (ab 1990er)
+  [Historiker] ✓ knowledge/agencies/die_entwicklung_der_media_agenturen_und_ihre_trennung_von_den_full_service_agent.md
+  [Historiker] Recherchiere: Die Geschichte der deutschen Werbeagentur Scholz & Friends (gegründet 1981)
+  [Historiker] ✓ knowledge/agencies/die_geschichte_der_deutschen_werbeagentur_scholz_friends_gegruendet_1981.md
+  [Historiker] Recherchiere: Die Rolle von Werbeclubs und Berufsverbänden (z.B. ADC, D&AD, Art Directors Club)
+  [Historiker] ✓ knowledge/agencies/die_rolle_von_werbeclubs_und_berufsverbaenden_z_b_adc_d_ad_art_directors_club.md
+  [Historiker] Recherchiere: Die Auswirkungen der Wirtschaftskrisen auf die Werbebranche (1929, 1973, 2008)
+  [Historiker] ✓ knowledge/eras/die_auswirkungen_der_wirtschaftskrisen_auf_die_werbebranche_1929_1973_2008.md
+  [Historiker] Recherchiere: Die Entwicklung der Internen Kommunikation als Werbedisziplin (Corporate Publishing)
+  [Historiker] ✓ knowledge/agencies/die_entwicklung_der_internen_kommunikation_als_werbedisziplin_corporate_publishi.md
+  [Historiker] Recherchiere: Die Geschichte der österreichischen Werbeszene und ihre Prägung durch Hans Dommaschk (z.B. Demner, Merlicek & Bergmann)
+  [Historiker] ✓ knowledge/agencies/die_geschichte_der_oesterreichischen_werbeszene_und_ihre_praegung_durch_hans_dom.md
+
+[POST-WAVE 2]
+  [Archivar] Aktualisiere Wissens-Graph...
+  [Archivar] ✓ GRAPH.md (111 Einträge)
+  [Archivar] ✓ Gap Report: waves/wave-002/gap_report.md
+  [WikiBuilder] Baue HTML-Wiki...
+  [WikiBuilder] ✓ HTML-Wiki: /var/home/rxtxr/projects/recherche/wiki/index.html
+  [WikiBuilder] Baue Obsidian Vault...
+  [WikiBuilder] ✓ Obsidian: /home/rxtxr/Dokumente/rxtxr/Agenturgeschichte/
+  [Wave 2] Abgeschlossen. Einträge: 111
+
+✓ Wiki aktualisiert: /var/home/rxtxr/projects/recherche/wiki/index.html

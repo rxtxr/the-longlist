@@ -1,0 +1,72 @@
+{
+  "wave": 4,
+  "timestamp": "2026-05-10T14:05:22.851936",
+  "stats": {
+    "agencies": 39,
+    "people": 28,
+    "eras": 16,
+    "work": 29,
+    "life": 31,
+    "technology": 14,
+    "philosophy": 14,
+    "scandals": 9,
+    "visuals": 11,
+    "total": 191
+  },
+  "checked": 160,
+  "corrected": [
+    "AMV BBDO London — Abbott Mead Vickers",
+    "Die Geschichte der deutschen Werbeagentur Scholz & Friends (gegründet 1981)",
+    "GGK — Grey Group Kommunikation Deutschland",
+    "Leo Burnett — der Chicagoer Geschichtenerzähler",
+    "Ogilvy & Mather — David Ogilvys Agenturprinzipien",
+    "Saatchi & Saatchi — Thatcherisierung der Werbung",
+    "Serviceplan München — gegründet 1970, Europas größte unabhängige Agentur",
+    "Erik Spiekermann — Typografie, MetaDesign und der Schriftgestalter als Marke",
+    "Helmut Pantke — GGK und die deutsche Agenturlandschaft",
+    "Howard Gossage — das Gewissen der Werbung",
+    "Michael Conrad — Leo Burnett Germany, D&AD-Präsident und Grandseigneur",
+    "Cannes Lions — Geschichte des Werbefestivals",
+    "Die Hamburger Werbeszene — von GGK über Springer & Jacoby zu Jung von Matt",
+    "Werbung in den 1970ern — Ölkrise und gesellschaftlicher Wandel",
+    "Cannes-Gewinner und ihre Entstehungsgeschichten",
+    "Der Schweizer Stil und seine Einflüsse auf die Werbegrafik",
+    "Der Zeichentisch und seine Werkzeuge in der Werbeagentur",
+    "Tagesablauf in einer Werbeagentur der 1960er Jahre",
+    "Erste Computer in der Werbeagentur — Mac und PageMaker 1985",
+    "Typosatz, Repro-Kamera und Druckvorstufe"
+  ],
+  "ok": 140,
+  "skipped": 0,
+  "errors": [
+    {
+      "title": "BBDO Germany / Düsseldorf",
+      "error": "[Errno 2] No such file or directory: '/var/home/rxtxr/projects/recherche/waves/_search_cache/bbdo_germany_/_düsseldorf_advertising_agency_history_facts.json'"
+    },
+    {
+      "title": "Chiat/Day",
+      "error": "[Errno 2] No such file or directory: '/var/home/rxtxr/projects/recherche/waves/_search_cache/werbeagentur_geschichte_chiat/day_advertising_agency_history.json'"
+    }
+  ],
+  "gaps_researched": [
+    "Scholz & Friends",
+    "Chiat\\Day",
+    "Julian Koenig",
+    "Jean-Remy von Matt",
+    "Papert Koenig Lois",
+    "Ridley Scott",
+    "Omnicom Group",
+    "Interpublic",
+    "Steve Jobs",
+    "Jay Chiat",
+    "Collett Dickenson Pearce",
+    "Charles Saatchi",
+    "Benton & Bowles",
+    "General Motors",
+    "DDB Worldwide",
+    "Droga5",
+    "Apple - Think Different",
+    "GGK Düsseldorf",
+    "Otl Aicher"
+  ]
+}

@@ -1,0 +1,20 @@
+# Generated output
+wiki/
+obsidian/
+
+# Caches
+waves/_search_cache/
+.image_cache/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.claude/
+
+# Secrets / env
+.env
+*.env
+
+# Editor
+.vscode/
+.idea/

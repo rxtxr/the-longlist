@@ -1,0 +1,165 @@
+╭──────────────────────╮
+│ Welle 1 — Vertiefung │
+╰──────────────────────╯
+
+============================================================
+WELLE 1 — Gap-Themen mit Web-Recherche
+============================================================
+
+
+[AGENCIES]
+  [skip] McCann Erickson — Internationale Agenturgeschichte
+  [Historiker] Recherchiere: Grey Advertising — die New Yorker Agentur
+  [Historiker] ✓ knowledge/agencies/grey_advertising_die_new_yorker_agentur.md
+  Progress: 2/43
+  [Historiker] Recherchiere: Foote Cone & Belding (FCB) — Geschichte
+  [Historiker] ✓ knowledge/agencies/foote_cone_belding_fcb_geschichte.md
+  Progress: 3/43
+  [Historiker] Recherchiere: Lürzer & Conrad — Europäische Kreativ-Agentur
+  [Historiker] ✓ knowledge/agencies/luerzer_conrad_europaeische_kreativ_agentur.md
+  Progress: 4/43
+  [Historiker] Recherchiere: Publicis Groupe — französische Werbeagentur mit globaler Präsenz
+  [Historiker] ✓ knowledge/agencies/publicis_groupe_franzoesische_werbeagentur_mit_globaler_praesenz.md
+  Progress: 5/43
+  [Historiker] Recherchiere: Wiedemann & Berg — deutsche Agentur mit internationalem Erfolg
+  [Historiker] ✓ knowledge/agencies/wiedemann_berg_deutsche_agentur_mit_internationalem_erfolg.md
+  Progress: 6/43
+  [Historiker] Recherchiere: Chiat/Day — Apple 1984 und Think Different
+  [FEHLER] Chiat/Day — Apple 1984 und Think Different: [Errno 2] No such file or directory: '/var/home/rxtxr/projects/recherche/waves/_search_cache/werbeagentur_geschichte_chiat/day_—_apple_1984_und_think_different_advertising_a.json'
+  Progress: 7/43
+  [Historiker] Recherchiere: AMV BBDO London — Abbott Mead Vickers
+  [Historiker] ✓ knowledge/agencies/amv_bbdo_london_abbott_mead_vickers.md
+  Progress: 8/43
+
+[PEOPLE]
+  [Historiker] Recherchiere: Lee Clow — Apple-Kreativdirektor und TBWA
+  [Historiker] ✓ knowledge/people/lee_clow_apple_kreativdirektor_und_tbwa.md
+  Progress: 9/43
+  [Historiker] Recherchiere: Neil French — britischer Kreativdirektor und Werbetexter
+  [Historiker] ✓ knowledge/people/neil_french_britischer_kreativdirektor_und_werbetexter.md
+  Progress: 10/43
+  [Historiker] Recherchiere: Helmut Krone — Typograf und Art Director bei DDB
+  [Historiker] ✓ knowledge/people/helmut_krone_typograf_und_art_director_bei_ddb.md
+  Progress: 11/43
+  [Historiker] Recherchiere: Mary Wells Lawrence — erste weibliche Werbeagentur-Chefin
+  [Historiker] ✓ knowledge/people/mary_wells_lawrence_erste_weibliche_werbeagentur_chefin.md
+  Progress: 12/43
+  [Historiker] Recherchiere: Paul Arden — Kreativdirektor bei Saatchi & Saatchi
+  [Historiker] ✓ knowledge/people/paul_arden_kreativdirektor_bei_saatchi_saatchi.md
+  Progress: 13/43
+  [Historiker] Recherchiere: Dan Wieden — Just Do It und Wieden+Kennedy
+  [Historiker] ✓ knowledge/people/dan_wieden_just_do_it_und_wieden_kennedy.md
+  Progress: 14/43
+
+[LIFE]
+  [Historiker] Recherchiere: Tagesablauf und Arbeitsalltag in einer Werbeagentur der 1960er Jahre
+  [Historiker] ✓ knowledge/agencies/tagesablauf_und_arbeitsalltag_in_einer_werbeagentur_der_1960er_jahre.md
+  Progress: 15/43
+  [Historiker] Recherchiere: Arbeitsalltag in einer Werbeagentur der 1980er Jahre
+  [Historiker] ✓ knowledge/agencies/arbeitsalltag_in_einer_werbeagentur_der_1980er_jahre.md
+  Progress: 16/43
+  [Historiker] Recherchiere: Agentur-Hierarchien und Organigramme — von der Boutique zum Netzwerk
+  [Historiker] ✓ knowledge/agencies/agentur_hierarchien_und_organigramme_von_der_boutique_zum_netzwerk.md
+  Progress: 17/43
+  [Historiker] Recherchiere: Freelancer und freie Kreative in der Werbebranche
+  [Historiker] ✓ knowledge/life/freelancer_und_freie_kreative_in_der_werbebranche.md
+  Progress: 18/43
+  [Historiker] Recherchiere: Agenturkultur — Partys, Rituale und Firmenmythen
+  [Historiker] ✓ knowledge/agencies/agenturkultur_partys_rituale_und_firmenmythen.md
+  Progress: 19/43
+  [Historiker] Recherchiere: Das Briefing — wie Aufträge in Agenturen ankommen und bearbeitet werden
+  [Historiker] ✓ knowledge/agencies/das_briefing_wie_auftraege_in_agenturen_ankommen_und_bearbeitet_werden.md
+  Progress: 20/43
+
+[TECHNOLOGY]
+  [Historiker] Recherchiere: Zeichentisch, Rapidograph und Rubbelfolie — klassische Werkzeuge
+  [Historiker] ✓ knowledge/technology/zeichentisch_rapidograph_und_rubbelfolie_klassische_werkzeuge.md
+  Progress: 21/43
+  [Historiker] Recherchiere: Repro-Kamera und Lichtsatz — Druckvorstufe vor dem Computer
+  [Historiker] ✓ knowledge/technology/repro_kamera_und_lichtsatz_druckvorstufe_vor_dem_computer.md
+  Progress: 22/43
+  [Historiker] Recherchiere: Fotoatelier in der Werbeagentur — Studio, Beleuchtung, Kameras
+  [Historiker] ✓ knowledge/agencies/fotoatelier_in_der_werbeagentur_studio_beleuchtung_kameras.md
+  Progress: 23/43
+  [Historiker] Recherchiere: Apple Macintosh und Desktop Publishing — die Revolution von 1984
+  [Historiker] ✓ knowledge/technology/apple_macintosh_und_desktop_publishing_die_revolution_von_1984.md
+  Progress: 24/43
+
+[PHILOSOPHY]
+  [Historiker] Recherchiere: Account Planning — Stephen King und der strategische Planer
+  [Historiker] ✓ knowledge/agencies/account_planning_stephen_king_und_der_strategische_planer.md
+  Progress: 25/43
+  [Historiker] Recherchiere: Die Debatte um Ethik in der Werbung
+  [Historiker] ✓ knowledge/philosophy/die_debatte_um_ethik_in_der_werbung.md
+  Progress: 26/43
+  [Historiker] Recherchiere: Konzeptdenken vs. Hard Sell — philosophischer Streit in der Branche
+  [Historiker] ✓ knowledge/philosophy/konzeptdenken_vs_hard_sell_philosophischer_streit_in_der_branche.md
+  Progress: 27/43
+  [Historiker] Recherchiere: Der Schweizer Stil — Basel, Zürich und internationaler Grafik-Stil
+  [Historiker] ✓ knowledge/philosophy/der_schweizer_stil_basel_zuerich_und_internationaler_grafik_stil.md
+  Progress: 28/43
+
+[SCANDALS]
+  [Historiker] Recherchiere: Werbeskandale der 1990er Jahre — Kontroversen und Rückrufe
+  [Historiker] ✓ knowledge/scandals/werbeskandale_der_1990er_jahre_kontroversen_und_rueckrufe.md
+  Progress: 29/43
+  [Historiker] Recherchiere: Sexismus in der Werbung — historische Debatte und Kritik
+  [Historiker] ✓ knowledge/philosophy/sexismus_in_der_werbung_historische_debatte_und_kritik.md
+  Progress: 30/43
+  [Historiker] Recherchiere: Greenwashing und irreführende Werbung — Geschichte
+  [Historiker] ✓ knowledge/scandals/greenwashing_und_irrefuehrende_werbung_geschichte.md
+  Progress: 31/43
+
+[VISUALS]
+  [Bildredakteur] Visuell recherchiere: Bildquellen: Agenturalltag 1950–1970 — Archive und Fundstellen
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_agenturalltag_1950_1970_archive_und_fundstellen.md
+  Progress: 32/43
+  [Bildredakteur] Visuell recherchiere: Bildquellen: Klassische Druckanzeigen und Layout-Prozess
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_klassische_druckanzeigen_und_layout_prozess.md
+  Progress: 33/43
+  [Bildredakteur] Visuell recherchiere: Bildquellen: Porträts der Werbebranche — Fotografen und Archive
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_portraets_der_werbebranche_fotografen_und_archive.md
+  Progress: 34/43
+  [Bildredakteur] Visuell recherchiere: Bildquellen: Cannes Lions und Werbefestival-Dokumentation
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_cannes_lions_und_werbefestival_dokumentation.md
+  Progress: 35/43
+  [Bildredakteur] Visuell recherchiere: Bildquellen: D&AD Annual und Communication Arts Archive
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_d_ad_annual_und_communication_arts_archive.md
+  Progress: 36/43
+
+[ERAS]
+  [Historiker] Recherchiere: Die digitale Revolution in der Werbeindustrie 1995–2005
+  [Historiker] ✓ knowledge/technology/die_digitale_revolution_in_der_werbeindustrie_1995_2005.md
+  Progress: 37/43
+  [Historiker] Recherchiere: Die Ära der Werbenetze und Holdinggesellschaften 1980–2000
+  [Historiker] ✓ knowledge/agencies/die_aera_der_werbenetze_und_holdinggesellschaften_1980_2000.md
+  Progress: 38/43
+  [Historiker] Recherchiere: Cannes Lions — Geschichte des Werbefestivals
+  [Historiker] ✓ knowledge/eras/cannes_lions_geschichte_des_werbefestivals.md
+  Progress: 39/43
+
+[WORK]
+  [Historiker] Recherchiere: Die Rolle des Media-Planers in der Werbeagentur
+  [Historiker] ✓ knowledge/agencies/die_rolle_des_media_planers_in_der_werbeagentur.md
+  Progress: 40/43
+  [Historiker] Recherchiere: Werbefilm-Produktion — von der Idee zum TV-Spot
+  [Historiker] ✓ knowledge/work/werbefilm_produktion_von_der_idee_zum_tv_spot.md
+  Progress: 41/43
+  [Historiker] Recherchiere: Das Art Directors Annual — Geschichte und Bedeutung
+  [Historiker] ✓ knowledge/work/das_art_directors_annual_geschichte_und_bedeutung.md
+  Progress: 42/43
+  [Historiker] Recherchiere: Cannes-Gewinner und ihre Entstehungsgeschichten
+  [Historiker] ✓ knowledge/work/cannes_gewinner_und_ihre_entstehungsgeschichten.md
+  Progress: 43/43
+
+[POST-WAVE 1]
+  [Archivar] Aktualisiere Wissens-Graph...
+  [Archivar] ✓ GRAPH.md (101 Einträge)
+  [Archivar] ✓ Gap Report: waves/wave-001/gap_report.md
+  [WikiBuilder] Baue HTML-Wiki...
+  [WikiBuilder] ✓ HTML-Wiki: /var/home/rxtxr/projects/recherche/wiki/index.html
+  [WikiBuilder] Baue Obsidian Vault...
+  [WikiBuilder] ✓ Obsidian: /home/rxtxr/Dokumente/rxtxr/Agenturgeschichte/
+  [Wave 1] Abgeschlossen. Einträge: 101
+
+✓ Wiki aktualisiert: /var/home/rxtxr/projects/recherche/wiki/index.html

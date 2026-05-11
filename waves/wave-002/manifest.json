@@ -1,0 +1,29 @@
+{
+  "wave": 2,
+  "timestamp": "2026-05-10T11:34:59.494615",
+  "stats": {
+    "agencies": 48,
+    "people": 15,
+    "eras": 7,
+    "work": 18,
+    "life": 1,
+    "technology": 8,
+    "philosophy": 6,
+    "scandals": 3,
+    "visuals": 5,
+    "total": 111
+  },
+  "topics_done": [
+    "Die Rolle der Marktforschung in der Werbeagentur (vor und nach Account Planning)",
+    "Die Entstehung und Entwicklung der Direct Marketing Agenturen (1960er–1990er)",
+    "Die Einführung der 15-Sekunden-Spots und ihr Einfluss auf die Kreativität (1980er)",
+    "Die Bedeutung der Verpackungsgestaltung als Werbedisziplin (1950er–heute)",
+    "Die Entwicklung der Media-Agenturen und ihre Trennung von den Full-Service-Agenturen (ab 1990er)",
+    "Die Geschichte der deutschen Werbeagentur Scholz & Friends (gegründet 1981)",
+    "Die Rolle von Werbeclubs und Berufsverbänden (z.B. ADC, D&AD, Art Directors Club)",
+    "Die Auswirkungen der Wirtschaftskrisen auf die Werbebranche (1929, 1973, 2008)",
+    "Die Entwicklung der Internen Kommunikation als Werbedisziplin (Corporate Publishing)",
+    "Die Geschichte der österreichischen Werbeszene und ihre Prägung durch Hans Dommaschk (z.B. Demner, Merlicek & Bergmann)"
+  ],
+  "errors": []
+}

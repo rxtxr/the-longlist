@@ -1,0 +1,152 @@
+╭─────────────────────╮
+│ Welle 0 — Bootstrap │
+╰─────────────────────╯
+
+============================================================
+WELLE 0 — Bootstrap (Modell-Wissen)
+============================================================
+
+
+[AGENCIES]
+  [skip] J. Walter Thompson (JWT) — die älteste Werbeagentur (bereits vorhanden)
+  [skip] Doyle Dane Bernbach (DDB) — die Creative Revolution (bereits vorhanden)
+  [skip] Leo Burnett Company — Chicago School of Advertising (bereits vorhanden)
+  [skip] Ogilvy & Mather — David Ogilvys Agenturprinzipien (bereits vorhanden)
+  [skip] BBDO — Batten Barton Durstine & Osborn (bereits vorhanden)
+  [skip] Young & Rubicam — Forschung und Kreativität (bereits vorhanden)
+  [skip] Ted Bates & Company — die USP-Agentur (bereits vorhanden)
+  [skip] Saatchi & Saatchi — Thatcherisierung der Werbung (bereits vorhanden)
+  [skip] TBWA — Disruption als Strategie (bereits vorhanden)
+  [skip] Springer & Jacoby Hamburg (bereits vorhanden)
+  [skip] GGK — Grey Group Kommunikation Deutschland (bereits vorhanden)
+  [skip] BBDO Germany / Düsseldorf (bereits vorhanden)
+
+[PEOPLE]
+  [skip] Bill Bernbach — Vater der Kreativen Revolution (bereits vorhanden)
+  [skip] David Ogilvy — der Werbe-Guru (bereits vorhanden)
+  [Historiker] Recherchiere: Leo Burnett — der Chicagoer Geschichtenerzähler
+  [Historiker] ✓ knowledge/agencies/leo_burnett_der_chicagoer_geschichtenerzaehler.md
+  Progress: 15/56
+  [skip] Mary Wells Lawrence — erste weibliche Agentur-CEO (bereits vorhanden)
+  [Historiker] Recherchiere: Rosser Reeves — USP und Hard Sell
+  [Historiker] ✓ knowledge/people/rosser_reeves_usp_und_hard_sell.md
+  Progress: 17/56
+  [skip] Helmut Krone — Art Director und Typograf (bereits vorhanden)
+  [skip] Howard Gossage — das Gewissen der Werbung (bereits vorhanden)
+  [skip] George Lois — Art Director und Provokateur (bereits vorhanden)
+
+[ERAS]
+  [skip] Die Schaufenster-Ära der Werbung (1880–1929) (bereits vorhanden)
+  [skip] Werbung im Zweiten Weltkrieg — Propaganda und Konsumwerbung (bereits vorhanden)
+  [skip] Die Mad Men Ära (1950–1970) — Goldenes Zeitalter der Werbung (bereits vorhanden)
+  [skip] Die Kreative Revolution der 1960er Jahre (bereits vorhanden)
+  [skip] Werbung in den 1970ern — Ölkrise und gesellschaftlicher Wandel (bereits vorhanden)
+  [Historiker] Recherchiere: Desktop Publishing und die digitale Wende (1984–1995)
+  [Historiker] ✓ knowledge/technology/desktop_publishing_und_die_digitale_wende_1984_1995.md
+  Progress: 26/56
+
+[WORK]
+  [skip] Think Small — VW Käfer Kampagne von DDB 1959 (bereits vorhanden)
+  [skip] Marlboro Man — Leo Burnetts ikonischste Kampagne (bereits vorhanden)
+  [skip] Avis We Try Harder — die Underdog-Strategie (bereits vorhanden)
+  [skip] Alka Seltzer — How do you spell relief (bereits vorhanden)
+  [Historiker] Recherchiere: Der Pitch — Geschichte und Ablauf eines Werbepitches
+  [Historiker] ✓ knowledge/agencies/der_pitch_geschichte_und_ablauf_eines_werbepitches.md
+  Progress: 31/56
+  [Historiker] Recherchiere: Die Jahresetat-Präsentation — Agenturalltag
+  [Historiker] ✓ knowledge/agencies/die_jahresetat_praesentation_agenturalltag.md
+  Progress: 32/56
+
+[LIFE]
+  [Historiker] Recherchiere: Tagesablauf in einer Werbeagentur der 1960er Jahre
+  [Historiker] ✓ knowledge/agencies/tagesablauf_in_einer_werbeagentur_der_1960er_jahre.md
+  Progress: 33/56
+  [Historiker] Recherchiere: Die Rolle des Account Managers in der klassischen Agentur
+  [Historiker] ✓ knowledge/agencies/die_rolle_des_account_managers_in_der_klassischen_agentur.md
+  Progress: 34/56
+  [Historiker] Recherchiere: Art Director und Copywriter — das kreative Team
+  [Historiker] ✓ knowledge/work/art_director_und_copywriter_das_kreative_team.md
+  Progress: 35/56
+  [Historiker] Recherchiere: Der Creative Director — Entstehung der Rolle
+  [Historiker] ✓ knowledge/agencies/der_creative_director_entstehung_der_rolle.md
+  Progress: 36/56
+  [Historiker] Recherchiere: Honorarmodelle — 15%-Provision vs. Fee-System
+  [Historiker] ✓ knowledge/agencies/honorarmodelle_15_provision_vs_fee_system.md
+  Progress: 37/56
+  [Historiker] Recherchiere: Agentur-Hierarchien und Organigramme (1950–1980)
+  [Historiker] ✓ knowledge/agencies/agentur_hierarchien_und_organigramme_1950_1980.md
+  Progress: 38/56
+
+[TECHNOLOGY]
+  [Historiker] Recherchiere: Der Zeichentisch und seine Werkzeuge in der Werbeagentur
+  [Historiker] ✓ knowledge/work/der_zeichentisch_und_seine_werkzeuge_in_der_werbeagentur.md
+  Progress: 39/56
+  [Historiker] Recherchiere: Typosatz, Repro-Kamera und Druckvorstufe
+  [Historiker] ✓ knowledge/technology/typosatz_repro_kamera_und_druckvorstufe.md
+  Progress: 40/56
+  [Historiker] Recherchiere: Fotoatelier und Fotostudio in der Agentur
+  [Historiker] ✓ knowledge/agencies/fotoatelier_und_fotostudio_in_der_agentur.md
+  Progress: 41/56
+  [Historiker] Recherchiere: Erste Computer in der Werbeagentur — Mac und PageMaker 1985
+  [Historiker] ✓ knowledge/technology/erste_computer_in_der_werbeagentur_mac_und_pagemaker_1985.md
+  Progress: 42/56
+  [Historiker] Recherchiere: Storyboard und Filmproduktion für TV-Werbung
+  [Historiker] ✓ knowledge/work/storyboard_und_filmproduktion_fuer_tv_werbung.md
+  Progress: 43/56
+
+[PHILOSOPHY]
+  [Historiker] Recherchiere: Die Unique Selling Proposition (USP) — Rosser Reeves
+  [Historiker] ✓ knowledge/people/die_unique_selling_proposition_usp_rosser_reeves.md
+  Progress: 44/56
+  [Historiker] Recherchiere: Brand Image — David Ogilvys Markenphilosophie
+  [Historiker] ✓ knowledge/agencies/brand_image_david_ogilvys_markenphilosophie.md
+  Progress: 45/56
+  [Historiker] Recherchiere: Der Schweizer Stil und seine Einflüsse auf die Werbegrafik
+  [Historiker] ✓ knowledge/work/der_schweizer_stil_und_seine_einfluesse_auf_die_werbegrafik.md
+  Progress: 46/56
+  [Historiker] Recherchiere: Konzeptdenken vs. Hard Sell — philosophischer Streit
+  [Historiker] ✓ knowledge/philosophy/konzeptdenken_vs_hard_sell_philosophischer_streit.md
+  Progress: 47/56
+  [Historiker] Recherchiere: Feminist Advertising — Werbung und Frauenbewegung
+  [Historiker] ✓ knowledge/work/feminist_advertising_werbung_und_frauenbewegung.md
+  Progress: 48/56
+
+[SCANDALS]
+  [Historiker] Recherchiere: Cigarette Advertising — der Fall der Tabakwerbung
+  [Historiker] ✓ knowledge/work/cigarette_advertising_der_fall_der_tabakwerbung.md
+  Progress: 49/56
+  [Historiker] Recherchiere: Subliminal Advertising — die Unterschwelligkeits-Kontroverse
+  [Historiker] ✓ knowledge/work/subliminal_advertising_die_unterschwelligkeits_kontroverse.md
+  Progress: 50/56
+  [Historiker] Recherchiere: Benetton und Oliviero Toscani — Schockwerbung
+  [Historiker] ✓ knowledge/agencies/benetton_und_oliviero_toscani_schockwerbung.md
+  Progress: 51/56
+  [Historiker] Recherchiere: Die Plagiats-Affären der Werbebranche
+  [Historiker] ✓ knowledge/scandals/die_plagiats_affaeren_der_werbebranche.md
+  Progress: 52/56
+
+[VISUALS]
+  [Historiker] Recherchiere: Visuelles aus dem Agenturalltag — Büros und Studios der 1960er
+  [Historiker] ✓ knowledge/agencies/visuelles_aus_dem_agenturalltag_bueros_und_studios_der_1960er.md
+  Progress: 53/56
+  [Historiker] Recherchiere: Historische Anzeigen-Reinzeichnungen und Paste-up Technik
+  [Historiker] ✓ knowledge/work/historische_anzeigen_reinzeichnungen_und_paste_up_technik.md
+  Progress: 54/56
+  [Historiker] Recherchiere: Präsentationsräume und Pitch-Material-Ästhetik
+  [Historiker] ✓ knowledge/agencies/praesentationsraeume_und_pitch_material_aesthetik.md
+  Progress: 55/56
+  [Historiker] Recherchiere: Storyboards und Skizzen aus Werbeagenturen
+  [Historiker] ✓ knowledge/work/storyboards_und_skizzen_aus_werbeagenturen.md
+  Progress: 56/56
+
+[POST-WAVE 0]
+  [Archivar] Aktualisiere Wissens-Graph...
+  [Archivar] ✓ GRAPH.md (58 Einträge)
+  [Archivar] ✓ Gap Report: waves/wave-000/gap_report.md
+  [WikiBuilder] Baue HTML-Wiki...
+  [WikiBuilder] ✓ HTML-Wiki: /var/home/rxtxr/projects/recherche/wiki/index.html
+  [WikiBuilder] Baue Obsidian Vault...
+  [WikiBuilder] ✓ Obsidian: /var/home/rxtxr/projects/recherche/obsidian/
+  [Wave 0] Abgeschlossen. Einträge: 58
+
+✓ Wiki aktualisiert: /var/home/rxtxr/projects/recherche/wiki/index.html

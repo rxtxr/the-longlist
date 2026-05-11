@@ -1,0 +1,224 @@
+╭─────────────────────────╮
+│ Welle 3 — Anthropologie │
+╰─────────────────────────╯
+
+============================================================
+WELLE 3 — Anthropologie des Agenturlebens
+============================================================
+
+
+[LIFE]
+  [Historiker] Recherchiere: Dresscode in Werbeagenturen — schwarzer Rollkragen, Nickelbrille und die kreative Uniform
+  [Historiker] ✓ knowledge/life/dresscode_in_werbeagenturen_schwarzer_rollkragen_nickelbrille_und_die_kreative_u.md
+  Progress: 1/62
+  [Historiker] Recherchiere: Account Manager vs. Kreative — die ewige Feindschaft zwischen Suits und Jeans
+  [Historiker] ✓ knowledge/agencies/account_manager_vs_kreative_die_ewige_feindschaft_zwischen_suits_und_jeans.md
+  Progress: 2/62
+  [Historiker] Recherchiere: Bürodesign als Markensignal — wie Werbeagenturen ihre Räume für Kunden inszenierten
+  [Historiker] ✓ knowledge/agencies/buerodesign_als_markensignal_wie_werbeagenturen_ihre_raeume_fuer_kunden_inszenie.md
+  Progress: 3/62
+  [Historiker] Recherchiere: Praktikanten-Ausbeutung in Werbeagenturen — unbezahlte Arbeit als Normalzustand
+  [Historiker] ✓ knowledge/life/praktikanten_ausbeutung_in_werbeagenturen_unbezahlte_arbeit_als_normalzustand.md
+  Progress: 4/62
+  [Historiker] Recherchiere: Abwerben von Kreativen und Kunden — Headhunter und Wechselkultur in der Werbebranche
+  [Historiker] ✓ knowledge/agencies/abwerben_von_kreativen_und_kunden_headhunter_und_wechselkultur_in_der_werbebranc.md
+  Progress: 5/62
+  [Historiker] Recherchiere: Kunden mitnehmen beim Agenturwechsel — das Etat-Mitnahme-Phänomen
+  [Historiker] ✓ knowledge/agencies/kunden_mitnehmen_beim_agenturwechsel_das_etat_mitnahme_phaenomen.md
+  Progress: 6/62
+  [Historiker] Recherchiere: Agentur-Spin-offs und Gründungsmythen — wenn Kreative die Mutterfirma verlassen
+  [Historiker] ✓ knowledge/agencies/agentur_spin_offs_und_gruendungsmythen_wenn_kreative_die_mutterfirma_verlassen.md
+  Progress: 7/62
+  [Historiker] Recherchiere: Großkunden-Macht — wenn der Client mehr zu sagen hat als der Creative Director
+  [Historiker] ✓ knowledge/agencies/grosskunden_macht_wenn_der_client_mehr_zu_sagen_hat_als_der_creative_director.md
+  Progress: 8/62
+  [Historiker] Recherchiere: Agentur-Rankings in Fachzeitschriften — W&V, Horizont, Campaign, Advertising Age
+  [Historiker] ✓ knowledge/agencies/agentur_rankings_in_fachzeitschriften_w_v_horizont_campaign_advertising_age.md
+  Progress: 9/62
+  [Historiker] Recherchiere: Der Kreativdirektor des Jahres — Ego, Status und Wettbewerb in der Werbebranche
+  [Historiker] ✓ knowledge/people/der_kreativdirektor_des_jahres_ego_status_und_wettbewerb_in_der_werbebranche.md
+  Progress: 10/62
+  [Historiker] Recherchiere: Das Portfolio (Book) — wie Kreative Jobs bekommen, zeigen und bewacht werden
+  [Historiker] ✓ knowledge/work/das_portfolio_book_wie_kreative_jobs_bekommen_zeigen_und_bewacht_werden.md
+  Progress: 11/62
+  [Historiker] Recherchiere: Cannes als Klassentreffen — was jenseits der Awards in Cannes wirklich passiert
+  [Historiker] ✓ knowledge/agencies/cannes_als_klassentreffen_was_jenseits_der_awards_in_cannes_wirklich_passiert.md
+  Progress: 12/62
+  [Historiker] Recherchiere: Die Fachpresse als Machtinstrument — wer in W&V und Horizont erscheint
+  [Historiker] ✓ knowledge/agencies/die_fachpresse_als_machtinstrument_wer_in_w_v_und_horizont_erscheint.md
+  Progress: 13/62
+  [Historiker] Recherchiere: Pitch-Kultur und der All-nighter — Überstunden, Romantik und Erschöpfung
+  [Historiker] ✓ knowledge/agencies/pitch_kultur_und_der_all_nighter_ueberstunden_romantik_und_erschoepfung.md
+  Progress: 14/62
+  [Historiker] Recherchiere: Kundenpflege und Kundenunterhaltung — Dinner, Reisen, Gefälligkeiten
+  [Historiker] ✓ knowledge/agencies/kundenpflege_und_kundenunterhaltung_dinner_reisen_gefaelligkeiten.md
+  Progress: 15/62
+  [Historiker] Recherchiere: Das Kreativ-Briefing — Ritual, Missverständnis und Neuverhandlung
+  [Historiker] ✓ knowledge/agencies/das_kreativ_briefing_ritual_missverstaendnis_und_neuverhandlung.md
+  Progress: 16/62
+
+[SCANDALS]
+  [Historiker] Recherchiere: Kokain und Drogenkultur in Werbeagenturen 1970–1995 — dokumentiert und strukturell
+  [Historiker] ✓ knowledge/life/kokain_und_drogenkultur_in_werbeagenturen_1970_1995_dokumentiert_und_strukturell.md
+  Progress: 17/62
+  [Historiker] Recherchiere: Der Drei-Martini-Lunch — Alkohol als professionelle Agenturkultur
+  [Historiker] ✓ knowledge/life/der_drei_martini_lunch_alkohol_als_professionelle_agenturkultur.md
+  Progress: 18/62
+  [Historiker] Recherchiere: Scam Ads — Arbeiten die nur für Awards existieren und nie geschaltet wurden
+  [Historiker] ✓ knowledge/scandals/scam_ads_arbeiten_die_nur_fuer_awards_existieren_und_nie_geschaltet_wurden.md
+  Progress: 19/62
+  [Historiker] Recherchiere: Sexismus in Werbeagenturen — Machtmissbrauch, Casting-Couch und strukturelle Ungleichheit
+  [Historiker] ✓ knowledge/scandals/sexismus_in_werbeagenturen_machtmissbrauch_casting_couch_und_strukturelle_unglei.md
+  Progress: 20/62
+  [Historiker] Recherchiere: Neil French Sexismus-Skandal 2005 — Rücktritt eines Weltklasse-Kreativedirektors
+  [Historiker] ✓ knowledge/scandals/neil_french_sexismus_skandal_2005_ruecktritt_eines_weltklasse_kreativedirektors.md
+  Progress: 21/62
+  [Historiker] Recherchiere: JWT-Finanzskandal 1982 — CEO John Peters und der Rechnungsbetrug
+  [Historiker] ✓ knowledge/scandals/jwt_finanzskandal_1982_ceo_john_peters_und_der_rechnungsbetrug.md
+  Progress: 22/62
+  [Historiker] Recherchiere: Award-Show-Politik — Jury-Schiebung, gegenseitige Gefälligkeiten, gekaufte Preise
+  [Historiker] ✓ knowledge/scandals/award_show_politik_jury_schiebung_gegenseitige_gefaelligkeiten_gekaufte_preise.md
+  Progress: 23/62
+  [Historiker] Recherchiere: Burnout und psychische Gesundheit in der Werbebranche — der bezahlte Preis
+  [Historiker] ✓ knowledge/life/burnout_und_psychische_gesundheit_in_der_werbebranche_der_bezahlte_preis.md
+  Progress: 24/62
+
+[WORK]
+  [Historiker] Recherchiere: Scribble, Reinzeichnung und Repro — der physische Weg einer Anzeige von Idee bis Druck
+  [Historiker] ✓ knowledge/work/scribble_reinzeichnung_und_repro_der_physische_weg_einer_anzeige_von_idee_bis_dr.md
+  Progress: 25/62
+  [Historiker] Recherchiere: Shooting-Kultur in der Werbefotografie — Fotografen, Locations, Budgets, Reisen
+  [Historiker] ✓ knowledge/work/shooting_kultur_in_der_werbefotografie_fotografen_locations_budgets_reisen.md
+  Progress: 26/62
+  [Historiker] Recherchiere: Jingles und Werbemusik — Komposition, Produktion, Ohrwürmer als Strategie
+  [Historiker] ✓ knowledge/work/jingles_und_werbemusik_komposition_produktion_ohrwuermer_als_strategie.md
+  Progress: 27/62
+  [Historiker] Recherchiere: Voice-over und Radiowerbung — eine eigene kreative Disziplin
+  [Historiker] ✓ knowledge/work/voice_over_und_radiowerbung_eine_eigene_kreative_disziplin.md
+  Progress: 28/62
+  [Historiker] Recherchiere: D&AD Yellow Pencil und Black Pencil — die Währung des kreativen Prestiges
+  [Historiker] ✓ knowledge/work/d_ad_yellow_pencil_und_black_pencil_die_waehrung_des_kreativen_prestiges.md
+  Progress: 29/62
+  [Historiker] Recherchiere: Scribble und Ideen-Skizzen — Handwerk der Konzeptentwicklung
+  [Historiker] ✓ knowledge/work/scribble_und_ideen_skizzen_handwerk_der_konzeptentwicklung.md
+  Progress: 30/62
+  [Historiker] Recherchiere: Storyboard-Kultur — vom Scribble zum Filmset
+  [Historiker] ✓ knowledge/technology/storyboard_kultur_vom_scribble_zum_filmset.md
+  Progress: 31/62
+
+[PEOPLE]
+  [Historiker] Recherchiere: Amir Kassaei — DDB Germany und der Kreative mit den meisten Cannes-Löwen
+  [Historiker] ✓ knowledge/people/amir_kassaei_ddb_germany_und_der_kreative_mit_den_meisten_cannes_loewen.md
+  Progress: 32/62
+  [Historiker] Recherchiere: Jean-Marie Dru — TBWA und das Disruption-Konzept
+  [Historiker] ✓ knowledge/philosophy/jean_marie_dru_tbwa_und_das_disruption_konzept.md
+  Progress: 33/62
+  [Historiker] Recherchiere: Michael Conrad — Leo Burnett Germany, D&AD-Präsident und Grandseigneur
+  [Historiker] ✓ knowledge/people/michael_conrad_leo_burnett_germany_d_ad_praesident_und_grandseigneur.md
+  Progress: 34/62
+  [Historiker] Recherchiere: Phyllis Robinson — erste weibliche Creative Directorin bei DDB
+  [Historiker] ✓ knowledge/people/phyllis_robinson_erste_weibliche_creative_directorin_bei_ddb.md
+  Progress: 35/62
+  [Historiker] Recherchiere: Erik Spiekermann — Typografie, MetaDesign und der Schriftgestalter als Marke
+  [Historiker] ✓ knowledge/people/erik_spiekermann_typografie_metadesign_und_der_schriftgestalter_als_marke.md
+  Progress: 36/62
+  [Historiker] Recherchiere: Helmut Pantke — GGK und die deutsche Agenturlandschaft
+  [Historiker] ✓ knowledge/agencies/helmut_pantke_ggk_und_die_deutsche_agenturlandschaft.md
+  Progress: 37/62
+
+[AGENCIES]
+  [Historiker] Recherchiere: Serviceplan München — gegründet 1970, Europas größte unabhängige Agentur
+  [Historiker] ✓ knowledge/agencies/serviceplan_muenchen_gegruendet_1970_europas_groesste_unabhaengige_agentur.md
+  Progress: 38/62
+  [Historiker] Recherchiere: Jung von Matt — Hamburg 1991, Gründungsmythos und deutsche Kreativrevolution
+  [Historiker] ✓ knowledge/agencies/jung_von_matt_hamburg_1991_gruendungsmythos_und_deutsche_kreativrevolution.md
+  Progress: 39/62
+  [Historiker] Recherchiere: Wieden+Kennedy — Dan Wieden, Nike und das Modell der unabhängigen Agentur
+  [Historiker] ✓ knowledge/agencies/wieden_kennedy_dan_wieden_nike_und_das_modell_der_unabhaengigen_agentur.md
+  Progress: 40/62
+  [Historiker] Recherchiere: Chiat/Day — Apple 1984, Think Different und Jay Chiats Persönlichkeit
+  [FEHLER] Chiat/Day — Apple 1984, Think Different und Jay Chiats Persönlichkeit: [Errno 2] No such file or directory: '/var/home/rxtxr/projects/recherche/waves/_search_cache/werbeagentur_geschichte_chiat/day_—_apple_1984,_think_different_und_jay_chiats_p.json'
+  Progress: 41/62
+  [Historiker] Recherchiere: Fallon McElligott — Minneapolis, Mittelamerika und die Gegenbewegung zu Madison Ave.
+  [Historiker] ✓ knowledge/agencies/fallon_mcelligott_minneapolis_mittelamerika_und_die_gegenbewegung_zu_madison_ave.md
+  Progress: 42/62
+  [Historiker] Recherchiere: Grabarz & Partner — Hamburg und die erste Generation nach der Wiedervereinigung
+  [Historiker] ✓ knowledge/agencies/grabarz_partner_hamburg_und_die_erste_generation_nach_der_wiedervereinigung.md
+  Progress: 43/62
+  [Historiker] Recherchiere: Heye & Partner München — DDB-Tochter und die Münchner Agenturszene
+  [Historiker] ✓ knowledge/agencies/heye_partner_muenchen_ddb_tochter_und_die_muenchner_agenturszene.md
+  Progress: 44/62
+  [Historiker] Recherchiere: FCO Univas und die britische Agenturszene der 1980er Jahre
+  [Historiker] ✓ knowledge/agencies/fco_univas_und_die_britische_agenturszene_der_1980er_jahre.md
+  Progress: 45/62
+  [Historiker] Recherchiere: AMV BBDO London — Abbott Mead Vickers und der britische Kreativboom
+  [Historiker] ✓ knowledge/agencies/amv_bbdo_london_abbott_mead_vickers_und_der_britische_kreativboom.md
+  Progress: 46/62
+
+[TECHNOLOGY]
+  [Historiker] Recherchiere: Leuchtkasten, Lineal und Rapidograph — das analoge Handwerkszeug des Art Directors
+  [Historiker] ✓ knowledge/technology/leuchtkasten_lineal_und_rapidograph_das_analoge_handwerkszeug_des_art_directors.md
+  Progress: 47/62
+  [Historiker] Recherchiere: Paste-up und Klebeumbruch — die Druckvorstufe vor Desktop Publishing
+  [Historiker] ✓ knowledge/technology/paste_up_und_klebeumbruch_die_druckvorstufe_vor_desktop_publishing.md
+  Progress: 48/62
+  [Historiker] Recherchiere: Testmarketing und Fokusgruppen-Technik — wie Werbung vor dem Launch getestet wurde
+  [Historiker] ✓ knowledge/technology/testmarketing_und_fokusgruppen_technik_wie_werbung_vor_dem_launch_getestet_wurde.md
+  Progress: 49/62
+
+[PHILOSOPHY]
+  [Historiker] Recherchiere: Die Mythologie des kreativen Genies — Einzelkämpfer-Mythos vs. Teamrealität
+  [Historiker] ✓ knowledge/philosophy/die_mythologie_des_kreativen_genies_einzelkaempfer_mythos_vs_teamrealitaet.md
+  Progress: 50/62
+  [Historiker] Recherchiere: Die Idee der Werbeagentur als Gesamtkunstwerk — totale Markenführung
+  [Historiker] ✓ knowledge/philosophy/die_idee_der_werbeagentur_als_gesamtkunstwerk_totale_markenfuehrung.md
+  Progress: 51/62
+  [Historiker] Recherchiere: Kreative Freiheit vs. Kundenbrief — der ewige Grundkonflikt der Branche
+  [Historiker] ✓ knowledge/philosophy/kreative_freiheit_vs_kundenbrief_der_ewige_grundkonflikt_der_branche.md
+  Progress: 52/62
+  [Historiker] Recherchiere: Werbung als Spiegel der Gesellschaft — Zeitgeist und kulturelle Verantwortung
+  [Historiker] ✓ knowledge/philosophy/werbung_als_spiegel_der_gesellschaft_zeitgeist_und_kulturelle_verantwortung.md
+  Progress: 53/62
+
+[VISUALS]
+  [Bildredakteur] Visuell recherchiere: Bildquellen: Kreative Uniform und Dresscode — Fotomaterial aus Agenturen
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_kreative_uniform_und_dresscode_fotomaterial_aus_agenturen.md
+  Progress: 54/62
+  [Bildredakteur] Visuell recherchiere: Bildquellen: Behind-the-Scenes Werbeshootings — Fotografen und Archive
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_behind_the_scenes_werbeshootings_fotografen_und_archive.md
+  Progress: 55/62
+  [Bildredakteur] Visuell recherchiere: Bildquellen: Agentur-Innenräume und Bürodesign 1960–1990
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_agentur_innenraeume_und_buerodesign_1960_1990.md
+  Progress: 56/62
+  [Bildredakteur] Visuell recherchiere: Bildquellen: Scribbles, Skizzen und Rohkonzepte aus Archiven
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_scribbles_skizzen_und_rohkonzepte_aus_archiven.md
+  Progress: 57/62
+  [Bildredakteur] Visuell recherchiere: Bildquellen: Award-Shows und Branchenveranstaltungen historisch
+  [Bildredakteur] ✓ knowledge/visuals/visual_bildquellen_award_shows_und_branchenveranstaltungen_historisch.md
+  Progress: 58/62
+
+[ERAS]
+  [Historiker] Recherchiere: Die Münchner Werbeszene — Bayern als zweites Zentrum neben Hamburg und Düsseldorf
+  [Historiker] ✓ knowledge/agencies/die_muenchner_werbeszene_bayern_als_zweites_zentrum_neben_hamburg_und_duesseldor.md
+  Progress: 59/62
+  [Historiker] Recherchiere: Die Hamburger Werbeszene — von GGK über Springer & Jacoby zu Jung von Matt
+  [Historiker] ✓ knowledge/agencies/die_hamburger_werbeszene_von_ggk_ueber_springer_jacoby_zu_jung_von_matt.md
+  Progress: 60/62
+  [Historiker] Recherchiere: Werbebranche in der Schweiz — Wirz, Ruf Lanz, Advico und Helvetica
+  [Historiker] ✓ knowledge/agencies/werbebranche_in_der_schweiz_wirz_ruf_lanz_advico_und_helvetica.md
+  Progress: 61/62
+  [Historiker] Recherchiere: London als kreatives Zentrum — Swinging Sixties bis Cool Britannia
+  [Historiker] ✓ knowledge/eras/london_als_kreatives_zentrum_swinging_sixties_bis_cool_britannia.md
+  Progress: 62/62
+
+[POST-WAVE 3]
+  [Archivar] Aktualisiere Wissens-Graph...
+  [Archivar] ✓ GRAPH.md (172 Einträge)
+  [Archivar] ✓ Gap Report: waves/wave-003/gap_report.md
+  [WikiBuilder] Baue HTML-Wiki...
+  [WikiBuilder] ✓ HTML-Wiki: /var/home/rxtxr/projects/recherche/wiki/index.html
+  [WikiBuilder] Baue Obsidian Vault...
+  [WikiBuilder] ✓ Obsidian: /home/rxtxr/Dokumente/rxtxr/Agenturgeschichte/
+  [Wave 3] Abgeschlossen. Einträge: 172
+
+✓ Wiki aktualisiert: /var/home/rxtxr/projects/recherche/wiki/index.html
