@@ -6,6 +6,29 @@ era_from: 1950
 era_to: 1980
 geo_region: madison_avenue
 id: der_drei_martini_lunch_alkohol_als_professionelle_agenturkultur
+images:
+- artist: Wolzogen, Ernst von, 1855-1934
+  caption: 'Subjects: United States -- Description and travel; United States -- Social
+    life and customs 1865-1918; United States -- Civilization'
+  copyright_status: public_domain
+  height: 1210
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3ADer%20Dichter%20in%20Dollarica%3B%20Blumen-%2C%20Frucht-%20und%20Dornenst%C3%BCcke%20aus%20dem%20M%C3%A4rchenlande%20der%20unbedingten%20Gegenwart%20%28IA%20dichterdollarica00wolzrich%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Der_Dichter_in_Dollarica%3B_Blumen-%2C_Frucht-_und_Dornenst%C3%BCcke_aus_dem_M%C3%A4rchenlande_der_unbedingten_Gegenwart_%28IA_dichterdollarica00wolzrich%29.pdf/page1-500px-Der_Dichter_in_Dollarica%3B_Blumen-%2C_Frucht-_und_Dornenst%C3%BCcke_aus_dem_M%C3%A4rchenlande_der_unbedingten_Gegenwart_%28IA_dichterdollarica00wolzrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f1/Der_Dichter_in_Dollarica%3B_Blumen-%2C_Frucht-_und_Dornenst%C3%BCcke_aus_dem_M%C3%A4rchenlande_der_unbedingten_Gegenwart_%28IA_dichterdollarica00wolzrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 793
+- artist: Il Friuli
+  caption: 'Il Friuli  - giornale politico-amministrativo-letterario-commerciale
+
+
+    Subjects: Friuli; Periodico;'
+  copyright_status: public_domain
+  height: 2110
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AIl%20Friuli%20giornale%20politico-amministrativo-letterario-commerciale%20n.%2017%20%281900%29%20%28IA%20IlFriuli-17%201900%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._17_%281900%29_%28IA_IlFriuli-17_1900%29.pdf/page1-500px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._17_%281900%29_%28IA_IlFriuli-17_1900%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._17_%281900%29_%28IA_IlFriuli-17_1900%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1550
 last_updated: '2026-05-10'
 related: []
 sources: []

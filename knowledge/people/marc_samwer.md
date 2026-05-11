@@ -2,6 +2,34 @@
 confidence: low
 era: 1999-2010er
 id: marc_samwer
+images:
+- artist: caterina
+  caption: Marc Samwer
+  copyright_status: clear_cc
+  height: 480
+  license: CC BY 2.0
+  source: https://commons.wikimedia.org/wiki/File%3AMarc%20Samwer.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Marc_Samwer.jpg/500px-Marc_Samwer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/9/91/Marc_Samwer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 640
+- artist: TechCrunch
+  caption: Picture of Marc Samwer
+  copyright_status: clear_cc
+  height: 1272
+  license: CC BY 2.0
+  source: https://commons.wikimedia.org/wiki/File%3AMarc%20Samwer%202013.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Marc_Samwer_2013.jpg/500px-Marc_Samwer_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/6/61/Marc_Samwer_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1920
+- artist: unbekannt
+  caption: scanned DjVu versoin of the work The European concert in the Eastern question
+  copyright_status: public_domain
+  height: 4420
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AThe%20European%20Concert%20in%20the%20Eastern%20Question.djvu
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_European_Concert_in_the_Eastern_Question.djvu/page1-500px-The_European_Concert_in_the_Eastern_Question.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bb/The_European_Concert_in_the_Eastern_Question.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2762
 last_updated: '2026-05-11'
 related: []
 sources:

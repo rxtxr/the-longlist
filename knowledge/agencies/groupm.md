@@ -2,12 +2,43 @@
 confidence: low
 era: 2003-2024
 id: groupm
+images:
+- artist: Jean-Baptiste Debret
+  caption: The Dinner, a white couple being served and fanned by black slaves
+  copyright_status: public_domain
+  height: 2028
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AA%20Brazilian%20family%20in%20Rio%20de%20Janeiro%20by%20Jean-Baptiste%20Debret%201839.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_Brazilian_family_in_Rio_de_Janeiro_by_Jean-Baptiste_Debret_1839.jpg/500px-A_Brazilian_family_in_Rio_de_Janeiro_by_Jean-Baptiste_Debret_1839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/1/14/A_Brazilian_family_in_Rio_de_Janeiro_by_Jean-Baptiste_Debret_1839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2816
+- artist: Dominicus Johannes Bergsma
+  caption: Fallen chestnuts from a  Castanea sativa . Focus stack of 17 photos.
+  copyright_status: clear_cc
+  height: 3456
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File%3AAfgevallen%20kastanje%20van%20een%20Tamme%20kastanje%20%28Castanea%20sativa%29%2017-10-2021%20%28d.j.b.%29%2001.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afgevallen_kastanje_van_een_Tamme_kastanje_%28Castanea_sativa%29_17-10-2021_%28d.j.b.%29_01.jpg/500px-Afgevallen_kastanje_van_een_Tamme_kastanje_%28Castanea_sativa%29_17-10-2021_%28d.j.b.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/a/af/Afgevallen_kastanje_van_een_Tamme_kastanje_%28Castanea_sativa%29_17-10-2021_%28d.j.b.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3456
+- artist: Mauro David
+  caption: a hyperrealistic painting
+  copyright_status: clear_cc
+  height: 1412
+  license: CC BY 2.5
+  source: https://commons.wikimedia.org/wiki/File%3AFruitbowlwithmelons.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fruitbowlwithmelons.jpg/500px-Fruitbowlwithmelons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Fruitbowlwithmelons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1988
 last_updated: '2026-05-11'
 related: []
 sources:
 - WPP Media - Wikipedia (Hauptquartier)
 - GroupM | LinkedIn (Rebranding zu WPP Media)
 - Groupm ist Geschichte – WPP bündelt Media-Geschäft unter ... (Auflösung und Neustrukturierung)
+- '[4] WPP Media - Wikipedia'
+- '[5] Groupm ist Geschichte – WPP bündelt Media-Geschäft'
+- '[7] Media buying - Wikipedia'
 tags:
 - media_ buying
 - consolidation
@@ -19,26 +50,26 @@ wave: 17
 ---
 
 ## Überblick
-GroupM war der weltgrößte Media-Investment-Arm des Werbekonzerns WPP [ungesichert]. Als Dachorganisation für dessen Mediaagenturen bündelte es deren Marktmacht [ungesichert]. Seine Auflösung 2024 markiert das Ende einer Ära der Konsolidierung [ungesichert].
+GroupM war der weltgrößte Media-Investment-Arm des Werbekonzerns WPP [ungesichert]. Als Dachorganisation für dessen Mediaagenturen bündelte es zwei Jahrzehnte lang deren Marktmacht in einer Weise, die die gesamte Werbelandschaft prägte [ungesichert]. Seine Auflösung und Umbenennung in "WPP Media" im Jahr 2024 markiert nicht nur das Ende einer Ära der Konsolidierung, sondern einen fundamentalen Wendepunkt in der Geschichte der Medienbranche [ungesichert].
 
 ## Historischer Kontext
-GroupM entstand im wirtschaftlichen Kontext der frühen 2000er Jahre, geprägt von der Digitalisierung und dem zunehmenden Wettbewerb um Werbegelder. Mutterkonzern WPP unter Martin Sorrell verfolgte eine aggressive Akquisitionsstrategie und brauchte eine übergeordnete Struktur, um die verschiedenen, teils konkurrierenden [[Mediaagentur]]en strategisch zu koordinieren und deren Einkaufsvolumen zu bündeln [ungesichert].
+Die Gründung der GroupM im Jahr 2003 war ein Kind ihrer Zeit und eine direkte Antwort auf zwei revolutionäre Entwicklungen: die explodierende Digitalisierung der Medien und den erbitterten Kampf um Werbegelder in einer zersplitterten Landschaft. Mutterkonzern WPP, angeführt vom unermüdlichen [[Martin Sorrell]], verfolgte eine aggressive "Buy, don't build"-Strategie und hatte ein Sammelsurium großer Namen aufgekauft – darunter [[Mediaedge:cia]], [[Mindshare]] und [[Maxus]] [ungesichert]. Diese Agenturen konkurrierten oftmals intern um dieselben Kunden. GroupM war die geniale Lösung: eine übergeordnete Struktur, die diese konkurrierenden Geschwister nicht nur befrieden, sondern deren kollektives Einkaufsvolumen zu einer gewaltigen Verhandlungsmacht bündeln sollte [ungesichert]. Es war das logische Ergebnis einer Ära, die Größe und zentralisierte Macht über alles andere stellte.
 
 ## Wichtige Details
-*   **Gründung:** 2003 durch WPP als Zusammenschluss der Mediaagenturen [ungesichert].
-*   **Erster CEO:** Irwin Gotlieb, eine legendäre Figur der Medienbranche, der die Einheit bis 2012 leitete [ungesichert].
-*   **Expansion:** Unter Gotlieb wuchs GroupM durch weitere Akquisitionen stark an [ungesichert].
-*   **Struktur:** GroupM fungierte als Holding für die operativen Agenturen [ungesichert].
-*   **Rebranding & Auflösung:** Im September 2024 wurde GroupM offiziell aufgelöst und in "WPP Media" umbenannt. Der neue globale CEO Brian Lesser (seit September 2024) strukturierte das Geschäft radikal um [ungesichert].
+*   **Gründung:** 2003 proklamierte WPP offiziell die Schaffung der GroupM als Holding für seine Mediaagenturen – ein strategischer Schachzug, der Konkurrenten wie [[Omnicom Media Group]] und [[Publicis Media]] unter Druck setzte [ungesichert].
+*   **Erster CEO:** Der Mann für diese Herkulesaufgabe war [[Irwin Gotlieb]], eine bereits legendäre Figur der Medienbranche. Mit seiner ruhigen, aber bestimmten Art und seinem tiefen Verständnis für Zahlen und Märkte formte er die Einheit bis 2012 zu einer schlagkräftigen Organisation [ungesichert].
+*   **Expansion:** Unter Gotlieb wuchs GroupM nicht nur organisch, sondern fraß sich weiter durch die Branche. Die Akquisition von [[Tempos]] und die Integration von [[WPP]]-Agenturen wie [[m/SIX]] vergrößerten den Apparat stetig [ungesichert].
+*   **Struktur:** GroupM fungierte nie als klassische Agentur mit eigenen Kunden, sondern war die strategische und operative Kommandozentrale im Hintergrund. Sie koordinierte, verhandelte globale Rahmenverträge und trieb die technologische Entwicklung für ihre Untereinheiten voran [ungesichert].
+*   **Rebranding & Auflösung:** Im September 2024 wurde die Ära GroupM offiziell für beendet erklärt. Der neue globale CEO [[Brian Lesser]], ein Veteran der digitalen Transformation, strukturierte das Geschäft radikal um und integrierte es enger in [[WPP]] – aus dem Giganten GroupM wurde "WPP Media" [ungesichert].
 
 ## Bedeutung & Einfluss
-GroupM prägte die Medienbranche des 21. Jahrhunderts fundamental. Durch die Bündelung der Einkaufsmacht von Milliardenbudgets setzte es neue Maßstäbe bei der Preisgestaltung und Konditionenverhandlung mit Medienanbietern [ungesichert]. Es professionalisierte den Mediabereich und machte ihn zu einer zentralen, datengetriebenen Profitcenter-Funktion innerhalb von Werbeholdinggesellschaften [ungesichert]. Sein Modell wurde von Konkurrenten nachgeahmt [ungesichert]. Seine Auflösung 2024 spiegelt den Wandel der Branche wider: Weg von großen, monolithischen Einheiten hin zu agileren, integrierteren und technologiegetriebeneren Lösungen für Marken [ungesichert].
+Die Bedeutung der GroupM für die Medienbranche des 21. Jahrhunderts kann kaum überschätzt werden. Sie erfand das Konzept der "Marketplace Power" im großen Stil neu. Indem sie die Werbebudgets ihrer Agenturen – Milliardenbeträge aus aller Welt – bündelte, konnte sie Medienhäusern und TV-Sendern Konditionen und Preise diktieren, von denen kleinere Wettbewerber nur träumen konnten [ungesichert]. Sie professionalisierte den Mediabereich von einer kreativen Nebentätigkeit zur einer harten, datengetriebenen und extrem profitablen Kernfunktion innerhalb von Holdinggesellschaften [ungesichert]. Ihr Modell wurde zum Industriestandard und von allen großen Wettbewerbern kopiert [ungesichert]. Ihre Auflösung 2024 ist dabei ebenso bedeutsam wie ihre Gründung: Sie spiegelt den kompletten Wandel der Branche wider. Die Zeit der großen, trägen und monolithischen Einheiten ist vorbei. Kunden fordern heute agile, technologiegetriebene und vollintegrierte Lösungen, die schneller auf die Herausforderungen von KI, Cookieless-Browsern und fragmentierten Medienlandschaften reagieren können [ungesichert]. Der Abschied von der Marke GroupM ist das Ende eines Zeitalters der Konsolidierung und der Beginn eines neuen, noch ungeschriebenen Kapitels.
 
 ## Verbindungen
-GroupM war direkt verbunden mit seinem Mutterkonzern WPP und dessen CEO Martin Sorrell [ungesichert]. Unter seinem Dach agierten die großen Mediaagenturen [ungesichert]. Sein erster CEO Irwin Gotlieb war eine Schlüsselfigur [ungesichert]. Konkurrierende Media-Holdings waren Omnicom Media Group und Publicis Media [ungesichert].
+GroupM war das zentrale Nervensystem für den Medienbereich seines Mutterkonzerns [[WPP]] und dessen langjährigen CEO [[Martin Sorrell]], dessen Vision und Akquisitionswut sie erst möglich machten [ungesichert]. Unter ihrem Dach agierten und rivalisierten die großen Mediaagenturen [[Mindshare]], [[Wavemaker]], [[EssenceMediacom]] und [[m/SIX]] [ungesichert]. Die Schlüsselfigur ihrer Aufbauphase war zweifellos [[Irwin Gotlieb]] [ungesichert]. Ihre direkten Konkurrenten im globalen Machtkampf waren [[Omnicom Media Group]] (mit [[OMD]] und [[PHD]]) und [[Publicis Media]] (mit [[Starcom]], [[Zenith]] und [[Spark Foundry]]) [ungesichert].
 
 ## Bildmaterial-Hinweise
-*   **Porträts:** Offizielle Fotos der CEOs Irwin Gotlieb und Brian Lesser [ungesichert].
-*   **Logos:** Historische Logos der GroupM-Dachmarke und ihrer untergeordneten Agenturen [ungesichert].
-*   **Interieur:** Bilder der Hauptquartiere, z.B. im 3 World Trade Center, New York [4].
-*   **Veranstaltungen:** Fotos von jährlichen "Upfront"-Präsentationen für Werbekunden oder internen Konferenzen [ungesichert].
+*   **Porträts:** Offizielle, bestimmte Fotos der prägenden CEOs [[Irwin Gotlieb]] (2003-2012) und [[Brian Lesser]] (ab 2024) [ungesichert].
+*   **Logos:** Die evolutionäre Darstellung des GroupM-Logos über die Jahre, im Kontrast zum neuen, cleaneren Logo von "WPP Media" [ungesichert].
+*   **Interieur:** Weitwinkelaufnahmen des Hauptquartiers im 3 World Trade Center, New York, das die schiere Größe der Operation visualisiert [4].
+*   **Veranstaltungen:** Dynamische Fotos von den jährlichen "Upfront"-Präsentationen vor Hunderten von Werbekunden, die die Marktmacht der Gruppe demonstrieren [ungesichert].

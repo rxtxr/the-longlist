@@ -5,10 +5,16 @@ id: jean_marie_dru_tbwa_und_das_disruption_konzept
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Jean-Marie Dru'
-- 'Adweek: Jean-Marie Dru, Risk Taker (1996)'
-- 'New York Times: Spotlight Jean-Marie Dru (2008)'
-- 'Campaign: Jean-Marie Dru bleibt bei TBWA (2005)'
+- Wikipedia-Artikel Jean-Marie Dru
+- Creative Disruption Wikipedia
+- Adweek-Artikel 'Havas Pursues TBWA's Jean-Marie Dru'
+- 'Campaign-Artikel ''INTERNATIONAL: THE DECISION MAKERS/JEAN MARIE DRU'''
+- Adweek-Artikel 'Jean-Marie Dru, Risk Taker'
+- 'Campaign-Artikel ''Jean-Marie Dru: Je reste chez TBWA'''
+- GMA Network-Artikel '5 advertising (and life) lessons'
+- 'New York Times-Artikel ''Spotlight: Jean-Marie Dru'''
+- persoenlich.com-Interview 'Man muss die Dinge schon in der Planung in Schwingung
+  bringen'
 tags:
 - Disruption
 - Strategic Planning
@@ -41,6 +47,6 @@ Das Disruption-Konzept veränderte den strategischen Planungsprozess in Agenture
 - **Omnicom Group:** Der Holding-Konzern, dem TBWA angehört [1].
 
 ## Bildmaterial-Hinweise
-- Porträtfotos von Jean-Marie Dru aus den 2000er Jahren in Business-Umgebungen [ungesichert].
+- Porträtfotos von Jean-Marie Dru aus den 200er Jahren in Business-Umgebungen [ungesichert].
 - Cover seines Buchs "Disruption" (verschiedene Auflagen) [ungesichert].
 - Kampagnen-Beispiele, die Disruption visualisieren, z.B. Apple "Think Different"-Anzeigen mit historischen Persönlichkeiten [ungesichert].

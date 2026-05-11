@@ -1,10 +1,19 @@
 ---
-confidence: high
+confidence: low
 era: 1988-2003
 id: deutschen_werbemuseum
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- 'Quelle [4]: Norbert Wientzkowski – Wikipedia'
+- 'Quelle [5]: Klementine (Werbefigur) – Wikipedia'
+- 'Quelle [7]: Werbung ist keine Kunst | taz.de'
+- 'Quelle [9]: Über Ariel | Die Geschichte des Waschpulvers - Ariel'
+- 'Quelle [10]: Werbung - DER SPIEGEL'
+- Wikipedia-Artikel Klementine
+- Spiegel-Artikel Werbung
+- Wikipedia Norbert Wientzkowski
+- Deutsche Digitale Bibliothek
 tags:
 - Museum
 - Werbearchiv
@@ -17,27 +26,25 @@ wave: 10
 ---
 
 ## Überblick
-Das Deutsche Werbemuseum war das erste und bedeutendste Museum in Deutschland, das sich ausschließlich der Geschichte und Kultur der Werbung widmete. Es bewahrte einzigartige Zeugnisse der deutschen Werbegeschichte und diente als zentrale Institution für Bildung und Reflexion über die gesellschaftliche Rolle der kommerziellen Kommunikation.
+Das Deutsche Werbemuseum in Frankfurt am Main war mehr als nur ein Archiv — es war der Versuch einer ganzen Branche, ihre eigene Geschichte zu bewahren und zu reflektieren[ungesichert]. In einer Zeit, in der Werbung zunehmend als kulturelle und wirtschaftshistorische Kraft wahrgenommen wurde, schuf dieses Museum einen Ort, an dem Objekte der Alltagskultur plötzlich museale Würde erhielten[ungesichert]. Von [[Klementine]]s Latzhose bis zu DDR-Werbeplakaten bewahrte es Zeugnisse deutscher Werbegeschichte und diente als lebendige Institution für Bildung und kritische Reflexion über die gesellschaftliche Rolle kommerzieller Kommunikation[ungesichert].
 
 ## Historischer Kontext
-Gegründet 1988 in Frankfurt am Main, einer der wichtigsten deutschen Werbestandorte, entstand das Museum in einer Zeit, in der Werbung zunehmend als kulturelles und wirtschaftshistorisches Phänomen wahrgenommen wurde. Die Branche selbst begann, ihre eigene Geschichte zu reflektieren und zu archivieren, nachdem sie im Wirtschaftswunder-Deutschland zur Schlüsselindustrie geworden war.
+Die Idee eines Werbemuseums entstand in den 1980er und 1990er Jahren, als die Werbebranche begann, sich ihrer eigenen historischen Bedeutung bewusst zu werden[ungesichert]. Während Marketing zunächst als flüchtiges Medium galt, erkannten Pioniere der Branche, dass Werbung nicht nur Produkte verkauft, sondern auch Zeitgeist konserviert[ungesichert]. Das Museum war Teil dieser Bewegung — ein Versuch, die oft vergänglichen Zeugnisse der Werbekunst vor dem Vergessen zu bewahren und ihre kulturelle Dimension zu würdigen[ungesichert].
 
 ## Wichtige Details
-*   **Gründung:** 1988 in Frankfurt am Main.
-*   **Gründer/Träger:** Initiert und getragen vom Fachverband Werbung und Kommunikation (heute: Zentralverband der deutschen Werbewirtschaft ZAW).
-*   **Standortwechsel:** Das Museum zog später nach Wiesbaden um.
-*   **Schließung:** Das Museum wurde im Jahr 2003 nach 15 Jahren Betrieb geschlossen. Die umfangreiche Sammlung wurde aufgelöst und größtenteils an das [[Deutsche Historische Museum]] in Berlin sowie an das [[Museum für Kommunikation Frankfurt]] übergeben.
-*   **Sammlungsschwerpunkte:** Die Sammlung umfasste über 500.000 Objekte, darunter historische Anzeigen, Plakate, Werbefilme, Werbemittel, Zeitschriften und Dokumente zur Agenturgeschichte.
+*   **Standort:** Frankfurt am Main — bewusst gewählt als Zentrum des deutschen Wirtschaftslebens[ungesichert]
+*   **Sammlungsschwerpunkt:** Die Sammlung umfasste legendäre Objekte wie Klementines Latzhose und Mütze von der Bundesbahn-Werbung (belegt durch Quellen [5], [9], [10])
+*   **Ausstellungspraxis:** Zeigte sowohl westdeutsche Werbeikonen als auch Ausstellungen wie "Spurensicherung — 40 Jahre Werbung in der DDR" (belegt durch Quelle [7])
+*   **Kuratorischer Ansatz:** Die Macher verstanden Werbung als Spiegel gesellschaftlicher Entwicklungen[ungesichert]
 
 ## Bedeutung & Einfluss
-Das Museum war ein Pionierprojekt, das die Werbung als kulturhistorisch relevantes und erhaltenswertes Gut etablierte. Es schuf einen zentralen Ort für die Branche, ihre Geschichte zu studieren und der Öffentlichkeit zu präsentieren. Durch seine Ausstellungen und Publikationen förderte es das kritische Verständnis für die Entwicklung, Ästhetik und Wirkmechanismen von Werbung in Deutschland. Seine Sammlung bildet bis heute eine essentielle Grundlage für die wissenschaftliche Erforschung der deutschen Werbegeschichte.
+Das Museum etablierte Werbung erstmals als kulturhistorisch relevantes Gut in Deutschland[ungesichert]. Es schuf einen zentralen Ort, an dem die Branche ihre eigene Geschichte studieren und der Öffentlichkeit präsentieren konnte — keine leichte Aufgabe angesichts der Vorbehalte gegenüber kommerzieller Kommunikation[ungesichert]. Durch Ausstellungen wie die DDR-Werbeschau förderte es das kritische Verständnis für die unterschiedlichen Entwicklungen von Werbung in Ost und West[ungesichert]. Die Quellenlage zur Wirkung des Museums ist dünn — [ungesichert] doch sein bloßer Existenz zeugt vom wachsenden Selbstbewusstsein der Werbebranche.
 
 ## Verbindungen
-Die Sammlung dokumentierte die Arbeit früher deutscher Werbepioniere und Agenturen wie [[werbebau]] (gegründet 1924 von [[Max Burchartz]] und Johannes Canis), [[Lintas]], [[McCann Erickson]] und [[J. Walter Thompson]]. Sie zeigte auch die enge Verflechtung von Werbung mit Kunstströmungen wie dem [[Bauhaus]].
+Die Sammlung dokumentierte Werbepioniere wie [[Norbert Wientzkowski]] und bedeutende Agenturen[ungesichert]. Sie zeigte auch die enge Verflechtung von Werbung mit Kunstströmungen des 20. Jahrhunderts[ungesichert] — von [[Jugendstil]]-Plakaten bis zu postmodernen Kampagnen. Besonders interessant: Die Gegenüberstellung von West-Werbemarken wie [[Ariel (Waschmittel)]] mit DDR-Produktwerbung[ungesichert].
 
 ## Bildmaterial-Hinweise
 Das verfügbare historische Bildmaterial umfasst:
-*   **Fotografien:** Bilder des Museumsinterieurs in Frankfurt und Wiesbaden mit Vitrinen und Ausstellungsstücken.
-*   **Ausstellungsplakate:** Plakate, die für die Wechselausstellungen des Museums warben.
-*   **Exponat-Fotos:** Hochwertige Abbildungen von Schlüsselobjekten der Sammlung, z.B. historische Plakate (von [[Ludwig Hohlwein]] oder [[Lucian Bernhard]]), Verpackungsdesigns (z.B. [[Persil]]- oder [[Odol]]-Flaschen), Werbefiguren ([[Klementine]] von [[Deutsche Bahn|der Bundesbahn]]) und frühe Anzeigen aus Zeitschriften wie "Die Woche" oder "Jugend".
-*   **Werbefernsehen:** Ausschnitte aus historischen Werbespots, die im Museum gezeigt wurden.
+*   **Ikone der Werbung:** Klementines Latzhose und Schirmmütze — Symbolfigur des deutschen Wirtschaftswunders[ungesichert]
+*   **Zeitdokumente:** Ausstellungsansichten der DDR-Werbeschau[ungesichert]
+*   **Kulturgeschichte:** Werbeplakate verschiedener Epochen, die den Wandel von Ästhetik und Gesellschaftsbildern zeigen[ungesichert]

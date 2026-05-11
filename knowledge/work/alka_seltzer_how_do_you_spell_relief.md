@@ -5,12 +5,12 @@ id: alka_seltzer_how_do_you_spell_relief
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Quelle 1: Wikipedia-Artikel zu Alka-Seltzer'
-- 'Quelle 3: Wikipedia-Artikel zu Dick Beals'
-- 'Quelle 4: Wikipedia-Artikel zu Mary Wells Lawrence'
-- 'Quelle 6: Ad Age Enzyklopädie-Eintrag zu Alka-Seltzer'
-- 'Quelle 9: Smithsonian Institution Archivführer'
-- 'Quelle 10: Blogbeitrag ''Famous Advertisers in History'''
+- Alka-Seltzer - Wikipedia (Speedy Einführung)
+- Dick Beals - Wikipedia (Wade Advertising Verbindung)
+- Mary Wells Lawrence - Wikipedia (Plop plop fizz fizz Zuschreibung)
+- Alka-Seltzer - Ad Age (Einführung 1931, Wade Advertising)
+- Guide to the Alka-Seltzer - Smithsonian (Archivmaterialien)
+- 'Famous Advertisers in History: Mary Wells Lawrence (Plop plop fizz fizz Zuschreibung)'
 tags:
 - Alka Seltzer
 - Dancer Fitzgerald Sample
@@ -25,7 +25,7 @@ wave: 0
 ---
 
 ## Überblick  
-Die Werbekampagne für Alka-Seltzer mit dem Slogan **„Plop, plop, fizz, fizz“** gehört zu den bekanntesten Markenkampagnen der US-amerikanischen Werbegeschichte [ungesichert]. Der spätere Slogan **„How do you spell relief?“** wurde ebenfalls mit der Marke assoziiert [ungesichert].
+Die Werbekampagne für Alka-Seltzer mit dem Slogan „Plop, plop, fizz, fizz“ gehört zu den bekanntesten Markenkampagnen der US-amerikanischen Werbegeschichte [ungesichert]. Der spätere Slogan „How do you spell relief?“ wurde ebenfalls mit der Marke assoziiert [ungesichert].
 
 ## Historischer Kontext  
 Alka-Seltzer wurde 1931 von Miles Laboratories eingeführt und zunächst über Zeitungsanzeigen und Radiospots beworben, laut Ad Age über die Wade Advertising Agentur [6].

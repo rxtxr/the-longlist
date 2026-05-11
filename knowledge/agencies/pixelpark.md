@@ -1,10 +1,22 @@
 ---
-confidence: high
+confidence: low
 era: 1991-2003
 id: pixelpark
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Digitas - Wikipedia (Gründungsjahr, Übernahme)
+- Eku Wand - Wikipedia (Ausscheiden 1993, Gründung eku interactive)
+- Campaign Magazine (Londoner Büro, Spezialisierungen)
+- Ad Age (Joint Venture Türkei)
+- Ad Age (New Yorker Büro, Größe der Agentur)
+- zxc.wiki (Gründungsdetails, CD-ROM-Produktionen)
+- LinkedIn Company Profile Digitas Pixelpark
+- New York Times Industry News 2012
+- Wikipedia Eku Wand
+- DeWiki Lexikon Pixelpark
+- WELT Artikel Aufstieg und Fall
+- Wikipedia Digitas
 tags:
 - digital_agency
 - dotcom_bubble
@@ -17,29 +29,28 @@ wave: 14
 ---
 
 ## Überblick
-Pixelpark war eine der ersten und einflussreichsten Digitalagenturen Deutschlands, die den Wandel von der klassischen Werbung zur digitalen Kommunikation prägte. Sie war wichtig als Pionier für interaktive Medien und erlebte sowohl den Höhenflug des Neuen Markts als auch dessen spektakulären Niedergang.
+Pixelpark war nicht einfach eine Digitalagentur – sie war ein Stück deutsch-digitaler Zeitgeschichte. Gegründet im Epizentrum des post-Wende-Berins, entwickelte sie sich von einem Multimedia-Pionier zur größten Digitalagentur Deutschlands, bevor sie 2003 von der französischen [[Publicis Groupe]] übernommen und schließlich in [[Digitas]] integriert wurde [1][9]. Ihre Geschichte erzählt vom Aufstieg und Fall eines Internet-Urgesteins, von visionären Gründern und dem unaufhaltsamen Wandel der Digitalbranche.
 
 ## Historischer Kontext
-Gegründet im Jahr 1991, entstand Pixelpark im aufkeimenden digitalen Aufbruch der frühen 1990er Jahre, noch vor der breiten Verfügbarkeit des World Wide Web. Die Wirtschaft erholte sich langsam von der Wiedervereinigung, und die New Economy mit ihrem Fokus auf Technologie und Internet begann sich zu formen. Pixelpark positionierte sich genau an der Schnittstelle zwischen kreativer Gestaltung, klassischer Werbung und der damals neuen Welt der Computer- und Netzwerktechnologie.
+Als [[Paulus Neef]] und [[Eku Wand]] Pixelpark 1991 in Berlin gründeten [9], befand sich Deutschland digital gesehen in der Steinzeit. Das World Wide War war gerade erst erfunden, Unternehmen dachten in CD-ROMs statt Websites, und Berlin war nach dem Mauerfall ein kreatives Labor für alles Neue [ungesichert]. In dieser Zeit des digitalen Aufbruchs entstand Pixelpark – eine der ersten Agenturen, die verstanden, dass interaktive Medien mehr waren als nur ein Spielzeug [ungesichert].
 
 ## Wichtige Details
-*   **Gründung:** 1991 in Berlin durch Achim Schaffert, Uli Mayer-Johanssen, Ulrich Schmidt, Klaus Schreyer und Matthias Wermke.
-*   **Frühe Erfolge:** Spezialisierung auf CD-ROM-Produktionen (z.B. für Mercedes-Benz) und frühe Webauftritte. Entwickelte 1994 eines der ersten deutschsprachigen Web-Content-Management-Systeme.
-*   **Börsengang:** 1999 im Zuge der Dotcom-Euphorie an der Frankfurter Börse (Neuer Markt). Die Bewertung erreichte zeitweise über eine Milliarde D-Mark.
-*   **Expansion & Krisen:** Rasche Expansion mit zahlreichen Übernahmen (u.a. Digital Advertising, Sinnerschrader, S.L.G.N.) führte zu hohen Schulden und Integrationsproblemen.
-*   **Zusammenbruch:** Nach dem Platzen der Dotcom-Blase 2000/2001 geriet das Unternehmen in eine schwere Krise. Der Aktienkurs brach ein, und 2002 musste Pixelpark ein Schutzschirmverfahren (Vorstufe zur Insolvenz) beantragen.
-*   **Rettung & Integration:** 2003 wurde die Agentur von der französischen [[Publicis Groupe]] übernommen und zunächst in Publicis Pixelpark umbenannt. Später erfolgte die vollständige Integration in deren digitale Netzwerkagentur Digitas, woraus **Digitas Pixelpark** (bis zur späteren Umbenennung in Digitas) wurde.
+*   **Gründungsszene:** 1991 in Berlin – nicht in einem glänzenden Bürotower, sondern vermutlich in einer der typischen Berliner Hinterhofwerkstätten, wo damals die digitale Revolution ihren Anfang nahm [9][ungesichert]. Die Quellenlage hierzu ist dünn – aber [[Eku Wand]] und [[Paulus Neef]] verkörperten diesen Berliner Unternehmergeist: part Kunst, part Kommerz, immer radikal neu.
+
+*   **Frühe Pionierarbeit:** Bevor das Web Mainstream wurde, produzierte Pixelpark CD-ROMs und Kiosksysteme für Unternehmen [9] – die "Multimedia" der frühen 90er. Als dann das Internet kam, positionierte sich die Agentur schnell als Spezialist für Webdesign, E-Commerce und digitale Strategie [5]. Sie waren nicht nur Macher, sondern auch Denker einer neuen Ära.
+
+*   **Expansion und Höhenflug:** Pixelpark wurde zum deutschen Digital-Champion mit Büros in London [5] und New York [7]. 2000 bildete sie Joint Ventures in der Türkei [6], kaufte Schweizer Agenturen [7] – ein aggressives Wachstum, das den Optimismus der Dotcom-Ära atmete. Doch genau dieser Höhenflug sollte zum Problem werden...
+
+*   **Die Übernahme:** 2003, nach dem Platzen der Dotcom-Blase, war Pixelpark angeschlagen. Die [[Publicis Groupe]] übernahm die Agentur, taufte sie erst in Publicis Pixelpark, dann in Digitas Pixelpark um [1][9]. Aus dem Berliner Pionier wurde ein Teil eines globalen Netzwerks – ein typisches Schicksal vieler Independent-Agenturen dieser Zeit.
 
 ## Bedeutung & Einfluss
-Pixelpark war ein Wegbereiter der deutschen Digitalbranche. Die Agentur demonstrierte früh, dass "Multimedia" mehr als ein Buzzword ist und kommerziell erfolgreich eingesetzt werden kann. Ihr spektakulärer Aufstieg und Fall am Neuen Markt wurde zum Lehrstück für die Risiken überhitzter Märkte und überzogener Expansion. Sie brachte zahlreiche Talente hervor, die später die deutsche Digital- und Startup-Szene prägten ("Pixelpark-Universität"). Der Name gilt bis heute als legendärer Markstein der digitalen Pionierzeit.
+Pixelpark war mehr als eine Agentur – sie war eine Talenteschmiede und ein Seismograph der digitalen Revolution. Als eine der größten Multimedia-Agenturen Deutschlands [7] prägte sie eine ganze Generation von Digitalmachern. [[Eku Wand]], der 1993 ausschied weil ihm "die Entwicklung zu stark in eine rein kommerzielle Ausrichtung" ging [4], wurde zur Symbolfigur des kreativen Widerstands gegen die Kommerzialisierung [ungesichert]. Sein Ausscheiden und die spätere Krise der Agentur [6] zeigen die Spannung zwischen künstlerischem Anspruch und wirtschaftlichem Wachstum – ein Konflikt, der die ganze Digitalbranche durchzieht.
 
 ## Verbindungen
-Die Agentur stand in enger Verbindung zu und konkurrierte mit anderen Digitalpionieren wie [[SinnerSchrader]], [[Iconmobile]] und [[Grey Interactive]]. Wichtige Personen im Umfeld waren die Mitgründer sowie Sanierungsexperten wie Horst Wagner und Dirk Kedrowitsch. Durch die Übernahme ist sie historisch mit [[Publicis Groupe]] und deren Netzwerkagentur [[Digitas]] verbunden.
+Die Geschichte von Pixelpark ist verwoben mit Schicksalen und Unternehmen: [[Eku Wand]], der nach seiner Zeit bei Pixelpark das avantgardistische [[eku interactive]] gründete [2][4]; [[Paulus Neef]], der "vor den Trümmern seines Lebenswerkes stand" [6]; und natürlich [[Publicis Groupe]] und [[Digitas]], die das Erbe Pixelparks weitertrugen [1][9]. Jede dieser Verbindungen erzählt eine andere Facette der digitalen Transformation.
 
 ## Bildmaterial-Hinweise
-*   Firmenlogos aus verschiedenen Epochen (Pixelpark, Publicis Pixelpark, Digitas Pixelpark).
-*   Screenshots früher Webprojekte (z.B. für Deutsche Bank, BMW).
-*   Fotos der Büros (z.B. das legendäre Loft-Office in Berlin-Kreuzberg).
-*   Pressebilder vom Börsengang 1999 mit den Gründern.
-*   Werbe-Anzeigen der Agentur, in denen sie ihr digitales Know-how bewarb.
-*   Archivmaterialien zu CD-ROM-Produktionen (Screenshots, Verpackungen).
+*   Firmenlogos aus verschiedenen Epochen (Pixelpark, Publicis Pixelpark, Digitas Pixelpark) [ungesichert] – diese visuelle Entwicklung zeigt den Wandel vom Berliner Startup zum Global Player
+*   Screenshots früher Webprojekte [ungesichert] – pixelige Zeitdokumente einer vergangenen Internet-Ära
+*   Fotos der Büros [ungesichert] – von der Berliner Gründungszentrale zu den internationalen Niederlassungen
+*   Archivmaterialien zu CD-ROM-Produktionen [9] – die vergessenen Vorläufer der digitalen Experiences

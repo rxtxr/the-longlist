@@ -1,10 +1,16 @@
 ---
-confidence: high
+confidence: low
 era: 1998-2024
 id: mat_baxter
 last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- 'Ad Age: Huge appoints former Initiative executive Mat Baxter as its new global
+  CEO (2021)'
+- 'Ad Age: Mat Baxter is departing as global CEO of Huge (2024)'
+- 'Adweek: Huge Promotes Lisa De Bonis to CEO, Replacing Mat Baxter (2024)'
+- 'Harro: Mat Baxter quits Mutinex, board persuades him to stay connected (2024)'
+- 'Harro: Media Movers: Mat Baxter, Rebecca Tos, Ben Campbell and Meaghan (2024)'
 tags:
 - media_agency
 - digital_transformation
@@ -16,24 +22,24 @@ wave: 19
 ---
 
 ## Überblick
-Mat Baxter ist ein australischer Werbe- und Medienmanager, der durch seine Führungsrollen bei Agenturen wie [[Naked Communications]], [[Initiative]] und [[Huge]] internationale Bekanntheit erlangte. Er gilt als prägender Vertreter der integrierten Kommunikations- und Medienplanung im 21. Jahrhundert und trieb die Verschmelzung von kreativer Werbung, Media und digitaler Transformation voran.
+Mat Baxter ist ein australischer Werbe- und Medienmanager, der Führungspositionen bei Agenturen wie [[Initiative]] und [[Huge]] innehatte[ungesichert]. Er war an der Transformation traditioneller Werbeagenturen beteiligt[ungesichert].
 
 ## Historischer Kontext
-Baxter's Karriere (ab 1998) fällt in die Zeit der digitalen Revolution in der Werbebranche. Die traditionelle Trennung zwischen kreativen Agenturen und [[Mediaagentur]]en begann sich aufzulösen, während Kunden zunehmend integrierte, datengetriebene Lösungen forderten. Gesellschaftlich war diese Ära geprägt durch den Aufstieg des Internets, die Erosion klassischer Medienmacht und den Wunsch nach transparenteren, agileren Kommunikationsmodellen.
+Baxter's Karriere fällt in die Zeit der digitalen Revolution in der Werbebranche[ungesichert]. Die traditionelle Trennung zwischen kreativen Agenturen und [[Mediaagentur]]en begann sich aufzulösen[ungesichert], während Kunden zunehmend integrierte, datengetriebene Lösungen forderten[ungesichert].
 
 ## Wichtige Details
-*   **1998:** Beginnt seine Karriere als Marketing-Absolvent bei [[Zenith Media]] (Australien).
-*   **2002:** Wird mit 24 Jahren jüngster Media-Director von [[Zenith]] Australien.
-*   **2004:** Verlässt [[WPP]], um Mitgründer und Partner von [[Naked Communications]] APAC (Asien-Pazifik) zu werden. Naked war bekannt für seinen "channel-neutralen" Ansatz und strategische Unabhängigkeit.
-*   **2016:** Wird Global CEO von [[Initiative]] (Teil von [[Interpublic Group|IPG]]). Unter seiner Führung wurde die Agentur neu positioniert und gewann bedeutende Accounts.
-*   **2021:** Wechselt als Global CEO zu [[Huge]] (Teil von [[Interpublic Group|IPG]]), um die digitale Agentur stärker in den Bereich Brand Transformation zu führen.
-*   **2024:** Tritt als Global CEO von Huge zurück.
+*   Beginnt seine Karriere bei [[Zenith Media]] (Australien)[ungesichert]
+*   Wird Mitgründer und Partner von [[Naked Communications]] APAC (Asien-Pazifik)[ungesichert]
+*   **2016:** Wird Global CEO von [[Initiative]] (Teil von [[Interpublic Group|IPG]])[ungesichert]
+*   **2021:** Wechselt als Global CEO zu [[Huge]] (Teil von [[Interpublic Group|IPG]])[7]
+*   **2024:** Tritt als Global CEO von Huge zurück[5][6]
+*   **2024:** Wird APAC CEO von Mutinex und wechselt später in eine Beraterrolle[9][10]
 
 ## Bedeutung & Einfluss
-Baxter verkörperte den modernen Agenturchef, der sowohl strategische Media-Expertise als auch Verständnis für kreative Markenführung und digitale Produktentwicklung vereinte. Seine Arbeit bei Naked trug maßgeblich zur Popularisierung des "channel-neutral" Thinking bei. Als CEO von Initiative bewies er, dass große Netzwerkagenturen sich neu erfinden und wettbewerbsfähig bleiben können. Sein Wechsel zu Huge signalisierte den branchenweiten Trend zur Integration von Werbung, Technologie und Design.
+Baxter verkörperte den modernen Agenturchef[ungesichert]. Als CEO von Initiative bewies er, dass große Netzwerkagenturen sich neu erfinden können[ungesichert]. Sein Wechsel zu Huge signalisierte den branchenweiten Trend zur Integration von Werbung, Technologie und Design[ungesichert].
 
 ## Verbindungen
-Baxters Karriere ist eng mit Schlüsselagenturen und -personen verbunden: [[Zenith Media]], [[WPP]], [[Naked Communications]] (Mitgründer [[Jon Wilkins]]), [[Interpublic Group|IPG]], [[Initiative]], [[Huge]]. Sein Werdegang kreuzte sich mit der Entwicklung integrierter Kommunikationskonzepte und der Transformation traditioneller Mediaagenturen.
+Baxters Karriere ist mit Agenturen verbunden: [[Zenith Media]][ungesichert], [[WPP]][ungesichert], [[Naked Communications]][ungesichert], [[Interpublic Group|IPG]][7], [[Initiative]][ungesichert], [[Huge]][7], Mutinex[9][10].
 
 ## Bildmaterial-Hinweise
-Vorhanden sind vor allem zeitgenössische Porträtfotos aus der Branchenpresse (z.B. AdNews, Campaign), Aufnahmen von Panel-Diskussionen (z.B. [[Cannes Lions — Geschichte des Werbefestivals]]), sowie Screenshots der Agentur-Websites und -Kampagnen aus seiner jeweiligen Führungszeit (Initiative, Huge). Historisches Material von Naked Communications APAC zeigt das Bürointerieur und die charakteristische Kultur der Agentur.
+Vorhanden sind zeitgenössische Porträtfotos aus der Branchenpresse[ungesichert], Aufnahmen von Panel-Diskussionen[ungesichert] sowie Screenshots der Agentur-Websites[ungesichert].

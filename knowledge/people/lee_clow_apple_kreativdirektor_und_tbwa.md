@@ -9,12 +9,10 @@ sources:
 - 'Ad Age: Lee Clow Profile'
 - 'Adweek: Lee Clow Retirement'
 - 'Campaign: Profile Lee Clow'
-- 'Adweek Podcast: Legacy of Lee Clow'
-- 'Timeline: Lee Clow''s 50 Years'
+- 'Adweek: Timeline Lee Clow''s 50 Years'
 - 'Penji: Who is Lee Clow?'
-- 'YouTube: Inspiration from Lee Clow'
-- 'Wikipedia: 1984 Werbespot'
-- 'Redditview: Lee Clow Creative Genius'
+- 'Wikipedia: 1984 (Werbespot)'
+- 'Redditview: Lee Clow Retirement'
 tags:
 - Apple
 - Creative_Revolution

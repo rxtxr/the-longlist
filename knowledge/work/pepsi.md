@@ -5,16 +5,17 @@ id: pepsi
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Live for Now'
-- 'Wikipedia: Pepsi'
-- 'Wikipedia: Pepsi (deutsch)'
-- 'Adweek: Creatives React: Pepsi Draws Cheers for Challenging Coke'
-- 'Ad Age: Pepsi''s market share challenge'
-- 'Campaign: Pepsi Advertising, Marketing Campaigns and Videos'
-- 'Ad Age: Coke vs. Pepsi—how the Cola Wars are changing'
-- 'History Oasis: A Look Back on the History of Pepsi Advertising'
-- 'Brandvertising: Live for Now: The Pepsi Ad That Became an...'
-- 'Slideshare: History of Pepsi Advertising'
+- Pepsi-Cola Gründung 1898 durch Caleb Bradham [8][10]
+- Nickel Nickel Kampagne der 1930er Jahre [8][10]
+- Pepsi Generation Kampagne der 1960er Jahre [8][10]
+- Pepsi Challenge 1975 [4][8]
+- Michael Jackson Werbung 1984 [6][8]
+- Celebrity-Endorsements mit Britney Spears, Beyoncé [6][8]
+- Live for Now Kampagne mit Kendall Jenner 2017 [1][9]
+- Wechsel der Werbeagentur 2021 [7]
+- Langjährige Rivalität mit Coca-Cola [2][3]
+- Zusammenarbeit mit BBDO [8][10]
+- Alma DDB als Lead-Agency-Partner seit 2021 [7]
 tags:
 - cola-war
 - bbdo
@@ -52,6 +53,6 @@ Die wichtigste Verbindung bestand zur Werbeagentur BBDO [8][10]. Seit 2021 ist A
 *   Historische Anzeigen der "Nickel Nickel"-Kampagne (1930er) [8][10].
 *   Werbeplakate der "Pepsi Generation"-Kampagne (1960er) [8][10].
 *   "Pepsi Challenge"-Blindverkostungsstände (1970er) [4][8].
-*   Werbespots mit Michael Jackson (1984) und Cindy Crawford (1992) [6][8].
+*   Werbespots mit Michael Jackson (1984) und Cindy Crawford (6][8].
 *   "Live for Now"-Kampagne (2017) [1][9].
 *   Kampagne für den National Burger Day von Alma DDB (2021) [7].

@@ -18,4 +18,8 @@ wave: 18
 
 UNZUREICHENDE QUELLEN
 
-**Hinweis:** Die verfügbaren Quellen beziehen sich überwiegend auf einen australischen Golfer namens Stephen Douglas Allan (geb. 1973) und enthalten nur wenige spezifische Informationen über einen Medienmanager namens Stephen Allan. Die wenigen relevanten Quellen ([5], [6], [7], [8], [9], [10]) liefern lediglich Grunddaten zu seiner Position bei MediaCom und seinem Rücktritt, reichen aber für eine umfassende Überarbeitung des Artikels nach den strengen Faktenprüfungsregeln nicht aus. Um einen faktisch korrekten Artikel zu erstellen, wären detailliertere und zahlreichere Quellen erforderlich.
+**Hinweis:** Die verfügbaren Quellen behandeln überwiegend Stephen Allan den australischen Golfspieler (*geboren 18. Oktober 1973*)[1][2]. Die Quellen [5][6][7][8], die sich auf Stephen Allan im Werbekontext beziehen, liefern lediglich Grunddaten zu seinen Positionen bei MediaCom und Brainlabs sowie zu seinem Rücktritt. Für eine umfassende Überarbeitung des Artikels nach den strengen Faktenprüfungsregeln sind diese Informationen nicht ausreichend. Es fehlen detaillierte Quellen zu seinem Lebenslauf, seiner Karriereentwicklung vor der CEO-Rolle, seinen konkreten Leistungen und seinem Einfluss auf die Werbebranche.
+
+```json
+{"belegt": ["Geburtsdatum und -ort (für den Golfspieler)", "Rücktritt als MediaCom CEO 2020", "Wechsel zu Brainlabs 2021"], "ungesichert": ["Gesamte Biografie und Karriereverlauf des Werbe-Executives Stephen Allan", "konkrete Leistungen und Einfluss auf die Werbebranche"]}
+```

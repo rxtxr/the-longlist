@@ -177,38 +177,84 @@ class ImageFinder:
         if p:
             p.write_text(json.dumps(images, ensure_ascii=False, indent=2))
 
-    def find_images(self, title: str, category: str, max_images: int = 3) -> List[Dict]:
+    def find_images(self, title: str, category: str, max_images: int = 3,
+                    meta: Optional[dict] = None) -> List[Dict]:
         """Find real images for a KB article. Returns list of image dicts."""
         slug = re.sub(r"[^a-z0-9]+", "_", title.lower())[:40]
         cached = self._cache_load(slug)
         if cached is not None:
             return cached
 
-        # Build targeted search queries
         short = re.split(r"\s[—–-]\s", title)[0].strip()
         short = re.sub(r"\s*\([^)]*\d{4}[^)]*\)", "", short).strip()
 
-        queries = [short]
-        if category == "agencies":
-            queries += [f"{short} advertising agency"]
-        elif category == "people":
-            queries += [f"{short} portrait", f"{short} photographer"]
-        elif category == "work":
-            queries += [f"{short} advertisement", f"{short} campaign"]
-        elif category == "eras":
-            queries += [f"{short} advertising history"]
+        queries = self._build_queries(short, title, category, meta or {})
 
-        seen_urls = set()
+        seen_urls: set = set()
         images = []
         for q in queries:
-            for img in search_commons(q, max_results=3):
+            for img in search_commons(q, max_results=4):
                 if img["url"] not in seen_urls:
                     seen_urls.add(img["url"])
                     images.append(img)
             if len(images) >= max_images:
                 break
-            time.sleep(0.2)
+            time.sleep(0.15)
 
         images = images[:max_images]
         self._cache_save(slug, images)
         return images
+
+    def _build_queries(self, short: str, title: str, category: str, meta: dict) -> List[str]:
+        """Build a prioritised list of search queries for a given article."""
+        queries: List[str] = []
+        tags = meta.get("tags", [])
+        era = meta.get("era", "")
+
+        if category == "people":
+            # Portrait first, then broader name search
+            queries += [
+                f"{short} portrait",
+                short,
+                f"{short} advertising",
+            ]
+        elif category == "agencies":
+            # Try founder names (often in tags), then location, then name
+            founders = [t for t in tags if len(t) > 4 and t.replace("_", " ").istitle()]
+            for f in founders[:2]:
+                queries.append(f"{f.replace('_', ' ')} portrait")
+            queries += [
+                short,
+                f"{short} headquarters building",
+                f"{short} advertising",
+            ]
+        elif category == "work":
+            queries += [
+                short,
+                f"{short} advertisement",
+                f"{short} poster",
+            ]
+        elif category == "eras":
+            # Use era dates for historical imagery
+            decade = re.search(r"(\d{4})", era or title)
+            decade_str = decade.group(1)[:3] + "0s" if decade else ""
+            queries += [
+                f"{short} advertising",
+                f"{decade_str} advertising" if decade_str else f"{short} history",
+                f"advertising {decade_str}" if decade_str else short,
+            ]
+        elif category == "technology":
+            queries += [short, f"{short} office", f"{short} equipment"]
+        elif category == "scandals":
+            queries += [short, f"{short} advertising"]
+        elif category == "life":
+            queries += [short, f"{short} advertising agency life"]
+        elif category == "philosophy":
+            queries += [short, f"{short} advertising concept"]
+        else:
+            queries += [short]
+
+        # Generic fallback: just the short title
+        if short not in queries:
+            queries.append(short)
+        return queries

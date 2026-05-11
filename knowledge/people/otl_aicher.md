@@ -21,7 +21,7 @@ wave: 4
 ---
 
 ## Überblick
-Otl Aicher war ein deutscher Grafikdesigner und Typograf [1][4]. Er war Mitbegründer der Hochschule für Gestaltung Ulm [1][3][4]. Seine Arbeit verband funktionalistische Ästhetik mit humanistischen Werten [ungesichert].
+Otl Aicher war ein deutscher Grafikdesigner und Typograf [1][4]. Er war Mitbegründer der Hochschule für Gestaltung Ulm [1][3][4].
 
 ## Historischer Kontext
 Aichers Wirken fiel in die Nachkriegszeit in Deutschland [ungesichert].
@@ -30,11 +30,11 @@ Aichers Wirken fiel in die Nachkriegszeit in Deutschland [ungesichert].
 *   **Geboren:** 13. Mai 1922 in Ulm [1][4]
 *   **Gestorben:** 1. September 1991 in Günzburg [1][4]
 *   **1953:** Mitbegründung der Hochschule für Gestaltung Ulm (HfG Ulm) zusammen mit Inge Aicher-Scholl und Max Bill [3][4]
-*   Entwicklung des Erscheinungsbildes für die Olympischen Spiele 1972 in München mit einem Piktogramm-System [9]
+*   Entwicklung eines Piktogramm-Systems für die Olympischen Spiele 1972 in München [9]
 *   **1988:** Entwicklung der Schriftfamilie Rotis [2]
 
 ## Bedeutung & Einfluss
-Aichers Piktogramme für München '72 wurden zum internationalen Standard und prägen bis heute die Bildsprache im öffentlichen Raum [9]. Als Pädagoge an der HfG Ulm formte er eine Generation von Designern [1][3].
+Aichers Piktogramme für München '72 wurden zum internationalen Standard [9]. Als Pädagoge an der HfG Ulm formte er eine Generation von Designern [1][3].
 
 ## Verbindungen
 Aichers Werk ist eng verbunden mit der Hochschule für Gestaltung Ulm und deren Protagonisten wie Max Bill [3][4]. Seine Ehefrau Inge Aicher-Scholl war Mitgründerin der HfG [3][4].

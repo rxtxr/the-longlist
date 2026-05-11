@@ -5,12 +5,13 @@ id: the_creative_revolution
 last_updated: '2026-05-11'
 related: []
 sources:
-- Wikipedia - Big Idea (marketing)
 - Den kreativa revolutionen – Wikipedia
+- 'Bill Bernbach: Creative Revolutionary (Adweek)'
+- Big Idea (marketing) - Wikipedia
 - 'Adweek Creative 2000: You say you want a Revolution'
-- 'Bill Bernbach: Creative Revolutionary'
 - 'Mark Tungate: Advertising History from Ancient Pompeii to Today'
-- Bill Bernach changed the way advertising works, by what it... | Medium
+- Bill Bernach changed the way advertising works (Medium)
+- What was the ‘creative revolution’ and how did it change advertising (ResearchGate)
 tags:
 - Creative Revolution
 - Bill Bernbach

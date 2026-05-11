@@ -6,10 +6,10 @@ last_updated: '2026-05-11'
 related: []
 sources:
 - 'Wikipedia: Account planning'
-- 'Ad Age: Account Planning Encyclopedia'
+- 'Ad Age: Account Planning Encyclopedia Entry'
 - 'Campaign Live: Planning 30 Years On'
+- 'Emerald Insight: Tracing the evolution of advertising account planning'
 - 'QUT ePrints: Advertising planning'
-- 'Emerald Insight: Tracing evolution of account planning'
 tags:
 - account_planning
 - strategy

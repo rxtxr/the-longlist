@@ -1,10 +1,19 @@
 ---
-confidence: high
+confidence: low
 era: 1981-present
 id: scholz_friends
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Gründungsjahr und -ort aus Quelle 1 und 5
+- Büroeröffnung in Berlin aus Quelle 5
+- Tampon Book Kampagne aus Quelle 4
+- Allgemeine Beschreibung aus Quelle 6
+- Wikipedia EN/DE
+- Ad Age
+- WELT
+- DER SPIEGEL
+- LinkedIn
 tags:
 - Hamburg
 - Kreativität
@@ -17,34 +26,24 @@ wave: 4
 ---
 
 ## Überblick
-Scholz & Friends ist eine der einflussreichsten und kreativsten Werbeagenturen im deutschsprachigen Raum. Seit ihrer Gründung hat sie sich durch eine eigenwillige, oft provokative und konzeptionell starke Arbeitsweise einen Namen gemacht und prägte die deutsche Werbelandschaft nachhaltig.
+Scholz & Friends ist nicht einfach nur eine Werbeagentur — sie ist eine deutsche Werbelegende. Gegründet 1981 in Hamburg von Jürgen Scholz, Uwe Lang und Michael Menzel, entwickelte sie sich von einer Hamburger Kreativschmiede zu einer der größten Agenturen Europas mit heute rund 900 Mitarbeitern an fünf europäischen Standorten. Was als klassische Werbeagentur begann, gehört heute zur Publicis Groupe und hat die deutsche Werbelandschaft nachhaltig geprägt[ungesichert].
 
 ## Historischer Kontext
-Die Agentur wurde 1981 in Hamburg gegründet, in einer Zeit, in der die deutsche Werbung stark von konservativen, eher textlastigen und erklärenden Kampagnen (z.B. von [[GGK]]) geprägt war. Die Wirtschaftswunder-Ära war vorbei, und eine neue, kritischere, experimentierfreudigere Generation von Werbern orientierte sich zunehmend an der kreativen Revolution aus den USA ([[Bill Bernbach]], [[Doyle Dane Bernbach]]) und Großbritannien. Scholz & Friends wurde zu einem Hauptvertreter dieses neuen, moderneren deutschen Werbestils.
+Als Scholz & Friends 1981 ihre Türen öffnete, befand sich die deutsche Werbebranche im Umbruch. Die konservative, textlastige German Advertising traf auf frische, visuell-orientierte Einflüsse aus den USA und Großbritannien. In diese Lücke stießen die Gründer: Sie kombinierten deutsche Gründlichkeit mit internationaler Kreativität[ungesichert]. Besonders bedeutsam war die Eröffnung des West-Berliner Büros 1990 — kurz nach dem Mauerfall positionierte sich die Agentur strategisch im Herzen des wiedervereinigten Deutschlands[ungesichert].
 
 ## Wichtige Details
-*   **Gründung:** 1981 in Hamburg von Jürgen Scholz, Hans-Willi Bruch, Rolf-Dieter Krause und Klaus-Dieter Kolwitz.
-*   **Frühe Erfolge:** Schnell bekannt geworden mit Kampagnen für den **[[Stern]]** ("Bei Mutti"), **[[Tchibo]]** und **[[Beck's]] Bier**. Die Beck's-Kampagne mit ihrem minimalistischen, hochwertigen Kunstbild-Stil (oft fotografiert von [[Günter Beer]]) wurde stilbildend.
-*   **Expansion:** Rasches Wachstum durch weitere Büros in Berlin (1987), Frankfurt (1991) und Wien (1993). Übernahme der Münchner Agentur Woehler (1995).
-*   **Eigentümerstruktur:** 1998 ging die Agentur an die Börse (Neuer Markt). 2003 folgte die Übernahme durch den europäischen Netzwerk-Konzern [[Publicis Groupe]], bei der Scholz & Friends jedoch weitgehend seine Eigenständigkeit und Kultur bewahren konnte.
-*   **Schlüsselfiguren:** Neben den Gründern prägten u.a. [[Jean-Remy von Matt]] (in den 90ern), [[Björn Stahl]] und [[Michael Trautmann]] die Agentur entscheidend.
-*   **Wichtige Kunden/Kampagnen:**
-    *   **Beck's:** Kunst-Bier-Kampagne (1980er/90er)
-    *   **[[Siemens]]:** "Be inspired" (2000er)
-    *   **Audi:** "Vorsprung durch Technik" (Agenturverantwortung für viele Jahre)
-    *   **OTTO:** "Die Hoffotografen" & E-Commerce-Kampagnen
-    *   **WWF:** Provokante Umweltkampagnen
-    *   **[[Deutsche Bahn]]:** "Die saubere Lösung" (2000er)
-    *   **Mini:** Markteinführung in Deutschland (2000er)
+*   **Pioniergeist an der Börse:** 1999 wagte Scholz & Friends als erste deutsche Werbeagentur den Gang an die Börse — bewusst ohne aufwendige Marketingkampagne, sondern mit schlichter Online-Information für Investoren[ungesichert]. Ein Statement, das zeigte: Hier denkt man anders.
+*   **Das "Tampon Book":** Die Kampagne für das deutsche Startup "The Female Company" wurde international beachtet — ein Buch, das gleichzeitig Aufklärungsmaterial und Tampon-Verpackung war, um die "Tamponsteuer" zu umgehen. Typisch Scholz & Friends: kreativ, gesellschaftskritisch, effektiv[ungesichert].
+*   **Ungewöhnliche Anreize:** 2015 lockte die Agentur Top-Talente mit Firmenanteilen — eine in der Branche unübliche Strategie, die zeigt, wie Scholz & Friends nicht nur Werbung macht, sondern Unternehmen neu denkt[ungesichert].
 
 ## Bedeutung & Einfluss
-Scholz & Friends brachte einen neuen, international anschlussfähigen und visuell wie konzeptionell ambitionierten Stil in die deutsche Werbung. Sie bewiesen, dass deutsche Werbung nicht nur erklärend, sondern auch emotional, künstlerisch und mutig sein kann. Die Agentur wurde zur Talentschmiede und prägte eine ganze Generation von Kreativen, die später eigene Agenturen (z.B. [[Jung von Matt]], [[Kolle Rebbe]]) gründeten oder andere Häuser leiteten. Ihr Börsengang war ein Zeichen für die zunehmende Kommerzialisierung der Kreativbranche.
+Scholz & Friends hat die deutsche Werbekultur maßgeblich mitgeprägt. Mit 27 Effie Awards von 2020-2025 war sie Deutschlands effektivste Agentur — ein Beleg für ihre messbare Wirkung[ungesichert]. Die Agentur verstand früh, dass Werbung nicht nur Produkte verkauft, sondern "Markenerlebnisse schafft, die das Denken, Fühlen und Handeln von Menschen verändern"[ungesichert]. Diese Philosophie machte sie zum Vorbild für eine ganze Generation von Kreativen.
 
 ## Verbindungen
-Die Agentur steht in direkter Konkurrenz und kreativem Austausch mit [[Jung von Matt]] (gegründet von ehemaligen S&F-Leuten), [[BBDO Germany]], [[Grey Germany]] und [[Ogilvy]]. Wichtige kreative Einflüsse kamen von [[Doyle Dane Bernbach]] und [[CDP]] (London). Ehemalige Mitarbeiter wie [[Jean-Remy von Matt]] wurden selbst zu prägenden Figuren der Branche.
+Nach einer Joint-Venture-Phase mit Commarco (2011 von [[WPP]] übernommen) gehört Scholz & Friends heute zur [[Publicis Groupe]] — eine Entwicklung, die exemplarisch für die Konsolidierung der Werbebranche steht[ungesichert]. Innerhalb von Publicis konnte sich die Agentur ihre kreative Eigenständigkeit bewahren[ungesichert].
 
 ## Bildmaterial-Hinweise
-*   **Logo:** Das charakteristische "S&F" im Quadrat, oft in Schwarz-Weiß oder Signalrot.
-*   **Kampagnenbilder:** Hochwertige Kunstfotografie der Beck's-Kampagnen, die Werke großer Fotografen zeigen. Die provokativen Motive der WWF-Kampagnen. Die minimalistischen "Vorsprung durch Technik"-Anzeigen für Audi.
-*   **Interieur/Büros:** Die Agentur war bekannt für ihre modernen, designorientierten Büros, die Kreativität fördern sollten (z.B. das Berliner Büro).
-*   **Porträts:** Fotos der Gründer, insbesondere von Jürgen Scholz, sowie späterer Schlüsselfiguren.
+*   **Logo:** Nicht beschrieben in den Quellen[ungesichert]
+*   **Kampagnenbilder:** Das "Tampon Book" zeigt exemplarisch die provokative Kreativität der Agentur[ungesichert]
+*   **Büros:** Die dualen Hauptsitze in Hamburg-HafenCity und Berlin-Mitte spiegeln die deutsche Zweiteilung wider[ungesichert]
+*   **Porträts:** Die Gründer Jürgen Scholz, Uwe Lang und Michael Menzel verkörpern den Pioniergeist der frühen Jahre[ungesichert]

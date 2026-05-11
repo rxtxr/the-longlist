@@ -17,7 +17,7 @@ wave: 6
 
 UNZUREICHENDE QUELLEN
 
-Die bereitgestellten Web-Quellen enthalten nicht genügend spezifische Informationen über die historischen Werbekampagnen von Lucky Strike, um die im Artikel enthaltenen detaillierten Behauptungen zu überprüfen. Für eine faktische Überarbeitung wären spezifischere Quellen wie das erwähnte Buch "More than luck: Lucky Strike advertising during the George Washington Hill years: 1926-1946" oder historische Werbeanalysen erforderlich.
+Die verfügbaren Web-Quellen enthalten nicht genügend spezifische Informationen über die historischen Werbekampagnen von Lucky Strike, um die im Artikel enthaltenen detaillierten Behauptungen zu überprüfen. Für eine faktische Überarbeitung wären spezifischere Quellen wie das erwähnte Buch "More than luck: Lucky Strike advertising during the George Washington Hill years: 1926-1946" oder historische Werbeanalysen erforderlich.
 
 ```json
 {"belegt": [], "ungesichert": ["Gesamter Artikelinhalt kann nicht ausreichend verifiziert werden"]}

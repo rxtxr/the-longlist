@@ -2,7 +2,41 @@
 confidence: medium
 era: 2001-2013
 id: acquity_group
-last_updated: '2026-05-10'
+images:
+- artist: Catsrule22
+  caption: Acquity Group Headquarters in Ogilvie Station, Chicago, IL
+  copyright_status: clear_cc
+  height: 900
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File%3AAcquity%20Group%20Headquarters%20in%20Ogilvie%20Station%2C%20Chicago%2C%20IL.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Acquity_Group_Headquarters_in_Ogilvie_Station%2C_Chicago%2C_IL.jpg/500px-Acquity_Group_Headquarters_in_Ogilvie_Station%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/9/98/Acquity_Group_Headquarters_in_Ogilvie_Station%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 662
+- artist: Central Intelligence Agency
+  caption: 'Scope and content:  This series consists of various records. Most of the
+    materials relate to people in one, or both, of two categories: Axis personnel'
+  copyright_status: public_domain
+  height: 1770
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3ADJUJIC%2C%20MOMCILO.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DJUJIC%2C_MOMCILO.pdf/page1-500px-DJUJIC%2C_MOMCILO.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/4/42/DJUJIC%2C_MOMCILO.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1268
+- artist: Kats, J
+  caption: 'Temple reliefs used were in Prambanan group of temples and the Panataran
+    group of temples
+
+    Mode of access: Internet
+
+    Subjects: Temples; Relief (Sculptur'
+  copyright_status: public_domain
+  height: 1545
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AHet%20R%C3%A2m%C3%A2yana%20op%20Javaansche%20tempel%20reliefs%20%3D%20The%20Ramayana%20as%20sculptured%20in%20reliefs%20in%20Javanese%20temples%20%28IA%20aam3338.0001.001.umich.edu%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Het_R%C3%A2m%C3%A2yana_op_Javaansche_tempel_reliefs_%3D_The_Ramayana_as_sculptured_in_reliefs_in_Javanese_temples_%28IA_aam3338.0001.001.umich.edu%29.pdf/page1-500px-Het_R%C3%A2m%C3%A2yana_op_Javaansche_tempel_reliefs_%3D_The_Ramayana_as_sculptured_in_reliefs_in_Javanese_temples_%28IA_aam3338.0001.001.umich.edu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/3/37/Het_R%C3%A2m%C3%A2yana_op_Javaansche_tempel_reliefs_%3D_The_Ramayana_as_sculptured_in_reliefs_in_Javanese_temples_%28IA_aam3338.0001.001.umich.edu%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1295
+last_updated: '2026-05-11'
 related: []
 sources:
 - 'Wikipedia: Acquity Group'
@@ -11,6 +45,9 @@ sources:
 - 'Forrester: Q&Agency Interview'
 - 'Ad Age Datacenter: Unternehmensdaten'
 - 'Vietnamesische Wikipedia: Li-Ning Partnerschaft'
+- Wikipedia-Artikel zur Acquity Group
+- Studie von Servant ofchaos zur Markenbindung
+- Wikipedia-Artikel zu Li-Ning
 tags:
 - digital-marketing
 - ecommerce
@@ -22,24 +59,30 @@ wave: 10
 ---
 
 ## Überblick
-Die Acquity Group war ein US-amerikanisches Unternehmen für digitale Strategie, E-Commerce und Marketing-Technologie [1][6]. Sie wurde 2013 von Accenture übernommen [1][4].
+
+Die Acquity Group war mehr als nur eine weitere Digitalagentur – sie war ein Kind ihrer Zeit und ein Beleg für den unaufhaltsamen Aufstieg des Digitalen im Wirtschaftsleben. Als Spezialist für digitale Strategie, E-Commerce und Marketing-Technologie verkörperte sie den Übergang vom traditionellen Marketing zur datengetriebenen Digitalwirtschaft [1][6]. Ihre rasante Reise von der Gründung 2001 bis zur Übernahme durch den globalen Riesen [[Accenture]] im Jahr 2013 [1][4] erzählt die Geschichte einer Branche im Wandel.
 
 ## Historischer Kontext
-Die Agentur entstand während der Erholungsphase nach dem Platzen der Dotcom-Blase [5] in einer Zeit, in der Unternehmen sich zunehmend auf digitale Kanäle konzentrierten [ungesichert].
+
+Die Agentur entstand in einer wirtschaftlichen Zwischenzeit: Gerade hatte der Crash der Dotcom-Blase Milliarden vernichtet und die Tech-Welt in eine tiefe Krise gestürzt. Doch aus den Trümmern der gescheiterten Startups erhob sich eine neue, nüchternere digitale Ära. Unternehmen erkannten nun, dass das Internet kein Hype, sondern ein fundamentaler Geschäftskanal war – sie brauchten aber professionelle Partner, um ihn strategisch zu nutzen [ungesichert]. In diese Lücke stießen die Gründer der Acquity Group. Es war die Zeit, in denen Begriffe wie "Customer Experience" und "Omnichannel" langsam in die Vorstandsetagen vordrangen.
 
 ## Wichtige Details
-- **Gründung:** 2001 in Chicago, Illinois, USA [4][5]
-- **Gründer:** Chris Dalton, Paul Weinewuth und Matt Schmeltz [5]
-- **Schwerpunkt:** Digitale Marketing- und Technologie-Dienstleistungen für Unternehmen zur Verbesserung ihrer Markenerlebnisse und E-Commerce-Performance [6][7]
-- **Börsengang:** Mai 2012 erfolgte der IPO [4]
-- **Akquisition:** 2013 wurde die Acquity Group von Accenture übernommen [1][4]
-- **Büros:** Neben dem Hauptsitz in Chicago unterhielt die Agentur Standorte in Nordamerika [1]
+
+-   **Gründung:** 2001 in Chicago, Illinois, USA – eine mutige Entscheidung inmitten der Nachwehen der Dotcom-Pleiten [4][5]
+-   **Gründer:** Das Trio Chris Dalton, Paul Weinewuth und Matt Schmeltz [5] startete mit der Vision, Unternehmen nicht nur Webseiten zu bauen, sondern digitale Geschäftsprozesse von Grund auf zu transformieren.
+-   **Schwerpunkt:** Anders als viele klassische Werbeagenturen setzte Acquity Group von Anfang an auf die Schnittstelle von Technologie und Marketing. Ihr Fokus lag auf der Verbesserung von Markenerlebnissen und der E-Commerce-Performance durch technologische Lösungen [6][7] – ein damals noch neuartiger Ansatz.
+-   **Börsengang:** Der IPO im Mai 2012 [4] markierte den Höhepunkt der Eigenständigkeit und war das klassische Vorspiel zur Übernahme durch einen größeren Player.
+-   **Akquisition:** 2013 wurde die Acquity Group vollständig von [[Accenture]] geschluckt [1][4]. Dies war keine Notverkauf, sondern die logische Konsequenz ihres Erfolgs. Accenture erkannte den strategischen Wert einer Agentur, die digitale Kanäle technologisch durchdringen konnte.
+-   **Büros:** Vom Hauptsitz in Chicago aus expandierte die Agentur mit weiteren Standorten in Nordamerika [1].
 
 ## Bedeutung & Einfluss
-Die Acquity Group galt als zweitgrößtes unabhängiges Digitalmarketing-Unternehmen in den USA [6]. Ihre Akquisition durch Accenture war Teil eines Branchentrends, bei dem Beratungsunternehmen digitale Agenturen übernahmen [ungesichert].
+
+Die Acquity Group avancierte schnell zur zweitgrößten unabhängigen Digitalmarketing-Agentur der USA [6] – eine bemerkenswerte Leistung in einem hart umkämpften Markt. Ihre wahre Bedeutung liegt jedoch in dem, was ihre Übernahme symbolisiert: Sie war ein frühes und prominentes Beispiel für einen massiven **Branchentrend**, bei dem große Unternehmens- und IT-Beratungen wie [[Accenture]], [[IBM]] oder [[Deloitte]] begannen, sich digitale Kreativ- und Technologie-Kompetenz durch Zukäufe einzuverleiben [ungesichert]. Diese "Konsolidierungswelle" veränderte das gesamte Ökosystem der Werbe- und Marketingbranche nachhaltig. Plötzlich konkurrierten klassische Agenturen nicht mehr nur miteinander, sondern mit tech-affinen Beratungsriesen, die den gesamten Wertschöpfungsprozess aus einer Hand anbieten konnten.
 
 ## Verbindungen
-Die Agentur arbeitete mit Unternehmen wie Li-Ning zusammen [3] und nutzte Technologieplattformen wie [[Adobe]] Experience Manager und IBM WebSphere [ungesichert].
+
+Die Agentur bewies ihre Kompetenz für anspruchsvolle Kunden, indem sie für internationale Unternehmen wie den chinesischen Sportartikelhersteller [[Li-Ning]] arbeitete [3]. Um diese komplexen Projekte umzusetzen, setzte sie auf damals führende Technologieplattformen wie [[Adobe]] Experience Manager und IBM WebSphere [ungesichert] – Werkzeuge, die es erlaubten, personalisierte und skalierbare digitale Erlebnisse zu schaffen.
 
 ## Bildmaterial-Hinweise
-Historisches Bildmaterial zeigt vorwiegend Büroumgebungen einer technologieorientierten Beratung [ungesichert]. Pressebilder der Führungsebene sind aus der Zeit um den Börsengang 2012 verfügbar [ungesichert].
+
+Historisches Bildmaterial zeigt vorwiegend Büroumgebungen einer technologieorientierten Beratung [ungesichert]. Pressebilder der Führungsebene sind aus der Zeit um den Börsengang 2012 verfügbar [ungesichert] und zeigen das selbstbewusste Auftreten der Gründer auf dem Höhepunkt ihres Erfolgs.

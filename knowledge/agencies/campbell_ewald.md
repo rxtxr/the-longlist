@@ -10,6 +10,11 @@ sources:
 - https://www.historyfactory.com/insights/campbell-ewald-and-sloan/
 - https://de.wikipedia.org/wiki/Elmo_Lewis
 - https://www.adweek.com/agencyspy/campbell-ewald-l-a-launches-first-work-for-ihop/
+- 1 (Wikipedia-Artikel)
+- 3 (Ad Age Encyclopedia)
+- 6 (ArchDaily-Galerie)
+- 8 (Wikipedia zu Batman-OnStar-Werbespots)
+- 9 (Gründungsinfo aus Wikipedia-Artikel)
 tags:
 - automotive-advertising
 - detroit
@@ -20,27 +25,34 @@ wave: 6
 ---
 
 ## Überblick
-Campbell Ewald war eine US-amerikanische Werbeagentur, die 1911 in Detroit gegründet wurde [9]. Die Agentur war bekannt für ihre lange Partnerschaft mit General Motors [1][8].
+
+Campbell Ewald war eine US-amerikanische Werbeagentur, die 1911 in Detroit gegründet wurde [[9]]. Die Agentur war bekannt für ihre fast ein Jahrhundert währende Partnerschaft mit General Motors [[1][8]], die sie zu einer der prägenden Werbestimmen der amerikanischen Automobilindustrie machte.
 
 ## Historischer Kontext
-Die Agentur wurde in einer Zeit industriellen Wachstums in den USA gegründet, als Detroit ein Zentrum der Automobilindustrie war [ungesichert].
+
+Die Agentur wurde in einer Zeit industriellen Wachstums in den USA gegründet, als Detroit ein Zentrum der Automobilindustrie war [ungesichert]. In den frühen 1910er Jahren war Werbung noch stark textbasiert und lokal ausgerichtet. Die Gründung von Campbell Ewald fiel in eine Ära, in der Massenproduktion und nationale Marken entstanden — perfekte Voraussetzungen für eine Agentur, die bald nationale Kampagnen für einen der größten Automobilkonzerne der Welt entwickeln sollte [ungesichert].
 
 ## Wichtige Details
-- **Gründung:** 1911 in Detroit durch Frank J. Campbell und Henry T. Ewald mit sechs Mitarbeitern [9].
-- **Schlüsseldatum:** Die Agentur gewann das Werbebudget von General Motors, was zu einer langjährigen Zusammenarbeit führte [8].
-- **Berühmte Kampagnen:** "Baseball, Hot Dogs, Apple Pie and Chevrolet" [ungesichert].
-- **Eigentumsverhältnisse:** Wurde Teil der Interpublic Group (IPG) [6].
-- **Niederlassungen:** Büros in Detroit und Los Angeles [6].
-- **Krise und Neuausrichtung:** Verlor 2010 den Chevrolet-Account nach 91 Jahren an Publicis Worldwide [1].
+
+-   **Gründung:** 1911 in Detroit durch Frank J. Campbell und Henry T. Ewald mit anfangs nur sechs Mitarbeitern [[9]]. Die Quellenlage hierzu ist dünn — [ungesichert] was die beiden Gründer antrieb und wie genau sie ihre ersten Kunden gewannen.
+-   **Schlüsseldatum:** Der Gewinn des Werbebudgets von General Motors markierte den Wendepunkt der Agenturgeschichte und führte zu einer langjährigen, fast symbiotischen Zusammenarbeit [[8]].
+-   **Berühmte Kampagnen:** Die Schöpfung des Slogans "Baseball, Hot Dogs, Apple Pie and Chevrolet" für [[Chevrolet]] in den 1970er Jahren [ungesichert]. Diese Kampagne verankerte die Marke tief im amerikanischen Kulturbewusstsein.
+-   **Eigentumsverhältnisse:** Die Agentur wurde Teil der [[Interpublic Group]] (IPG), eines der großen globalen Werbenetzwerke [[6]].
+-   **Niederlassungen:** Neben dem Hauptsitz in Detroit unterhielt die Agentur Büros in Los Angeles [[6]].
+-   **Krise und Neuausrichtung:** 2010, nach 91 Jahren Zusammenarbeit, verlor Campbell Ewald den Chevrolet-Account an [[Publicis Worldwide]] [[1]]. Dieser Verlust traf die Agentur in ihrer Identität, da Chevrolet ihr wichtigster und prägendster Kunde war.
 
 ## Bedeutung & Einfluss
-Campbell Ewald war eine Full-Service-Agentur und prägte durch Automobilwerbung die amerikanische Kultur [8][ungesichert]. Die Agentur war ein bedeutender Ausbildungsort für Werber [3].
+
+Campbell Ewald war eine Full-Service-Agentur und prägte durch ihre ikonische Automobilwerbung für [[General Motors]] nachhaltig die amerikanische Popkultur [[8]][ungesichert]. Kampagnen wie die für Chevrolet wurden zu Teilen des nationalen Selbstverständnisses. Die Agentur war zudem ein bedeutender Ausbildungsort und Sprungbrett für Karrieren in der Werbebranche [[3]]. Der spätere Verlust des Chevrolet-Kontos löste eine der größten Entlassungswellen in der Geschichte der Agentur aus und markierte das Ende einer Ära [[3]].
 
 ## Verbindungen
-Die Agentur war direkt mit General Motors verbunden [1][8]. Der Verlust des Chevrolet-Accounts ging an Publicis Worldwide [1]. Als Teil von Interpublic Group gehörte sie zum gleichen Netzwerk wie andere Agenturen [6].
+
+Die Geschichte der Agentur war untrennbar mit der ihres Hauptkunden [[General Motors]] verbunden [[1][8]]. Der Verlust dieses Accounts ging an den Konkurrenten [[Publicis Worldwide]] [[1]]. Als Teil der [[Interpublic Group]] war Campbell Ewald im gleichen Netzwerk wie andere große Agenturen wie [[McCann Erickson]] oder [[FCB]] [[6]] [ungesichert].
 
 ## Bildmaterial-Hinweise
-- Historische Schwarz-Weiß-Fotos des Bürogebäudes in Detroit [ungesichert].
-- Anzeigenmotive der Chevrolet-Kampagnen [ungesichert].
-- Porträts der Gründer Frank J. Campbell und Henry T. Ewald [ungesichert].
-- Werbescreenshots der "Hot Dogs, Apple Pie and Chevrolet"-TV-Spots [ungesichert].
+
+-   Historische Schwarz-Weiß-Fotos des Bürogebäudes in Detroit aus den 1920er oder 1930er Jahren [ungesichert].
+-   Scans von klassischen Anzeigenmotiven aus den Chevrolet-Kampagnen der 1960er und 1970er Jahre [ungesichert].
+-   Porträts der Gründer [[Frank J. Campbell]] und [[Henry T. Ewald]] [ungesichert].
+-   Werbescreenshots oder Stills aus den "Baseball, Hot Dogs, Apple Pie and Chevrolet"-TV-Spots der 1970er Jahre [ungesichert].
+-   Standbilder aus den Batman-OnStar-Werbespots, die die Agentur um das Jahr 2000 produzierte [[8]].

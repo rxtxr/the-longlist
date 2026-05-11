@@ -16,7 +16,7 @@ wave: 3
 
 UNZUREICHENDE QUELLEN
 
-Die bereitgestagelten Web-Quellen behandeln zwar allgemein das Thema "Werbung als Spiegel der Gesellschaft", enthalten jedoch keine spezifischen Informationen zu den im ursprünglichen Artikel genannten konkreten Kampagnenbeispielen, Jahreszahlen, Personen oder Werbeagenturen. Für eine faktische Überarbeitung des Artikels sind diese Quellen nicht ausreichend.
+Die bereitgestedaten Web-Quellen behandeln zwar allgemein das Thema "Werbung als Spiegel der Gesellschaft" auf theoretischer Ebene, enthalten jedoch keine spezifischen Informationen zu konkreten historischen Kampagnenbeispielen, Jahreszahlen, Personen oder Werbeagenturen. Für eine faktische Überarbeitung des Artikels sind diese Quellen nicht ausreichend.
 
 Eine wissenschaftliche Überarbeitung erfordert Zugang zu:
 - Spezifischen historischen Quellen zu Werbekampagnen

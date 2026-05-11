@@ -647,15 +647,15 @@ class WaveRunner:
     def run_image_wave(self, dry_run: bool = False,
                        categories: List[str] = None,
                        force: bool = False) -> Dict:
-        """Enrich KB articles with real, licensed images from Wikimedia Commons."""
+        """Enrich KB articles with real media: images (Commons/OpenVerse) + YouTube videos."""
         import frontmatter as fm
-        from agents.image_finder import ImageFinder
+        from agents.media_finder import MediaFinder
         from pathlib import Path as _Path
 
         wave = self._current_wave() + 1
         cats = categories or CATEGORIES
-        cache_dir = _Path(__file__).parent / ".image_cache"
-        finder = ImageFinder(cache_dir=cache_dir)
+        cache_dir = _Path(__file__).parent / ".media_cache"
+        finder = MediaFinder(cache_dir=cache_dir)
 
         results: Dict = {"enriched": [], "skipped": [], "errors": []}
         entries = []
@@ -663,7 +663,8 @@ class WaveRunner:
             entries.extend(self.kb.list_category(cat))
 
         total = len(entries)
-        print(f"\n[Bildwelle] {total} Einträge · cache: {cache_dir}")
+        print(f"\n[Mediawelle] {total} Einträge · cache: {cache_dir}")
+        print(f"  Quellen: Wikimedia Commons · OpenVerse · YouTube\n")
 
         for i, entry in enumerate(entries, 1):
             meta = entry["meta"]
@@ -673,7 +674,7 @@ class WaveRunner:
 
             if not force and meta.get("images"):
                 results["skipped"].append(title)
-                print(f"  [{i}/{total}] ↷ {title} (bereits mit Bildern)")
+                print(f"  [{i}/{total}] ↷ {title} (bereits vorhanden)")
                 continue
 
             print(f"  [{i}/{total}] 🔍 {title}", end="", flush=True)
@@ -683,16 +684,21 @@ class WaveRunner:
                 continue
 
             try:
-                images = finder.find_images(title, cat, max_images=3)
-                if images:
+                media = finder.find_media(title, cat, max_images=2, max_videos=1, meta=meta)
+                if media:
                     post = fm.load(str(path))
-                    post.metadata["images"] = images
+                    post.metadata["images"] = media
                     path.write_text(fm.dumps(post), encoding="utf-8")
                     results["enriched"].append(title)
-                    print(f" → {len(images)} Bild(er)")
+                    imgs = sum(1 for m in media if m.get("type") == "image")
+                    vids = sum(1 for m in media if m.get("type") == "video")
+                    parts = []
+                    if imgs: parts.append(f"{imgs} Bild(er)")
+                    if vids: parts.append(f"{vids} Video(s)")
+                    print(f" → {', '.join(parts)}")
                 else:
                     results["skipped"].append(title)
-                    print(" → keine Bilder gefunden")
+                    print(" → keine Medien gefunden")
             except Exception as e:
                 results["errors"].append({"title": title, "error": str(e)})
                 print(f" ✗ {e}")

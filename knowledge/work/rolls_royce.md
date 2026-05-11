@@ -5,12 +5,11 @@ id: rolls_royce
 last_updated: '2026-05-11'
 related: []
 sources:
-- Wikipedia - David Ogilvy (businessman)
-- Wikipedia - Rolls-Royce Motor Cars
-- Campaignlive.co.uk - Rolls-Royce Advertising
-- Medium - What should we learn from Rolls Royce advertisements?
-- Swipe File - Rolls-Royce Ad by David Ogilvy
-- ÖAMTC - Der Mythos Rolls-Royce
+- 'Wikipedia: David Ogilvy (businessman)'
+- 'Wikipedia: Rolls-Royce Motor Cars'
+- 'Swipe File: Rolls-Royce Ad by David Ogilvy'
+- 'Medium: What should we learn from Rolls Royce advertisements?'
+- 'ÖAMTC: Der Mythos Rolls-Royce'
 tags:
 - Luxusautomobile
 - David Ogilvy

@@ -2,6 +2,37 @@
 confidence: low
 era: 1921-present
 id: das_art_directors_annual_geschichte_und_bedeutung
+images:
+- artist: New York State Museum
+  caption: Reports 61 and 66 both in 3 v.; 64, 69-71, each in 2 v.; 56, 59, 62, 63
+    each in 4 v.; 57 in 4 v. issued in 5 (i.e. v. 1 in 2 pts.); v. 58, 60, each in
+  copyright_status: public_domain
+  height: 1695
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AAnnual%20report%20%28IA%20annualreport5741903newy%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Annual_report_%28IA_annualreport5741903newy%29.pdf/page1-500px-Annual_report_%28IA_annualreport5741903newy%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c9/Annual_report_%28IA_annualreport5741903newy%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1329
+- artist: Academy of Natural Sciences of Philadelphia
+  caption: '1875-1919 reprinted from: Proceedings of the Academy of Natural Sciences
+    of Philadelphia. 1920-1922 were issued in separate form only, containing, in '
+  copyright_status: public_domain
+  height: 1310
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AAnnual%20reports%20%28IA%20annualreports1875acad%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Annual_reports_%28IA_annualreports1875acad%29.pdf/page1-500px-Annual_reports_%28IA_annualreports1875acad%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/4/42/Annual_reports_%28IA_annualreports1875acad%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 760
+- artist: Academy of Natural Sciences of Philadelphia
+  caption: '1875-1919 reprinted from: Proceedings of the Academy of Natural Sciences
+    of Philadelphia. 1920-1922 were issued in separate form only, containing, in '
+  copyright_status: public_domain
+  height: 1404
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AAnnual%20reports%20%28IA%20annualreports1911acad%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Annual_reports_%28IA_annualreports1911acad%29.pdf/page1-500px-Annual_reports_%28IA_annualreports1911acad%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/2/20/Annual_reports_%28IA_annualreports1911acad%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 958
 last_updated: '2026-05-10'
 related: []
 sources:

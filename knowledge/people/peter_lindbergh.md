@@ -1,10 +1,14 @@
 ---
-confidence: high
+confidence: medium
 era: 1980-2019
 id: peter_lindbergh
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Wikipedia EN - Geburts-/Sterbedaten und Berufsbezeichnung
+- Wikipedia DE - Umzug nach Paris 1978 und Arbeit für Modezeitschriften
+- Comme des Garçons Wikipedia - Ausstellung Centre Pompidou 1986
+- Wikipedia FR - Grundlegende biografische Daten
 tags:
 - fotografie
 - mode
@@ -16,34 +20,25 @@ wave: 13
 ---
 
 ## Überblick
-Peter Lindbergh war ein deutscher Modefotograf, der durch seine ungeschönten, narrativen Schwarz-Weiß-Portraits die Ästhetik der Modefotografie revolutionierte. Er prägte das Konzept der "Supermodels" und setzte sich für eine authentische Darstellung von Weiblichkeit ein, die bis heute die Branche beeinflusst.
+Peter Lindbergh war ein deutscher Modefotograf und Filmregisseur [1][2][4]. Er arbeitete für bedeutende Modezeitschriften [2].
 
 ## Historischer Kontext
-Lindberghs Karriere erreichte ihren Höhepunkt in den 1980er und 1990er, einer Zeit, in der die Hochglanz-Ästhetik dominierte. Seine Arbeit entstand parallel zum Aufstieg [[Saatchi & Saatchi]]-geprägter, imageorientierter Werbung und bildete einen Kontrapunkt zur opulenten Inszenierung von [[David LaChapelle]] oder [[Helmut Newton]].
-
+Lindberghs Karriere erreichte ihren Höhepunkt in den 1980er und 1990er Jahren [ungesichert].
 
 ## Wichtige Details
-- Geboren 1944 in Leszno (Polen), gestorben 2019 in Paris
-- Entscheidende britische [[Vogue (Magazin)]]-Titelgeschichte Januar 1990: Erste Gruppendarstellung der "Big Five" ([[Linda Evangelista]], [[Naomi Campbell]], [[Tatjana Patitz]], [[Christy Turlington]], [[Cindy Crawford]]) in weißer Wäsche auf einer Straße
-- Prägte den Begriff "Supermodels" durch diese ikonische Aufnahme
-- Arbeitete für Harper's Bazaar, Vogue, The New Yorker
-- Charakteristisch: Hochformat-Bilder, dramatische Landschaften, minimales Styling
-- Wichtige Kampagne: [[Diesel]] "For Successful Living" (1990er), [[Prada]] (2000er)
-
+- Geboren am 23. November 1944 in Leszno (damals Deutschland, heute Polen), gestorben am 3. September 2019 [1][2][4]
+- Studierte Kunst in Berlin und Krefeld [1]
+- Zog 1978 nach Paris und begann seine internationale Karriere, zunächst für die italienische Vogue, später für die englische, französische, deutsche und amerikanische Ausgabe sowie für The New Yorker und andere Publikationen [2]
+- Arbeitete für Vogue, Harper's Bazaar und The New Yorker [ungesichert]
 
 ## Bedeutung & Einfluss
-Lindbergh befrete die Modefotografie von artifizieller Perfektion und etablierte eine neue, filmische Erzählästhetik. Seine "ungeschminkte" Herangehensweise beeinflusste spätere Bewegungen wie "Body Positivity" und die "No-Makeup"-Bewegung in der Werbung. Er demonstrierte, wie Markenauthentizität durch reduzierte Inszenierung erreicht werden kann – ein Gegenmodell zur [[Ogilvy]]-Tradition des perfekten Produktbildes.
-
+Lindbergh beeinflusste die Modefotografie durch seine ungeschönten Aufnahmen [ungesichert].
 
 ## Verbindungen
-- Eng verbunden mit [[Anna Wintour]] (Vogue) und [[Fabien Baron]] (Art Director)
-- Arbeitete mit [[Gianni Versace]] und [[Karl Lagerfeld]] 
-- Sein Stil beeinflusste [[Jürgen Teller]] und [[Wolfgang Tillmans]]
-- Gegensatz zu [[Richard Avedon]]s Studio-Perfektion und [[Herb Ritts]]' Skulpturalität
-
+- Arbeitete mit verschiedenen Modezeitschriften zusammen [2]
+- Seine Werke wurden in Ausstellungen gezeigt, unter anderem im Centre Georges Pompidou in Paris 1986 [3]
 
 ## Bildmaterial-Hinweise
-- Ikonsiche Schwarz-Weiß-Portraits der Supermodels (1990er)
-- Werbeaufnahmen für [[Diesel]]: junge Menschen in urbanen Landschaften
-- Behind-the-Scenes-Fotos von Lindbergh mit Großformatkamera
-- Ausstellungen: "Untold Stories" (MKG Hamburg 2023), "A Different Vision" (2016)
+- Schwarz-Weiß-Portraits [ungesichert]
+- Werbeaufnahmen für verschiedene Marken [ungesichert]
+- Ausstellungen: Centre Georges Pompidou Paris 1986 [3]

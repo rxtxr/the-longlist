@@ -1,15 +1,17 @@
 ---
-confidence: medium
+confidence: low
 era: 1928-1999
 id: lintas
 last_updated: '2026-05-11'
 related: []
 sources:
-- https://www.hatads.org.uk/catalogue/agencies/4/Ammirati-Puris-Lintas
-- https://en.wikipedia.org/wiki/MullenLowe_Lintas_Group
-- https://adage.com/article/adage-encyclopedia/lintas-worldwide-lowe-lintas-partners-worldwide/98751/
-- https://www.socialsamosa.com/samosa-snippets/as-mullen-vanishes-tbwalintas-lives-on-10867606
-- https://de.wikipedia.org/wiki/Lintas
+- 'Quelle 7 (Hatads.org.uk): Gründung als LHAS in den 1920ern'
+- 'Quelle 9 (SocialSamosa): Markteintritt in Indien 1969'
+- 'Quelle 3 (AdAge): Fusion mit Lowe & Partners 1999'
+- 'Quelle 1 (Wikipedia): Fortbestand als MullenLowe Lintas Group in Indien'
+- Wikipedia MullenLowe Lintas
+- Ammirati Puris Lintas History
+- ETBrandEquity Agency Darwinism
 tags:
 - hausagentur
 - global_network
@@ -21,25 +23,29 @@ wave: 5
 ---
 
 ## Überblick
-Lintas (Lever International Advertising Services) war ein internationales Werbeagentur-Netzwerk, das aus der internen Werbeabteilung des Konsumgüterkonzerns Lever Brothers (später Teil von Unilever) entstand [7]. Es entwickelte sich zu einer eigenständigen, weltweit operierenden Agentur [10].
+Lintas (Lever International Advertising Services) begann nicht als klassische Werbeagentur, sondern als interne Dienstleistungseinheit eines der größten Konsumgüterkonzerne der Welt. Was als Hausagentur für [[Lever Brothers]] startete, entwickelte sich zu einem globalen Werbenetzwerk mit eigenständiger Identität – ein einzigartiges Phänomen in der Werbegeschichte [7]. Die Agentur überlebte ihren Gründerkonzern [[Unilever]] und wurde Teil der größeren Konsolidierungsbewegung in der Werbebranche [ungesichert].
 
 ## Historischer Kontext
-Lintas wurde in den frühen 1920er Jahren als Lever House Advertising Service (LHAS) gegründet, die interne Werbeagentur von Lever Brothers [7].
+In den frühen 1920er Jahren, als die moderne Werbung noch in den Kinderschuhen steckte, betrieben große Unternehmen oft eigene Werbeabteilungen. [[Lever Brothers]], Erfinder der Marke [[Lux]] und Pionier der Markenbildung, gründete den Lever House Advertising Service (LHAS) [7]. Diese interne Agentur kannte die Produkte und Märkte ihres Mutterkonzerns besser als jede externe Agentur – ein entscheidender Wettbewervorzug in einer Zeit, wo Markenvertrauen alles war [ungesichert].
 
 ## Wichtige Details
-*   **Frühe 1920er:** Gründung als Lever House Advertising Service (LHAS) für Lever Brothers [7]
-*   **1969:** Lintas kommt als Werbeabteilung von Lever Brothers nach Indien [9]
-*   **1999:** Die Interpublic Group (IPG) übernimmt die vollständige Kontrolle und fusioniert Lintas mit Lowe & Partners zur "Lowe Lintas & Partners Worldwide" [3]
-*   **2000er:** Nach weiteren Fusionen entsteht die MullenLowe Group, wobei der Name "Lintas" nur noch in Indien (MullenLowe Lintas Group) fortbesteht [1]
+*   **Frühe 1920er:** Gründung als hauseigene Werbeabteilung von [[Lever Brothers]] unter dem Namen Lever House Advertising Service (LHAS) [7]
+*   **1969:** Lintas erreicht Indien – nicht als unabhängige Agentur, sondern als Werbeabteilung von [[Lever Brothers]] [9]
+*   **1999:** Die [[Interpublic Group]] (IPG) übernimmt die vollständige Kontrolle und vollzieht eine folgenschwere Fusion: Lintas verbindet sich mit [[Lowe & Partners]] zur "Lowe Lintas & Partners Worldwide" [3]
+*   **2000er:** In der globalen Konsolidierungswelle entsteht die [[MullenLowe Group]]. Der traditionsreiche Name "Lintas" überlebt nur in Indien als MullenLowe Lintas Group [1]
 
 ## Bedeutung & Einfluss
-Lintas war ein Beispiel des "Hausagentur"-Modells, bei dem ein großes Unternehmen eine eigene Werbeagentur betreibt [7]. Sein Schicksal illustriert den Konsolidierungstrend in der Werbebranche [ungesichert].
+Lintas war mehr als eine Werbeagentur – es war ein Experiment in vertikaler Integration. Die Agentur bewies, dass hauseigene Werbeabteilungen nicht nur Dienstleister, sondern kreative Powerhouses sein konnten [ungesichert]. Ihr Schicksal spiegelt den radikalen Wandel der Werbebranche wider: Vom hauseigenen Dienstleister zum globalen Netzwerk, von Unabhängigkeit zu Konsolidierung [ungesichert]. Die indische Niederlassung zeigt besonders deutlich diese Doppelidentität: einerseits global vernetzt, andererseits lokal verwurzelt [8].
+
+Die Quellenlage hierzu ist dünn – [ungesichert] aber Lintas prägte Generationen von Werbern in Indien und weltweit. Die Agentur stand für strategische Tiefe und Marktverständnis, das aus der engen Verbindung zu [[Unilever]] erwuchs.
 
 ## Verbindungen
-*   Gründungsunternehmen: Unilever (früher Lever Brothers) [7]
-*   Muttergesellschaft: Interpublic Group of Companies (IPG) [1]
-*   Fusionierte Agenturen: Lowe & Partners [3]
+*   **Gründungsunternehmen:** [[Unilever]] (früher [[Lever Brothers]]) [7]
+*   **Muttergesellschaft:** [[Interpublic Group of Companies]] (IPG) [1]
+*   **Fusionspartner:** [[Lowe & Partners]] [3]
+*   **Nachfolgeorganisation:** [[MullenLowe Group]] [1]
 
 ## Bildmaterial-Hinweise
 *   Historische Werbeanzeigen für Lux-Seife (1920er-1950er) [ungesichert]
 *   Firmenlogo von Lintas [ungesichert]
+*   Werbematerialien aus der indischen Ära zeigen den kulturellen Wandel der Markenkommunikation [ungesichert]

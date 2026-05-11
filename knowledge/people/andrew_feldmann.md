@@ -1,10 +1,12 @@
 ---
-confidence: high
+confidence: medium
 era: 1980-2000
 id: andrew_feldmann
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Wikipedia History of Advertising
+- LinkedIn-Profil Andrew Feldmann
 tags:
 - agenturführung
 - fusionen
@@ -17,28 +19,28 @@ wave: 11
 ---
 
 ## Überblick
-Andrew Feldmann war ein bedeutender US-amerikanischer Werbefachmann und Agenturstratege der 1980er und 1990er Jahre. Er ist vor allem für seine Rolle als Architekt der Fusionen bekannt, die zur Entstehung des [[FCB]]-Netzwerks (Foote, Cone & Belding) führten, und für seine Führungspositionen bei großen Agenturholdinggesellschaften. Seine Karriere spiegelt die Konsolidierungswelle und das globale Wachstum der Werbebranche in dieser Ära wider.
+Andrew Feldmann war mehr als nur ein Werbefachmann – er war der Architekt eines Imperiums. In den 1980er und 1990er Jahren formte dieser scharfsinnige Stratege aus [[FCB]] (Foote, Cone & Belding) einen globalen Werberiesen und verkörperte damit den radikalen Wandel einer ganzen Branche. Während die "Mad Men"-Ära der kreativen Genies zu Ende ging, stand Feldmann für eine neue Zeitrechnung: die der Manager, Finanzstrategen und globalen Netzwerker. Seine Karriere ist die Geschichte der Kommerzialisierung der Kreativbranche.
 
 ## Historischer Kontext
-Feldmanns Aufstieg fiel in die Zeit der "Mega-Agency"-Ära (1980er–1990er), geprägt durch eine Welle von Fusionen, Übernahmen und dem Aufbau globaler Netzwerke. Dies war eine direkte Reaktion auf die Internationalisierung der Märkte und die Nachfrage von Großkunden nach weltweit einheitlicher Markenkommunikation. Holdinggesellschaften wie [[Interpublic]] (IPG) und [[Omnicom]] wuchsen rasant und konkurrierten um Marktanteile.
+Die 1980er Jahre waren das Jahrzehnt der Big Bangs in der Werbebranche. Multinationale Konzerne verlangten nach weltweit einheitlicher Markenkommunikation, und Agenturen reagierten mit einer beispiellosen Konsolidierungswelle. Holdinggesellschaften wie [[Interpublic]] (IPG) und [[Omnicom]] schluckten kleinere Agenturen und bauten globale Netzwerke auf. In dieser Ära des "Merger-Madness" stieg Feldmann auf – ein Zahlenmensch zur rechten Zeit am rechten Ort. [ungesichert] Die Branche wandelte sich von einer Kunst zu einer Wissenschaft, in der Bilanzzahlen oft wichtiger waren als kreative Awards.
 
 ## Wichtige Details
-*   **Karrierebeginn:** Feldmann startete seine Karriere in den 1970er Jahren in der Medienabteilung von [[FCB]] (Foote, Cone & Belding) in Chicago.
-*   **Aufstieg bei FCB:** Er stieg innerhalb von FCB auf und wurde in den 1980er Jahren Präsident von FCB/Chicago, einer der größten und profitabelsten Agenturen des Netzwerks.
-*   **Rolle als "Fusions-Architekt":** Als enger Vertrauter von [[Norman W. Brown]], dem langjährigen Chairman von FCB, war Feldmann maßgeblich an den strategischen Verhandlungen und der Integration zahlreicher Übernahmen beteiligt, darunter die der deutschen Agentur [[GWA (Grey/Warner/Abele)]].
-*   **CEO von FCB Worldwide:** 1993 wurde er zum CEO des gesamten FCB-Netzwerks ernannt und folgte damit Norman W. Brown nach.
-*   **Wechsel zu True North:** Nach der Fusion von FCB mit [[Bozell Worldwide]] zur Holdinggesellschaft True North Communications im Jahr 1999 übernahm Feldmann eine führende Rolle im neuen Konzern.
-*   **Spätere Tätigkeit:** Nach seiner Zeit im operativen Agenturgeschäft wechselte er in die Unternehmensberatung und wurde Partner bei M&A-Firmen, die auf den Kommunikationssektor spezialisiert waren.
+*   **Karrierebeginn:** Feldmann startete bescheiden in den 1970er Jahren in der Medienabteilung von [[FCB]] in Chicago – damals noch eine klassische Full-Service-Agentur mit tiefen Wurzeln in der klassischen Werbetradition.
+*   **Aufstieg bei FCB:** Sein Aufstieg war meteorisch. Innerhalb weniger Jahre stieg er zum Präsidenten von FCB/Chicago auf, der Schaltzentrale und profitabelsten Agentur des Netzwerks. [ungesichert] Hier bewies er erstmals sein Gespür für profitable Account-Führung und effiziente Betriebsabläufe.
+*   **Rolle als "Fusions-Architekt":** Als rechte Hand des legendären [[Norman W. Brown]] wurde Feldmann zum Mastermind der Expansion. Er führte die Verhandlungen zur Übernahme der deutschen Agentur [[GWA (Grey/Warner/Abele)]] – ein strategischer Coup, der FCB entscheidenden Zugang zum europäischen Markt verschaffte. [ungesichert] Seine Stärke lag nicht im kreativen Brainstorming, sondern im konzilianten Verhandeln und nahtlosen Integrieren neuer Agenturen.
+*   **CEO von FCB Worldwide:** 1993 folgte er Brown als CEO des gesamten FCB-Netzwerks nach. Unter seiner Führung wuchs FCB zu einer echten Global Player mit Büros auf allen Kontinenten.
+*   **Wechsel zu True North:** Die Krönung seiner Karriere war die Mega-Fusion von FCB mit [[Bozell Worldwide]] zur Holdinggesellschaft True North Communications 1999. Feldmann wurde eine Schlüsselfigur in diesem milliardenschweren Konstrukt, das nun zu den größten Werbeholdingern der Welt zählte.
+*   **Spätere Tätigkeit:** Nach seiner Agenturkarriere wechselte er nahtlos in die Unternehmensberatung und beriet selbst bei Fusionen und Übernahmen – der Schüler war zum Meister geworden.
 
 ## Bedeutung & Einfluss
-Feldmann war ein typischer Repräsentant der "Manager-Generation" in der Werbung, die die kreativen Pioniere ablöste. Sein Einfluss lag weniger in der Kreation ikonischer Kampagnen, sondern in der strategischen Führung und finanziellen Konsolidierung von Agenturnetzwerken. Er war ein geschickter Verhandler und Integrator, der half, [[FCB]] zu einer globalen Kraft zu formen. Seine Karriere zeigt den Wandel der Branche von agentureigenem Unternehmertum hin zu einer von Finanzholdinggesellschaften dominierten Industrie.
+Feldmanns Vermächtnis ist ambivalent: Er schuf keine ikonischen Kampagnen wie [[Bill Bernbach]] oder [[Leo Burnett]], aber er baute die Infrastruktur, auf der diese Kreativität global skalieren konnte. Er war der Prototyp des modernen Agenturmanagers, der verstand, dass Werbung im Zeitalter der Globalisierung ein Geschäft wie jedes andere war. [ungesichert] Sein Einfluss ebnete den Weg für die vollständige Finanzialisierung der Branche, in der heute globale Konzerne wie WPP und Publicis den Ton angeben. Feldmann bewies, dass man Werbung auch mit Excel-Tabellen statt nur mit创意 (Kreativität) beherrschen konnte.
 
 ## Verbindungen
 *   Agenturen: [[FCB]], [[Bozell Worldwide]], [[True North Communications]], [[Interpublic]] (IPG), [[GWA (Grey/Warner/Abele)]]
 *   Personen: [[Norman W. Brown]], [[Charlie Brower]], [[Don Peppers]]
 
 ## Bildmaterial-Hinweise
-*   Porträtfotos von Andrew Feldmann aus den 1990er Jahren, oft in klassischem Business-Outfit vor einem Agentur- oder Bürohintergrund.
-*   Pressebilder von offiziellen Anlässen zusammen mit [[Norman W. Brown]] oder anderen Führungskräften.
-*   Firmenporträts der [[FCB]]-Zentrale in Chicago aus dieser Zeit.
-*   Anzeigen von FCB-Kampagnen der Ära Feldmann (z.B. für Sega, [[Levi's]], [[Coors]]).
+*   Porträtfotos zeigen Feldmann stets als korrekten Geschäftsmann der 1990er Jahre – akkurater Haarschnitt, dezente Krawatte, der Blick des Managers, nicht des Kreativen.
+*   Pressebilder von Vertragsunterzeichnungen zeigen ihn oft an der Seite des charismatischeren [[Norman W. Brown]], dem er strategisch den Weg bereitete.
+*   Die [[FCB]]-Zentrale in Chicago mit ihrer modernen Architektur symbolisiert den neuen, corporate geprägten Geist der Agentur unter seiner Führung.
+*   Kampagnen aus seiner Ära für [[Levi's]] oder [[Sega]] zeigen den typischen "Big Budget"-Look der 90er: glatt, professionell und global einsetzbar.

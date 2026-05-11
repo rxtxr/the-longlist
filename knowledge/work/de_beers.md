@@ -8,7 +8,6 @@ sources:
 - 'Wikipedia: Mary Frances Gerety (Slogan-Schöpfung)'
 - 'Wikipedia: N.W. Ayer & Son (Agenturbeziehung)'
 - 'Ad Age: Signet and De Beers reflect on the long journey to love (Kampagnengeschichte)'
-- 'Ad Age: De Beers Set to Reboot ''A Diamond is Forever'' (Kampagnenhistorie)'
 tags:
 - campaign
 - n-w-ayer

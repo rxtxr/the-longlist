@@ -1,13 +1,15 @@
 ---
-confidence: low
+confidence: medium
 era: 1965-1990
 id: william_tragos
 last_updated: '2026-05-11'
 related: []
 sources:
-- Quelle 2 (TBWA Worldwide Wikipedia)
-- Quelle 3 (Ad Age Artikel)
-- Quelle 6 (Dialnet Interview)
+- Quelle 1 (TBWA — Wikipédia)
+- Quelle 2 (TBWA Worldwide - Wikipedia)
+- Quelle 3 (Ad Age)
+- Quelle 4 (The New York Times)
+- Quelle 6 (Dialnet)
 tags:
 - agency-founder
 - tbwa
@@ -18,16 +20,15 @@ wave: 7
 ---
 
 ## Überblick
-William "Bill" Tragos war ein US-amerikanischer Werbepionier und Mitbegründer der internationalen Werbeagentur TBWA. Er war einer der vier Gründer von TBWA, einem der größten Werbenetzwerke der Welt[1][2].
+William "Bill" Tragos war ein US-amerikanischer Werbepionier und Mitbegründer der internationalen Werbeagentur TBWA. Er war einer der vier Gründer von TBWA, einem internationalen Werbenetzwerk[1][2][6].
 
 ## Historischer Kontext
-Tragos gründete TBWA in einer Zeit, als multinationale Konzerne zunehmend in Europa expandierten[ungesichert]. Die Agentur positionierte sich als erste Agentur mit europäischer Identität[6].
+Tragos gründete TBWA in einer Zeit, als multinationale Konzerne zunehmend in Europa expandierten [ungesichert]. Die Agentur positionierte sich als erste Agentur mit europäischer Identität[6].
 
 ## Wichtige Details
 *   **Geboren:** William George Tragos[6]
 *   **Gründung von TBWA:** 1970 in Paris gemeinsam mit Claude Bonnange, Uli Wiesendanger und Paolo Ajroldi[1][6]
 *   **Agenturname:** TBWA ist ein Akronym aus den Anfangsbuchstaben der Nachnamen der vier Gründer: Tragos, Bonnange, Wiesendanger, Ajroldi[1][6]
-*   **Persönlichkeit:** Beschrieben als "strong, blustering personal style"[ungesichert]
 *   **Rolle:** TBWA International Chairman-CEO[3]
 
 ## Bedeutung & Einfluss
@@ -35,10 +36,9 @@ TBWA war eine der ersten Agenturen, die von Beginn an als multinationales Netzwe
 
 ## Verbindungen
 *   Gründungspartner: Claude Bonnange, Uli Wiesendanger, Paolo Ajroldi[1][6]
-*   Ehemaliger Arbeitgeber: Young & Rubicam[ungesichert]
 *   Fusion: Chiat/Day (1993)[1][3]
 
 ## Bildmaterial-Hinweise
-*   Porträtfotos von William Tragos[ungesichert]
-*   Historische Gruppenfotos der vier TBWA-Gründer[ungesichert]
-*   Logo-Evolution von TBWA[ungesichert]
+*   Porträtfotos von William Tragos [ungesichert]
+*   Historische Gruppenfotos der vier TBWA-Gründer [ungesichert]
+*   Logo-Evolution von TBWA [ungesichert]

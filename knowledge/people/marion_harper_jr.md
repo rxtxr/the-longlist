@@ -2,15 +2,44 @@
 confidence: low
 era: 1940-1970
 id: marion_harper_jr
+images:
+- artist: Various
+  caption: Harper's Monthly Magazine
+  copyright_status: public_domain
+  height: 2416
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AHarper%27s%20Monthly%20Magazine%2C%20Volume%20119.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Harper%27s_Monthly_Magazine%2C_Volume_119.pdf/page1-500px-Harper%27s_Monthly_Magazine%2C_Volume_119.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Harper%27s_Monthly_Magazine%2C_Volume_119.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1618
+- artist: Various
+  caption: Harper's Monthly Magazine
+  copyright_status: public_domain
+  height: 2527
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AHarper%27s%20Monthly%20Magazine%2C%20Volume%20126.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Harper%27s_Monthly_Magazine%2C_Volume_126.pdf/page1-500px-Harper%27s_Monthly_Magazine%2C_Volume_126.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/7/75/Harper%27s_Monthly_Magazine%2C_Volume_126.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1516
+- artist: Various
+  caption: Harper's Monthly Magazine
+  copyright_status: public_domain
+  height: 1745
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AHarper%27s%20Monthly%20Magazine%2C%20Volume%20136.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Harper%27s_Monthly_Magazine%2C_Volume_136.pdf/page1-500px-Harper%27s_Monthly_Magazine%2C_Volume_136.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/2/21/Harper%27s_Monthly_Magazine%2C_Volume_136.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1187
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Ad Age: Marion Harper Jr. Biografie'
+- 'Ad Age: Marion Harper Jr. (2016-1989)'
 - 'Ad Age: INTERPUBLIC FOUNDER MARION HARPER RESIGNS'
-- 'New York Times: Nachruf auf Marion Harper Jr.'
+- 'Ad Age: 75th Annual Agency Report Timeline'
+- 'New York Times: Marion Harper Jr. Obituary'
 - 'Wikipedia: American Advertising Federation Hall of Fame'
-- 'Wikipedia: Time Magazine Cover List'
-- 'Wikipedia: Advertising Age Top 100'
+- 'Wikipedia: List of covers of Time magazine (1960s)'
+- 'Wikipedia: Advertising Age'
 tags:
 - holding_company
 - mergers_acquisitions

@@ -6,11 +6,13 @@ last_updated: '2026-05-11'
 related: []
 sources:
 - Wikipedia EN - Biografische Daten und Karriereverlauf
-- Wikipedia FR - Zusammenarbeit mit Magazinen
-- Wikipedia ES - Bedeutung in der Fotografie
-- AdAge - Werbearbeit für Levi's
-- The Eye of Photography - Buchpublikation Avedon Advertising
-- Amazon - Inhalt des Werks Avedon Advertising
+- Wikipedia FR - Magazine-Zusammenarbeit
+- Wikipedia ES - Tod und Bedeutung
+- Wikipedia DE - Ausbildung bei Brodovitch
+- Ad Age - Werbelegacy
+- Ad Age - Levi's Kampagne
+- L'Oeil de la Photographie - Avedon Advertising Buch
+- Amazon - Avedon Advertising Publikation
 tags:
 - Fotografie
 - Mode
@@ -37,7 +39,7 @@ Avedons Karriere erstreckte sich von den 1940er Jahren bis in die 2000er Jahre [
 Avedons Einfluss auf die Modefotografie war bedeutend [1][3]. Er hob die Produktfotografie auf eine künstlerische Ebene [5][9]. Sein Werk inspirierte Generationen von Fotografen [ungesichert].
 
 ## Verbindungen
-Avedon arbeitete mit Harper's Bazaar, [[Vogue (Magazin)]] und Elle zusammen [1][2]. Er wurde von [[Alexey Brodovitch]] gefördert [4]. Sein Einfluss auf spätere Fotografen wie [[Annie Leibovitz]] ist nicht direkt belegt [ungesichert].
+Avedon arbeitete mit Harper's Bazaar, Vogue und Elle zusammen [1][2]. Er wurde von Alexey Brodovitch gefördert [4]. Sein Einfluss auf spätere Fotografen wie Annie Leibovitz ist nicht direkt belegt [ungesichert].
 
 ## Bildmaterial-Hinweise
 *   **Fotografien:** Zahlreiche ikonische Anzeigen für verschiedene Marken [5][9].

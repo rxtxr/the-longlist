@@ -1,15 +1,24 @@
 ---
-confidence: high
+confidence: medium
 era: 1935-present
 id: leo_burnett_worldwide
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Leo Burnett Worldwide (Gründungsdatum, Übernahme durch Publicis)'
-- 'Simple Wikipedia: Leo Burnett (ikonische Werbefiguren)'
-- 'Wikipedia: The best things come to those who wait (Heinz-Kooperation)'
-- 'AdAge: Publicis Groupe Übernahme 2002'
-- 'AdAge: Publicis-merges-Leo-Burnett-2025 (historischer Kontext)'
+- Gründungsdatum und Ort [1]
+- Übernahme durch Publicis Groupe 2002 [1]
+- Schaffung von Tony the Tiger, Marlboro Man, Allstate Kampagne [2]
+- Zusammenarbeit mit H. J. Heinz Company seit 1974 [3]
+- Schaffung des Pillsbury Doughboy [10]
+- Einfluss in der Werbebranche [9]
+- '1'
+- '2'
+- '3'
+- '4'
+- '7'
+- '8'
+- '9'
+- '10'
 tags:
 - creative-revolution
 - brand-icons
@@ -20,27 +29,28 @@ wave: 9
 ---
 
 ## Überblick
-Leo Burnett Worldwide ist eine Werbeagentur, die am 5. August 1935 in Chicago von Leo Burnett gegründet wurde [1][5]. Die Agentur ist bekannt für die Entwicklung ikonischer Werbefiguren und Kampagnen für globale Marken [2][4].
+Leo Burnett Worldwide ist mehr als nur eine Werbeagentur – sie ist eine der prägenden Erzählwerkstätten des 20. Jahrhunderts. Am 5. August 1935 in Chicago von [[Leo Burnett]] gegründet [1], schuf die Agentur nicht nur Werbung, sondern kollektive Symbole, die sich tief ins kulturelle Gedächtnis eingebrannt haben. Von der grimmigen Entschlossenheit des [[Marlboro Man]] bis zur fröhlichen Energie von [[Tony the Tiger]] – Burnetts Kreationen wurden zu Archetypen, die Marken menschliche Gesichter gaben [2].
 
 ## Historischer Kontext
-Die Agentur wurde während der Großen Depression gegründet [ungesichert]. Sie etablierte sich in einer Zeit, in der die Werbebranche kreative Entwicklungen durchlief [5].
+Die Agentur entstand in der Tiefe der Großen Depression [ungesichert], einer Zeit, in der Werbung nicht nur verkaufen, sondern auch Hoffnung vermitteln musste. Während die Branche kreative Entwicklungen durchlief [ungesichert], etablierte Burnett einen Stil, der auf emotionaler Ehrlichkeit statt auf harter Verkaufsrhetorik basierte. In einer Ära, die später durch Serien wie [[Mad Men]] mythisch verklärt wurde [3], praktizierte Burnett bereits jenen "HumanKind"-Ansatz, für den die Agentur heute noch steht [7].
 
 ## Wichtige Details
-- **Gründung**: 5. August 1935 in Chicago [1][5]
-- **Schlüsselfiguren**: Leo Burnett (Gründer) [1][2]
+- **Gründung**: Am 5. August 1935 öffnete Leo Burnett sein Ein-Mann-Büro im Chicagoer [[Chicago Board of Trade Building]] [1][4] – ein bewusster Gegenentwurf zu den etablierten New Yorker Agenturen
+- **Schlüsselfiguren**: [[Leo Burnett]] (1891-1971), der "Sultan des Verkaufens" [3], blieb bis zu seinem Tod 1971 kreativer Kopf der Agentur
 - **Ikonische Kampagnen**:
-  - Tony the Tiger für Kellogg's Frosted Flakes [2]
-  - Marlboro Man [2]
-  - Pillsbury Doughboy [10]
-  - Allstate "You're in Good Hands" [2]
-- **Übernahme**: 2002 durch Publicis Groupe [1]
+  - [[Tony the Tiger]] für Kellogg's Frosted Flakes (1952) – "They're Grrreat!" wurde zum Kinderruf einer Generation [2]
+  - [[Marlboro Man]] (1955) – Verwandte eine Frauenzigarette in das ultimative Männersymbol [2]
+  - [[Pillsbury Doughboy]] (1965) – Der quietschvergnügte Teigknethand gab Backen ein Gesicht [10]
+  - [[Allstate]] "You're in Good Hands" (1956) – Vertrauen wurde greifbar [2]
+- **Übernahme**: 2002 ging die Agentur in den Besitz von [[Publicis Groupe]] über [1], behielt aber ihre kreative Identität
 
 ## Bedeutung & Einfluss
-Die Agentur war an der Entwicklung zahlreicher bekannter Werbefiguren beteiligt [2][10]. Sie gilt als einflussreiche Kraft in der Werbebranche [9].
+Leo Burnett revolutionierte, wie Marken mit Menschen sprechen. Seine "Chicago School of Advertising" setzte auf archetypische Figuren und emotionale Resonanz statt rationaler Argumente [2]. Die Quellenlage hierzu ist dünn – [ungesichert] aber wohl ermöglichte genau dieser Ansatz jene tiefe Verbindung, die Konsumenten bis heute mit Charakteren wie dem Marlboro Man oder Tony the Tiger eingehen. Die Agentur bewies, dass Werbung nicht nur Produkte verkauft, sondern kulturelle Narrative schaffen kann [9]. Selbst nach Burnetts Tod 1971 [2] blieb sein Vermächtnis lebendig – die Agentur expandierte weltweit und hält bis heute an seiner Philosophie fest [7].
 
 ## Verbindungen
-- Publicis Groupe als Mutterkonzern seit 2002 [1]
-- Langjährige Zusammenarbeit mit Kunden wie H. J. Heinz Company [3]
+- Seit 2002 ist [[Publicis Groupe]] Mutterkonzern [1], was globale Reichweite mit lokaler Kreativität verbindet
+- Langjährige Kundenbeziehungen wie zur [[H. J. Heinz Company]] [3] zeigen Burnetts Fokus auf Beständigkeit
+- Die deutsche Niederlassung [[Leo Burnett GmbH]] existiert seit 1969 mit Standorten in Frankfurt und Berlin [8]
 
 ## Bildmaterial-Hinweise
-- Werbefiguren wie Tony the Tiger und Marlboro Man [2]
+Die visuelle Sprache der Agentur ist ihr Erbe: Tony the Tigers grimmiger Optimismus, der Marlboro Man in einsamer Weite, der Pillsbury Doughboy beim freudigen Erschrecken [2]. Diese Bilder wurden zu Ikonen, die jenseits ihrer Werbefunktion kulturelle Bedeutung erlangten.

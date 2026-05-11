@@ -5,12 +5,11 @@ id: mary_wells_lawrence_erste_weibliche_agentur_ceo
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Mary Wells Lawrence - Führungsposition und American Motors Etat'
-- 'Simple Wikipedia: Gründung von Wells Rich Greene'
-- 'Ad Age: Geburtsdaten und Karrierebeginn'
-- 'Britannica: Alka-Seltzer und Ford Kampagnen'
-- 'Wikipedia: I Love New York Kampagne'
-- 'Ad Age: Todestag'
+- 'Wikipedia: Mary Wells Lawrence'
+- 'Simple English Wikipedia: Mary Wells Lawrence'
+- 'Ad Age: Lawrence, Mary Wells (1928-2024)'
+- 'Britannica: Mary Wells Lawrence'
+- 'Wikipedia: I Love New York'
 tags:
 - Braniff
 - CEO

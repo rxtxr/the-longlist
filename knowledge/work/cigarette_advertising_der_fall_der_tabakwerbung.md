@@ -5,11 +5,11 @@ id: cigarette_advertising_der_fall_der_tabakwerbung
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Nicotine marketing (Quelle 1)'
-- 'Wikipedia: Surrogate advertising (Quelle 2)'
-- 'Wikipedia: Datei:Klingenberg Ratty-Batty.jpg (Quelle 3)'
-- 'WashU Libraries: Seeing through the Smoke of Vintage Cigarette Ads (Quelle 9)'
-- 'Brandvertising: The Marlboro Man Phenomenon (Quelle 10)'
+- 'Wikipedia: Nicotine marketing (Federal Trade Commission Zahlen 1999)'
+- 'Wikipedia: Surrogate advertising (Indischer Cigarette Advertising Act 1975)'
+- WashU Libraries (Warnhinweise 1966)
+- Brandvertising (Leo Burnett und Marlboro-Kampagne)
+- 'Wikipedia: Datei:Klingenberg Ratty-Batty.jpg (Historische Werbung 1910)'
 tags:
 - Tabakwerbung
 - Zigaretten
@@ -21,7 +21,7 @@ wave: 0
 ---
 
 ## Überblick
-Cigarette Advertising, auch bekannt als Tabakwerbung, beziehtich auf die Werbestrategien und -kampagnen, die von Tabakunternehmen eingesetzt werden, um Zigaretten und andere Tabakerzeugnisse zu bewerben. Diese Form der Werbung war über Jahrzehnte hinweg ein wichtiger Teil der Werbebranche [ungesichert]. Die Geschichte der Tabakwerbung ist eng mit Kontroversen und Gesundheitsbedenken verbunden.
+Cigarette Advertising, auch bekannt als Tabakwerbung, bezieht sich auf die Werbestrategien und -kampagnen, die von Tabakunternehmen eingesetzt werden, um Zigaretten und andere Tabakerzeugnisse zu bewerben. Diese Form der Werbung war über Jahrzehnte hinweg ein wichtiger Teil der Werbebranche [ungesichert]. Die Geschichte der Tabakwerbung ist eng mit Kontroversen und Gesundheitsbedenken verbunden.
 
 ## Historischer Kontext
 Die Geschichte der Tabakwerbung begann bereits im späten 19. Jahrhundert [ungesichert]. In den 1920er und 1930er Jahren erlebte die Tabakwerbung einen Höhepunkt, als Unternehmen wie Lucky Strike und Camel mit groß angelegten Werbekampagnen begannen [ungesichert]. Diese Kampagnen zielten darauf ab, Zigaretten als ein Symbol von Eleganz, Freiheit und Modernität darzustellen [ungesichert].

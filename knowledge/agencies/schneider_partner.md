@@ -4,7 +4,9 @@ era: 1980-2010
 id: schneider_partner
 last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Alliance Partner Program - Schneider Electric
+- Hinter den Kulissen der Schneider + Partner Beratergruppe
 tags:
 - packaging-design
 - branding
@@ -17,27 +19,27 @@ wave: 18
 ---
 
 ## Überblick
-Schneider + Partner war eine bedeutende deutsche Werbeagentur, die vor allem für ihre Arbeit im Bereich Packaging Design bekannt wurde. Sie etablierte sich als Spezialist für eine Disziplin, bei der die unmittelbare visuelle Wirkung auf dem Point of Sale entscheidend ist. Ihre Bedeutung liegt in der konsequenten Fokussierung auf diesen hochgradig wettbewerbsintensiven Teilbereich der Markenkommunikation.
+Schneider + Partner war eine der prägenden Spezialagenturen im deutschen Werbegeschäft, die sich in den 1980er Jahren gezielt auf Packaging Design konzentrierte. In einer Zeit, in der der Kampf um die Aufmerksamkeit im Supermarkt immer härter wurde, perfektionierte die Agentur die Kunst der unmittelbaren Regalwirkung. Ihre Arbeit zeigt, wie aus einer vermeintlichen Nische ein entscheidender Wettbewerbsvorteil werden kann — und wie sich eine klassische Design-Agentur im digitalen Wandel neu erfinden musste.
 
 ## Historischer Kontext
-Die Agentur wurde in den 1980er Jahren gegründet, einer Zeit, in der sich der deutsche Markt nach der [[Kreativ-Revolution]] zunehmend ausdifferenzierte. Während große [[Full-Service-Agenturen]] wie [[GGK]] oder [[Scholz & Friends]] umfassende Kampagnen entwickelten, entstanden zunehmend spezialisierte Boutiquen. Gleichzeitig gewann die Verpackung als Marketinginstrument durch den Boom der Supermärkte und die zunehmende Konkurrenz in den Regalen massiv an Bedeutung.
+Die 1980er Jahre waren in Deutschland eine Epoche der Werbespezialisierung. Während die großen [[Full-Service-Agenturen]] wie [[GGK]] oder [[Scholz & Friends]] ganzheitliche Kampagnen entwickelten, entstanden plötzlich Boutiquen für jedes erdenkliche Segment. Parallel explodierte die Bedeutung der Verpackung als Marketinginstrument: Der Siegeszug der Supermärkte und die Flut neuer Produkte verwandelten das Regal in einen Schlachtfeld der Marken. Hier entschied sich in Sekundenbruchteilen, ob ein Produkt gekauft oder ignoriert wurde.
 
 ## Wichtige Details
-*   **Gründung:** Die genaue Gründungsjahrzahl ist aus den öffentlich zugänglichen Quellen nicht zweifelsfrei zu ermitteln, lag aber sehr wahrscheinlich in den 1980er Jahren. Der Fokus auf Packaging Design als Kernkompetenz wurde früh etabliert.
+*   **Gründung:** Die Agentur wurde [ungesichert] in den 1980er Jahren gegründet. Der genaue Zeitpunkt lässt sich aus öffentlichen Quellen nicht zweifelsfrei rekonstruiert, doch die Wahl der Spezialisierung war typisch für den Zeitgeist. Die Gründer erkannten früh, dass Verpackungsdesign mehr war als dekorative Hülle — es war die letzte und entscheidende Werbebotschaft vor dem Kauf.
 *   **Standort:** Die Agentur war in Deutschland ansässig.
-*   **Namensänderung/Entwicklung:** Die ursprüngliche Bezeichnung "Schneider + Partner" wurde später in "SCHNEIDER UND PARTNER AG" formalisiert, was auf ein Wachstum und eine strukturelle Weiterentwicklung hinweist.
-*   **Spezialisierung:** [[Das Portfolio (Book) — wie Kreative Jobs bekommen, zeigen und bewacht werden]] konzentrierte sich auf die strategische Entwicklung und Gestaltung von Verpackungslösungen. Die Philosophie war, dass eine Verpackung auf den ersten Blick wirken und ohne lange Erklärungen auskommen muss.
-*   **Wandel:** Wie viele klassische Agenturen stand auch Schneider + Partner vor der Herausforderung der Digitalisierung. Der Wandel von einer auf Print und Packaging fokussierten Werbeagentur hin zu einer Agentur mit digitaler Expertise (Digitalagentur) war ein zentraler Entwicklungsschritt, der die Anpassungsfähigkeit des Unternehmens an die veränderten Marktanforderungen zeigt.
+*   **Namensänderung/Entwicklung:** Die ursprüngliche Bezeichnung "Schneider + Partner" wurde später zur "SCHNEIDER UND PARTNER AG" formalisiert — ein klassischer Schritt, der Wachstum und zunehmende Professionalisierung signalisierte. Die Quellenlage hierzu ist dünn — [ungesichert] könnte diese Änderung mit der Erweiterung des Leistungsspektrums oder neuen Gesellschafterstrukturen zusammenhängen.
+*   **Spezialisierung:** Schneider + Partner konzentrierte sich auf [[Das Portfolio (Book) — wie Kreative Jobs bekommen, zeigen und bewacht werden]] die strategische Entwicklung und Gestaltung von Verpackungslösungen. Ihre Philosophie war radikal einfach: Eine Verpackung muss ohne Worte funktionieren. Sie muss im Regal aufblitzen, Vertrauen erzeugen und den Griff der Hand provozieren. Diese Disziplin verlangte ein besonderes Gespür für Farbpsychologie, Typografie und haptische Materialien.
+*   **Wandel:** Wie viele klassische Agenturen stand auch Schneider + Partner vor der Übermacht der Digitalisierung. Der Transformationsprozess von einer auf Print und Packaging fokussierten Werbeagentur hin zu einer Agentur mit digitaler Expertise (Digitalagentur) war ein Überlebensimperativ. [ungesichert] Dieser Wandel war wahrscheinlich schmerzhaft — erforderte er doch komplett neue Kompetenzen und eine Abkehr vom Kerngeschäft, das jahrzehntelang erfolgreich war.
 
 ## Bedeutung & Einfluss
-Schneider + Partner war ein Prototyp der spezialisierten Design-Boutique, die sich erfolgreich in einer Nische gegen die großen Netzwerkagenturen behauptete. Sie demonstrierte, wie wichtig hochspezialisierte Expertise in einem Teilbereich der Kreativbranche sein kann. Ihr Ansatz, Verpackung primär als visuelles und haptisches Kommunikationsmittel an der entscheidenden Schnittstelle zum Konsumenten zu begreifen, hatte Einfluss auf die Design-Philosophie in der gesamten Konsumgüterbranche. Ihr eigener Transformationsprozess hin zur Digitalagentur ist ein exemplarisches Beispiel für den branchenweiten Wandel, den Agenturen seit den 2000er Jahren durchlaufen mussten.
+Schneider + Partner war mehr als eine Agentur — sie war ein Beweis dafür, wie Spezialisierung zum Erfolgsmodell werden konnte. In einer Branche, die zunehmend von globalen Netzwerken dominiert wurde, zeigte sie, dass tiefgehende Expertise in einer Disziplin oft mächtiger ist als oberflächliche Alleskönnerei. Ihr Ansatz, Verpackung als primäres Kommunikationsmittel zu begreifen, beeinflusste die Design-Philosophie zahlreicher Konsumgüterhersteller. Noch bedeutsamer ist ihr späterer Wandel: Schneider + Partner wurde zum exemplarischen Fall für die digitale Transformation der gesamten Branche. Während Agenturen wie [[MetaDesign]] oder [[Interbrand]] bei Corporate Design blieben, mussten Verpackungsspezialisten lernen, dass die Welt nicht mehr analog dachte.
 
 ## Verbindungen
-Ihre Arbeit steht im Kontext anderer auf Design und Markenführung spezialisierter Häuser wie [[MetaDesign]] oder [[Interbrand]]. Der allgemeine Trend zur Spezialisierung, den sie repräsentiert, ist eine direkte Folge der Ausdifferenzierung des Marktes nach der Ära von [[Bill Bernbach]] und [[David Ogilvy]]. Der später vollzogene Wandel zur Digitalagentur verbindet sie mit der gesamten Branche und Entwicklungen bei großen Netzwerken wie [[OMD]] oder [[AKQA]].
+Ihre Arbeit steht im Kontext anderer Design-Spezialisten wie [[MetaDesign]] oder [[Interbrand]]. Der allgemeine Trend zur Spezialisierung, den sie repräsentierte, ist eine direkte Folge der Ausdifferenzierung des Marktes nach der Ära von [[Bill Bernbach]] und [[David Ogilvy]]. Ihr späterer Wandel zur Digitalagentur verbindet sie mit der gesamten Branche und Entwicklungen bei großen Netzwerken wie [[OMD]] oder [[AKQA]].
 
 ## Bildmaterial-Hinweise
 Historisches Bildmaterial wäre vor allem in folgenden Bereichen zu finden:
 *   **Firmenlogo:** Das Logo der Agentur in seinen verschiedenen Entwicklungsstufen (Schneider + Partner / SCHNEIDER UND PARTNER AG).
-*   **Portfolio-Beispiele:** Hochwertige Fotografien von Verpackungsdesigns, die von der Agentur entwickelt wurden (für Lebensmittel, Getränke, Konsumgüter).
-*   **Teamfotos:** Bilder des Agenturteams aus den 1990er oder frühen 2000er Jahren, die die Arbeitsumgebung zeigen.
-*   **Büro-Interieur:** Fotos der Agenturräume, die den Arbeitsstil und die Unternehmenskultur widerspiegeln.
+*   **Portfolio-Beispiele:** Hochwertige Fotografien von Verpackungsdesigns, die von der Agentur entwickelt wurden (für Lebensmittel, Getränke, Konsumgüter). Diese Bilder würden die visuelle Kraft ihrer Arbeit unmittelbar zeigen.
+*   **Teamfotos:** Bilder des Agenturteams aus den 1990er oder frühen 2000er Jahren, die die Arbeitsumgebung und Kultur dieser spezialisierten Boutique einfangen.
+*   **Büro-Interieur:** Fotos der Agenturräume, die den Arbeitsstil und die Unternehmenskultur widerspiegeln — vielleicht mit Regalen voller Prototypen und Materialmuster.

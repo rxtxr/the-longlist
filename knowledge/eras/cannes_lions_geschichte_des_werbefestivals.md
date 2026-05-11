@@ -5,10 +5,11 @@ id: cannes_lions_geschichte_des_werbefestivals
 last_updated: '2026-05-11'
 related: []
 sources:
-- Quelle 2 (Design Lions 2008, Mobile Lions 2012)
-- Quelle 5 (Gründung 1954, Bedeutung als Branchenbarometer)
-- Quelle 7 (Lee Clow und Apple '1984' Kampagne)
-- Quelle 10 (Gründung in Venedig, Umzug nach Cannes 1984)
+- 'Quelle 5 (Campaignlive.co.uk): Gründung 1954, Umbenennung und Ortswechsel 1984,
+  Bedeutung als Branchenbarometer'
+- 'Quelle 10 (deutsche Wikipedia): Gründung 1954 in Venedig, Umzug nach Cannes 1984'
+- 'Quelle 2 (russische Wikipedia): Einführung Design Lions 2008, Mobile Lions 2012'
+- 'Quelle 7 (Zappi): Lee Clows Beteiligung an Apple ''1984'' und Cannes Lions Gewinn'
 tags:
 - festival
 - awards
@@ -21,7 +22,7 @@ wave: 20
 ---
 
 ## Überblick
-Das Cannes Lions International Festival of Creativity ist ein bedeutendes Festival der Werbe- und Kommunikationsbranche [4][8]. Es fungiert als Branchentreffpunkt und setzt globale Trends [2][5]. Seine Auszeichnungen, die "Lions", gelten als internationaler Verdienstpreis für Werbung [ungesichert].
+Das Cannes Lions International Festival of Creativity ist ein bedeutendes Festival der Werbe- und Kommunikationsbranche [4][8]. Es fungiert als Branchentreffpunkt und setzt globale Trends [2][5]. Seine Auszeichnungen gelten als internationaler Verdienstpreis für Werbung [ungesichert].
 
 ## Historischer Kontext
 Das Festival wurde 1954 gegründet [5][10]. Die ersten Jahre waren stark von Kino- und Printwerbung geprägt [ungesichert].

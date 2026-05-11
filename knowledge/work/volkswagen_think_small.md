@@ -5,15 +5,12 @@ id: volkswagen_think_small
 last_updated: '2026-05-11'
 related: []
 sources:
-- Erwähnung als beste Kampagne des 20. Jh. in AdAge [1][2][3]
-- Entstehung in den 1960er Jahren [2][3]
-- Beteiligung von DDB [1][2][3]
-- Beteiligung von Helmut Krone, Julian Koenig und William Bernbach [8]
-- Minimalistisches Design mit Weißraum [4][6][9]
-- Wendepunkt für Werbebranche [2][3][9]
-- Vorbildfunktion für Werber [9]
-- Beschreibung der 'Think Small'-Anzeige [4][6]
-- Erwähnung der 'Lemon'-Anzeige [8]
+- Earth Day - Wikipedia
+- DDB Worldwide - Wikipedia
+- William Bernbach - Wikipedia
+- 65 Years Ago, DDB Dared Americans to 'Think Small' - Adweek
+- Think Small - Wikipedia
+- 'Volkswagen: Think Small — The Poster That Blew Up Advertising - Medium'
 tags:
 - Kreativrevolution
 - Automobilwerbung

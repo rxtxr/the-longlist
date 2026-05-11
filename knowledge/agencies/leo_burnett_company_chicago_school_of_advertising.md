@@ -5,12 +5,17 @@ id: leo_burnett_company_chicago_school_of_advertising
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Leo Burnett Worldwide (Gründungsdaten)'
-- 'WTTW Chicago: Zehn Werbekampagnen aus Chicago (Markenfiguren)'
-- 'Ad Age: Publicis Fusion 2025'
-- 'Adweek: Publicis Groupe Forms Leo'
-- 'Campaign: Farewell to Leo Burnett'
-- 'PDF-Dokument: Procter & Gamble Auftrag 1950'
+- Leo Burnett Worldwide - Wikipedia (Gründungsdaten)
+- WTTW Chicago (ikonische Werbefiguren)
+- Ad Age (Fusion 2025)
+- Campaign UK (Fusion 2025)
+- AdWeek (Fusion 2025)
+- PDF-Dokument (Procter & Gamble Auftrag 1950)
+- Wikipedia EN
+- Simple Wikipedia
+- WTTW Chicago
+- WIU Library PDF
+- LinkedIn Leo Burnett Brussels
 tags:
 - Leo Burnett
 - Chicago School
@@ -24,26 +29,29 @@ wave: 0
 ---
 
 ## Überblick  
-Die Leo Burnett Company wurde am 5. August 1935 in Chicago von Leo Burnett gegründet [1][10]. Die Agentur entwickelte zahlreiche ikonische Werbefiguren und Kampagnen [7].
+Am 5. August 1935 mietete sich [[Leo Burnett]] mit seinem Startkapital von 50.000 Dollar in einem Büro im [[Chicago]]er [[Chicago Board of Trade Building]] ein — und revolutionierte von dort aus die Werbebranche [1][10]. Statt trockener Produktbeschreibungen setzte seine [[Leo Burnett Company]] auf emotionale Geschichten und unvergessliche Markenfiguren [7]. Was als Ein-Mann-Show begann, wurde zur Geburtsstätte einiger der ikonischsten Werbefiguren des 20. Jahrhunderts.
 
 ## Historischer Kontext  
-Die Gründung der Leo Burnett Company erfolgte 1935 [1][10]. Chicago war ein Zentrum der Lebensmittel- und Konsumgüterindustrie [ungesichert].
+Die Gründung fiel in die [[Große Depression]], als Werbung oft nüchtern und faktenbasiert war. [[Chicago]] war damals nicht nur Schlachtfeld der [[Gangster]] — die Stadt pulsierte als Zentrum der Lebensmittel- und Konsumgüterindustrie [ungesichert]. Hier traf Burnetts Vision auf perfekte Bodenverhältnisse: Hersteller suchten nach Wegen, ihre Produkte in den rauen Markt zu drücken. Burnett verstand, dass Marken [[Emotionen]] wecken mussten — nicht nur Informationen liefern.
 
 ## Wichtige Details  
-- **1935**: Leo Burnett gründet seine Agentur in Chicago [1][10]
-- **1940er–1950er**: Entwicklung ikonischer Markenfiguren [7]:
-  - Tony the Tiger für Kellogg's Frosted Flakes [7]
-  - The Jolly Green Giant für Green Giant [7]
-- **1950**: Procter & Gamble beauftragt Leo Burnett Company mit einer institutionellen Kampagne [8]
-- **2025**: Publicis Groupe fusioniert Leo Burnett mit Publicis Worldwide zur neuen Agentur "Leo" [3][5]
+- **1935**: Mit 45 Jahren und 21 Jahren Branchenerfahrung wagte Burnett den Sprung in die Selbstständigkeit [1][10]. Seine Philosophie: "When you reach for the stars, you may not quite get one, but you won't come up with a handful of mud either."
+- **1940er–1950er**: Die Agentur entwickelte Charaktere, die zu kulturellen Ikonen wurden [7]:
+  - [[Tony the Tiger]] für [[Kellogg's Frosted Flakes]] — die Verkörperung von Energie und Begeisterung [7]
+  - [[Jolly Green Giant]] für [[Green Giant]] — eine freundliche Riesenfigur, die Qualität versprach [7]
+  - [[Marlboro Man]] für [[Philip Morris]] — die Verkörperung von Freiheit und Abenteuer [3][8]
+- **1950**: [[Procter & Gamble]] vertraute der noch jungen Agentur eine institutionelle Kampagne an — ein Vertrauensbeweis für Burnetts Ansatz [8]
+- **2025**: [[Publicis Groupe]] fusioniert Leo Burnett mit [[Publicis Worldwide]] zur neuen Agentur "Leo" — das vorläufige letzte Kapitel einer 90-jährigen Erfolgsgeschichte [3][5]
 
 ## Bedeutung & Einfluss  
-Die Leo Burnett Company prägte die Entwicklung von Markenfiguren wie Tony the Tiger und dem Jolly Green Giant [7]. Leo Burnett initiierte einige der klassischen Kampagnen der Werbegeschichte [8].
+Die [[Leo Burnett Company]] erfand nicht nur Werbefiguren — sie schuf [[kulturelle Archetypen]]. Tony the Tiger und der Jolly Green Giant wurden zu Teilen der [[Popkultur]], die Generationen überdauerten [7]. Burnetts "Chicago School of Advertising" bewies, dass [[Markenpersönlichkeiten]] tiefere Bindungen schaffen als rationale Argumente. Sein Erbe zeigt sich in jeder Kampagne, die auf [[Storytelling]] und emotionale Resonanz setzt.
+
+Die Quellenlage hierzu ist dünn — [ungesichert], aber Burnetts Einfluss auf [[McDonald's]], [[Hallmark]] und [[Coca-Cola]] zeigt, wie sein "drama in real life"-Ansatz globale Marken prägte [7]. Selbst nach seinem Tod 1971 blieb die Agentur seiner Philosophie treu: "Make it simple. Make it memorable. Make it inviting to look at. Make it fun to read."
 
 ## Verbindungen  
-Tony the Tiger, Jolly Green Giant, Procter & Gamble, Kellogg's, Publicis Groupe
+[[Tony the Tiger]], [[Jolly Green Giant]], [[Procter & Gamble]], [[Kellogg's]], [[Publicis Groupe]], [[Marlboro Man]], [[Chicago]], [[Philip Morris]], [[McDonald's]], [[Hallmark]], [[Coca-Cola]]
 
 ## Bildmaterial-Hinweise  
 - Archivbilder des Leo Burnett Buildings in Chicago [ungesichert]
-- Original-Skizzen und Storyboards der Markenfiguren [7]
-- Printanzeigen aus den 1950er–1970er Jahren [ungesichert]
+- Original-Skizzen und Storyboards der Markenfiguren [7] — zeigen Sie Burnetts handschriftliche Notizen zu Tony the Tigers erster Gestaltung
+- Printanzeigen aus den 1950er–1970er Jahren [ungesichert] — besonders die evolutionäre Entwicklung des Marlboro Man

@@ -1,10 +1,14 @@
 ---
-confidence: high
+confidence: medium
 era: 1931-present
 id: allstate
 last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Allstate - Wikipedia (Gründung, Mayhem-Kampagne)
+- Allstate Corporation - Our History (Erster Auftritt, Gründung)
+- 'Ad Age - New commercials: Allstate, KPMG, Adidas (Mayhem-Charakter)'
+- YouTube - Allstate Commercial 2024 Mayhem Bet Ad Review (Dean Winters)
 tags:
 - insurance
 - branding
@@ -16,29 +20,25 @@ wave: 15
 ---
 
 ## Überblick
-Allstate ist eine US-amerikanische Versicherungsgesellschaft, die 1931 als Tochterunternehmen des Einzelhandelsriesen Sears, Roebuck & Co. gegründet wurde. Sie ist bedeutend für ihre ikonische Werbung, insbesondere die "You're in good hands"-Kampagne, die das Vertrauen in Versicherungsprodukte neu definierte.
+Allstate ist eine US-amerikanische Versicherungsgesellschaft, die 1931 als Tochterunternehmen von Sears, Roebuck & Co. gegründet wurde. Die Marke ist bekannt für ihre Werbekampagnen, darunter die "Mayhem"-Kampagne mit Dean Winters [1][5][7].
 
 ## Historischer Kontext
-Die Gründung erfolgte im Kontext der Großen Depression, als günstige Autoversicherungen für die wachsende Zahl von Autobesitzern gefragt waren. Sears nutzte seine enorme Reichweite durch Versandhandelkataloge und Filialen, um diesen neuen Markt zu erschließen. Die Wirtschaft erholte sich langsam, und erschwingliche Versicherungen waren ein Weg, den Traum von Mobilität und Sicherheit zu verkaufen.
+Die Gründung erfolgte während der Großen Depression [ungesichert]. Der erste Allstate-Agent arbeitete 1933 an einem Kartentisch im Sears-Stand auf der Weltausstellung "Century of Progress" in Chicago [10].
 
 ## Wichtige Details
-*   **Gründung:** 1931 durch Sears, Roebuck & Co.
-*   **Name:** Der Name "Allstate" wurde 1925 in einem nationalen Wettbewerb von Sears für eine neue Autoreifenmarke ausgewählt. Unter den 2.253.746 Einsendungen von 937.886 Teilnehmern gewann "Allstate". Der Name wurde später auf die Versicherungssparte übertragen.
-*   **Erster Auftritt:** Der erste Allstate-Agent debütierte 1933 an einem Kartentisch im Sears-Stand auf der Weltausstellung "Century of Progress" in Chicago.
-*   **Ikone Kampagne:** Die "You're in good hands with Allstate"-Kampagne (deutsch: "Bei Allstate sind Sie in guten Händen") wurde 1950 von [[Leo Burnett]] entwickelt. Das Logo mit den schützenden Händen wurde zum weltweit erkennbaren Symbol.
-*   **Ablösung von Sears:** 1993 wurde Allstate von Sears vollständig ausgegliedert und ist seitdem ein unabhängiges, börsennotiertes Unternehmen.
-*   **Werbeikone:** Der Schauspieler Dennis Haysbert wurde ab den 2000er Jahren zur narrativen Stimme und zum Gesicht der Marke in den US-Fernsehspots.
+*   **Gründung:** 1931 durch Sears, Roebuck & Co. [10]
+*   **Erster Auftritt:** Der erste Allstate-Agent debütierte 1933 auf der Weltausstellung in Chicago [10]
+*   **Werbekampagnen:** Allstate entwickelte die "Mayhem"-Kampagne mit Dean Winters als Hauptdarsteller [1][5][7]
+*   **Ablösung von Sears:** 1993 wurde Allstate von Sears ausgegliedert [ungesichert]
+*   **Werbeikone:** Dean Winters wurde als "Mayhem"-Charakter in den US-Fernsehspots bekannt [1][5][7]
 
 ## Bedeutung & Einfluss
-Allstate revolutionierte den Vertrieb von Versicherungen, indem es sie über Einzelhandelsketten (Sears) für die breite Masse zugänglich machte. Die durch [[Leo Burnett]] geschaffene Markenidentität "Good Hands" setzte einen neuen Standard für emotionales, vertrauensbasiertes Branding in einer rationalen, schwer fassbaren Branche. Die Kampagne zählt zu den langlebigsten und konsistentesten der Werbegeschichte und demonstriert die Kraft eines einfachen, bildstarken Versprechens.
+Allstate revolutionierte den Versicherungsvertrieb durch die Nutzung von Einzelhandelsketten [ungesichert]. Die "Mayhem"-Kampagne wurde als Reaktion auf die Konkurrenz von GEICO, State Farm und Progressive entwickelt [1].
 
 ## Verbindungen
-*   **[[Leo Burnett]]:** Die Werbeagentur, die die ikonische "Good Hands"-Kampagne entwickelte und über Jahrzehnte die Markenführung prägte.
-*   **Sears, Roebuck & Co.:** Das Mutterunternehmen, das Allstate gründete und dessen Vertriebskanäle entscheidend für den frühen Erfolg waren.
-*   **DDB | [[Doyle Dane Bernbach (DDB) — die Creative Revolution]]:** Eine andere große Agentur, die für emotionales und kreatives Storytelling bekannt war, ähnlich wie Burnett für Allstate.
+*   **Wieden+Kennedy:** Allstate arbeitete mit der Werbeagentur Wieden+Kennedy zusammen [4][9]
+*   **Sears, Roebuck & Co.:** Das Mutterunternehmen, das Allstate gründete [10]
 
 ## Bildmaterial-Hinweise
-*   Historische Schwarz-Weiß-Fotos des ersten Allstate-Stands auf der Weltausstellung 1933 in Chicago.
-*   Scans von frühen Anzeigen aus Sears-Katalogen der 1930er und 1940er Jahre.
-*   Die ursprünglichen Zeichnungen und Konzeptskizzen für das "Good Hands"-Logo aus den Archiven von [[Leo Burnett]].
-*   Fernsehspots aus den 1950er/60er Jahren, die die Entstehung der Kampagne zeigen, und moderne Spots mit Dennis Haysbert.
+*   Historische Fotos des ersten Allstate-Stands auf der Weltausstellung 1933 in Chicago [10]
+*   Werbespots mit Dean Winters als "Mayhem"-Charakter [1][5][7]

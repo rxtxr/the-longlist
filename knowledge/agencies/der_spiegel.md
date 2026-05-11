@@ -1,10 +1,15 @@
 ---
-confidence: high
+confidence: low
 era: 1947-heute
 id: der_spiegel
 last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Quelle 1 (Wikipedia EN)
+- Quelle 3 (Wikipedia DE)
+- Quelle 5 (Adweek)
+- Gründungsgeschichte und Spiegel-Affäre
+- Auflagenzahlen und Entwicklung
 tags:
 - investigativ
 - nachkriegszeit
@@ -15,31 +20,31 @@ wave: 16
 ---
 
 ## Überblick
-Der Spiegel ist ein deutsches Nachrichtenmagazin, das 1947 in Hamburg gegründet wurde. Es entwickelte sich zur bedeutendsten investigativen Publikation Deutschlands und prägte durch Enthüllungsjournalismus und politische Einflussnahme die Medienlandschaft der Bundesrepublik nachhaltig.
+Der Spiegel ist mehr als nur ein deutsches Nachrichtenmagazin – es ist eine Institution, die seit 1947 die politische Kultur der Bundesrepublik maßgeblich prägte [1][3]. Mit seiner Gründung in Hamburg schuf es einen neuen Typus des investigativen Journalismus in Deutschland [ungesichert] und wurde zur moralischen Instanz in einer Zeit des demokratischen Neuanfangs.
 
 ## Historischer Kontext
-Entstanden im Nachkriegsdeutschland unter britischer Lizenz, füllte Der Spiegel eine Lücke für kritische, tiefenrecherchierte Berichterstattung in einer Zeit des Wiederaufbaus und der Demokratieentwicklung. Das Magazin positionierte sich als unabhängige Kontrollinstanz gegenüber der etablierten Politik und Wirtschaft.
+Entstanden im Nachkriegsdeutschland unter britischer Lizenz [1][3], füllte Der Spiegel eine Lücke für kritische Berichterstattung in einer Zeit, die von Wiederaufbau, Verdrängung der NS-Vergangenheit und dem beginnenden Kalten Krieg geprägt war [ungesichert]. Die Briten wollten mit "Diese Woche" ein demokratisches Gegenmodell zur gleichgeschalteten Nazipresse schaffen – daraus entstand unter [[Rudolf Augstein]] der Spiegel [1][3].
 
 ## Wichtige Details
-- **Gründung**: 4. Januar 1947 als "Diese Woche" unter britischer Militärverwaltung; ab 1947 als "Der Spiegel" unter [[Rudolf Augstein]]
-- **Redaktionssitz**: Hamburg
-- **Schlüsselereignis**: **Spiegel-Affäre 1962** – Verhaftung von Herausgeber Augstein und Redakteuren nach Enthüllungsbericht über NATO-Manöver; führte zu massiven Protesten und letztlich zum Rücktritt von Verteidigungsminister [[Franz Josef Strauß]]
-- **Auflage**: Über 1 Million verkaufte Exemplare im 1. Halbjahr 2023 (laut IVW)
-- **Prägende Chefredakteure**: [[Rudolf Augstein]] (1947–1962, 1969–1973), [[Stefan Aust]] (1994–2008)
+- **Gründung**: 1947 zunächst als "Diese Woche" unter britischer Militärverwaltung; ab 1947 als "Der Spiegel" unter Rudolf Augstein [1][3]
+- **Redaktionssitz**: Hamburg [1][3] – bewusst gewählt als Gegenpol zum politischen Bonn [ungesichert]
+- **Schlüsselereignis**: **Spiegel-Affäre 1962** – Nach dem Enthüllungsbericht "Bedingt abwehrbereit" über mangelnde NATO-Verteidigungsbereitschaft ließ Verteidigungsminister [[Franz Josef Strauß]] Herausgeber Augstein und Redakteure verhaften. Die Affäre löste landesweite Proteste aus und führte zum Rücktritt von Strauß – ein Sieg der Pressefreiheit über Staatsmacht [3]
+- **Auflage**: Über 724.000 verkaufte Exemplare im Jahr 2022 (laut IVW) [1] – trotz Konkurrenz durch [[Focus]] und [[Stern]] [ungesichert]
+- **Prägende Figur**: Rudolf Augstein ("Der Spiegelfürst") bestimmte über Jahrzehnte Ton und Haltung des Magazins [1][3]
 
 ## Bedeutung & Einfluss
-Der Spiegel revolutionierte den deutschen Journalismus durch investigativen Tiefgang und machte investigativen Recherchejournalismus zum Markenzeichen. Die Spiegel-Affäre stärkte die Pressefreiheit im Grundgesetz und etablierte das Magazin als "Sturmgeschütz der Demokratie". Es beeinflusste zahlreiche Nachfolgepublikationen wie [[Stern]] und [[Die Zeit]] in ihrer Ausrichtung.
+Der Spiegel prägte den deutschen Journalismus durch investigativen Recherchejournalismus [ungesichert] und wurde zum Vorbild für kritische Medienkultur. Die Spiegel-Affäre stärkte die Pressefreiheit in Deutschland nachhaltig und etablierte das Magazin als "Sturmgeschütz der Demokratie" [ungesichert]. Seine Enthüllungsgeschichten – von der [[Spiegel-Affäre]] bis zu modernen Investigativrecherchen – beeinflussten regelmäßig die politische Agenda.
 
 ## Verbindungen
-- Gründungsvorbild: [[Time Magazine]] (USA)
-- Journalistische Prägung: [[Rudolf Augstein]]
-- Kontrahenten in der Spiegel-Affäre: [[Franz Josef Strauß]], [[Konrad Adenauer]]
-- Medienkonkurrenz: [[Stern]], [[Focus]]
-- Investigative Tradition: später [[Correctiv]]
+- Gründungsvorbild: Time Magazine (USA) [ungesichert]
+- Journalistische Prägung: Rudolf Augstein [1][3]
+- Kontrahenten in der Spiegel-Affäre: Franz Josef Strauß [3]
+- Medienkonkurrenz: Stern, Focus [ungesichert]
+- Nachfolger: Spiegel Online (heute spiegel.de) entwickelte sich zur meistgelesenen deutschen Nachrichtenseite [6]
 
 ## Bildmaterial-Hinweise
-- Historische Titelbilder mit politischen Motiven (z.B. Konrad Adenauer als "Bombengeschäft")
-- Rudolf Augstein in der Redaktion (1960er Jahre)
-- Dokumentarfotos der Spiegel-Affäre (Verhaftungen, Proteste)
-- Redaktionsgebäude in Hamburg
-- Titelblatt des umstrittenen Artikels "Bedingt abwehrbereit" (1962)
+- Historische Titelbilder mit politischen Motiven [5]
+- Rudolf Augstein in der Redaktion [ungesichert]
+- Dokumentarfotos der Spiegel-Affäre (Verhaftungen, Proteste) [ungesichert]
+- Redaktionsgebäude in Hamburg [ungesichert]
+- Titelblatt des Artikels "Bedingt abwehrbereit" (1962) [ungesichert]

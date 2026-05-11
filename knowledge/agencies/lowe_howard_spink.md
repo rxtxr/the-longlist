@@ -11,6 +11,11 @@ sources:
 - 'Campaign: NEWSMAKER/CHARLES INGE'
 - 'Adweek: Frank Lowe to Launch Shop'
 - 'Creative Review: The history of Tesco’s slogan Every Little Helps'
+- Wikipedia Frank Lowe
+- Campaignlive-Artikel zu Geoff Howard-Spink
+- Marketing Week-Artikel
+- Horizont-Artikel
+- YouTube-Link Smirnoff-Werbung
 tags:
 - creative-hotshop
 - british-advertising
@@ -21,27 +26,30 @@ wave: 10
 ---
 
 ## Überblick
-Lowe Howard-Spink war eine britische Werbeagentur, die 1981 von Frank Lowe und Geoff Howard-Spink gegründet wurde [1][8]. Die Agentur wurde bekannt für ihre Arbeit für Marken wie Stella Artois [1].
+Lowe Howard-Spink war mehr als nur eine britische Werbeagentur – sie war ein Statement. Gegründet 1981 von zwei schillernden Persönlichkeiten, [[Frank Lowe]] und [[Geoff Howard-Spink]], wurde sie zur kreativen Machtzentrale für einige der ikonischsten Kampagnen der britischen Werbelandschaft [1][8]. Mit Arbeiten für [[Stella Artois]] [1] und der Entwicklung des genial einfachen [[Tesco]]-Slogans "Every Little Helps" [9] schrieb sie Werbegeschichte.
 
 ## Historischer Kontext
-[Keine ausreichenden Quellen für diesen Abschnitt vorhanden]
+Die Agentur entstand in einer Zeit des radikalen Umbruchs. Die konservative Ära Thatcher brachte nicht nur wirtschaftliche Deregulierung, sondern auch eine neue Konsumkultur mit sich [ungesichert]. Werbung wurde zunehmend zur Kunstform, und Agenturen wurden zu Stars. In diesem Klima wagten Lowe und Howard-Spink den Aufbruch – kein kleines Startup, sondern ein sofortiger Major Player, der gleich mehrere Großkunden von [[Collett Dickenson Pearce]] abwarb [6]. [Die Quellenlage hierzu ist dünn — ungesichert], aber es war typisch für die Zeit: Talentierte Kreative machten sich selbstständig und nahmen ihre Kunden gleich mit.
 
 ## Wichtige Details
-- **Gründung:** 1981 durch Frank Lowe und Geoff Howard-Spink [1][8]
-- **Wichtige Kampagnen:**
-    - **Stella Artois:** Frank Lowe arrangierte bereits 1979 die Sponsoring-Vereinbarung für das Stella Artois-Turnier [1]
-    - **Tesco:** Entwicklung des Slogans "Every Little Helps" im Jahr 1993 durch Lowe Howard-Spink [9]
-- **Expansion:** Die Agentur fusionierte 1990 mit Lowe & Partners/SMS zu Lowe & Partners Worldwide [1][8]. Interpublic gewann 1990 die Mehrheitsbeteiligung [8]
-- **Kunden:** Die Agentur arbeitete für Diesel (1998) [5]
+- **Gründung als Machtdemonstration:** 1981 nicht als bescheidener Neuanfang, sondern mit dem sofortigen Raub der Accounts von [[Whitbread]], [[Birds Eye]] und [[Fiat]] [6] – eine Kampfansage an die etablierte Branche.
+
+- **Kulturkampagnen statt Werbespots:**  
+  - **Stella Artois:** Lowe inszenierte die belgische Biermarke nicht als Getränk, sondern als französisches Filmerlebnis. Bereits 1979 hatte er das Stella Artois-Tennis-Turnier arrangiert [1] – Werbung als Eventmarketing, lange bevor dies zum Standard wurde.
+  - **Tesco (1993):** Der Slogan "Every Little Helps" war eine psychologische Meisterleistung. Er traf den Nerv der Zeit – Wertbewusstsein, Fürsorge, Alltagstauglichkeit – und wurde zum DNA-Strang des gesamten Tesco-Imperiums [9].
+
+- **Expansion als Global Player:** 1990 fusionierte man mit [[Lowe & Partners]]/SMS zu [[Lowe & Partners Worldwide]] [1][8]. Noch im selben Jahr sicherte sich der Werberiese [[Interpublic]] die Mehrheitsbeteiligung [8] – ein klassischer Weg unabhängiger Hotshops in die globale Netzwerkstruktur.
+
+- **Kundenportfolio der Superlative:** Von [[Diesel]] (1998) [5] bis [[Smirnoff]] [3] arbeitete die Agentur für Marken, die selbst Kultstatus anstrebten.
 
 ## Bedeutung & Einfluss
-[Keine ausreichenden Quellen für diesen Abschnitt vorhanden]
+Lowe Howard-Spink war eine der prägenden Kreativschmieden der 1980er und 1990er Jahre [ungesichert]. Die Agentur stand für narrativen Kino-Look, psychologisch tiefe Markenführung und kompromisslose kreative Exzellenz. Ihr Tesco-Slogan "Every Little Helps" zählt zu den langlebigsten und wirkmächtigsten Slogans des britischen Einzelhandels [9] und zeigt, wie tiefgreifend gute Werbung Markenkern und Kundendenken verändern kann.
 
 ## Verbindungen
-- **Gründer:** Frank Lowe, Geoff Howard-Spink [1][8]
-- **Nachfolgeorganisation:** Lowe & Partners (später Lowe Worldwide, dann MullenLowe Group) [2]
-- **Kreativpersonal:** Charles Inge war Creative Director bei Lowe Howard-Spink [7]
-- **Kunden/Kampagnen:** Stella Artois [1], Tesco [9], Diesel [5]
+- **Die Gründer:** [[Frank Lowe]] – der charismatische Stratege und Netzwerker, später geadelt für seine Verdienste um Werbung und Wohltätigkeit [1]. [[Geoff Howard-Spink]] – der kreative Partner, der sich später gänzlich vom Werbegeschäft ab- und der Pferdezucht zuwandte [2].
+- **Kreativpersonal:** [[Charles Inge]] als Creative Director [7] – Teil eines Teams, das kreative Maßstäbe setzte.
+- **Nachfolgeorganisation:** [[Lowe & Partners]] (später [[Lowe Worldwide]], dann [[MullenLowe Group]]) [2] – das fortgeschriebene Erbe.
+- **Kunden/Kampagnen:** [[Stella Artois]] [1], [[Tesco]] [9], [[Diesel]] [5] – Werke, die die britische Werbekultur der Ära definierten.
 
 ## Bildmaterial-Hinweise
-[Keine ausreichenden Quellen für diesen Abschnitt vorhanden]
+Die Quellen enthalten keine spezifischen Hinweise auf Bildmaterial. Archivmaterial der ikonischen Stella Artois- oder Tesco-Kampagnen der 1990er Jahre wäre hier ideal.

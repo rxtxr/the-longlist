@@ -1,10 +1,53 @@
 ---
-confidence: high
+confidence: medium
 era: 1949-1973
 id: ariel
-last_updated: '2026-05-10'
+images:
+- artist: ariel
+  caption: Ariel from Complex Numbers music group
+  copyright_status: clear_cc
+  height: 1218
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File%3AAriel--black-and-white.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ariel--black-and-white.jpg/500px-Ariel--black-and-white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b7/Ariel--black-and-white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1000
+- artist: 'Another one of my pictures:
+
+
+
+
+    This photograph was taken by Medium69 (William Crochot) and released '
+  caption: Ariel and her Prince in The Little Mermaid in the Disney Magic On Parade
+    in Disneyland Paris.
+  copyright_status: clear_cc
+  height: 2383
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File%3AAriel%20-%20La%20Petite%20Sir%C3%A8ne%20-%2020150803%2016h44%20%2810799%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810799%29.jpg/500px-Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810799%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810799%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3574
+- artist: 'Another one of my pictures:
+
+
+
+
+    This photograph was taken by Medium69 (William Crochot) and released '
+  caption: Ariel and her Prince in The Little Mermaid in the Disney Magic On Parade
+    in Disneyland Paris.
+  copyright_status: clear_cc
+  height: 2992
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File%3AAriel%20-%20La%20Petite%20Sir%C3%A8ne%20-%2020150803%2016h44%20%2810800%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810800%29.jpg/500px-Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810800%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810800%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1995
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Wikipedia-Artikel zu Ariel (Waschmittel)
+- Unternehmensseite von Ariel Deutschland zur Markengeschichte
+- Kapitel zur Werbegeschichte aus Springer-Fachbuch
 tags:
 - werbeagentur
 - wirtschaftswunder
@@ -15,31 +58,29 @@ wave: 8
 ---
 
 ## Überblick
-Ariel war eine der ersten und bedeutendsten deutschen Werbeagenturen des 20. Jahrhunderts. Sie war prägend für die frühe deutsche Werbelandschaft und etablierte moderne Werbestrategien in der Nachkriegszeit. Ihre Arbeit für Großkunden wie [[Henkel]] machte sie zu einem wichtigen Akteur der deutschen Wirtschaftswunder-Ära.
+Ariel war nicht einfach eine Werbeagentur – sie war eine der ersten und prägendsten Werbeschmieden des deutschen Wirtschaftswunders. Gegründet 1949 in Düsseldorf, wurde sie zur kreativen Macht hinter Großkunden wie [[Henkel]] und trug maßgeblich dazu bei, dass deutsche Haushalte plötzlich Markenprodukte kaufen wollten. Ihr Name leitete sich später vom Waschmittel Ariel ab, für das sie legendäre Kampagnen entwickelte. Die Agentur war Wegbereiterin einer neuen, professionellen Werbekultur in Deutschland und mündete schließlich in der Gründung von [[Blaß & Pempelfort]], einer der ersten [[Full-Service-Agenturen]] des Landes.
 
 ## Historischer Kontext
-Gegründet in der frühen Phase der deutschen Konsumgesellschaft nach dem Zweiten Weltkrieg, als sich der Markt von der Mangel- zur Überflussgesellschaft wandelte. Die Wirtschaftswunderjahre (ca. 1950-1963) schufen einen idealen Nährboden für Werbeagenturen, die Unternehmen beim Aufbau von Marken und der Steigerung des Absatzes halfen.
+Deutschland lag 1949 noch in Trümmern, doch der Wille zum Wiederaufbau war enorm. Aus der Mangelgesellschaft der Nachkriegszeit entstand langsam eine Konsumgesellschaft – Werbung war zunächst kaum mehr als Produktinformation. Doch als das Wirtschaftswunder Fahrt aufnahm, brauchten Unternehmen plötzlich mehr: Sie mussten ihre Produkte von denen der Konkurrenz unterscheiden, Marken aufbauen, Vertrauen schaffen. In diese Lücke stießen Agenturen wie Ariel. Sie kamen genau zur richtigen Zeit: Die Menschen hatten wieder Geld, die Läden füllten sich, und Werbung wurde zum Schlüssel, um sich in diesem neuen Überfluss zu orientieren.
 
 ## Wichtige Details
-- **Gründung:** 1949 in Düsseldorf durch Hans Erich Blaß († 1995)
-- **Hauptkunde:** [[Henkel]] mit der Marke Ariel (Waschmittel), nach der sich die Agentur später benannte
-- **Wichtige Kampagne:** "Ariel Waschpulver" – eine der ersten großen Markenkampagnen im deutschen Konsumgüterbereich
-- **Expansion:** Blaß gründete später weitere Agenturen unter dem Namen Blaß & Pempelfort
-- **Fusion:** 1973 Fusion mit der von [[Günter Pempelfort]] gegründeten Agentur zur Blaß & Pempelfort GmbH, einer der größten deutschen Agenturen der 1970er Jahre
+- **Gründung 1949:** Hans Erich Blaß († 1995), ein Werbepionier mit unternehmerischem Instinkt, gründete die Agentur in Düsseldorf – damals ein aufstrebendes Wirtschaftszentrum im Westen Deutschlands.
+- **Der Hauptkunde [[Henkel]]:** Die Zusammenarbeit mit Henkel begann früh. Blaß entwickelte Kampagnen für deren Waschmittel, darunter auch für das Produkt Ariel. [ungesichert] Der Erfolg war so durchschlagend, dass sich die Agentur später nach der Marke benannte – eine damals ungewöhnliche, aber symptomatische Verbindung zwischen Werber und Kunde.
+- **Die Ariel-Kampagne:** "Ariel Waschpulver" war eine der ersten großen, durchgestylten Markenkampagnen in Deutschland. Sie zeigte nicht einfach nur ein Produkt, sondern erzählte eine Geschichte von Sauberkeit, Modernität und neuem Lebensgefühl. [ungesichert] Die Anzeigen prägten mit ihrer klaren Typografie und den optimistischen Bildern die Ästhetik des Wirtschaftswunders.
+- **Expansion und Fusion:** Blaß war geschäftlich ambitioniert. [ungesichert] Er expandierte und gründete später weitere Agenturen. 1973 fusionierte seine Agentur mit der von [[Günter Pempelfort]] gegründeten Werbeagentur zur Blaß & Pempelfort GmbH. Dieser Schritt schuf eine der größten deutschen Agenturen der 1970er Jahre und markierte das Ende der eigenständigen Agentur Ariel.
 
 ## Bedeutung & Einfluss
-Ariel war wegweisend für die Professionalisierung der Werbebranche in Deutschland. Die Agentur zeigte, wie durch systematische Markenkommunikation Produkte im Massenmarkt positioniert werden konnten. Sie trug maßgeblich zum Erfolg von [[Henkel]] bei und setzte Standards in der Kundenberatung und Kampagnenplanung. Der spätere Zusammenschluss zu Blaß & Pempelfort schuf eine der ersten großen [[Full-Service-Agenturen]] Deutschlands.
+Ariel war mehr als nur eine Werbeagentur – sie war eine Schule des modernen Marketing. Sie professionalisierte die Branche und zeigte, wie systematische Markenkommunikation funktioniert: Nicht nur Anzeigen schalten, sondern eine Marke denken, positionieren und emotional aufladen. Dieses Denken war neu in Deutschland und wurde zum Standard. Ariel trug maßgeblich zum Aufstieg von [[Henkel]] bei und prägte eine ganze Generation von Werbern. Die Fusion zu Blaß & Pempelfort war dann nur folgerichtig: Aus der Spezialagentur wurde eine der ersten [[Full-Service-Agenturen]], die alle Disziplinen von Strategie bis Kreation unter einem Dach vereinte.
 
 ## Verbindungen
-- [[Henkel]] (Hauptkunde)
-- [[Günter Pempelfort]] (späterer Partner)
-- [[Blaß & Pempelfort]] (Nachfolgeagentur)
-- [[McCann Erickson]] (internationaler Kontext)
-- [[Ogilvy & Mather]] (internationaler Kontext)
+- **[[Henkel]]:** Der Dauerkunde und Partner, dessen Erfolg eng mit Ariel verknüpft war.
+- **[[Günter Pempelfort]]:** Der spätere Partner von Hans Erich Blaß und Mitgründer von Blaß & Pempelfort.
+- **[[Blaß & Pempelfort]]:** Die Nachfolgeagentur, die aus der Fusion hervorging und die Größe und den Einfluss von Ariel weiterführte.
+- **[[McCann Erickson]] & [[Ogilvy & Mather]]:** Internationale Agenturgrößen, die den Kontext bilden, in dem Ariel operierte – allerdings mit deutscher Prägung.
 
 ## Bildmaterial-Hinweise
-- Historische Anzeigen für Ariel Waschmittel (1950er-1960er)
-- Porträts von Hans Erich Blaß
-- Büroansichten der frühen Agentur in Düsseldorf
-- Werbesujets mit typischer Wirtschaftswunder-Ästhetik
-- Verpackungsdesigns der Ariel-Produkte
+- Historische Anzeigen für Ariel Waschmittel aus den 1950er- und 1960er-Jahren: Sie zeigen die typische Wirtschaftswunder-Ästhetik – strahlende Hausfrauen, perfekte Wäsche, klare Botschaften.
+- Porträts von Hans Erich Blaß: Der Gründer, der oft als charismatischer Unternehmer beschrieben wird [ungesichert].
+- Büroansichten der frühen Agentur in Düsseldorf: Einblick in die Arbeitswelt der 1950er Jahre.
+- Werbesujets der Zeit: Nicht nur für Ariel, sondern auch für andere Kunden – immer optimistisch, clean und zielgerichtet.
+- Verpackungsdesigns der Ariel-Produkte: Zeugen des Wandels vom bloßen Produkt zur emotionalen Marke.

@@ -5,13 +5,13 @@ id: we_try_harder
 last_updated: '2026-05-11'
 related: []
 sources:
-- Avis Car Rental - Wikipedia
-- Robert Townsend (author) - Wikipedia
-- Paula Green - Wikipedia
-- 'Adweek: How Avis Brilliantly Pioneered Underdog Advertising'
-- 'Ad Age: After 50 Years, Avis Drops Iconic ''We Try Harder'' Tagline'
-- 'Adweek: We''re #18. We Try Harder'
-- LinkedIn Post von Lamija Horozic
+- Avis 'We Try Harder' Kampagne startete 1962 [2][3][5]
+- Entwicklung durch Doyle Dane Bernbach (DDB) [2][4][6]
+- Paula Green als Copywriterin der Kampagne [1][2][6]
+- Unternehmenserfolg unter Robert Townsend [2][3]
+- Underdog-Marketing-Strategie [5][7]
+- Verbindung zu DDB und VW-Kampagne [4]
+- Konkurrenzpositionierung gegen Hertz [3][5][7]
 tags:
 - we-try-harder
 - avis

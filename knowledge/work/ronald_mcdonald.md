@@ -5,16 +5,12 @@ id: ronald_mcdonald
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Ronald McDonald als Hauptmaskottchen'
-- 'Simple Wikipedia: Michael Polakovs als Ronald McDonald'
-- 'Adweek: Bericht über Reduzierung von Ronald McDonald Auftritten'
-- 'Ad Age: Ronald McDonald als ikonische Werbefigur'
-- 'Ad Age: Vergleich mit Joe Camel'
-- 'Adweek: Jack in the Box Parodie'
-- 'YouTube: Frühe Ronald McDonald Werbespots'
-- 'TikTok: Historische Werbespots'
-- 'TV Tropes: McDonaldland und Needham, Harper & Steers'
-- 'Wikiwand: Entstehung durch Barry Klein und Willard Scott'
+- 'Wikipedia: Ronald McDonald'
+- 'Ad Age: Ronald McDonald'
+- 'Wikiwand: Ronald McDonald'
+- 'TV Tropes: McDonaldland'
+- 'YouTube: The First Ronald McDonald Commercial'
+- 'TikTok: Ronald McDonald Commercial'
 tags:
 - corporate-mascot
 - fastfood-advertising
@@ -29,10 +25,10 @@ wave: 8
 Ronald McDonald ist die weltweit bekannte Clown-Figur und Hauptmaskottchen der Fast-Food-Kette McDonald's [1]. Er wurde als werblicher Archetyp geschaffen und zählt zu den ikonischsten Werbefiguren des 20. Jahrhunderts [2][4].
 
 ## Historischer Kontext
-Entstanden in den 1960er Jahren [1][10].
+Die Figur entstand in den 1960er Jahren [1][10].
 
 ## Wichtige Details
-*   **Erstauftritt:** Wetteransager Willard Scott beanspruchte für sich, den ersten Ronald McDonald gespielt zu haben, was von McDonald's bestritten wird [1][10].
+*   **Erstauftritt:** Der Wetteransager Willard Scott beanspruchte für sich, den ersten Ronald McDonald gespielt zu haben, was von McDonald's bestritten wird [1][10].
 *   **Offizielle Einführung:** 1966 nach einer landesweiten Marketingkampagne [1].
 *   **Entwicklung:** Wird häufig dem Werbefachmann Barry Klein und dem Berufsclown Willard Scott zugeschrieben [10].
 *   **Charakter & Erscheinung:** Typisches Clownkostüm mit rotem Haar, gelb-rotem Overall und übergroßen Schuhen [1].

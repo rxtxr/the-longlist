@@ -7,9 +7,10 @@ related: []
 sources:
 - James Vicary - Wikipedia
 - Subliminal stimuli - Wikipedia
+- Wilson Bryan Key - Wikipedia
 - Subliminal Advertising - Ad Age
 - 'Subliminal advertising: not total crap? - Adweek'
-- A Strange, Brief History of Subliminal Messages in Advertising
+- A Strange, Brief History of Subliminal Messages in Advertising - LinkedIn
 - Subliminal Advertising - YouTube
 tags:
 - Subliminal Advertising

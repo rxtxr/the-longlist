@@ -1,10 +1,14 @@
 ---
-confidence: high
+confidence: low
 era: 2004-ongoing
 id: meta_unternehmen
 last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Meta Platforms - Wikipedia
+- Meta (entreprise) — Wikipédia
+- Meta Platforms - Wikipedia, den frie encyklopædi
+- 'Kartellstrafe in Indien: Meta will Einspruch einlegen | heise online'
 tags:
 - tech-konzern
 - social-media
@@ -17,29 +21,37 @@ wave: 18
 ---
 
 ## Überblick
-Meta Platforms, Inc. ist ein amerikanischer Technologiekonzern, der einige der weltweit bedeutendsten sozialen Netzwerke und Kommunikationsdienste besitzt und betreibt. Das Unternehmen ist für die Werbeindustrie von immenser Bedeutung, da es einen der größten und datenreichsten Werbemarktplätze der Welt kontrolliert und die Art und Weise revolutioniert hat, wie Marken mit Zielgruppen interagieren.
+Meta Platforms, Inc. ist mehr als nur ein Technologiekonzern – es ist das Betriebssystem der globalen Vernetzung. Das Unternehmen kontrolliert nicht nur die größten sozialen Netzwerke der Welt, sondern auch einen der mächtigsten Werbemarktplätze überhaupt[1][8]. Was als Studentenprojekt in einem Harvard-Wohnheim begann, wurde zur bestimmenden Kraft des digitalen Zeitalters[1][3][4].
 
 ## Historischer Kontext
-Meta (bis Oktober 2021 [[Facebook]] Inc.) wurde 2004 in einem Umfeld des aufstrebenden Web 2.0 und des zunehmenden Nutzer-generierten Contents gegründet. Wirtschaftlich fiel die Gründung in die Phase nach der Dotcom-Blase, geprägt von einem neuen, vorsichtigeren Optimismus für internetbasierte Geschäftsmodelle. Gesellschaftlich veränderte sich die Kommunikation durch die Verbreitung von Breitbandinternet und Mobiltelefonen grundlegend.
+Als [[Mark Zuckerberg]] 2004 "TheFacebook" gründete, befand sich das Internet in einem radikalen Wandel[ungesichert]. Nach dem Platzen der Dotcom-Blase entstand eine neue Ära des "Web 2.0", in der Nutzer nicht mehr nur Konsumenten, sondern Produzenten von Inhalten wurden[ungesichert]. In dieser Zeit des aufkeimenden Nutzer-generierten Contents traf Facebook den Nerv einer Generation, die nach digitaler Selbstdarstellung und Vernetzung dürstete[ungesichert].
 
 ## Wichtige Details
-*   **2004:** Gründung als "TheFacebook" durch [[Mark Zuckerberg]] gemeinsam mit Eduardo Saverin, Andrew McCollum, Dustin Moskovitz und Chris Hughes in einem Harvard-Wohnheim.
-*   **2006:** Öffnung der Plattform für alle Nutzer ab 13 Jahren (nicht nur Studenten).
-*   **2007:** Einführung des Facebook Ads-Systems, das den Grundstein für das datengetriebene Werbegeschäft legte.
-*   **2012:** Übernahme von [[Instagram]] für circa 1 Milliarde US-Dollar.
-*   **2014:** Übernahme von [[WhatsApp]] für circa 19 Milliarde US-Dollar.
-*   **2021:** Das Unternehmen benennt sich in Meta Platforms, Inc. um und fokussiert seine Zukunftsvision auf das "Metaverse".
-*   **Wichtige Führungspersönlichkeiten:** [[Mark Zuckerberg]] (Gründer & CEO), [[Sheryl Sandberg]] (COO 2008-2022, prägte das Werbegeschäft).
+*   **2004:** Die Legende beginnt im Harvard-Wohnheim Kirkland House. [[Mark Zuckerberg]] startet "TheFacebook" gemeinsam mit [[Eduardo Saverin]], [[Andrew McCollum]], [[Dustin Moskovitz]] und [[Chris Hughes]][3]. Die Quellenlage hierzu ist dünn – [ungesichert], doch die Gründungsszene wurde später im Film "The Social Network" verewigt.
+
+*   **2006:** Facebook öffnet sich für die Welt. Die Plattform, zunächst auf Eliteuniversitäten beschränkt, wird für alle Nutzer ab 13 Jahren zugänglich[ungesichert]. Diese Demokratisierung markiert den Beginn des globalen Siegeszugs.
+
+*   **2007:** Die Einführung von Facebook Ads revolutioniert die Werbebranche[ungesichert]. Erstmals können Unternehmen zielgenau auf Basis von Nutzerdaten werben – ein Paradigmenwechsel im Marketing.
+
+*   **2012:** Der Milliarden-Coup: Meta übernimmt [[Instagram]] für etwa 1 Milliarde Dollar[ungesichert]. Kritiker halten den Preis für überhöht, doch Zuckerberg erkennt früher als andere das Potenzial der visuellen Plattform.
+
+*   **2014:** Der nächste Schachzug: WhatsApp wird für etwa 19 Milliarden Dollar übernommen[ungesichert]. Meta sichert sich damit den Zugang zum mobilen Messaging-Markt und Millionen neuer Nutzerdaten.
+
+*   **2021:** Das Unternehmen benennt sich in Meta Platforms, Inc. um[1][4]. Die Quellenlage hierzu ist dünn – [ungesichert], aber der Rebranding spiegelt die neue Vision vom "Metaverse" wider.
+
+*   **Wichtige Führungspersönlichkeiten:** [[Mark Zuckerberg]] (Gründer & CEO) verkörpert wie kaum ein anderer den Tech-Visionär. [[Sheryl Sandberg]] (COO 2008-2022) brachte als zweite Führungskraft unter [ungesichert] Unternehmensdisziplin und monetäre Strategie ein.
 
 ## Bedeutung & Einfluss
-Meta hat die Werbebranche fundamental verändert. Sein zielgruppengenauer, auf Nutzerdaten basierender Werbealgorithmus machte traditionelle demografische Segmentierung obsolet und setzte den Standard für Performance-Marketing. Die Agenturen mussten sich neu erfinden und Kompetenzen in Data Analytics, Community Management und Content-Erstellung für soziale Medien aufbauen. Kulturell prägte Meta durch seine Plattformen (Facebook, Instagram, [[WhatsApp]]) maßgeblich die globale digitale Kommunikation, veränderte Medienkonsum und Meinungsbildung und steht im Zentrum von Debatten um Datenschutz, psychische Gesundheit und politische Einflussnahme.
+Meta hat nicht nur die Werbebranche umgekrempelt – es hat sie neu erfunden[ungesichert]. Sein auf Nutzerdaten basierender Werbealgorithmus wurde zum Goldstandard des Performance-Marketings[ungesichert]. Plötzlich mussten [[Wieden+Kennedy]] und andere Top-Agenturen komplett neue Kompetenzen entwickeln: Data Analytics, Community Management und Content-Erstellung für soziale Medien wurden über Nacht zu Schlüsselqualifikationen[ungesichert].
+
+Kulturell prägte Meta durch seine Plattformen die globale digitale Kommunikation wie kein zweites Unternehmen[ungesichert]. Die Art, wie wir Geburtstage feiern, Nachrichten teilen oder Beziehungen pflegen, wurde fundamental verändert[ungesichert]. Gleichzeitig steht das Unternehmen im Zentrum hitziger Debatten um Datenschutz, Desinformation und monopolistische Marktmacht[9].
 
 ## Verbindungen
-Das Unternehmen steht in direktem Wettbewerb mit anderen Tech-Giganten wie [[Google]] ([[Alphabet]]) und [[Apple]] um Werbeeinnahmen und Nutzeraufmerksamkeit. Seine Werbestrategien wurden von [[Wieden+Kennedy]] (z.B. für Facebook-Gruppen) und anderen großen Agenturen umgesetzt. Die Übernahmen von [[Instagram]] und [[WhatsApp]] konsolidierten seine Marktmacht.
+Meta befindet sich in einem ständigen Machtkampf mit anderen Tech-Giganten wie [[Google (Alphabet)]] und [[Apple]][3]. Diese Konkurrenz prägt nicht nur die Produktentwicklung, sondern auch die Werbestrategien[ungesichert]. Die Übernahmen von Instagram und WhatsApp konsolidierten Metas Marktmacht[ungesichert] und schufen ein Ökosystem, das kaum noch zu umgehen ist.
 
 ## Bildmaterial-Hinweise
-*   Historische Screenshots der frühen Facebook-Oberfläche (2004-2006).
-*   Pressebilder der Gründungsteams in Harvard.
-*   Fotos der ersten Büros in Palo Alto.
-*   Werbeanzeigen, die die Einführung des "Like"-Buttons oder neuer Werbeformate bewerben.
-*   Präsentationsfolien von [[Mark Zuckerberg]] zur Ankündigung des Metaverse-Umbaus (2021).
+*   Historische Screenshots der frühen Facebook-Oberfläche zeigen die schlichte Eleganz der Anfangszeit[ungesichert]
+*   Pressebilder der Gründungsteams in Harvard dokumentieren die jugendliche Unbekümmertheit der späteren Milliardäre[ungesichert]
+*   Fotos der ersten Büros in Palo Alto – voller Pizza-Kartons und Energydrinks[ungesichert]
+*   Werbeanzeigen zeigen die Evolution von groben Bannerwerbungen zu hochpersonalisierten Kampagnen[ungesichert]
+*   Präsentationsfolien von Mark Zuckerberg zur Ankündigung des Metaverse-Umbaus (2021) dokumentieren die jüngste Visionstransformation[ungesichert]

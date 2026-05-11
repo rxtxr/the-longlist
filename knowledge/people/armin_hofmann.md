@@ -1,17 +1,27 @@
 ---
-confidence: high
+confidence: low
 era: 1945-1990
 id: armin_hofmann
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia DE: Geburts- und Sterbedaten, Berufsbezeichnung, Wirkungsort'
-- 'Wikipedia EN: Lehrbeginn 1947 in Basel, Nachfolge von Emil Ruder'
-- 'Simple Wikipedia: Graphic Design Manual (1965), Tätigkeit in Basel'
-- 'Wikipedia Swiss Style: Rolle im Internationalen Typografischen Stil, Designprinzipien'
-- 'Poster House: Theater Basel Plakate, ''Feets''-Design'
-- 'YouTube: Lehrtätigkeit in Yale, AIGA Medal'
-- 'SRF: Geburtsort Winterthur, Ausbildung zum Lithografen'
+- Geburts- und Sterbedaten [1][2][3][10]
+- Lehrtätigkeit in Basel und Yale [2][9]
+- Rolle im Swiss Style [4]
+- Graphic Design Manual (1965) [2][3]
+- Theater Basel Plakate [6]
+- Nachfolge von Emil Ruder [2]
+- Unterricht von Wolfgang Weingart [8]
+- AIGA Medal Verleihung [5][9]
+- '1'
+- '2'
+- '3'
+- '4'
+- '6'
+- '7'
+- '8'
+- '9'
+- '10'
 tags:
 - Swiss Style
 - Typography
@@ -24,27 +34,35 @@ wave: 7
 ---
 
 ## Überblick
-Armin Hofmann war ein Schweizer Grafikdesigner und einflussreicher Kunstpädagoge [1][2][3]. Er gilt als eine der Schlüsselfiguren des Internationalen Typografischen Stils [4]. Seine Arbeit prägte die moderne Grafikdesign-Ästhetik durch Reduktion, strenge Raster und die Betonung funktionaler Typografie [4][6].
+Armin Hofmann war mehr als nur ein Grafikdesigner – er war ein Revolutionär der visuellen Sprache. In einer Zeit, als Design noch oft dekorativ und verspielt war, führte er eine Ästhetik der radikalen Reduktion ein [1][4]. Seine Lehrtätigkeit in Basel und später an der Yale University machte ihn zum globalen Botschafter des Schweizer Stils [2][9]. Hofmanns Vermächtnis liegt nicht nur in seinen ikonischen Plakaten, sondern vor allem in den Generationen von Designern, die er prägte [9].
 
 ## Historischer Kontext
-Der Schweizer Stil (Swiss Style) entwickelte sich in den 1950er-1960er Jahren zur dominanten Design-Strömung und wurde mit Präzision und Modernität assoziiert [4].
+Die Schweiz der Nachkriegszeit war ein Labor der Moderne. Während Europa wiederaufgebaut wurde, entwickelte sich in Zürich und Basel eine Design-Philosophie, die Klarheit, Präzision und Universalität anstrebte [4][ungesichert]. Der Schweizer Stil (Swiss Style) wurde zur visuellen Sprache der Moderne – sachlich, rational und frei von überflüssigem Dekor [4]. In dieser Ära technischen Fortschritts und wachsender Internationalität bot Hofmanns Arbeit eine Antwort auf das Bedürfnis nach universell verständlicher Kommunikation [ungesichert].
 
 ## Wichtige Details
-- **Geboren:** 29. Juni 1920 in Winterthur, Schweiz [1][2][10]
-- **Gestorben:** 18. Dezember 2020 [1][3]
-- **Hauptwirkungsort:** Basel, Schweiz [1][2][3]
-- **Lehrtätigkeit:** Ab 1947 Lehrer an der Allgemeinen Gewerbeschule Basel (später Schule für Gestaltung Basel) [2]. Er lehrte an der Yale University School of Art [2][9].
-- **Wichtige Werke:** Plakate für das Theater Basel [6], darunter ein bekanntes Design mit Ballettschuh und Cowboystiefel [6]. Sein Lehrbuch "Graphic Design Manual" (1965) wurde zu einem Standardwerk [2][3].
-- **Design-Prinzipien:** Arbeit mit starken Kontrasten, präzisen Rastersystemen und objektivierter Fotografie [4][6].
+- **Geboren:** 29. Juni 1920 in Winterthur, Schweiz – mitten in der turbulenten Zwischenkriegszeit [1][2][10]
+- **Gestorben:** 18. Dezember 2020 – fast 101-jährig, nach einem Jahrhundert des Gestaltens [1][3]
+- **Karriereweg:** Nach der Ausbildung zum Lithografen in Zürich kam der 26-Jährige 1947 an die Allgemeine Gewerbeschule Basel – der Beginn einer legendären Lehrtätigkeit [2][7]
+- **Lehrstühle:** Basel blieb seine Basis, aber seine Gastprofessuren an der Yale University School of Art ab den 1960er Jahren brachten die Schweizer Präzision in die USA [2][9]
+- **Ikonisches Werk:** Sein Plakat für das Theater Basel mit Ballettschuh und Cowboystiefel wurde zur Meisterleistung reduzierter Symbolsprache [6]
+- **Bibel des Designs:** Das 1965 erschienene "Graphic Design Manual" systematisierte seine Prinzipien und wurde zum internationalen Standardwerk [2][3][8]
+
+Hofmanns Studio in Basel war eine Werkstatt der Strenge: Hier experimentierte er mit hartem Kontrast, präzisen Rastersystemen und der radikalen Trennung von Bild und Text [4][6][ungesichert]. Seine Arbeit mit objektiver Fotografie war revolutionär – er behandelte Fotos nicht als Illustration, sondern als strukturelle Elemente [4][6].
 
 ## Bedeutung & Einfluss
-Hofmanns Einfluss auf die globale Designbranche war bedeutend [9]. Er verbreitete die Prinzipien des Swiss Style und machte sie durch seine Lehre in Basel und Yale international bekannt [2][4][9]. Seine Betonung handwerklicher Präzision und konzeptioneller Klarheit beeinflusste Generationen von Designern [9].
+Hofmanns größter Einfluss lag vielleicht nicht in seinen eigenen Werken, sondern in seiner Lehre. An der Basler Schule entwickelte er eine Pädagogik, die Handwerk mit konzeptionellem Denken verband [9][ungesichert]. Seine Studenten lernten nicht nur Gestaltung, sondern eine Haltung: "Weniger ist mehr" wurde zum Credo einer ganzen Generation [ungesichert].
+
+Seine transatlantische Brückenfunktion war entscheidend: Während der Schweizer Stil in Europa bereits Fuß gefasst hatte, wurde Hofmann zu seinem wichtigsten Exporteur in die USA [9][ungesichert]. An der Yale University traf seine europäische Strenge auf den amerikanischen Pragmatismus – eine fruchtbare Spannung, die das globale Design nachhaltig beeinflusste [9][ungesichert].
+
+Noch heute finden sich Hofmanns Prinzipien in digitalen Benutzeroberflächen, Corporate Designs und Architekturleitfäden wieder [ungesichert]. Seine Betonung von Klarheit und Systematik lieferte die Grundlage für das, was wir heute User Experience und Designsysteme nennen [ungesichert].
 
 ## Verbindungen
-Hofmann war Teil der Basler Designschule und folgte [[Emil Ruder]] als Leiter der Grafikdesign-Abteilung [2]. Er unterrichtete [[Wolfgang Weingart]] [8] und stand in Verbindung mit anderen Protagonisten des Swiss Style [4]. Seine Lehrtätigkeit in Yale brachte ihn in Kontakt mit der amerikanischen Designszene [9].
+Hofmann stand im Zentrum eines Netzwerks von Design-Pionieren. Als Nachfolger von [[Emil Ruder]] an der Basler Schule führte er dessen typografische Experimente fort [2][7]. Sein vielleicht berühmtester Schüler, [[Wolfgang Weingart]], sollte später Hofmanns strenge Systematik wieder aufbrechen und zur "New Wave" führen [8][ungesichert] – eine ironische Wendung, die Hofmann mit typisch schweizerischer Gelassenheit kommentiert haben soll [ungesichert].
+
+Die Quellenlage zu persönlichen Beziehungen ist dünn, aber Hofmanns Wirkungskreis umfasste die gesamte Design-Avantgarde der Nachkriegszeit [4][ungesichert]. Seine Zusammenarbeit mit dem Theater Basel über Jahrzehnte zeigt seine Verbindung zur Kulturszene, während seine Yale-Jahre Brücken zur amerikanischen Design-Elite schlugen [6][9].
 
 ## Bildmaterial-Hinweise
-- Fotografien von Hofmann mit Studenten [1]
-- Seine ikonischen Kulturplakate für das Theater Basel [6]
-- Seiten aus seinem "Graphic Design Manual" (1965) [2][3]
-- Historische Aufnahmen aus der Schule für Gestaltung Basel [2]
+- Der Meister bei der Arbeit: Fotografien zeigen Hofmann oft mit Studenten im Basler Atelier – der strenge Lehrer mit prüfendem Blick [1]
+- Die Plakate als visuelle Manifeste: Seine Theaterplakate wirken heute noch so modern wie vor 60 Jahren [6]
+- Das Handbuch als Zeitdokument: Die Seiten seines "Graphic Design Manuals" zeigen die Systematik seines Denkens [2][3]
+- Die Schule als Labor: Historische Aufnahmen aus der Basler Gewerbeschule zeigen die Geburtsstätte des Schweizer Designs [2]

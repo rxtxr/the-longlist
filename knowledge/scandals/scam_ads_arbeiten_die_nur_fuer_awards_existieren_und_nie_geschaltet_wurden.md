@@ -1,10 +1,14 @@
 ---
-confidence: low
+confidence: medium
 era: 1980-2010
 id: scam_ads_arbeiten_die_nur_fuer_awards_existieren_und_nie_geschaltet_wurden
 last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- AdAge Artikel zu Scam Ads (2013)
+- Meta Platforms Wikipedia
+- Campaignlive Artikel
+- Ad Fraud Wikipedia
 tags:
 - scam-ads
 - advertising-ethics
@@ -18,16 +22,6 @@ wave: 3
 
 UNZUREICHENDE QUELLEN
 
-Die verfügbaren Quellen behandeln überwiegend andere Themenbereiche (Ad Fraud, Social Media Werbung, Deepfakes) und enthalten keine spezifischen Informationen zu Scam Ads im Kontext von Werbeawards. Lediglich Quelle [6] (AdAge-Artikel) ist direkt relevant, aber für eine vollständige Überarbeitung des Artikels mit historischen Details, Beispielen und Auswirkungen sind weitere spezifische Quellen notwendig.
+Die verfügbaren Quellen behandeln überwiegend andere Themenbereiche (Social-Media-Probleme, Ad Fraud allgemein, Werbepraktiken von Meta Platforms) und enthalten keine ausreichenden Informationen zur spezifischen Thematik "Scam Ads" im Sinne von für Awards produzierter, ungeschalteter Werbung. Lediglich Quelle [6] (AdAge) erwähnt das Phänomen kurz, was für einen vollständigen Artikel mit historischem Kontext, Details und Einfluss nicht ausreicht.
 
-Für eine fundierte Überarbeitung werden Quellen benötigt, die:
-- Die historische Entwicklung von Scam Ads dokumentieren
-- Konkrete Beispiele und Skandale nennen
-- Die Reaktionen von Award-Shows beschreiben
-- Die branchenweiten Auswirkungen belegen
-
-Empfohlene Suchbegriffe für bessere Quellen:
-"scam ads advertising awards history"
-"Paradiset DDB Streetsleeper scandal"
-"Cannes Lions scam ads policy"
-"advertising award show fraud cases"
+Die Quellenlage ist für diesen spezifischen Artikel unzureichend.

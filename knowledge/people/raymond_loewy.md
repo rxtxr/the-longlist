@@ -39,7 +39,6 @@ Loewys Karriere erstreckte sich von den späten 1920er Jahren bis in die 1970er 
     *   **Studebaker-Automobile:** Chefdesigner, verantwortlich für ikonische Modelle [7][10]
     *   **Greyhound-Busse:** Design des Scenicruiser-Busses [ungesichert]
     *   **Logo-Design:** Entwarf die Logos für Shell, BP, TWA und United Airlines [8]
-*   **Designphilosophie:** "MAYA" ("Most Advanced, Yet Acceptable") [ungesichert]
 
 ## Bedeutung & Einfluss
 Loewy bewies, dass ästhetische und funktionale Gestaltung ein entscheidender Wettbewerbsvorteil für Massenprodukte sein kann [10]. Sein "Streamlining" wurde zum Synonym für Fortschritt und Modernität [1][10]. Er prägte das Erscheinungsbild des "American Way of Life" im 20. Jahrhundert nachhaltig [10].

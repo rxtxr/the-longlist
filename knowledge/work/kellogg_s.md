@@ -5,13 +5,13 @@ id: kellogg_s
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Kellogg''s Wikipedia: Unternehmensgründung und Hauptsitz'
-- 'Ad Age: Kellogg''s Werbegeschenke in Cerealpackungen'
-- 'Ad Age: Aufteilung in Kellanova und WK Kellogg Co'
-- 'Ad Age: Zusammenarbeit mit Werbeagenturen'
-- 'USA TODAY: Kellogg''s als Werbepionier'
-- 'The Brand Hopper: Kellogg''s Marketingstrategien'
-- 'Britannica: Unternehmensgeschichte'
+- Kellogg's Wikipedia (Unternehmensgründung)
+- Britannica (Gründungshintergrund)
+- Ad Age (Werbegeschenke)
+- Ad Age (Unternehmensaufspaltung)
+- Ad Age (Agenturkooperationen)
+- USA TODAY (Werbeplonierrolle)
+- The Brand Hopper (Werbestrategien)
 tags:
 - cereal-advertising
 - JWT
@@ -24,16 +24,16 @@ wave: 12
 ---
 
 ## Überblick
-Kellogg's ist ein US-amerikanischer Lebensmittelkonzern, der insbesondere für seine Frühstückscerealien wie Corn Flakes bekannt wurde. Das Unternehmen gilt als Pionier in der Werbebranche [7][8].
+Kellogg's ist ein US-amerikanischer Lebensmittelkonzern, der insbesondere für seine Frühstückscerealien bekannt wurde. Das Unternehmen gilt als Pionier in der Werbebranche [7][8].
 
 ## Historischer Kontext
 Gegründet in den frühen 1900er Jahren von Will Keith Kellogg in Battle Creek, Michigan, entstand das Unternehmen im Kontext der Gesundheitsbewegung des späten 19. Jahrhunderts [9]. Die Werbung der 1950er bis 1970er Jahre spiegelt das Ideal der amerikanischen Vorstadtfamilie und den Boom der Massenmedien wider [ungesichert].
 
 ## Wichtige Details
 *   **1906:** Gründung der Battle Creek Toasted Corn Flake Company durch Will Keith Kellogg [1][9].
-*   **Frühe Werbung:** Kellogg's war ein Pionier in der Werbung und nutzte als einer der ersten Unternehmen vollseitige Zeitungsanzeigen [8].
+*   **Frühe Werbung:** Kellogg's war ein Werbepionier und nutzte als einer der ersten Unternehmen vollseitige Zeitungsanzeigen [8].
 *   **Radio- und Fernsehwerbung:** Das Unternehmen setzte früh auf Radio- und später Fernsehwerbung [ungesichert].
-*   **Marketing-Innovationen:** Kellogg's führte Werbegeschenke in Cerealpackungen ein und nutzte Kooperationen mit Filmstudios wie Disney/Pixar für Marketingaktionen [3].
+*   **Marketing-Innovationen:** Kellogg's nutzte Werbegeschenke in Cerealpackungen und Kooperationen mit Filmstudios wie Disney/Pixar für Marketingaktionen [3].
 *   **Unternehmensentwicklung:** 2023 teilte sich Kellogg's in zwei Unternehmen auf: das snackfokussierte Kellanova und das cerealzentrierte WK Kellogg Co [4][5].
 
 ## Bedeutung & Einfluss

@@ -5,12 +5,14 @@ id: reinhard_springer
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Reinhard Springer (Unternehmer)'
-- 'Wikipedia: Springer & Jacoby'
-- 'Ad Age: Springer & Jacoby Gründung'
-- 'Ad Age: Iconic German Shop Springer & Jacoby Closes'
-- 'WHO''S WHO: Reinhard Springer Biografie'
-- 'Wikipedia: Konstantin Jacoby'
+- 'Geburtsdatum und -ort: Wikipedia'
+- 'Gründung Springer & Jacoby: Ad Age'
+- 'Partnerschaft mit Jacoby: Ad Age'
+- 'Verkauf an True North: Ad Age'
+- 'Rückzug aus Management: WHO''S WHO'
+- 'Tätigkeit als Markenberater: WHO''S WHO'
+- 'Bezeichnung als ''Erfinder der modernen deutschen Werbung'': Ad Age'
+- 'Zusammenarbeit bei GGK: Wikipedia'
 tags:
 - Springer & Jacoby
 - Hamburg

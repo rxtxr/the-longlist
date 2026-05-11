@@ -5,15 +5,14 @@ id: apple_1984_commercial
 last_updated: '2026-05-11'
 related: []
 sources:
-- Ausstrahlung am 22. Januar 1984 während Super Bowl XVIII [4][7][8]
-- Bezug auf George Orwells '1984' [4][7]
-- Agentur Chiat/Day [4]
-- 'Kreativteam: Steve Hayden, Brent Thomas, Lee Clow [4]'
-- 'Regie: Ridley Scott [4][10]'
-- Spot-Inhalt mit Hammerwurf und Voice-Over [4][7]
-- Macintosh-Vorstellung am 24. Januar 1984 [2][4]
-- Revolutionierung der Super-Bowl-Werbung [6]
-- Aufmerksamkeit für Macintosh-Start [8]
+- 'Wikipedia: 1984 (advertisement)'
+- Computer History Museum Timeline
+- HISTORY.com Artikel
+- Lemelson Center Artikel
+- CNN Artikel
+- 'Finnische Wikipedia: Macintosh 128K'
+- TikTok Video-Verweis
+- VK Video-Verweis
 tags:
 - Apple
 - Super-Bowl

@@ -1,18 +1,18 @@
 # Wissens-Graph — Agenturgeschichte
 
-_Zuletzt aktualisiert: 2026-05-11 07:28_
+_Zuletzt aktualisiert: 2026-05-11 19:38_
 
-_Einträge gesamt: 500_
+_Einträge gesamt: 568_
 
 
 ## Statistiken
 
-- **Agenturen**: 172 Einträge
-- **Personen**: 144 Einträge
-- **Epochen**: 23 Einträge
-- **Arbeiten & Kampagnen**: 65 Einträge
+- **Agenturen**: 210 Einträge
+- **Personen**: 160 Einträge
+- **Epochen**: 24 Einträge
+- **Arbeiten & Kampagnen**: 69 Einträge
 - **Agenturleben**: 30 Einträge
-- **Technik & Ausstattung**: 26 Einträge
+- **Technik & Ausstattung**: 35 Einträge
 - **Philosophie & Strömungen**: 20 Einträge
 - **Skandale & Kontroversen**: 9 Einträge
 - **Visuelles**: 11 Einträge
@@ -28,7 +28,9 @@ _Einträge gesamt: 500_
 - [ADECCO](knowledge/agencies/adecco.md) _1980-1999_ `Schweiz`, `Post`, `Kreativwelle`, `Emotion`
 - [alando.de](knowledge/agencies/alando_de.md) _1999-1999_ `ecommerce`, `dotcom-boom`, `startup`, `clone`
 - [Aldi Nord](knowledge/agencies/aldi_nord.md) _1946-present_ `discount`, `grocery`, `retail`, `german`
+- [Ally & Gargano](knowledge/agencies/ally_gargano.md) _1962-1991_ `comparative-advertising`, `creative-revolution`, `new-york-agencies`
 - [Alma DDB](knowledge/agencies/alma_ddb.md) _1960-2010_ `creative-revolution`, `bernbach-legacy`, `german-advertising`, `vw-advertising`
+- [Ammirati Puris Lintas](knowledge/agencies/ammirati_puris_lintas.md) _1994-2001_ `creativity`, `merger`, `corporate_identity`
 - [AMV BBDO London — Abbott Mead Vickers](knowledge/agencies/amv_bbdo_london_abbott_mead_vickers.md) _1977-2010_ `BBDO`, `British Advertising`, `Creative Excellence`, `David Abbott`
 - [Anomaly](knowledge/agencies/anomaly.md) _2004-2024_ `hybrid-model`, `business-design`, `venture-capital`, `modern-agency`
 - [Aperto](knowledge/agencies/aperto.md) _1995-2021_ `digital-pioneer`, `new-economy`, `berlin`, `acquisition`
@@ -36,13 +38,16 @@ _Einträge gesamt: 500_
 - [Art-Direktor](knowledge/agencies/art_direktor.md) _1920-2020_ `art-direction`, `creative-team`, `visual-design`, `ad-history`
 - [Bartle Bogle Hegarty](knowledge/agencies/bartle_bogle_hegarty.md) _1982-present_ `audi`, `black_sheep`, `brand_identity`, `brand_strategy`
 - [Bartle Bogle Hegarty (BBH)](knowledge/agencies/bartle_bogle_hegarty_bbh.md) _1982-2024_ `creative_revolution`, `british_advertising`, `challenger_brands`
+- [Bates Worldwide](knowledge/agencies/bates_worldwide.md) _1940-2003_ `USP`, `hard-sell`, `global_network`, `mergers`
 - [BBDO — Batten Barton Durstine & Osborn](knowledge/agencies/bbdo_batten_barton_durstine_osborn.md) _1891-2010_ `BBDO`, `Werbeagentur`, `Kreativrevolution`, `Brainstorming`
 - [BBDO Germany / Düsseldorf](knowledge/agencies/bbdo_germany_duesseldorf.md) _1970-2010_ `BBDO`, `Düsseldorf`, `Werbeagentur`, `Industriewerbung`
 - [BBDO Group Germany](knowledge/agencies/bbdo_group_germany.md) 
 - [Benton & Bowles](knowledge/agencies/benton_bowles.md) _1929-1985_ `radio-advertising`, `soap-operas`, `packaged-goods`, `scientific-advertising`
 - [Berkshire Hathaway](knowledge/agencies/berkshire_hathaway.md) _1955-present_ `conglomerate`, `warren-buffett`, `value-investing`, `insurance`
 - [Bertelsmann](knowledge/agencies/bertelsmann.md) _1835-2020_ `media-conglomerate`, `advertising-sales-house`, `germany`, `crossmedia`
+- [Birds Eye](knowledge/agencies/birds_eye.md) _1967-1978_ `creativerevolution`, `germanadvertising`, `provocation`, `1960s`
 - [BMP DDB Needham](knowledge/agencies/bmp_ddb_needham.md) _1989-2004_ `BMP`, `DDB Needham`, `Omnicom`, `Account Planning`
+- [Boase Massimi Pollitt](knowledge/agencies/boase_massimi_pollitt.md) _1968-1989_ `account_planning`, `creative_revolution`, `british_advertising`
 - [Bonnier Media Holding](knowledge/agencies/bonnier_media_holding.md) _1993-present_ `publishing`, `media-conglomerate`, `german-market`, `acquisitions`
 - [Boutique-Agenturen](knowledge/agencies/boutique_agenturen.md) _1960-2020_ `boutique`, `creativity`, `specialization`, `counter-culture`
 - [Bozell Worldwide](knowledge/agencies/bozell_worldwide.md) _1921-2001_ `full-service`, `merger`, `us-army`, `telecom`
@@ -52,8 +57,10 @@ _Einträge gesamt: 500_
 - [Carat](knowledge/agencies/carat.md) _1968-present_ `media`, `first_media_agency`, `disruption`, `aegis`
 - [Carl Ally](knowledge/agencies/carl_ally.md) 
 - [Carl Ally Inc.](knowledge/agencies/carl_ally_inc.md) _1962-1987_ `comparative-advertising`, `creative-revolution`, `aggressive-style`, `new-york-agencies`
+- [CDP (Collett Dickenson Pearce)](knowledge/agencies/cdp_collett_dickenson_pearce.md) _1960-1990_ `creative-revolution`, `british-advertising`, `tv-commercials`
 - [Chiat\Day](knowledge/agencies/chiat_day.md) _1968-1995_ `creative-revolution`, `apple`, `bureau-design`, `1980s`
 - [Collett Dickenson Pearce (CDP)](knowledge/agencies/collett_dickenson_pearce_cdp.md) _1960-1986_ `1960s`, `1980s`, `British Creative Revolution`, `Creative Hotshop`
+- [Colman Prentis & Varley](knowledge/agencies/colman_prentis_varley.md) _1934-1960_ `uk-advertising`, `creative-revolution`, `london-agencies`
 - [Condé Nast](knowledge/agencies/cond_nast.md) _1909-present_ `publishing`, `luxury-advertising`, `magazines`, `media-company`
 - [Converse](knowledge/agencies/converse.md) _1903-1922_ `us-advertising`, `merger`, `automotive-advertising`, `bbdo`
 - [Creative Boutiques](knowledge/agencies/creative_boutiques.md) _1960-1980_ `creative-revolution`, `independent-agencies`, `1960s`
@@ -65,22 +72,29 @@ _Einträge gesamt: 500_
 - [Deutsche Werbe- und Anzeigengesellschaft (DWAG)](knowledge/agencies/deutsche_werbe_und_anzeigengesellschaft_dwag.md) _1953-1990_ `DDR`, `Staatsbetrieb`, `Monopol`, `Propaganda`
 - [Deutschen Werbemuseum](knowledge/agencies/deutschen_werbemuseum.md) _1988-2003_ `Museum`, `Werbearchiv`, `Kulturgeschichte`, `Frankfurt`
 - [Die Geschichte der deutschen Werbeagentur Scholz & Friends (gegründet 1981)](knowledge/agencies/die_geschichte_der_deutschen_werbeagentur_scholz_friends_gegruendet_1981.md) _1981-2012_ `german-advertising`, `creative-revolution`, `integrated-communications`
+- [DMB&B](knowledge/agencies/dmb_b.md) _1929-2002_ `merger`, `procter-gamble`, `globalization`, `archives`
 - [Don Johnston](knowledge/agencies/don_johnston.md) 
+- [DoorDash](knowledge/agencies/doordash.md) _2013-_ `delivery`, `gig-economy`, `super-bowl-ad`
 - [Doyle Dane Bernbach (DDB) — die Creative Revolution](knowledge/agencies/doyle_dane_bernbach_ddb_die_creative_revolution.md) _1949-1986_ `Creative Revolution`, `DDB`, `William Bernbach`, `Volkswagen`
 - [Droga5](knowledge/agencies/droga5.md) _2006-2019_ `creative-revolution`, `purpose-driven`, `acquisition`, `digital-innovation`
 - [Elite Model Management](knowledge/agencies/elite_model_management.md) _1972-2000_ `model-agency`, `supermodels`, `fashion`, `john-casablancas`
 - [Essence](knowledge/agencies/essence.md) _2005-2023_ `digital_agency`, `data_driven`, `performance_marketing`, `merger`
 - [Fallon McElligott — Minneapolis, Mittelamerika und die Gegenbewegung zu Madison Ave.](knowledge/agencies/fallon_mcelligott_minneapolis_mittelamerika_und_die_gegenbewegung_zu_madison_ave.md) _1981-2000_ `creative revolution`, `minneapolis`, `boutique agency`, `provocative advertising`
+- [FCB Global](knowledge/agencies/fcb_global.md) _1873-2020_ `full-service`, `network-agency`, `creativity`, `mergers`
 - [FCO Univas und die britische Agenturszene der 1980er Jahre](knowledge/agencies/fco_univas_und_die_britische_agenturszene_der_1980er_jahre.md) _1982-1994_ `creative-hotshop`, `british-advertising`, `1980s`, `merger`
+- [FischerAppelt](knowledge/agencies/fischerappelt.md) _1986-2010_ `integrierte_kommunikation`, `pr-agentur`, `umweltkommunikation`, `familienunternehmen`
 - [Foote Cone & Belding (FCB) — Geschichte](knowledge/agencies/foote_cone_belding_fcb_geschichte.md) _1873-1990_ `reason-why`, `albert-lasker`, `us-advertising`
 - [Full-Service-Agenturen](knowledge/agencies/full_service_agenturen.md) _1869-1990_ `Full-Service`, `Werbeagentur`, `Geschichte`, `Integration`
 - [Geico](knowledge/agencies/geico.md) _1996-2020_ `versicherungen`, `humor`, `ikonen`, `massemarketing`
+- [Geigy](knowledge/agencies/geigy.md) _1940-1970_ `Swiss Style`, `Corporate Identity`, `Pharma Advertising`, `In-House Agency`
 - [General Motors — der größte Werbeauftraggeber der Geschichte](knowledge/agencies/general_motors_der_groesste_werbeauftraggeber_der_geschichte.md) _1920-1990_ `General Motors`, `Automobilwerbung`, `Mad Men Era`, `Biggest Advertiser`
 - [Gesamtverband Kommunikationsagenturen GWA](knowledge/agencies/gesamtverband_kommunikationsagenturen_gwa.md) _1949-present_ `gwa`, `trade-association`, `german-advertising`, `quality-standards`
 - [GGK Düsseldorf](knowledge/agencies/ggk_duesseldorf.md) _1954-2005_ `deutschland`, `grey-global-group`, `henkel`, `konsumgüter`
+- [GGK (Gerstner, Gredinger, Kutter)](knowledge/agencies/ggk_gerstner_gredinger_kutter.md) _1959-1990_ `swiss-style`, `international-typographic-style`, `corporate-design`
 - [GGK — Grey Group Kommunikation Deutschland](knowledge/agencies/ggk_grey_group_kommunikation_deutschland.md) _1973-2009_ `GGK`, `Grey Deutschland`, `Markenstrategie`, `integrierte Kommunikation`
 - [GGK Hamburg](knowledge/agencies/ggk_hamburg.md) _1962-1987_ `corporate-identity`, `swiss-connection`, `creative-excellence`, `hamburg`
 - [GGK Werbeagentur](knowledge/agencies/ggk_werbeagentur.md) _1959-1990_ `swiss-style`, `corporate-design`, `typography`
+- [Golin](knowledge/agencies/golin.md) _1956-present_ `public-relations`, `mcdonalds`, `trust-bank`
 - [Goodby, Silverstein & Partners](knowledge/agencies/goodby_silverstein_partners.md) _1983-present_ `creativity`, `storytelling`, `west_coast`, `humor`
 - [Grabarz & Partner — Hamburg und die erste Generation nach der Wiedervereinigung](knowledge/agencies/grabarz_partner_hamburg_und_die_erste_generation_nach_der_wiedervereinigung.md) _1990-2000_ `Creative Revolution`, `Hamburg`, `Emotional Branding`
 - [Grey Advertising — die New Yorker Agentur](knowledge/agencies/grey_advertising_die_new_yorker_agentur.md) _1917-2010_ `full-service`, `procter-gamble`, `research-driven`, `nyc`
@@ -98,17 +112,23 @@ _Einträge gesamt: 500_
 - [Helmut Lang](knowledge/agencies/helmut_lang.md) _1977-1998_ `Österreich`, `Kreativagentur`, `Minimalismus`, `Printwerbung`
 - [Heye & Partner München — DDB-Tochter und die Münchner Agenturszene](knowledge/agencies/heye_partner_muenchen_ddb_tochter_und_die_muenchner_agenturszene.md) _1955-2005_ `munich`, `ddb`, `mcdonalds`, `acquisition`
 - [Home24](knowledge/agencies/home24.md) _2012-2023_ `e-commerce`, `furniture`, `startup`, `rocket-internet`
+- [Honda](knowledge/agencies/honda.md) _1948-present_ `automotive`, `japan`, `engineering`, `wieden-kennedy`
 - [Horizon Media](knowledge/agencies/horizon_media.md) _1989-_ `Mediaagentur`, `Unabhängig`, `USA`, `Bill Koenigsberg`
 - [Howell Henry Chaldecott Lury](knowledge/agencies/howell_henry_chaldecott_lury.md) _1987-1999_ `creative-revolution`, `british-advertising`, `1990s`, `provocative`
 - [IBM iX](knowledge/agencies/ibm_ix.md) _2012-present_ `digital_agency`, `consultancy_wave`, `customer_experience`, `ibm`
 - [Initiative](knowledge/agencies/initiative.md) _1968-present_ `media_agency`, `ipg`, `mediabrands`, `cultural_strategy`
+- [Initiative Media](knowledge/agencies/initiative_media.md) _1986-2010_ `media_agency`, `ipg`, `media_planning`
+- [Initiative Media Worldwide](knowledge/agencies/initiative_media_worldwide.md) _1989-2010_ `media_agency`, `unbundling`, `ipg`, `media_planning`
 - [Interpublic](knowledge/agencies/interpublic.md) _1961-present_ `holding`, `consolidation`, `börsengang`
 - [Interpublic Group (IPG)](knowledge/agencies/interpublic_group_ipg.md) _1960-present_ `holding_company`, `consolidation`, `global_networks`, `finance`
+- [Interpublic Group of Companies](knowledge/agencies/interpublic_group_of_companies.md) _1961-present_ `holding`, `acquisitions`, `marion-harper`, `mccann`
+- [Interpublic Group of Companies (IPG)](knowledge/agencies/interpublic_group_of_companies_ipg.md) _1960-2020_ `holding_company`, `global_expansion`, `nyse`
 - [IPG Mediabrands](knowledge/agencies/ipg_mediabrands.md) _2008-present_ `media-agency`, `holding-company`, `digital-marketing`, `consolidation`
 - [J. Walter Thompson (JWT) — die älteste Werbeagentur](knowledge/agencies/j_walter_thompson_jwt_die_aelteste_werbeagentur.md) _1864-2019_ `Full-Service-Agentur`, `Marktforschung`, `emotionale Werbung`, `Globalisierung`
 - [Jack Tinker & Partners](knowledge/agencies/jack_tinker_partners.md) _1960-1968_ `Kreativ-Revolution`, `Think-Tank`, `Interpublic`
 - [Jung von Matt — Hamburg 1991, Gründungsmythos und deutsche Kreativrevolution](knowledge/agencies/jung_von_matt_hamburg_1991_gruendungsmythos_und_deutsche_kreativrevolution.md) _1991-2010_ `creative-revolution`, `german-advertising`, `big-idea`, `provocation`
 - [Just Eat](knowledge/agencies/just_eat.md) _2001-2020_ `food-delivery`, `platform-economy`, `dotcom-era`
+- [Just Eat Takeaway.com](knowledge/agencies/just_eat_takeaway_com.md) _2000-2024_ `food-delivery`, `platform-economy`, `mergers-acquisitions`, `venture-capital`
 - [Kolle Rebbe](knowledge/agencies/kolle_rebbe.md) _1994-present_ `hamburg`, `digital-pioneers`, `creative-excellence`, `integrated-campaigns`
 - [Krups](knowledge/agencies/krups.md) _1969-1998_ `automotive-advertising`, `german-ad-agencies`, `brand-campaigns`
 - [Kunstgewerbeschule Basel](knowledge/agencies/kunstgewerbeschule_basel.md) _1940-1980_ `Schweizer Grafik`, `Typografie`, `Designausbildung`, `Emil Ruder`
@@ -118,8 +138,10 @@ _Einträge gesamt: 500_
 - [Leo Burnett Worldwide](knowledge/agencies/leo_burnett_worldwide.md) _1935-present_ `creative-revolution`, `brand-icons`, `chicago-style`
 - [Lever Brothers](knowledge/agencies/lever_brothers.md) _1885-1929_ `Markenartikel`, `Seifenwerbung`, `Hausagentur`
 - [Lintas](knowledge/agencies/lintas.md) _1928-1999_ `hausagentur`, `global_network`, `unilever`, `brand_management`
+- [Lintas:Worldwide](knowledge/agencies/lintas_worldwide.md) _1928-1999_ `unilever`, `house-agency`, `global-network`, `scientific-advertising`
 - [Lord & Thomas](knowledge/agencies/lord_thomas.md) _1873-1942_ `reason-why`, `copywriting`, `albert-lasker`, `chicago`
 - [Lowe and Partners](knowledge/agencies/lowe_and_partners.md) _1981-2011_ `interpublic`, `creative-hotshop`, `frank-lowe`, `global-network`
+- [Lowe Group](knowledge/agencies/lowe_group.md) _1981-1990_ `creative-revolution`, `mergers-acquisitions`, `uk-advertising`
 - [Lowe Howard-Spink](knowledge/agencies/lowe_howard_spink.md) _1981-1990_ `creative-hotshop`, `british-advertising`, `1980s`
 - [Lowe Lintas & Partners](knowledge/agencies/lowe_lintas_partners.md) _1999-2002_ `Lintas`, `Frank Lowe`, `Unilever`
 - [Lowe & Partners](knowledge/agencies/lowe_partners.md) _1981-2000s_ `creative-revolution`, `british-advertising`, `emotional-advertising`
@@ -127,9 +149,12 @@ _Einträge gesamt: 500_
 - [Lürzer & Conrad — Europäische Kreativ-Agentur](knowledge/agencies/luerzer_conrad_europaeische_kreativ_agentur.md) _1970-1982_ `Kreativagentur`, `Deutschland`, `Fusion`, `Frankfurt`
 - [Lufthansa](knowledge/agencies/lufthansa.md) _1926-2024_ `aviation`, `corporate-branding`, `german-advertising`, `anniversary`
 - [M&C Saatchi](knowledge/agencies/m_c_saatchi.md) _1995-2020_ `agency-split`, `creative-philosophy`, `uk-advertising`
+- [Magna Global](knowledge/agencies/magna_global.md) _2001-2024_ `media-buying`, `consolidation`, `market-intelligence`, `ipg`
 - [Maisons du Monde](knowledge/agencies/maisons_du_monde.md) _1996-2010_ `retail`, `furniture`, `france`, `e-commerce`
 - [Mars, Incorporated](knowledge/agencies/mars_incorporated.md) _1911-present_ `confectionery`, `global_branding`, `animated_ads`, `family_business`
+- [Mather & Crowther](knowledge/agencies/mather_crowther.md) _1850-1971_ `uk`, `founding-agency`, `david-ogilvy`
 - [McCann Erickson — Internationale Agenturgeschichte](knowledge/agencies/mccann_erickson_internationale_agenturgeschichte.md) _1902-present_ `global_network`, `coca-cola`, `us_agency`
+- [McCann Worldgroup](knowledge/agencies/mccann_worldgroup.md) _1912-present_ `global-network`, `ipg`, `integrated-marketing`, `coca-cola`
 - [McDonald's Deutschland](knowledge/agencies/mcdonald_s_deutschland.md) _1971-present_ `fastfood`, `brand-building`, `franchise`, `americanization`
 - [Mediaagentur](knowledge/agencies/mediaagentur.md) _1966-2020_ `media`, `mediaplanung`, `unbundling`, `media-buying`
 - [MediaCom](knowledge/agencies/mediacom.md) _1986-present_ `media_agency`, `media_planning`, `wpp`, `media_buying`
@@ -144,12 +169,16 @@ _Einträge gesamt: 500_
 - [Nike - Just Do It](knowledge/agencies/nike_just_do_it.md) _1988-1990s_ `nike`, `just-do-it`, `wieden-kennedy`, `slogan`
 - [Ogilvy Deutschland](knowledge/agencies/ogilvy_deutschland.md) _1960er-2020er_ `Ogilvy`, `Werbeagentur`, `Deutschland`, `Kreativagentur`
 - [Ogilvy & Mather — David Ogilvys Agenturprinzipien](knowledge/agencies/ogilvy_mather_david_ogilvys_agenturprinzipien.md) _1948-1989_ `Ogilvy & Mather`, `David Ogilvy`, `Werbephilosophie`, `Markenführung`
+- [OgilvyOne](knowledge/agencies/ogilvyone.md) _1984-2010_ `direct-marketing`, `david-ogilvy`, `data-driven`
 - [Omnicom Group](knowledge/agencies/omnicom_group.md) _1986-2020_ `holding`, `consolidation`, `acquisition`, `global`
+- [Optimedia](knowledge/agencies/optimedia.md) _1989-2016_ `media_agency`, `publicis`, `merger`, `ROI`
 - [Papert Koenig Lois](knowledge/agencies/papert_koenig_lois.md) _1960-1963_ `creative-revolution`, `madison-avenue`, `1960s`
 - [Pearson Television](knowledge/agencies/pearson_television.md) _1997-2000_ `tv-production`, `mergers`, `media-conglomerates`, `format-rights`
+- [Pentagram](knowledge/agencies/pentagram.md) _1972-_ `designkollektiv`, `partnerschaftsmodell`, `multidisziplinär`
 - [Pixelpark](knowledge/agencies/pixelpark.md) _1991-2003_ `digital_agency`, `dotcom_bubble`, `new_market`, `pioneer`
 - [Proximity](knowledge/agencies/proximity.md) _1996-2010_ `direct_marketing`, `crm`, `data_driven`, `omnicom`
 - [Publicis Groupe — französische Werbeagentur mit globaler Präsenz](knowledge/agencies/publicis_groupe_franzoesische_werbeagentur_mit_globaler_praesenz.md) _1926-2020_ `holding_company`, `acquisitions`, `french_advertising`, `global_expansion`
+- [Publicis Media](knowledge/agencies/publicis_media.md) _2015-2024_ `media_agency`, `consolidation`, `digital_transformation`, `power_of_one`
 - [Publicis Worldwide](knowledge/agencies/publicis_worldwide.md) _1926-present_ `french-advertising`, `global-network`, `marcel-bleustein`, `publicis-groupe`
 - [PwC Digital Services](knowledge/agencies/pwc_digital_services.md) _2010-2024_ `consultancy`, `digital-transformation`, `business-consulting`
 - [Razorfish](knowledge/agencies/razorfish.md) _1995-2004_ `digital_agency`, `dotcom`, `user_experience`, `acquisition`
@@ -162,11 +191,14 @@ _Einträge gesamt: 500_
 - [Schneider + Partner](knowledge/agencies/schneider_partner.md) _1980-2010_ `packaging-design`, `branding`, `german-advertising`, `digital-transformation`
 - [Schneider+Schneider](knowledge/agencies/schneider_schneider.md) _1989-1999_ `creativerevolution`, `germanadvertising`, `diesel`
 - [Scholz & Friends](knowledge/agencies/scholz_friends.md) _1981-present_ `Hamburg`, `Kreativität`, `Provokation`, `Börsengang`
+- [Schule für Gestaltung Basel](knowledge/agencies/schule_fuer_gestaltung_basel.md) _1945-1990_ `Schweizer Typografie`, `Armin Hofmann`, `Emil Ruder`
+- [Seamless](knowledge/agencies/seamless.md) _1995-2005_ `integration`, `digital-pioneer`, `1990s`, `multimedia`
 - [Serviceplan München — gegründet 1970, Europas größte unabhängige Agentur](knowledge/agencies/serviceplan_muenchen_gegruendet_1970_europas_groesste_unabhaengige_agentur.md) _1970-present_ `Haus der Kommunikation`, `Integrated Communications`, `Independent Agency`, `German Advertising`
 - [Siemens](knowledge/agencies/siemens.md) _1847-2020_ `Elektrotechnik`, `Industriegeschichte`, `Innovation`
 - [SinnerSchrader](knowledge/agencies/sinnerschrader.md) _1996-2017_ `digital_agency`, `e-commerce`, `germany`, `dotcom`
 - [Spike Lee](knowledge/agencies/spike_lee.md) _1997-2007_ `multicultural_marketing`, `celebrity_agency`, `nike`, `joint_venture`
 - [Springer & Jacoby Hamburg](knowledge/agencies/springer_jacoby_hamburg.md) _1978-2010_ `Markenführung`, `Hamburg`, `Nivea`, `DDB`
+- [SSC&B](knowledge/agencies/ssc_b.md) _1933-1979_ `psychologie`, `fusion`, `unilever`, `kreativität`
 - [Starcom](knowledge/agencies/starcom.md) _2000-_ `media_agency`, `publicis_groupe`, `media_planning`, `unbundling`
 - [State Farm](knowledge/agencies/state_farm.md) _1880-2010_ `Werbeagenturen`, `Kreativrevolution`, `Doyle Dane Bernbach`, `Ogilvy`
 - [Takeaway.com](knowledge/agencies/takeaway_com.md) _2000-2022_ `food-delivery`, `e-commerce`, `platform`, `startup`
@@ -177,7 +209,11 @@ _Einträge gesamt: 500_
 - [Team/BBDO](knowledge/agencies/team_bbdo.md) _1968-1990_ `hamburger-schule`, `creativ-revolution`, `merger`
 - [Ted Bates & Company — die USP-Agentur](knowledge/agencies/ted_bates_company_die_usp_agentur.md) _1940-1986_ `USP`, `Ted Bates`, `Rosser Reeves`, `klassische Werbung`
 - [The Martin Agency](knowledge/agencies/the_martin_agency.md) _1965-2020_ `insurance-advertising`, `humor`, `virginia`, `geico`
+- [Tiffany & Co.](knowledge/agencies/tiffany_co.md) _1837-present_ `luxury`, `branding`, `retail`, `jewelry`
+- [True North Communications](knowledge/agencies/true_north_communications.md) _1989-2001_ `mergers-acquisitions`, `holding-companies`, `fcb`, `us-advertising`
+- [UM Worldwide](knowledge/agencies/um_worldwide.md) _1999-present_ `media-agency`, `consolidation`, `IPG`, `data-driven`
 - [Under Armour](knowledge/agencies/under_armour.md) _1996-2020_ `sportswear`, `brand`, `innovation`, `competition`
+- [Universal McCann](knowledge/agencies/universal_mccann.md) _1999-present_ `media_agency`, `unbundling`, `IPG`, `data_driven`
 - [Vanity Fair](knowledge/agencies/vanity_fair.md) _1914-1936, 1983-present_ `magazine`, `culture`, `journalism`, `celebrity`
 - [Vodafone](knowledge/agencies/vodafone.md) _1984-2010_ `telecommunications`, `global-branding`, `mergers-acquisitions`
 - [Watson](knowledge/agencies/watson.md) _1966-1988_ `Schweiz`, `Kreative Revolution`, `Minimalismus`, `Copywriting`
@@ -187,10 +223,12 @@ _Einträge gesamt: 500_
 - [Wiedemann & Berg — deutsche Agentur mit internationalem Erfolg](knowledge/agencies/wiedemann_berg_deutsche_agentur_mit_internationalem_erfolg.md) _1962-1987_ `creativerevolution`, `germanadvertising`, `legacy`
 - [Wieden+Kennedy — Dan Wieden, Nike und das Modell der unabhängigen Agentur](knowledge/agencies/wieden_kennedy_dan_wieden_nike_und_das_modell_der_unabhaengigen_agentur.md) _1982-present_ `Independent Agency`, `Nike`, `Just Do It`
 - [WPP Group](knowledge/agencies/wpp_group.md) _1985-2025_ `holding`, `acquisitions`, `finance`, `globalization`
+- [Y Combinator](knowledge/agencies/y_combinator.md) _2005-_ `startup-accelerator`, `venture-capital`, `silicon-valley`, `seed-funding`
 - [Yahoo!](knowledge/agencies/yahoo.md) _1994-2017_ `web-portal`, `dot-com-era`, `search-engine`, `email`
 - [Young & Rubicam — Forschung und Kreativität](knowledge/agencies/young_rubicam_forschung_und_kreativitaet.md) _1923-2010_ `Marktforschung`, `Kreativität`, `Raymond Rubicam`, `George Gallup`
 - [Zappos](knowledge/agencies/zappos.md) _1999-2010_ `e-commerce`, `customer-service`, `company-culture`, `tony-hsieh`
 - [Zenith](knowledge/agencies/zenith.md) _1988-present_ `media_agency`, `unbundling`, `publicis`
+- [Zenith Media](knowledge/agencies/zenith_media.md) _1988-present_ `media-agency`, `roi`, `publicis`, `specialization`
 - [ZenithOptimedia](knowledge/agencies/zenithoptimedia.md) _2001-2016_ `media_agency`, `ROI`, `data_driven`
 - [Zweigelt & Co.](knowledge/agencies/zweigelt_co.md) _1953-1990_ `austria`, `print-advertising`, `post-war-advertising`, `craftsmanship`
 
@@ -207,6 +245,7 @@ _Einträge gesamt: 500_
 - [Annie Leibovitz](knowledge/people/annie_leibovitz.md) _1970-present_ `celebrity photography`, `vanity fair`, `rolling stone`, `iconic portraits`
 - [Anton Stankowski](knowledge/people/anton_stankowski.md) _1929-1990_ `Konstruktive Grafik`, `Corporate Design`, `Schweizer Typografie`, `Fotografie in Werbung`
 - [Armin Hofmann](knowledge/people/armin_hofmann.md) _1945-1990_ `Swiss Style`, `Typography`, `Design Education`, `Poster Design`
+- [Arthur Sadoun](knowledge/people/arthur_sadoun.md) _2010-2024_ `CEO`, `Digital Transformation`, `Acquisitions`, `Publicis Groupe`
 - [Barbara Kruger](knowledge/people/barbara_kruger.md) _1975-1995_ `konzeptkunst`, `werbekritik`, `feminismus`, `bild-text-collage`
 - [Benjamin Graham](knowledge/people/benjamin_graham.md) _1960-1979_ `copywriter`, `creative-revolution`, `british-advertising`, `slogans`
 - [Bill Bernbach — Vater der Kreativen Revolution](knowledge/people/bill_bernbach_vater_der_kreativen_revolution.md) _1949-1982_ `Kreative Revolution`, `DDB`, `Bill Bernbach`, `Volkswagen`
@@ -216,15 +255,18 @@ _Einträge gesamt: 500_
 - [Charles Saatchi](knowledge/people/charles_saatchi.md) _1967-1995_ `saatchi-and-saatchi`, `creative-revolution`, `art-collector`
 - [Charles Wilp](knowledge/people/charles_wilp.md) _1960-1980_ `german-advertising`, `creative-revolution`, `provocation`, `psychedelic`
 - [Charlie Munger](knowledge/people/charlie_munger.md) _1950-2023_ `value-investing`, `berkshire-hathaway`, `warren-buffett`, `investment-philosophy`
+- [Christine Walker](knowledge/people/christine_walker.md) _1973-1989_ `frauen_in_der_werbung`, `uk_werbung`, `agenturgruendung`
 - [Christy Turlington](knowledge/people/christy_turlington.md) _1989-2010s_ `supermodel`, `calvin-klein`, `maybelline`, `beauty`
 - [Cindy Crawford](knowledge/people/cindy_crawford.md) _1986-2000_ `supermodels`, `celebrity-endorsement`, `beauty`, `fashion`
 - [Claude C. Hopkins](knowledge/people/claude_c_hopkins.md) _1890-1932_ `Scientific Advertising`, `Reason-Why`, `Direct Response`, `Copywriting`
 - [Claudia Schiffer](knowledge/people/claudia_schiffer.md) _1989-2000_ `supermodel`, `90s`, `fashion-advertising`, `celebrity-endorsement`
 - [Colin Millward](knowledge/people/colin_millward.md) _1960-1980_ `creative_director`, `british_advertising`, `creative_revolution`, `CDP`
+- [Corinne Day](knowledge/people/corinne_day.md) _1990-1999_ `fotografie`, `heroin-chic`, `mode`, `authentizitaet`
 - [Dan Wieden — Just Do It und Wieden+Kennedy](knowledge/people/dan_wieden_just_do_it_und_wieden_kennedy.md) _1982-2022_ `Dan Wieden`, `Nike`, `Just Do It`, `Slogan`
 - [David Droga](knowledge/people/david_droga.md) _2006-present_ `droga5`, `accenture`, `creative-excellence`, `agency-founder`
 - [David Kennedy](knowledge/people/david_kennedy.md) _1982-1995_ `Wieden+Kennedy`, `Nike`, `Just Do It`, `Creative Revolution`
 - [David Ogilvy — der Werbe-Guru](knowledge/people/david_ogilvy_der_werbe_guru.md) _1948-1989_ `David Ogilvy`, `Ogilvy & Mather`, `Werbeikone`, `Markenführung`
+- [David Puttnam](knowledge/people/david_puttnam.md) _1960-2010_ `film_producer`, `british_advertising`, `creative_revolution`, `columbia_pictures`
 - [David Schneider](knowledge/people/david_schneider.md) _1963-1988_ `Schneider+Co`, `Kreativ-Revolution Deutschland`, `Frankfurter Werbeszene`, `Konzeptionelle Werbung`
 - [David Sims](knowledge/people/david_sims.md) _1988-2010_ `fotografie`, `modefotografie`, `minimalismus`, `luxuswerbung`
 - [Der Kreativdirektor des Jahres — Ego, Status und Wettbewerb in der Werbebranche](knowledge/people/der_kreativdirektor_des_jahres_ego_status_und_wettbewerb_in_der_werbebranche.md) _1980-2023_ `awards`, `creative-directors`, `competition`
@@ -235,6 +277,7 @@ _Einträge gesamt: 500_
 - [Ellen von Unwerth](knowledge/people/ellen_von_unwerth.md) _1986-2010_ `fotografie`, `modewerbung`, `creativerevolution`, `weiblichkeitsbilder`
 - [Emil Ruder](knowledge/people/emil_ruder.md) _1940-1970_ `swiss style`, `typography`, `education`, `grid systems`
 - [Erik Spiekermann — Typografie, MetaDesign und der Schriftgestalter als Marke](knowledge/people/erik_spiekermann_typografie_metadesign_und_der_schriftgestalter_als_marke.md) _1979-2010_ `typography`, `corporate_design`, `type_design`
+- [Fabien Baron](knowledge/people/fabien_baron.md) _1982-2010_ `art-direction`, `fashion-advertising`, `minimalism`, `luxury-brands`
 - [Frank Abbott](knowledge/people/frank_abbott.md) _1970-1990_ `agency-founder`, `british-advertising`, `creative-revolution`
 - [Frank Gehry](knowledge/people/frank_gehry.md) _1954-2025_ `deconstructivism`, `stararchitect`, `bilbao-effect`, `postmodernism`
 - [Frank Lowe](knowledge/people/frank_lowe.md) _1960-2010_ `creative-revolution`, `agency-founder`, `british-advertising`
@@ -267,6 +310,7 @@ _Einträge gesamt: 500_
 - [Jay Chiat](knowledge/people/jay_chiat.md) _1968-1995_ `creative_revolution`, `account_planning`, `apple`, `agency_culture`
 - [Jean-Michel Basquiat](knowledge/people/jean_michel_basquiat.md) _1978-1988_ `streetart`, `art`, `1980s`, `newyork`
 - [Jean-Remy von Matt](knowledge/people/jean_remy_von_matt.md) _1991-2019_ `copywriter`, `agency-founder`, `creative-revolution`, `german-advertising`
+- [Jessica Livingston](knowledge/people/jessica_livingston.md) _2005-2020_ `venture-capital`, `startup-accelerator`, `silicon-valley`, `women-in-tech`
 - [John Hegarty](knowledge/people/john_hegarty.md) _1970-2010_ `creative_revolution`, `bbh`, `british_advertising`, `copywriter`
 - [John Jahr sen.](knowledge/people/john_jahr_sen.md) _1948-1991_ `verleger`, `zeitschriften`, `medienkonzern`
 - [John O'Leary](knowledge/people/john_o_leary.md) _1958-1980_ `Kreativ-Revolution`, `UK-Werbung`, `Printwerbung`
@@ -274,8 +318,11 @@ _Einträge gesamt: 500_
 - [John Perriss](knowledge/people/john_perriss.md) _1970-2010_ `media`, `saatchi`, `zenith`, `business`
 - [John Salmon](knowledge/people/john_salmon.md) _1960-1980_ `creative-independence`, `client-relations`, `cdp`, `ford`
 - [John Watson](knowledge/people/john_watson.md) _1920-1935_ `behaviorism`, `advertising_psychology`, `JWT`, `consumer_research`
+- [John Webster](knowledge/people/john_webster.md) _1960-2000_ `creativity`, `humor`, `british_advertising`, `TV_commercials`
 - [Josef Müller-Brockmann](knowledge/people/josef_mueller_brockmann.md) _1936-1996_ `swiss style`, `typography`, `grid systems`, `graphic design`
+- [Juergen Teller](knowledge/people/juergen_teller.md) _1990-2010_ `fashion photography`, `german photographer`, `anti-glamour`, `blitzlicht`
 - [Julian Koenig](knowledge/people/julian_koenig.md) _1950-1970_ `copywriting`, `creative-revolution`, `volkswagen`, `think-small`
+- [Karl Gerstner](knowledge/people/karl_gerstner.md) _1950-1980_ `Swiss Style`, `Typografie`, `Konkrete Kunst`, `Op-Art`
 - [Karl Lagerfeld](knowledge/people/karl_lagerfeld.md) _1955-2019_ `fashion`, `luxury`, `branding`, `creative_director`
 - [Keith Haring](knowledge/people/keith_haring.md) _1980-1990_ `streetart`, `aids_activism`, `new_york`, `1980s`
 - [Klaus Kocks](knowledge/people/klaus_kocks.md) _1970-1990_ `creative-director`, `ggk`, `german-advertising`, `conceptual-advertising`
@@ -288,9 +335,11 @@ _Einträge gesamt: 500_
 - [Marc Samwer](knowledge/people/marc_samwer.md) _1999-2010er_ `unternehmer`, `e-commerce`, `venture-capital`, `mobile-marketing`
 - [Marion Harper Jr.](knowledge/people/marion_harper_jr.md) _1940-1970_ `holding_company`, `mergers_acquisitions`, `business_innovation`, `scandal`
 - [Mark Zuckerberg](knowledge/people/mark_zuckerberg.md) _2004-present_ `tech-founder`, `social-media`, `adtech`, `data-driven-advertising`
+- [Markus Kutter](knowledge/people/markus_kutter.md) _1959-1974_ `swiss-advertising`, `copywriting`, `public-intellectual`
 - [Mary Wells Lawrence — erste weibliche Agentur-CEO](knowledge/people/mary_wells_lawrence_erste_weibliche_agentur_ceo.md) _1966-1990_ `Braniff`, `CEO`, `Frauen in der Werbung`, `Kreativ-Revolution`
 - [Mary Wells Lawrence — erste weibliche Werbeagentur-Chefin](knowledge/people/mary_wells_lawrence_erste_weibliche_werbeagentur_chefin.md) _1960-1990_ `women-in-advertising`, `creative-revolution`, `agency-founder`
 - [Mat Baxter](knowledge/people/mat_baxter.md) _1998-2024_ `media_agency`, `digital_transformation`, `australia`, `agency_ceo`
+- [Maurice Lévy](knowledge/people/maurice_l_vy.md) _1987-2017_ `ceo`, `acquisitions`, `digital_transformation`, `france`
 - [Maurice Saatchi](knowledge/people/maurice_saatchi.md) _1970-2010_ `saatchi`, `advertising`, `business`, `expansion`
 - [Max Burchartz](knowledge/people/max_burchartz.md) _1924-1933_ `Neue Typografie`, `Werbegrafik`, `Weimarer Republik`
 - [Maxwell Dane](knowledge/people/maxwell_dane.md) _1949-1986_ `DDB`, `Agency Founder`, `Businessman`, `Kreativ-Revolution`
@@ -308,18 +357,23 @@ _Einträge gesamt: 500_
 - [Patrick Demarchelier](knowledge/people/patrick_demarchelier.md) _1970-2010_ `fashion-photography`, `vogue`, `princess-diana`, `luxury-brands`
 - [Paul Arden — Kreativdirektor bei Saatchi & Saatchi](knowledge/people/paul_arden_kreativdirektor_bei_saatchi_saatchi.md) _1975-1993_ `Kreativdirektor`, `Britische Werbung`, `Kreativitätsphilosophie`
 - [Paul Cramer](knowledge/people/paul_cramer.md) _1960-1990_ `Werbetexter`, `Kreativdirektor`, `Slogans`, `Deutsche Werbung`
+- [Paul Graham](knowledge/people/paul_graham.md) _1960-1975_ `Kreative Revolution`, `Britische Werbung`, `Werbetext`
+- [Paul Gredinger](knowledge/people/paul_gredinger.md) _1960-1990_ `GGK`, `Swiss Advertising`, `Advertising History`, `Corporate Design`
 - [Paul T. Cherington](knowledge/people/paul_t_cherington.md) _1908-1943_ `Werbeforschung`, `Marketingwissenschaft`, `Harvard`, `Geschichte`
 - [Peter Lindbergh](knowledge/people/peter_lindbergh.md) _1980-2019_ `fotografie`, `mode`, `supermodels`, `authentizität`
 - [Peter Mead](knowledge/people/peter_mead.md) _1968-2006_ `british_advertising`, `agency_founders`, `business_development`
 - [Philip Kotler](knowledge/people/philip_kotler.md) _1960-2020_ `marketing_theorie`, `akademie`, `buecher`, `4ps`
 - [Phyllis Robinson — erste weibliche Creative Directorin bei DDB](knowledge/people/phyllis_robinson_erste_weibliche_creative_directorin_bei_ddb.md) _1949-1970_ `women-in-advertising`, `creative-revolution`, `DDB`, `pioneers`
 - [Raymond Loewy](knowledge/people/raymond_loewy.md) _1929-1975_ `industrial-design`, `streamlining`, `packaging`, `brand-identity`
+- [Reinhard A. Mohn](knowledge/people/reinhard_a_mohn.md) _1947-1981_ `Bertelsmann`, `Buchclub`, `Unternehmenskultur`
 - [Reinhard Springer](knowledge/people/reinhard_springer.md) _1979-2000_ `Springer & Jacoby`, `Hamburg`, `Kaderschmiede`
 - [Rem Koolhaas](knowledge/people/rem_koolhaas.md) _1975-2020_ `deconstructivism`, `urban_theory`, `Pritzker_winner`, `Harvard_GSD`
 - [Richard Avedon](knowledge/people/richard_avedon.md) _1940-2004_ `Fotografie`, `Mode`, `Kreativrevolution`
 - [Richard Gruner](knowledge/people/richard_gruner.md) _1965-1981_ `publishing`, `entrepreneur`, `print-media`
 - [Ridley Scott](knowledge/people/ridley_scott.md) _1963-1984_ `film`, `commercials`, `apple`, `superbowl`
 - [Robert Gentz](knowledge/people/robert_gentz.md) _2008-present_ `e-commerce`, `startup`, `venture-capital`, `digital-marketing`
+- [Ron Collins](knowledge/people/ron_collins.md) _1970-1989_ `copywriter`, `creative_director`, `british_advertising`, `tv_commercials`
+- [Ron Dickenson](knowledge/people/ron_dickenson.md) _1960-1980_ `creative-revolution`, `british-advertising`, `agency-founder`, `print-advertising`
 - [Rosser Reeves — USP und Hard Sell](knowledge/people/rosser_reeves_usp_und_hard_sell.md) _1940-1960_ `USP`, `Hard Sell`, `Rosser Reeves`, `Ted Bates & Company`
 - [Rudolf Augstein](knowledge/people/rudolf_augstein.md) _1947-2002_ `journalismus`, `spiegel`, `medien`, `pressefreiheit`
 - [Shirley Polykoff](knowledge/people/shirley_polykoff.md) _1950-1980_ `copywriting`, `pioneer`, `beauty`, `clairol`
@@ -366,10 +420,12 @@ _Einträge gesamt: 500_
 - [Werbebranche in der Schweiz — Wirz, Ruf Lanz, Advico und Helvetica](knowledge/eras/werbebranche_in_der_schweiz_wirz_ruf_lanz_advico_und_helvetica.md) _1950-2010_ `Swiss Style`, `International Typographic Style`, `Zürich`
 - [Werbung im Zweiten Weltkrieg — Propaganda und Konsumwerbung](knowledge/eras/werbung_im_zweiten_weltkrieg_propaganda_und_konsumwerbung.md) _1939-1945_ `Propaganda`, `Kriegswerbung`, `Ad Council`, `Rosie the Riveter`
 - [Werbung in den 1970ern — Ölkrise und gesellschaftlicher Wandel](knowledge/eras/werbung_in_den_1970ern_oelkrise_und_gesellschaftlicher_wandel.md) _1970-1979_ `Ölkrise`, `Umweltbewegung`, `Volkswagen`, `DDB`
+- [Wirtschaftswunders](knowledge/eras/wirtschaftswunders.md) _1948-1963_ `Wirtschaftswunder`, `Nachkriegszeit`, `Konsumgesellschaft`
 
 ### Arbeiten & Kampagnen
 
 - [Absolut Vodka](knowledge/work/absolut_vodka.md) _1980-2005_ `advertising`, `branding`, `art`, `vodka`
+- [Airbnb](knowledge/work/airbnb.md) _2008-present_ `sharing-economy`, `disruption`, `platform-brand`, `digital-business-model`
 - [Alka Seltzer — How do you spell relief](knowledge/work/alka_seltzer_how_do_you_spell_relief.md) _1975-1990_ `Alka Seltzer`, `Dancer Fitzgerald Sample`, `Slogan`, `OTC Advertising`
 - [Allstate](knowledge/work/allstate.md) _1931-present_ `insurance`, `branding`, `retail`, `emotional_advertising`
 - [American Express](knowledge/work/american_express.md) _1970-1990_ `branding`, `david-ogilvy`, `iconic-campaigns`
@@ -407,8 +463,10 @@ _Einträge gesamt: 500_
 - [Lucky Strike](knowledge/work/lucky_strike.md) _1920-1950_ `tobacco_advertising`, `propaganda`, `consumer_culture`, `women_empowerment`
 - [Lynx/Axe](knowledge/work/lynx_axe.md) _1983-2010_ `deodorant`, `youth_marketing`, `gender_stereotypes`, `BBH`
 - [Marlboro Man — Leo Burnetts ikonischste Kampagne](knowledge/work/marlboro_man_leo_burnetts_ikonischste_kampagne.md) _1954-1999_ `Marlboro Man`, `Leo Burnett`, `Cigarette Advertising`, `Brand Icon`
+- [Mastercard](knowledge/work/mastercard.md) _1997-2020_ `mastercard`, `priceless`, `emotional-branding`, `mccann`
 - [McDonald's](knowledge/work/mcdonald_s.md) _1940-2020_ `fastfood`, `branding`, `globalmarketing`, `familyadvertising`
 - [Michael Jackson](knowledge/work/michael_jackson.md) _1983-1989_ `celebrity-endorsement`, `pepsi`, `cola-wars`, `integrated-marketing`
+- [Miele](knowledge/work/miele.md) _1950-2020_ `german-advertising`, `premium-brand`, `longevity`, `engineering`
 - [Pepsi](knowledge/work/pepsi.md) _1898-2020s_ `cola-war`, `bbdo`, `lifestyle-marketing`, `comparative-advertising`
 - [Pepsi-Cola](knowledge/work/pepsi_cola.md) _1898-2020_ `cola-wars`, `challenger-brand`, `lifestyle-marketing`, `celebrity-endorsement`
 - [Philip Morris und die Tabakwerbung — Geschichte und Regulierung](knowledge/work/philip_morris_und_die_tabakwerbung_geschichte_und_regulierung.md) _1950-2020_ `tabakwerbung`, `werbeverbot`, `markenführung`, `marlboro`
@@ -416,6 +474,7 @@ _Einträge gesamt: 500_
 - [Revlon](knowledge/work/revlon.md) _1932-1980_ `cosmetics`, `advertising_history`, `beauty_ideals`, `lifestyle_marketing`
 - [Rolls-Royce](knowledge/work/rolls_royce.md) _1904-2020_ `Luxusautomobile`, `David Ogilvy`, `Reason Why`, `British Advertising`
 - [Ronald McDonald](knowledge/work/ronald_mcdonald.md) _1963-present_ `corporate-mascot`, `fastfood-advertising`, `branding`, `television-advertising`
+- [Sainsbury's](knowledge/work/sainsbury_s.md) _1970-2020_ `retail-advertising`, `christmas-campaigns`, `UK`, `controversy`
 - [Saturn](knowledge/work/saturn.md) _1984-2010_ `germany`, `retail`, `provocation`, `price-advertising`
 - [Scribble, Reinzeichnung und Repro — der physische Weg einer Anzeige von Idee bis Druck](knowledge/work/scribble_reinzeichnung_und_repro_der_physische_weg_einer_anzeige_von_idee_bis_dr.md) _1920-1995_ `Printproduktion`, `Analoges Zeitalter`, `Handwerk`, `Drucktechnik`
 - [Scribble und Ideen-Skizzen — Handwerk der Konzeptentwicklung](knowledge/work/scribble_und_ideen_skizzen_handwerk_der_konzeptentwicklung.md) _1920-2010_ `konzeptentwicklung`, `kreativprozess`, `visualisierung`, `werbetechnik`
@@ -471,17 +530,23 @@ _Einträge gesamt: 500_
 ### Technik & Ausstattung
 
 - [Adobe](knowledge/technology/adobe.md) _1982-heute_ `desktop-publishing`, `technologie`, `digitalisierung`, `kreativwerkzeuge`
+- [Adobe Illustrator](knowledge/technology/adobe_illustrator.md) _1987-2020_ `adobe`, `desktop-publishing`, `vektorgrafik`, `werbegrafik`
+- [Adobe InDesign](knowledge/technology/adobe_indesign.md) _1999-ongoing_ `Desktop-Publishing`, `Adobe`, `QuarkXPress`, `Printmedien`
 - [Adobe Photoshop](knowledge/technology/adobe_photoshop.md) _1990-2025_ `Adobe`, `Software`, `Desktop-Publishing`, `Digitale Revolution`
+- [Aldus](knowledge/technology/aldus.md) _1984-1994_ `desktop-publishing`, `software`, `apple-macintosh`, `adobe`
 - [Apple Macintosh und Desktop Publishing — die Revolution von 1984](knowledge/technology/apple_macintosh_und_desktop_publishing_die_revolution_von_1984.md) _1984-1990_ `Desktop Publishing`, `Apple Macintosh`, `Creative Revolution`
+- [Charles Geschke](knowledge/technology/charles_geschke.md) _1982-2000_ `PostScript`, `Desktop-Publishing`, `PDF`, `Drucktechnologie`
 - [Desktop Publishing und die digitale Wende (1984–1995)](knowledge/technology/desktop_publishing_und_die_digitale_wende_1984_1995.md) _1984-1995_ `Desktop Publishing`, `digitale Wende`, `Werbebranche`
 - [Die digitale Revolution in der Werbeindustrie 1995–2005](knowledge/technology/die_digitale_revolution_in_der_werbeindustrie_1995_2005.md) _1995-2005_ `Digitalisierung`, `Internet`, `Technologie`
 - [Die Einführung der 15-Sekunden-Spots und ihr Einfluss auf die Kreativität (1980er)](knowledge/technology/die_einfuehrung_der_15_sekunden_spots_und_ihr_einfluss_auf_die_kreativitaet_1980.md) _1984-1989_ `15-Sekunden-Spot`, `Fernsehwerbung`, `Kreativrevolution`
+- [Dropbox](knowledge/technology/dropbox.md) _2007-present_ `cloud-computing`, `saas`, `file-synchronization`, `virtual-work`
 - [Erste Computer in der Werbeagentur — Mac und PageMaker 1985](knowledge/technology/erste_computer_in_der_werbeagentur_mac_und_pagemaker_1985.md) _1980-1990_ `Computer`, `Werbeagenturen`, `Macintosh`, `PageMaker`
 - [Facebook](knowledge/technology/facebook.md) _2004-2010_ `social-media`, `digital-advertising`, `microtargeting`, `data-scandal`
 - [Fotoatelier in der Werbeagentur — Studio, Beleuchtung, Kameras](knowledge/technology/fotoatelier_in_der_werbeagentur_studio_beleuchtung_kameras.md) _1920-1990_ `Fotografie`, `Produktion`, `Technik`, `Kunstabteilung`
 - [Fotoatelier und Fotostudio in der Agentur](knowledge/technology/fotoatelier_und_fotostudio_in_der_agentur.md) _1880-2010_ `Fotoatelier`, `Fotostudio`, `Werbeagentur`, `Geschichte der Werbeindustrie`
 - [Google und die digitale Werbung — AdWords und programmatische Werbung](knowledge/technology/google_und_die_digitale_werbung_adwords_und_programmatische_werbung.md) _2000-2010_ `Google`, `AdWords`, `Programmatic Advertising`, `DoubleClick`
 - [Instagram](knowledge/technology/instagram.md) _2010-_ `social-media`, `mobile-marketing`, `influencer`, `visual-content`
+- [John Warnock](knowledge/technology/john_warnock.md) _1980-2000_ `technology`, `desktop-publishing`, `innovation`, `adobe`
 - [Lettaset](knowledge/technology/lettaset.md) _1961-1990_ `typography`, `design-tools`, `pre-digital-era`, `creative-revolution`
 - [Leuchtkasten, Lineal und Rapidograph — das analoge Handwerkszeug des Art Directors](knowledge/technology/leuchtkasten_lineal_und_rapidograph_das_analoge_handwerkszeug_des_art_directors.md) _1950-1990_ `Art Direction`, `Analoges Arbeiten`, `Grafikdesign`, `Werbegeschichte`
 - [Lieferando](knowledge/technology/lieferando.md) _2011-present_ `food-delivery`, `platform-economy`, `e-commerce`, `german-market`
@@ -489,9 +554,12 @@ _Einträge gesamt: 500_
 - [Polaroid](knowledge/technology/polaroid.md) _1948-2001_ `Sofortbildfotografie`, `Produktinnovation`, `Kulturphänomen`
 - [QuarkXPress](knowledge/technology/quarkxpress.md) _1987-2010_ `desktop-publishing`, `software`, `graphic-design`, `print-production`
 - [Rapidograph](knowledge/technology/rapidograph.md) _1950-1990_ `technology`, `tools`, `graphic-design`, `history-of-advertising`
+- [Reddit](knowledge/technology/reddit.md) _2005-heute_ `social-media`, `community`, `user-generated-content`, `viral-marketing`
 - [Repro-Kamera und Lichtsatz — Druckvorstufe vor dem Computer](knowledge/technology/repro_kamera_und_lichtsatz_druckvorstufe_vor_dem_computer.md) _1950-1990_ `Druckvorstufe`, `Lichtsatz`, `Reprokamera`, `Fotosatz`
+- [Snapchat](knowledge/technology/snapchat.md) _2011-2024_ `social-media`, `mobile-marketing`, `ephemeral-content`, `gen-z`
 - [Storyboard-Kultur — vom Scribble zum Filmset](knowledge/technology/storyboard_kultur_vom_scribble_zum_filmset.md) _1930-2020_ `storyboard`, `preproduction`, `advertising_film`, `visualization`
 - [Testmarketing und Fokusgruppen-Technik — wie Werbung vor dem Launch getestet wurde](knowledge/technology/testmarketing_und_fokusgruppen_technik_wie_werbung_vor_dem_launch_getestet_wurde.md) _1950-2000_ `Marktforschung`, `Fokusgruppe`, `Testmarketing`, `Werbewirkung`
+- [TikTok](knowledge/technology/tiktok.md) _2016-2024_ `social-media`, `algorithm`, `video`, `byteDance`
 - [Typosatz, Repro-Kamera und Druckvorstufe](knowledge/technology/typosatz_repro_kamera_und_druckvorstufe.md) _1880-2010_ `Typosatz`, `Repro-Kamera`, `Druckvorstufe`, `Werbeindustrie`
 - [Uber Eats](knowledge/technology/uber_eats.md) _2014-2024_ `food-delivery`, `platform-economy`, `uber`, `digital-marketing`
 - [WhatsApp](knowledge/technology/whatsapp.md) _2009-ongoing_ `messenger`, `acquisition`, `disruption`, `mobile`
@@ -548,46 +616,46 @@ _Einträge gesamt: 500_
 
 ## Tag-Index
 
-- `creative-revolution` (34×)
-- `branding` (21×)
-- `creative_revolution` (15×)
-- `german-advertising` (14×)
+- `creative-revolution` (39×)
+- `branding` (22×)
+- `creative_revolution` (17×)
+- `merger` (16×)
+- `german-advertising` (15×)
+- `creativity` (15×)
+- `media_agency` (15×)
 - `fashion` (14×)
 - `acquisition` (13×)
-- `merger` (13×)
-- `creativity` (12×)
+- `copywriting` (12×)
+- `british_advertising` (12×)
+- `british-advertising` (12×)
 - `Werbebranche` (12×)
-- `copywriting` (11×)
 - `Creative Revolution` (11×)
 - `DDB` (11×)
+- `agency-founder` (11×)
 - `awards` (11×)
 - `germany` (10×)
-- `british-advertising` (10×)
+- `consolidation` (10×)
 - `e-commerce` (10×)
-- `media_agency` (10×)
 - `Kreativ-Revolution` (10×)
 - `advertising` (10×)
 - `Kreativität` (10×)
-- `agency-founder` (10×)
+- `startup` (9×)
 - `1980s` (9×)
-- `startup` (8×)
-- `british_advertising` (8×)
+- `copywriter` (9×)
+- `creative_director` (9×)
+- `venture-capital` (8×)
+- `USP` (8×)
+- `1960s` (8×)
 - `David Ogilvy` (8×)
-- `copywriter` (8×)
-- `creative_director` (8×)
+- `luxury` (8×)
 - `Werbeagentur` (7×)
-- `USP` (7×)
-- `1960s` (7×)
-- `consolidation` (7×)
+- `provocation` (7×)
+- `food-delivery` (7×)
 - `supermodels` (7×)
+- `humor` (7×)
 - `typography` (7×)
 - `wpp` (7×)
-- `photography` (7×)
-- `luxury` (7×)
-- `Werbeindustrie` (7×)
-- `advertising history` (7×)
-- `Kreativrevolution` (6×)
-- `food-delivery` (6×)
+- `media_planning` (7×)
 
 ## Offene Lücken
 

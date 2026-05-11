@@ -5,13 +5,13 @@ id: wolfgang_weingart
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia EN: Geburts- und Sterbedaten, internationale Bekanntheit'
-- 'Encyclopedia of Design: Bezeichnung als ''Vater'' der New Wave/Swiss Punk Typografie'
-- 'Typolexikon: Entwicklung experimenteller Typogramme in den 1970ern, Kontroversen'
-- 'kultur-online: Rebellion gegen Schweizer Typografie, Werkbeispiele'
-- 'Wikipedia DE: Reise nach Basel 1963, Bewerbung bei Ruder und Hofmann'
-- 'Museum für Gestaltung: Ausbildung Merz Akademie 1958-1960'
-- 'Medium: Geburt nahe Bodensee'
+- 'Wikipedia: Wolfgang Weingart (en)'
+- 'Wikipedia: Wolfgang Weingart (de)'
+- Museum für Gestaltung eGuide
+- 'Typolexikon: Weingart Typogramm'
+- 'kultur-online: Weingart Typografie'
+- 'Encyclopedia of Design: Wolfgang Weingart'
+- 'Medium: Biography Wolfgang Weingart'
 tags:
 - typography
 - education
@@ -30,7 +30,7 @@ In der Designwelt dominierte zur Zeit von Weingarts Wirken der strenge rationale
 ## Wichtige Details
 *   **Geboren:** 6. Februar 1941 in der Nähe des Bodensees in Süddeutschland [1][9][10]
 *   **1958–1960:** Ausbildung an der Merz Akademie in Stuttgart, wo er erstmals mit dem Schriftsetzen in Berührung kam [6]
-*   **1963/1964:** Reise nach Basel und Bewerbung an der [[Kunstgewerbeschule Basel]] bei [[Emil Ruder]] und [[Armin Hofmann]] [5]
+*   **1963/1964:** Reise nach Basel und Bewerbung an der Kunstgewerbeschule Basel bei Emil Ruder und Armin Hofmann [5]
 *   **1970er Jahre:** Entwicklung seines charakteristischen Stils mit experimentellen Typogrammen, die zu Kontroversen führten [7]
 *   **2000er Jahre:** Veröffentlichung seiner Monografie "Wolfgang Weingart: My Way to Typography" [ungesichert]
 

@@ -2,6 +2,35 @@
 confidence: low
 era: 1940-1980
 id: der_creative_director_entstehung_der_rolle
+images:
+- artist: Asim18
+  caption: Image of an ASUS CD-ROM Drive CD-S520/A4
+  copyright_status: clear_cc
+  height: 2969
+  license: CC BY 3.0
+  source: https://commons.wikimedia.org/wiki/File%3AASUS%20CD-ROM%20CD-S520-A4%2020080821.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ASUS_CD-ROM_CD-S520-A4_20080821.jpg/500px-ASUS_CD-ROM_CD-S520-A4_20080821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/9/95/ASUS_CD-ROM_CD-S520-A4_20080821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3959
+- artist: unbekannt
+  caption: Badham Palance 1974
+  copyright_status: public_domain
+  height: 2456
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3ABadham%20Palance%201974.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Badham_Palance_1974.jpg/500px-Badham_Palance_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c4/Badham_Palance_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3884
+- artist: SanchosUwarski
+  caption: Roza Sarkisian Joanna Wichowska Wonderful Wonderful Wonderful Times Ukrainian
+    Theater
+  copyright_status: public_domain
+  height: 1365
+  license: CC0
+  source: https://commons.wikimedia.org/wiki/File%3ADirector%20Roza%20Sarkisian%20dramaturg%20Joanna%20Wichowska%20Wonderful%20Wonderful%20Wonderful%20Times%20Ukrainian%20Theater.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Director_Roza_Sarkisian_dramaturg_Joanna_Wichowska_Wonderful_Wonderful_Wonderful_Times_Ukrainian_Theater.jpg/500px-Director_Roza_Sarkisian_dramaturg_Joanna_Wichowska_Wonderful_Wonderful_Wonderful_Times_Ukrainian_Theater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/a/af/Director_Roza_Sarkisian_dramaturg_Joanna_Wichowska_Wonderful_Wonderful_Wonderful_Times_Ukrainian_Theater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2048
 last_updated: '2026-05-10'
 related: []
 sources:

@@ -1,14 +1,13 @@
 ---
 confidence: high
-entity_type: agency
 era: 1990-2000
-era_from: 1990
-era_to: 2000
-geo_region: hamburg
 id: grabarz_partner_hamburg_und_die_erste_generation_nach_der_wiedervereinigung
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Offizielle Website Grabarz & Partner (Überblick, Philosophie)
+- YouTube-Kanal (für exemplarische Werke)
+- GWA-Eintrag (Basisdaten, Kunden)
 tags:
 - Creative Revolution
 - Hamburg
@@ -19,29 +18,29 @@ wave: 3
 ---
 
 ## Überblick
-Grabarz & Partner ist eine 1990 in Hamburg gegründete Werbeagentur, die zu den kreativsten und einflussreichsten deutschen Agenturen der Nachwendezeit zählt. Ihre Bedeutung liegt in der schnellen Etablierung eines neuen, emotionalen und hochästhetischen Werbestils, der die deutsche Werbelandschaft nachhaltig prägte.
+Grabarz & Partner ist mehr als nur eine Werbeagentur – sie ist ein Stück deutscher Werbegeschichte. 1990, im Jahr der Wiedervereinigung, in Hamburg gegründet, wurde sie schnell zur kreativen Speerspitze einer neuen Generation. Während andere noch rationale Argumente verkauften, setzten sie auf pure Emotion und visuelle Wucht. Ihre Arbeit war ein Befreiungsschlag für die gesamte Branche und bewies, dass auch deutsche Werbung glamourös, mutig und international konkurrenzfähig sein konnte.
 
 ## Historischer Kontext
-Die Agentur wurde im Jahr der deutschen Wiedervereinigung gegründet, einer Zeit des wirtschaftlichen Aufbruchs und Optimismus. Die Werbebranche war damals noch stark von konservativen, textlastigen Ansätzen (z.B. [[Springer & Jacoby]]) geprägt. Gleichzeitig drängten neue, kreativere Vorbilder aus den USA und Großbritannien (z.B. [[Wieden+Kennedy]]) auf den Markt und schufen ein Klima, das offen für neue, mutigere Ansätze war.
+Deutschland stand 1990 Kopf. Die Mauer war gefallen, die Wiedervereinigung lag in der Luft, und ein Gefühl des Aufbruchs erfasste das Land. In der Werbebranche herrschte jedoch noch das, was manche spöttisch den "German Style" nannten: textlastig, vernünftig, oft etwas bieder. Große Agenturen wie [[Springer & Jacoby]] dominierten mit ihrem copybetonten Ansatz. Gleichzeitig schwappte eine Welle neuer Kreativität aus den USA und Großbritannien nach Deutschland über. Agenturen wie [[Wieden+Kennedy]] (berühmt für [[Nike - Just Do It]]) oder [[Chiat/Day]] zeigten, wie Werbung mit Haltung, Humor und cineastischer Qualität funktionieren konnte. In diese Lücke stießen Grabarz & Partner – jung, hungrig und mit dem festen Willen, die Regeln neu zu schreiben.
 
 ## Wichtige Details
-*   **Gründung:** 1990 in Hamburg durch Ralf Grabarz, Rainer Schade und Stephan F. Noller.
-*   **Erste große Kunden:** Bereits kurz nach der Gründung gewann die Agentur bedeutende Kunden wie **Warner Bros. Pictures**, **Mercedes-Benz** (Teile der Markenkommunikation) und **[[Siemens]]**.
-*   **Frühe Erfolge:** Die Agentur machte sich schnell mit preisgekrönten, visuell starken Kampagnen einen Namen. Ein frühes und prägendes Werk war die Kampagne für **Warner Bros.**, die sich durch cineastische Qualität und einen humorvollen, respektlosen Ton auszeichnete.
-*   **Kreativ-Prinzipien:** Die erste Generation setzte auf "Emotional Impact" – werbliche Wirkung durch emotionale und visuelle Kraft statt durch rationale Argumentation. Dieser Stil war narrativ, oft surreal und filmisch und hob sich bewusst vom damals vorherrschenden nüchternen "German Style" ab.
-*   **Auszeichnungen:** Schnelle und zahlreiche Auszeichnungen bei nationalen und internationalen Festivals (z.B. [[Cannes Lions — Geschichte des Werbefestivals]], [[Clio Awards]], ADC Deutschland) etablierten Grabarz & Partner als kreative Top-Adresse.
+*   **Gründung:** 1990 in Hamburg durch [[Ralf Grabarz]] (ein [[GGK]]-Veteran), [[Rainer Schade]] und [[Stephan F. Noller]]. [ungesichert] Die Agentur entstand aus der Überzeugung, dass Werbung mehr sein muss als ein trockenes Verkaufsargument.
+*   **Frühe Triumphe:** Der Durchbruch gelang fast sofort mit **Warner Bros. Pictures**. Statt klassischer Filmpromotion entwickelten sie ikonische, plakative Motive, die wie Kunstwerke wirkten. Ihre Kampagne für Filme wie "Malcolm X" oder "JFK" war filmisch, respektlos und voller schwarzem Humor – ein radikaler Bruch mit dem damals Üblichen.
+*   **Kreativ-Prinzipien:** Ihr Mantra war "Emotional Impact". Sie glaubten an die Macht des Bildes, der Stimmung, der Geschichte. Ihre Werbung war narrativ, oft surreal und immer hochästhetisch. Sie funktionierte nicht über den Verstand, sondern traf den Zuschauer direkt im Gefühl.
+*   **Weitere prägende Kunden:** Schnell folgten Schwergewichte wie **Mercedes-Benz** (für Teile der Markenkommunikation) und **[[Siemens]]**. Für Mercedes kreierten sie etwa die "Geburtstagskampagne", die die Marke mit emotionaler Tiefe und einer fast schon liebevollen Inszenierung feierte.
+*   **Auszeichnungen:** Der Erfolg ließ nicht lange auf sich warten. Ein Regen von Preisen bei den [[Cannes Lions — Geschichte des Werbefestivals|Cannes Lions]], [[Clio Awards]] und vom [[ADC Deutschland]] katapultierte die junge Agentur in den Olymp der Kreativszene.
 
 ## Bedeutung & Einfluss
-Grabarz & Partner war eine der ersten deutschen Agenturen, die den internationalen, bildbasierten und emotionalen "Creative-Boutique"-Ansatz erfolgreich in Deutschland umsetzte. Sie bewies, dass auch im deutschsprachigen Raum Werbung erfolgreich sein kann, die primär über Stil, Ästhetik und Emotion funktioniert, und brach damit das damalige Dogma der reinen Leistungs- und Vernunftwerbung. Sie wurde damit zum Vorbild für eine ganze Reihe nachfolgender, kleinerer und kreativer Boutiquen und übte indirekt auch Druck auf die etablierten Großagenturen aus, ihre kreativen Standards zu erhöhen.
+Grabarz & Partner war eine der ersten deutschen "Creative Boutiquen", die den internationalen Stil erfolgreich adaptierte und damit die gesamte Branche veränderte. Sie waren lebender Beweis dafür, dass der deutsche Werbemarkt reif war für einen emotionalen, bildbasierten Ansatz. Ihr Erfolg übte enormen Druck auf die etablierten Großagenturen aus, die plötzlich ihre oft steifen, rationalen Kampagnen gegen die frische, emotionale Energie der Hamburger abwägen mussten. Sie wurden zum Vorbild für eine ganze Welle nachfolgender, kleinerer und agilerer Kreativschmieden und ebneten den Weg für einen neuen, selbstbewussteren deutschen Werbestil.
 
 ## Verbindungen
-*   **Gründer:** [[Ralf Grabarz]] (ehemals u.a. bei [[GGK]]), [[Rainer Schade]], [[Stephan F. Noller]].
-*   **Kreativpersonal:** Viele bedeutende deutsche Kreative der 199g0er und 2000er Jahre durchliefen die Agentur, darunter z.B. [[Michael Conrad]] (später bei [[Leo Burnett]]).
-*   **Wettbewerb & Vorbilder:** Stilistisch orientierte man sich an internationalen Vorbildern wie [[Wieden+Kennedy]] ([[Nike - Just Do It]]) oder [[Chiat/Day]]. Im deutschsprachigen Raum war man zeitweise der kreative Gegenpol zu textlastigeren Agenturen wie [[Springer & Jacoby]] oder [[Ogilvy]].
-*   **Kampagnen:** Neben Warner Bros. prägten frühe Arbeiten für **Mercedes-Benz** (z.B. die "Geburtstagskampagne") und **Siemens** das Bild der Agentur.
+*   **Gründer:** [[Ralf Grabarz]] wurde zur prägenden Figur der deutschen Kreativszene. [[Rainer Schade]] und [[Stephan F. Noller]] [ungesichert] steuerten ihre Expertise aus verschiedenen Bereichen bei, um das ganzheitliche Konzept der Agentur zu formen.
+*   **Talentschmiede:** Die Agentur wurde zur Kaderschmiede für eine Generation von Kreativen. Wer bei Grabarz & Partner gearbeitet hatte, trug den Stil in die ganze Branche. Ein prominentes Beispiel ist [[Michael Conrad]], der später bei [[Leo Burnett]] Karriere machte.
+*   **Wettbewerb & Vorbilder:** Stilistisch war man der erklärte Gegenpol zu textlastigen Agenturen wie [[Springer & Jacoby]] oder [[Ogilvy]]. Man bewunderte die erzählerische Kraft von [[Wieden+Kennedy]] und die konzeptionelle Schärfe von [[Chiat/Day]].
+*   **Kampagnen:** Die Arbeiten für **Warner Bros.**, **Mercedes-Benz** und **Siemens** aus den frühen 90ern gelten bis heute als Meilensteine der deutschen Werbegeschichte.
 
 ## Bildmaterial-Hinweise
-*   **Anzeigenmotive:** Die hochwertigen, oft surrealen und filmischen Keyvisuals der frühen 90er Jahre für Warner Bros. Filme (z.B. "Malcolm X", "JFK").
-*   **Werbeclips:** Die TV-Spots für Mercedes-Benz und Siemens aus der Gründungszeit, die den neuen emotionalen Ansatz demonstrieren.
-*   **Porträts:** Fotos der drei Gründer Ralf Grabarz, Rainer Schade und Stephan F. Noller aus der frühen Phase der Agentur.
-*   **Bürointerieur:** Bilder des ersten Agenturbüros, das den kreativen und jungen Geist der Agentur widerspiegelte.
+*   **Anzeigenmotive:** Die ikonischen, plakativen und oft surrealen Kinoplakate für Warner Bros. aus den frühen 90ern (z.B. "Malcolm X", "JFK"). Sie sind Zeitdokumente und Kunstwerke zugleich.
+*   **Werbeclips:** Die TV-Spots für Mercedes-Benz (z.B. die "Geburtstagskampagne") und Siemens. Sie zeigen den neuen, gefühlvollen Ton und die filmische Qualität, die die Agentur auszeichnete.
+*   **Porträts:** Fotos der drei Gründer [[Ralf Grabarz]], [[Rainer Schade]] und [[Stephan F. Noller]] aus der wilden und optimistischen Frühphase der Agentur.
+*   **Bürointerieur:** Bilder des ersten Agenturbüros – sie würden den kreativen, jungen und unkonventionellen Geist einfangen, der Grabarz & Partner von Anfang an ausmachte.

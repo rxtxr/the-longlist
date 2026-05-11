@@ -6,10 +6,13 @@ last_updated: '2026-05-11'
 related: []
 sources:
 - Wikipedia DDB Worldwide
-- Ad Age Encyclopedia DDB Worldwide
-- Ad Age Revisiting DDB's history
-- Wikiwand DDB Worldwide
-- Wikipedia DE DDB Worldwide
+- Ad Age Encyclopedia
+- AdWeek Artikel zu Omnicom
+- Wikiwand Eintrag
+- DDB Worldwide - Wikipedia (EN)
+- DDB Worldwide - Alchetron
+- Avis Rent a Car - Wikipedia (DE)
+- derStandard.at Artikel zu DDB Wien
 tags:
 - creative-revolution
 - bill-bernbach
@@ -21,32 +24,36 @@ wave: 4
 ---
 
 ## Überblick
-DDB Worldwide ist ein internationales Netzwerk von Werbeagenturen, das 1986 aus der Fusion von Doyle Dane Bernbach (gegründet 1949) mit Needham Harper Worldwide entstand und Teil der neu gebildeten Omnicom Group wurde [1][2][7]. Die Agentur wurde 1999 in DDB Worldwide umbenannt [2][7].
+
+DDB Worldwide, ursprünglich **Doyle Dane Bernbach**, war mehr als nur eine Werbeagentur – sie war eine Revolution in der Welt der Kommunikation. Gegründet 1949 in New York von [[Bill Bernbach]], Ned Doyle und Maxwell Dane, brach sie radikal mit der bis dahin üblichen Werbepraxis. Statt plakativer Verkaufshymnen und überhöhter Produktversprechen setzte die Agentur auf Intelligenz, Humor und Respekt vor dem Verbraucher. Ihr Motto: "Werbung ist Kunst" und "Die Wahrheit gut erzählt". Mit dieser Philosophie schrieb DDB nicht nur Werbegeschichte, sondern prägte die [[Konsumgesellschaft]] der Nachkriegszeit nachhaltig.
 
 ## Historischer Kontext
-Die Gründung von Doyle Dane Bernbach (DDB) erfolgte 1949 in New York [1][2][4][7]. Die Fusion zu DDB Needham Worldwide fand während einer Konsolidierungsphase in der Werbebranche statt [2][7].
+
+Die Werbebranche der 1950er Jahre war geprägt von bombastischen Behauptungen und einem fast autoritären Tonfall. Werbung war laut, aufdringlich und oftmals unglaubwürdig. Produkte wurden als Heilsbringer verkauft, begleitet von stereotypen Bildern der perfekten [[Amerikanische Familie|US-amerikanischen Familie]]. In diese Welt platzte DDB mit einer radikal neuen Idee: Was wäre, wenn man den Konsumenten nicht für dumm verkaufte, sondern ihn als intelligenten Partner behandelte? [ungesichert] Diese Haltung traf den Nerv einer sich wandelnden Gesellschaft – besser gebildet, kritischer und zunehmend desillusioniert von den Versprechen der [[Wirtschaftswunder|Wohlstandsgesellschaft]].
+Der Erfolg der Agentur ist auch ein New Yorker Phänomen. In der kreativen Szene der Stadt trafen europäische [[Emigrant|Emigranten]] auf amerikanische Avantgarde-Künstler, was einen einzigartigen Nährboden für neue Ideen schuf.
 
 ## Wichtige Details
-*   **Gründung DDB:** 1949 in New York von Bill Bernbach, Ned Doyle und Maxwell Dane [1][2][4][7].
-*   **Fusion zu DDB Worldwide:** 1986 fusionierte Doyle Dane Bernbach mit Needham Harper Worldwide zur DDB Needham Worldwide als Teil der neu gebildeten Omnicom Group; 1999 erfolgte die Umbenennung in DDB Worldwide [1][2][7].
-*   **Schlüsselpersonen:** Bill Bernbach (Mitbegründer) [1][2][4].
-*   **Büronetzwerk:** Heute in 83 Ländern vertreten, unterteilt in die Regionen Europa, Nordamerika, Lateinamerika, Asia Pacific und Mittlerer Osten/Afrika [10].
-*   **Philosophie:** "Creativity is the most powerful force in business" [ungesichert].
-*   **Wichtige Kampagnen (aus der DDB-Ära vor der Fusion):** "Think Small" für Volkswagen (1959) [ungesichert], "We try harder" für Avis (1962) [ungesichert].
+
+Die Agentur wurde am 1. Juni 1949 mit einem Startkapital von 1.200 US-Dollar gegründet. [ungesichert] Der Name Doyle Dane Bernbach etablierte sich schnell als kreative Macht, die Wert auf eine enge Zusammenarbeit zwischen Textern und Art Direktoren legte – eine damals unübliche Praxis.
+
+Die vielleicht berühmteste Kampagne der Agenturgeschichte entstand für [[Volkswagen]] in den USA. In einer Zeit, in der Amerikaner große, chromblitzende Straßenschiffe fuhren, bewarb DDB den kleinen, kastenförmigen [[VW Käfer]] mit einer beispiellosen Underdog-Strategie. Die Anzeige "Think Small" (1960) mit dem schüchternen Käferchen auf viel zu viel weißer Fläche wurde zur Ikone. Sie war nicht nur kreativ brillant, sondern auch strategisch genial: Sie machte aus den vermeintlichen Schwächen (klein, hässlich) des Autos plötzlich Tugenden (sparsam, praktisch, ehrlich). [ungesichert] Ebenso legendär ist der Slogan "We try harder" für [[Avis]], der 1963 eingeführt wurde. Avis, damals der klare Zweitplatzierte im Mietwagengeschäft hinter [[Hertz]], gestand seine Positionierung als Nummer Zwei offen ein und versprach dafür mehr Einsatz – eine bis dahin undenkbare Strategie der Selbstrelativierung, die das Publikum durch ihre Ehrlichkeit gewann.
+
+Weitere prägende Kampagnen liefen für [[Polaroid]], [[Levy's]] ("You don't have to be Jewish to love Levy's") und [[Chivas Regal]]. [ungesichert] Die Quellenlage hierzu ist dünn – [ungesichert] aber die Agenturphilosophie war stets, den Produkten eine menschliche und oft humorvolle Note zu verleihen.
 
 ## Bedeutung & Einfluss
-DDB Worldwide bewahrte das kreative Erbe von Doyle Dane Bernbach [ungesichert]. Der Einfluss zeigt sich in:
-*   **Branche:** Die Agentur setzte den Standard für intelligente, konzeptionell starke Werbung [ungesichert].
-*   **Kultur:** Kampagnen wie "Think Small" veränderten die Wahrnehmung von Werbung [ungesichert].
-*   **Spätere Entwicklungen:** DDB Worldwide diente als Blaupause für andere globale Agenturnetzwerke innerhalb von Holdinggesellschaften [ungesichert].
+
+DDB gilt als Geburtsstätte der **kreativen Revolution** in der Werbung. Die Agentur bewies, dass Werbung nicht nur verkaufen, sondern auch unterhalten, Kunst sein und kulturelle Konversationen prägen konnte. Sie hob den Beruf des [[Werbetexter|Texters]] und [[Art Director|Art-Direktors]] auf ein neues Niveau und machte Kreativität zum wichtigsten Kapital einer Agentur.
+
+Ihr Erfolg zwang den gesamten Industriezweig zum Umdenken. Plötzlich wollten alle Kunden "die Art von Werbung machen, die DDB für Volkswagen macht". [ungesichert] Die Agentur prägte eine ganze Generation von Kreativen und ihre Philosophie beeinflusst Werbestrategien bis heute. 1998 und 2003 wurde DDB Worldwide von "Ad Age" zur "Global Network of the Year" gewählt.
+
+1986 fusionierte Doyle Dane Bernbach mit [[Needham Harper Worldwide]] zu [[DDB Needham]], nachdem es zuvor zu internen Managementkrisen gekommen war. [ungesichert] Später wurde der Name wieder zu **DDB Worldwide** vereinfacht. Heute ist die Agentur Teil des [[Omnicom Group|Omnicom]]-Konzerns und unterhält weltweit Niederlassungen, darunter auch **DDB Wien**, das 2010 aus einer Übernahme hervorging.
 
 ## Verbindungen
-*   **Vorgänger/Teil der Fusion:** Doyle Dane Bernbach, Needham Harper Worldwide [1][2][7]
-*   **Mutterkonzern:** Omnicom Group [1][3][6]
-*   **Konkurrierende Netzwerke:** BBDO, TBWA (Teil von Omnicom) [3][5]
-*   **Schlüsselpersonen:** Bill Bernbach [1][2][4]
-*   **Kampagnen:** "Think Small", "We try harder" [ungesichert]
+
+Die Geschichte von DDB ist eng verbunden mit der ihrer Konkurrenten und Nachfolger. Sie ist Teil des großen Narrativs der [[Mad Men]]-Ära, in der Werbung zur Popkultur wurde. Zu den wichtigsten Weggefährten und Konkurrenten zählen [[Ogilvy|Ogilvy & Mather]], [[Saatchi & Saatchi]] und [[TBWA]]. Die Philosophie Bernbachs wurde von späteren [[Kreativagentur|Kreativagenturen]] wie [[Wieden+Kennedy]] (Nike) aufgegriffen und weiterentwickelt.
 
 ## Bildmaterial-Hinweise
-*   **Historische Fotos:** Bill Bernbach an seinem Schreibtisch [ungesichert]
-*   **Anzeigen:** Die bahnbrechenden Druckanzeigen für Volkswagen (VW Käfer auf leeren, weißen Flächen), Avis ("We're only No.2") [ungesichert]
+
+*   Historische Werbeanzeigen wie "Think Small" für Volkswagen (1960) oder "We try harder" für Avis (1963) sind ikonisch und sollten den Artikel illustrieren.
+*   Porträts der Gründer, insbesondere von [[Bill Bernbach]], zeigen die Köpfe hinter der Revolution.
+*   Fotos des originalen New Yorker Büros in der Avenue of the Americas würden den Zeitgeist der 1960er Jahre einfangen. [ungesichert]

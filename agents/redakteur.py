@@ -90,7 +90,7 @@ Am Ende:
 
 class Redakteur(BaseAgent):
     name = "redakteur"
-    model_key = "default"
+    model_key = "historiker"
     system_prompt = _SYSTEM
 
     def __init__(self, kb: KnowledgeBase):

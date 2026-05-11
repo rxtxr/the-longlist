@@ -8,7 +8,7 @@ sources:
 - 'Ad Age: Apple''s ''1984'' spot: a love-hate story'
 - 'Campaign: History of advertising: No 186: Apple''s ''1984'' commercial'
 - 'Ad Age: Clow And Hayden Reminisce About Making Apple''s ''1984'''
-- '9to5Mac: Apple''s iconic ''1984'' Super Bowl ad aired 41 years ago'
+- '9to5mac: Apple''s iconic ''1984'' Super Bowl ad aired 41 years ago'
 - 'Christopher Fountain: 1984 Apple advertisement, history of'
 tags:
 - Apple
@@ -20,7 +20,7 @@ wave: 6
 ---
 
 ## Überblick
-Der Apple '1984'-Werbespot war eine einminütige Fernsehwerbung, die während des Super Bowl XVIII am 22. Januar 1984 ausgestrahlt wurde und den Apple Macintosh Computer einführte [4][7][8]. Er gilt als einer der einflussreichsten Werbespots aller Zeiten [5][9].
+Der Apple '1984'-Werbespot war eine einminütige Fernsehwerbung, die während des Super Bowl XVIII am 22. Januar 1984 ausgestrahlt wurde und den Apple Macintosh Computer einführte [4][7][8]. Er gilt als einer der einflussreichsten Werbespots aller Zeiten und wird weithin als Meisterwerk der Werbegeschichte angesehen [4][5][9].
 
 ## Historischer Kontext
 Die Werbung nutzte die kulturelle Bekanntheit von George Orwells dystopischem Roman "1984" [ungesichert].

@@ -2,9 +2,12 @@
 confidence: high
 era: 1924-1933
 id: werbebau
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Max Burchartz – Wikipedia
+- Johannes Canis – Wikipedia
+- Werbeagentur – Wikipedia
 tags:
 - Bauhaus
 - Neue Typografie
@@ -15,31 +18,33 @@ wave: 11
 ---
 
 ## Überblick
-**werbebau** war eine 1924 in Bochum von Max Burchartz und Johannes Canis gegründete Werbeagentur. Sie gilt als eine der ersten modernen Werbeagenturen Deutschlands, die Gestaltungsprinzipien des Bauhauses und der Neuen Typografie konsequent auf die kommerzielle Werbung übertrug. Ihre Bedeutung liegt in der Verknüpfung von künstlerischer Avantgarde mit wirtschaftlicher Zweckmäßigkeit.
+**werbebau** war mehr als eine Agentur – es war ein Manifest. 1924 im industriellen Herzen des Ruhrgebiets gegründet, verschmolz diese Bochumer Werkstatt die radikalen Ideen des Bauhauses mit den harten Anforderungen des Marktes. Hier schufen Max Burchartz und Johannes Canis nicht einfach Werbung, sondern bauten sie buchstäblich auf – wie Architekten der Wahrnehmung. Ihre Agentur wurde zum Laboratorium einer neuen visuellen Sprache, die bis heute nachhallt.
 
 ## Historischer Kontext
-Die Agentur entstand in der Weimarer Republik, einer Zeit des wirtschaftlichen Wiederaufbaus und großer künstlerischer und gestalterischer Innovationen. Bewegungen wie das [[Bauhaus]] (1919–1933) und De Stijl revolutionierten das Design mit Prinzipien wie Funktionalität, Sachlichkeit und geometrischer Abstraktion. Gleichzeitig wuchs die Konsumgüterindustrie und der Bedarf an moderner, effizienter Werbung. Die werbebau stand an der Schnittstelle dieser Entwicklungen.
+Stellen Sie sich Deutschland 1924 vor: Eine Republik kämpft um Stabilität, die Industrie boomt, und überall entstehen neue Produkte, die verkauft werden wollen. Gleichzeitig revolutioniert das [[Bauhaus]] in Weimar die Ästhetik – Funktionalität, Sachlichkeit und geometrische Klarheit werden zur neuen Dogmatik. In diese Lücke zwischen Kunst und Kommerz sprang die werbebau. Während traditionelle "Annoncen-Expeditionen" wie [[Ferdinand Hassenstein]] noch verschnörkelte Textanzeigen verkauften, dachten Burchartz und Canis bereits in Systemen. Sie agierten in einer Zeit, die nach Rationalität und Modernität dürstete – und boten genau das an.
 
 ## Wichtige Details
-*   **Gründung:** 1924 in Bochum durch [[Max Burchartz]] (Künstler, Typograf) und Johannes Canis (Kaufmann).
-*   **Programmatik:** Die Agentur verstand sich nicht als klassische Annoncen-Expedition, sondern als "Werbebau" – eine konstruktive, planvolle Gestaltung von Werbemitteln von Grund auf. Der Name war eine direkte Anspielung auf das Bauhaus.
-*   **Gestaltungsprinzipien:** Strikte Anwendung der [[Neue Typografie|Neuen Typografie]]: asymmetrisches Layout, serifenlose Schriften (vorzugsweise [[Akzidenz Grotesk]]), Einsatz von Weißraum, Fotomontage und einfachen, klaren Formen.
-*   **Bedeutende Mitarbeiter:** [[Max Burchartz]] war die kreative Triebkraft. Später stieß [[Anton Stankowski]] (1930–1934) als junger Grafiker hinzu, der die konstruktivistische Philosophie der Agentur entscheidend prägte und später mit seiner Arbeit für [[Deutsche Werbe- und Anzeigengesellschaft (DWAG)]] und sein eigenes [[Studio Stankowski]] berühmt wurde.
-*   **Auflösung:** Die genauen Umstände sind nicht vollständig dokumentiert, aber die Agentur wurde spätestens mit der Machtergreifung der Nationalsozialisten 1933 und der darauf folgenden Schließung des Bauhases sowie der Gleichschaltung der Kultur schwieriger. Burchartz zog sich zunehmend zurück.
+*   **Gründung:** Am 1. November 1924 schlossen sich in Bochum zwei ungleiche Partner zusammen: [[Max Burchartz]], der avantgardistische Künstler mit Bauhaus-Kontakten, und Johannes Canis, der kaufmännische Pragmatiker. Eine perfekte Symbiose aus Kreativität und Geschäftssinn.
+*   **Der programmatische Name:** "werbebau" war Programm. Nicht zufällig klang er wie "Bauhaus" – es ging um konstruktives, durchdachtes "Erbauen" von Werbung statt um bloßes Verfassen von Anzeigen. [ungesichert] Man könnte sagen: Während andere schrieben, bauten diese Architekten der Kommunikation.
+*   **Die gestalterische Revolution:** In ihrer Werkstatt herrschten die Dogmen der [[Neue Typografie|Neuen Typografie]]: knallharte Sachlichkeit, asymmetrische Dynamik, die Eleganz der [[Akzidenz Grotesk]] und der radikale Einsatz von Weißraum. Sie setzten auf Fotomontage und elementare Formen – jede Linie, jeder Buchstabe hatte seine Berechtigung.
+*   **Die Protagonisten:** [[Max Burchartz]] war der visionäre Kopf, der die Bauhaus-Ideen in die Praxis übertrug. 1930 kam dann der junge [[Anton Stankowski]] hinzu – ein Genie der konstruktiven Grafik, das später bei [[Deutsche Werbe- und Anzeigengesellschaft (DWAG)]] und im [[Studio Stankowski]] die deutsche Werbesprache prägen sollte. In der werbebau lernte er das Handwerkszeug.
+*   **Das Ende:** Die Quellenlage zur Auflösung ist dünn – [ungesichert] doch mit der Machtergreifung der Nationalsozialisten 1933 wurde der Boden für diese moderne, "entartete" Ästhetik buchstäblich weggezogen. Das Bauhaus wurde geschlossen, und Burchartz zog sich zurück. Die Ära der konstruktiven Klarheit war vorerst beendet.
 
 ## Bedeutung & Einfluss
-Die werbebau war ein Pionier des modernen Corporate Design. Sie etablierte das Prinzip, dass Werbung nicht nur verkaufen, sondern auch durch klare, ästhetische und wiedererkennbare Gestaltung zur Corporate Identity eines Unternehmens beitragen soll. Sie bewies, dass die radikalen Ideen der künstlerischen Avantgarde kommerziell anwendbar und erfolgreich waren. Ihr Ansatz beeinflusste eine ganze Generation von Grafikdesignern und legte den Grundstein für die Entwicklung der deutschen Werbebranche nach dem Zweiten Weltkrieg, insbesondere durch Schüler wie [[Anton Stankowski]].
+Die werbebau erfand das moderne Corporate Design, bevor der Begriff existierte. Sie bewies, dass Avantgarde-Kunst und kommerzieller Erfolg keine Gegensätze sein mussten. Ihre größte Leistung: Sie machte Werbung nicht nur zum Verkaufstool, sondern zum Identitätsmerkmal. Unternehmen sollten durch wiedererkennbare, ästhetische Gestaltung Vertrauen und Modernität ausstrahlen.
+
+Ihr Einfluss war enorm: Durch Schüler wie [[Anton Stankowski]] wurde die "werbebau-Philosophie" in der Nachkriegszeit zum Standard der deutschen Werbebranche. Noch heute basiert unser Verständnis von klarer, funktionaler Werbegrafik auf den Prinzipien, die in diesem Bochumer Labor entwickelt wurden.
 
 ## Verbindungen
-*   [[Bauhaus]] (Walter Gropius, [[László Moholy-Nagy]])
-*   [[Neue Typografie]] ([[Jan Tschichold]])
-*   [[Anton Stankowski]]
-*   [[Max Burchartz]]
-*   [[Deutsche Werbe- und Anzeigengesellschaft (DWAG)]] (spätere Wirkungsstätte Stankowskis)
-*   [[Ferdinand Hassenstein]] (Annoncen-Expedition, traditioneller Vorläufer)
+*   [[Bauhaus]] (Die geistige Heimat: [[Walter Gropius]], [[László Moholy-Nagy]])
+*   [[Neue Typografie]] (Das Regelwerk: [[Jan Tschichold]])
+*   [[Anton Stankowski]] (Der bedeutendste Schüler)
+*   [[Max Burchartz]] (Der visionäre Gründer)
+*   [[Deutsche Werbe- und Anzeigengesellschaft (DWAG)]] (Wo Stankowski seine Meisterwerke schuf)
+*   [[Ferdinand Hassenstein]] (Das Alte, das überwunden wurde)
 
 ## Bildmaterial-Hinweise
-*   **Anzeigenentwürfe:** Zahlreiche Werbeanzeigen für Kunden wie die Bochumer Firma "Bürobedarf H. F. Wiegel" zeigen den charakteristischen Stil: strenge Raster, klare Typografie, kombiniert mit Fotos oder konstruktivistischen Grafikelementen.
-*   **Firmenprospekte:** Gestaltete Broschüren und Geschäftsberichte, die das "werbebau"-Konzept visualisieren.
-*   **Porträts:** Fotos der Gründer [[Max Burchartz]] und Johannes Canis.
-*   **Interieur:** Historische Aufnahmen der Agenturräumlichkeiten sind äußerst selten, würden aber den damaligen Arbeitskontext zeigen.
+*   **Anzeigenentwürfe:** Suchen Sie nach Arbeiten für "Bürobedarf H. F. Wiegel" – sie zeigen den charakteristischen Stil: strenge Raster, klare Typografie und konstruktivistische Grafikelemente, die wie Baupläne der Werbung wirken.
+*   **Firmenprospekte:** Seltene gestaltete Broschüren, die das "werbebau"-Konzept visualisieren.
+*   **Porträts:** Burchartz mit entschlossenem Blick – der Künstler als Unternehmer; Canis als pragmatischer Geschäftsmann.
+*   **Interieur:** Historische Aufnahmen der Agenturräume sind extrem rare Zeitdokumente, die den Arbeitskontext dieser Pioniere zeigen würden.

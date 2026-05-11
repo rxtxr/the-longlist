@@ -5,16 +5,14 @@ id: nike_just_do_it
 last_updated: '2026-05-11'
 related: []
 sources:
-- Nike, Inc. - Wikipedia
-- Nike Women's Advertising - Wikipedia
-- Nike (Unternehmen) – Wikipedia
-- Ad Age - Nike ad spending, facts and profile
-- Adweek - Inside Nike's Race to Regain Its Marketing Edge
-- Adweek - Nike's Comeback 'Has Just Begun'
-- Adweek - Nike Has a New Slogan
-- Business Insider - 26 Iconic Nike Ads
-- Medium - The Secret Behind Digital Marketing Strategies Used by Nike
-- Buildd - Nike Marketing Strategy
+- 'Quelle 8 (Business Insider): Erster Spot mit Walt Stack, Entwicklung durch Wieden+Kennedy,
+  Nutzung von Michael Jordan'
+- 'Quelle 10 (Buildd): Lancierung 1988, Dan Wieden als Slogan-Erfinder'
+- 'Quelle 2 (Wikipedia Nike Women''s Advertising): Nutzung für Frauenwerbung'
+- 'Wikipedia: Nike, Inc.'
+- 'Creative Review: History of Just Do It'
+- 'Wikipedia: Nike (mythology)'
+- 'Wikipedia: Nike'
 tags:
 - nike
 - just-do-it
@@ -28,24 +26,24 @@ wave: 10
 ---
 
 ## Überblick
-Die "Just Do It"-Kampagne war eine weltweite Marketinginitiative des Sportartikelherstellers Nike, die 1988 lanciert wurde [10]. Sie gilt als eine der ikonischsten Werbekampagnen aller Zeiten [ungesichert].
+"Just Do It" war mehr als nur ein Werbeslogan – es war ein kulturelles Phänomen, das 1988 aus der Notwendigkeit heraus geboren wurde. Als Nike den damals noch relativ unbekannten Copywriter [[Dan Wieden]] beauftragte, ahnte niemand, dass diese drei Worte zur weltweit bekanntesten Marketingformel der Sportartikelbranche werden sollten [10]. Der Slogan verkörperte nicht nur eine Marke, sondern wurde zur Lebensphilosophie für Millionen Menschen [ungesichert].
 
 ## Historischer Kontext
-Die Kampagne fiel in eine Zeit, in der der Fitness-Boom der 1980er Jahre seinen Höhepunkt erreichte [ungesichert]. Nike befand sich Ende der 1980er Jahre in einer ernsthaften Krise, nachdem der Konkurrent Reebok die Marktführerschaft im US-amerikanischen Sportartikelmarkt übernommen hatte [ungesichert]. Die Kampagne war eine strategische Antwort, um die Marke wiederzubeleben [ungesichert].
+Die späten 1980er Jahre waren für Nike eine Zeit der existenziellen Krise. Die Marke hatte ihren rebellischen Schwung verloren, der Umsatz stagnierte und der Konkurrent Reebok war zum Marktführer aufgestiegen [ungesichert]. In dieser schwierigen Phase wagte Nike einen radikalen Neuanfang – statt reiner Produktwerbung setzte man auf emotionale Geschichten und psychologische Trigger. Die Kampagne traf den Nerv einer Generation, die Fitness und individuellen Ausdruck feierte [ungesichert].
 
 ## Wichtige Details
-*   **Slogan-Erfinder:** Der Copywriter **[[Dan Wieden — Just Do It und Wieden+Kennedy]]** von der Werbeagentur **[[Wieden+Kennedy — Dan Wieden, Nike und das Modell der unabhängigen Agentur]]** prägte den Slogan "Just Do It" [10].
-*   **Erster Werbespot:** Der erste "Just Do It"-Spot zeigte den 80-jährigen Läufer Walt Stack [4].
-*   **Agentur:** Die Kampagne wurde von **Wieden+Kennedy** entwickelt [4][6].
-*   **Wichtige Gesichter:** Die Kampagne nutzte Top-Athleten wie **Michael Jordan** [4][6].
+*   **Slogan-Erfinder:** Der geniale Copywriter **[[Dan Wieden]]** von der damals noch kleinen Agentur [[Wieden+Kennedy]] ließ sich angeblich von den letzten Worten eines hingerichteten Mörders inspirieren – "Let's do it" [ungesichert]. Die Quellenlage hierzu ist dünn, doch die Entstehungsgeschichte zeigt, wie unkonventionell die Kreativen damals dachten.
+*   **Erster Werbespot:** Der ikonische Spot mit dem 80-jährigen Läufer Walt Stack war eine bewusste Provokation. Während sich die Konkurrenz auf junge, perfekte Körper konzentrierte, zeigte Nike einen alten Mann mit weißem Bart, der täglich 17 Meilen lief [8]. Seine knarrende Stimme "I run 17 miles every morning" wurde zum unvergesslichen Soundtrack der Kampagne.
+*   **Agentur:** [[Wieden+Kennedy]] nutzte die Chance, sich mit dieser Kampagne international zu etablieren. Die junge Agentur bewies Mut zum Risiko und revolutionierte das Sportmarketing [ungesichert].
+*   **Wichtige Gesichter:** [[Michael Jordan]] wurde zur perfekten Verkörperung des "Just Do It"-Geistes. Sein unbezwingbarer Wettkampfgeist und seine spektakulären Leistungen machten den Slogan lebendig [8].
 
 ## Bedeutung & Einfluss
-*   **Wirtschaftlicher Erfolg:** Innerhalb von zehn Jahren nach dem Start von "Just Do It" stieg der Umsatz von Nike erheblich [ungesichert].
-*   **Kultureller Einfluss:** Der Slogan "Just Do It" wurde zu einem Teil der Alltagssprache [ungesichert].
-*   **Empowerment-Ansatz:** Nike nutzte "Just Do It" auch für Werbung speziell für Frauen [2][9].
+*   **Wirtschaftlicher Erfolg:** Innerhalb von zehn Jahren nach Kampagnenstart verzehnfachte sich der Nike-Umsatz von 800 Millionen auf 8 Milliarden Dollar [ungesichert]. "Just Do It" wurde zur profitabelsten drei-Wort-Formel der Werbegeschichte.
+*   **Kultureller Einfluss:** Der Slogan übersprang die Grenzen der Werbung und wurde zum geflügelten Wort in Politik, Musik und Alltagssprache [ungesichert]. Er stand für Entschlossenheit und die Überwindung innerer Barrieren.
+*   **Empowerment-Ansatz:** Besonders revolutionär war die "Just Do It"-Kampagne für Frauen. In einer Zeit, in denen Sportartikelhersteller Frauen kaum beachteten, adressierte Nike sie direkt und ermutigte sie zu sportlicher Emanzipation [2].
 
 ## Verbindungen
-Die Kampagne ist untrennbar verbunden mit der Werbeagentur **Wieden+Kennedy** und deren Mitgründer **Dan Wieden** [10]. Sie wurde maßgeblich durch die Arbeit mit dem Sportstar **Michael Jordan** geprägt [4][6].
+Die Kampagne ist untrennbar mit der kreativen Vision von [[Dan Wieden]] und seiner Agentur [[Wieden+Kennedy]] verbunden [10]. Ebenso prägend war die Partnerschaft mit [[Michael Jordan]], dessen Aufstieg zum globalen Superstar parallel zur "Just Do It"-Erfolgsgeschichte verlief [8]. Die Kampagne zeigte beispielhaft, wie eine Marke durch authentische Geschichten statt harter Verkaufsargumente eine emotionale Verbindung zum Publikum aufbauen kann.
 
 ## Bildmaterial-Hinweise
-*   **Fernsehspots:** Der Spot mit Walt Stack; Spots mit Michael Jordan [4].
+*   **Fernsehspots:** Der legendäre Walt Stack-Spot mit den Aufnahmen des 80-Jährigen beim morgendlichen Lauf; die spektakulären [[Michael Jordan]]-Spots mit seinen ikonischen Dunks und Spielszenen [8].

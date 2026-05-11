@@ -1,16 +1,23 @@
 ---
-confidence: high
+confidence: low
 era: 1960-1986
 id: collett_dickenson_pearce_cdp
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Collett Dickenson Pearce (Gründung, Existenzzeitraum)'
-- 'Wikipedia: Happiness is a cigar called Hamlet (Hamlet-Kampagne)'
-- 'Ad Age: Collett Dickenson Pearce (Gründungsdetails, Übernahme durch Dentsu)'
-- 'Adweek: Dentsu Kills Off CDP (Umbenennung 2000)'
-- 'Hatads Archive: Collett Dickenson and Pearce (Gründung, frühe Kunden)'
-- 'WARC: Encountering history (Tower of London Kampagne 1991)'
+- John Salmon (advertising executive) - Wikipedia
+- Birds Eye - Wikipedia
+- Sir Ridley Scott on why the 1970s was the 'golden age' of advertising - Marketing
+  Week
+- OUTSIDE Collett Dickenson Pearce - Leeds Arts University Repository
+- CDP Classic ads - Cinzano (1978-1983)
+- Collett Dickenson Pearce - Wikipedia
+- Wikipedia CDP
+- History of Advertising Trust
+- Wikipedia John Salmon
+- Academia.edu PDF
+- Wikipedia Birds Eye
+- Independent Artikel
 tags:
 - 1960s
 - 1980s
@@ -27,36 +34,30 @@ wave: 14
 ---
 
 ## Überblick
-Collett Dickenson Pearce (CDP) war eine der einflussreichsten und kreativsten Werbeagenturen Großbritanniens. Sie war in den 1960er und 1970er Jahren der kreative Brennpunkt Londons und prägte mit ihrer literarischen, witzigen und bildstarken Arbeit die sogenannte "British Creative Revolution". Die Agentur gewann in ihrer Blütezeit mehr Preise beim renommierten D&AD Festival als jede andere Agentur weltweit.
+Collett Dickenson Pearce (CDP) war nicht einfach eine Werbeagentur – sie war die Geburtsstätte einer kreativen Revolution in der britischen Werbung. Von 1960 bis 2000 prägte sie mit ihrem mutigen, kreativgeleiteten Ansatz die Branche nachhaltig [10]. Sie galt als erste wirklich innovative Agentur in England, wenn nicht in Europa [6], und wurde zur Kaderschmiede für eine ganze Generation legendärer Werbetreibender.
 
 ## Historischer Kontext
-CDP wurde in einer Zeit des gesellschaftlichen und kulturellen Umbruchs gegründet. Das Wirtschaftswachstium der Nachkriegszeit, die aufkommende Jugendkultur und der kreative Aufbruch in London (Swinging Sixties) schufen einen fruchtbaren Boden für eine neue, mutigere Art von Werbung. Die Agentur stand im direkten Gegensatz zu den damals vorherrschenden, eher konservativen und faktenbasierten Werbeströmungen aus den USA.
+Die 1970er Jahre werden oft als "golden age" der Werbung beschrieben – eine Ära, in der Copywriter und Art-Direktoren zu Stars wurden und die kreative Idee über alles stellten [6]. In dieser Zeit des kulturellen Umbruchs brach CDP mit den konservativen Konventionen der Branche und bewies, dass Werbung sowohl kommerziell erfolgreich als auch künstlerisch anspruchsvoll sein konnte.
 
 ## Wichtige Details
-- **Gründung:** 1960 durch [[John Pearce]] (ehemals Colman Prentis & Varley) und Ronnie Dickenson. Sie kauften die bestehende Agentur Pictorial Publicity von John Collett auf, dessen Namen sie in die neue Firmierung aufnahmen.
-- **Standort:** 15–17 Bishop's Bridge Road, Paddington, London. Das Gebäude, bekannt als "The Rotunda", wurde zum legendären kreativen Zentrum.
-- **Wichtige Akteure:** Zu den prägenden Figuren gehörten der Copywriter [[John Salmon]], der Art-Director [[Colin Millward]] und der spätere Creative Director [[Frank Lowe]].
-- **Schlüsselkunden & Kampagnen:**
-  - **[[Heinz]]:** "Beanz Meanz Heinz" (1967) – einer der bekanntesten Werbeslogans aller Zeiten.
-  - **Birds Eye:** "Aren't Birds Eye men just wonderful?" – Kampagne, die den Convenience-Food-Markt revolutionierte.
-  - **Pioneer:** Hochwertige, fotografische Anzeigen für Hi-Fi-Geräte.
-  - **Hai Karate:** Humorvolle Kampagne für ein After-Shave.
-- **Niedergang:** In den 1980er Jahren begann der [[Stern]] von CDP zu verblassen. 1986 wurde die Agentur vom Omnicom-Konzern übernommen und in [[TBWA]] London umgewandelt. Der Name CDP wurde bis etwa 2000 noch weitergeführt, bevor er endgültig verschwand.
+- **Gründungsmythos:** 1960 kauften John Pearce (ehemals Joint MD von Colman Prentis Varley) und Ronnie Dickenson die bestehende Agentur Pictorial Publicity von John Collett [2]. Aus dieser Übernahme entstand der Name Collett Dickenson Pearce – und eine Legende war geboren.
+
+- **Die kreativen Rebellen:** Bei CDP versammelte sich eine außergewöhnliche Truppe kreativer Köpfe. John "Smokey" Salmon ging in die Branchengeschichte ein, als er den mächtigen Kunden Ford Motor Company "feuerte", nachdessen PR-Abteilung versucht hatte, in den kreativen Prozess der Agentur einzugreifen [4]. Colin Millward brachte als Art-Director visuelle Brillanz ein [7]. Frank Lowe und John Hegarty waren später erfolgreich in der Werbebranche tätig [ungesichert].
+
+- **Legendäre Kampagnen:**
+  - **Birds Eye (ab 1973):** Unter der Regie von Alan Parker entstanden ikonische Werbespots, die das Gefrierkost-Image revolutionierten [2][7].
+  - **Cinzano (1978-1983):** Die Werbespots mit Leonard Rossiter und Joan Collins wurden zu kulturellen Phänomenen – urkomische, filmreife Miniaturdramen, die die Marke unsterblich machten [8].
+  - **Harvey's Bristol Cream:** Alan Parker inszenierte auch für diesen Sherry-Klassiker unvergessliche Anzeigenkampagnen [5].
+
+- **Das Ende einer Ära:** Die Agentur wurde von Omnicom übernommen und in TBWA London umgewandelt [ungesichert]. Der Name CDP wurde bis etwa 2000 weitergeführt [10], doch die glorreichen Tage der kreativen Unabhängigkeit waren längst vorbei.
 
 ## Bedeutung & Einfluss
-CDP war die Inkarnation der britischen Kreativrevolution. Ihr Einfluss auf die globale Werbebranche ist kaum zu überschätzen:
-- **Kreativer Stil:** Sie etablierte einen literarischen, intelligenten und oft humorvollen Ton in der Werbung, der auf Einsicht und Unterhaltung setzte statt auf harte Verkaufsargumente.
-- **Fokus auf Idee:** Das Konzept ("The Idea") wurde zum zentralen Dreh- und Angelpunkt jeder Kampagne.
-- **Kreativ-Autonomie:** Sie schuf ein Umfeld, in dem kreative Talente frei arbeiten und brillante Arbeit produzieren konnten, was die Agentur zur talentiertesten und meistausgezeichneten ihrer Zeit machte.
-- **Vorbildfunktion:** CDP wurde zum Vorbild für eine ganze Generation von kreativen Agenturen weltweit und beeinflusste spätere Macht- und Kreativhäuser wie [[Wieden+Kennedy]] oder [[Droga5]].
+CDP schuf ein Umfeld, in dem kreative Talente arbeiten konnten [ungesichert] und bewies, dass radikale Kreativität kommerziell erfolgreich sein kann. Die Agentur gewann zahlreiche Auszeichnungen [ungesichert] und setzte neue Maßstäbe für die gesamte europäische Werbebranche. Sie war mehr als eine Agentur – sie war eine kreative Bewegung, die das Berufsbild des Art-Direktors und Copywriters nachhaltig veränderte.
 
 ## Verbindungen
-- **Personen:** Viele CDP-Alumni gründeten später eigene, bedeutende Agenturen, darunter [[Frank Lowe]] ([[Lowe Howard-Spink]], später Teil von [[Lowe Lintas]] und [[MullenLowe]]) und [[John Hegarty]] ([[Bartle Bogle Hegarty (BBH)]]).
-- **Agenturen:** Stand in direkter kreativer Konkurrenz zu anderen britischen Größen wie [[Doyle Dane Bernbach (DDB)]] London und [[Saatchi & Saatchi]].
-- **Kampagnen:** Die Arbeit für Heinz und Birds Eye sind ikonische Referenzen der Werbegeschichte.
+- **Personen:** CDP war die Kaderschmiede für spätere Branchengrößen wie Frank Lowe (Lowe Howard-Spink) und John Hegarty (BBH) [ungesichert].
+- **Agenturen:** CDP stand in Konkurrenz zu anderen britischen Agenturen [ungesichert] und setzte sich durch ihre radikale Kreativität bewusst von etablierten Netzwerkagenturen ab.
 
 ## Bildmaterial-Hinweise
-- **Agenturgebäude:** Fotos des charakteristischen runden "Rotunda"-Gebäudes in Paddington.
-- **Anzeigen:** Hochwertige Reproduktionen der legendären Printkampagnen für Heinz (Beanz Meanz Heinz), Birds Eye, Pioneer und Hai Karate. Viele zeichnen sich durch starke Fotografie und minimalen, aber perfekt platzierten Text aus.
-- **Interieur:** Schwarz-Weiß-Fotos aus den 1960er Jahren, die das kreative, oft chaotische und lebhafte Büroleben zeigen.
-- **Teamfotos:** Bilder der Schlüsselfiguren wie John Pearce, Ronnie Dickenson, Colin Millward und John Salmon.
+- **Anzeigen:** Reproduktionen der kultigen Printkampagnen für Birds Eye [2] und Cinzano [8] zeigen die visuelle Brillanz von CDP.
+- **Teamfotos:** Bilder von John "Smokey" Salmon [1] und Colin Millward [7] geben Einblick in die kreativen Köpfe hinter der Legende.

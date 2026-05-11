@@ -22,4 +22,4 @@ wave: 1
 
 UNZUREICHENDE QUELLEN
 
-**Hinweis:** Die vorhandenen Quellen liefern zwar grundlegende biografische Daten und einige Karrierestationen, reichen jedoch nicht aus, um die zahlreichen spezifischen Behauptungen im ursprünglichen Artikel über Kampagnen, Arbeitsstil, Einfluss und Bildmaterial zuverlässig zu verifizieren. Für eine faktenbasierte Überarbeitung des Artikels sind umfangreichere und detaillierte Quellen erforderlich.
+**Hinweis:** Die verfügbaren Quellen liefern lediglich grundlegende biografische Daten (Geburts- und Sterbedatum, Geburtsort, grobe Karrierestationen) sowie allgemeine Aussagen über seinen Einfluss. Sie reichen nicht aus, um die spezifischen Behauptungen im ursprünglichen Artikel über konkrete Kampagnen, Arbeitsstil, detaillierte Karriereverläufe, Zitate und Bildmaterial zuverlässig zu verifizieren. Für eine faktenbasierte Neufassung des Artikels sind umfangreichere und detaillierte Quellen erforderlich.

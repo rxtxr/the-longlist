@@ -1,10 +1,14 @@
 ---
-confidence: high
+confidence: low
 era: 1984-2000
 id: linda_evangelista
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- 'Quelle 1: Wikipedia Geburtsdatum, Coverzahl'
+- 'Quelle 2: Simple Wikipedia Geburtsdatum, Coverzahl'
+- 'Quelle 3: Wikipedia Kampagnen Chanel, Versace'
+- 'Quelle 4: Wikipedia Supermodel-Status, Kampagnen'
 tags:
 - supermodel
 - fashion
@@ -17,33 +21,33 @@ wave: 12
 ---
 
 ## Überblick
-Linda Evangelista war eines der einflussreichsten Supermodels der späten 1980er und 1990er Jahre. Sie prägte durch ihre außergewöhnliche Wandlungsfähigkeit und ihren professionellen Perfektionismus die Hochphase der Mode- und Werbefotografie und wurde zur Ikone einer ganzen Ära.
+Linda Evangelista ist ein kanadisches Model, das als eines der einflussreichsten Models aller Zeiten gilt und auf über 700 Magazintitelblättern erschienen ist[1][2][4]. Sie war eine der ersten "Supermodels" und gehörte zwischen Ende der 1980er und den 1990er Jahren zu den bekanntesten Topmodels der Welt[4].
 
 ## Historischer Kontext
-Ihre Karriere fiel in die Zeit der "Supermodel-Ära" (ca. 1986–1997), eine Periode, in der Models erstmals zu globalen Superstars und Markenbotschaftern von Weltrang aufstiegen. Wirtschaftlich war dies die Hochzeit der Luxusmodekonzerne und globalen Kosmetikgiganten wie [[Revlon]] und [[L'Oréal]], die enorme Werbebudgets für Print- und TV-Kampagnen ausgaben. Gesellschaftlich spiegelt ihr Aufstieg den zunehmenden Einfluss von Celebrity- und Medienkultur wider.
+Ihre Karriere fiel in die Zeit der "Supermodel-Ära", eine Periode, in der Models erstmals zu globalen Stars aufstiegen[4]. Wirtschaftlich war dies die Hochzeit der Luxusmodekonzerne und globalen Kosmetikgiganten, die große Werbebudgets für Print- und TV-Kampagnen ausgaben[ungesichert].
 
 ## Wichtige Details
-*   **Geboren:** 10. Mai 1965 in St. Catharines, Ontario, Kanada.
-*   **Entdeckung:** 1978 (oder 1979) von einem Scout der [[Elite Model Management]] beim "Miss Teen Niagara"-Wettbewerb.
-*   **Durchbruch:** Nach einem schwierigen Start in New York zog sie 1984 nach Paris. Ihr entscheidender Karrieresprung gelang durch die Zusammenarbeit mit dem Fotografen [[Peter Lindbergh]] und später [[Steven Meisel]].
-*   **Legendärer Ausspruch:** "We don't wake up for less than $10,000 a day" ([[Vogue (Magazin)]], 1990), der den Höhepunkt der Macht und des Verdienstpotenzials von Supermodels symbolisierte.
-*   **Schlüsselkampagnen:** [[Revlon]] (als offizielles "Gesicht" neben [[Cindy Crawford]] und [[Claudia Schiffer]]), [[Chanel (Modehaus)|Chanel]], [[Versace]], [[L'Oréal]].
-*   **Bedeutende Titelbilder:** Über 700 Cover, darunter zahlreiche für [[Vogue (Magazin)|Vogue]] (internationale Ausgaben), Harper's Bazaar, Elle.
-*   **Kultvideo:** Auftritt im Musikvideo "Freedom! '90" von [[George Michael]], zusammen mit anderen Supermodels wie [[Naomi Campbell]], [[Cindy Crawford]], [[Christy Turlington]] und [[Tatjana Patitz]] (Regie: [[David Fincher]]).
+*   **Geboren:** 10. Mai 1965 in St. Catharines, Ontario, Kanada[1][2][4].
+*   **Entdeckung:** Beim "Miss Teen Niagara"-Wettbewerb[ungesichert].
+*   **Durchbruch:** Nach einem schwierigen Start in New York zog sie nach Paris[ungesichert].
+*   **Legendärer Ausspruch:** "We don't wake up for less than $10,000 a day" (Vogue, 1990)[ungesichert].
+*   **Schlüsselkampagnen:** Chanel, Versace[3][4].
+*   **Bedeutende Titelbilder:** Über 700 Cover[1][2][4].
+*   **Kultvideo:** Auftritt im Musikvideo "Freedom! '90" von George Michael[ungesichert].
 
 ## Bedeutung & Einfluss
-Evangelista revolutionierte die Rolle des Models vom passiven Kleiderständer zum aktiven, kreativen und hochbezahlten Partner von Fotografen und Designern. Ihre berühmte Aussage über das Tagegeld machte den wirtschaftlichen Wert von Top-Models öffentlich und setzte einen neuen Standard in der Branche. Ihre außergewöhnliche Fähigkeit, sich durch Haare, Make-up und Styling komplett zu verwandeln ("Chamäleon"), machte sie zum Lieblingsmodell für kreative Fotografen und etablierte eine neue Art von künstlerischer Zusammenarbeit in der Modefotografie. Sie war ein zentraler Bestandteil des "Supermodel-Phänomens", das die Grenzen zwischen Mode, Popkultur und Celebrity-Tum verschwimmen ließ.
+Evangelista revolutionierte die Rolle des Models vom passiven Kleiderständer zum aktiven, kreativen Partner[ungesichert]. Ihre berühmte Aussage über das Tagegeld machte den wirtschaftlichen Wert von Top-Models öffentlich[ungesichert]. Ihre außergewöhnliche Fähigkeit, sich durch Haare, Make-up und Styling komplett zu verwandeln ("Chamäleon"), machte sie zum Lieblingsmodell für kreative Fotografen[ungesichert].
 
 ## Verbindungen
-*   **Agenturen:** [[Elite Model Management]] (ihre Entdeckeragentur).
-*   **Fotografen:** [[Peter Lindbergh]], [[Steven Meisel]] (ihr langjähriger kreativer Partner), [[Richard Avedon]], [[Patrick Demarchelier]], [[Helmut Newton]].
-*   **Designer/Marken:** [[Gianni Versace]] ([[Versace]]), [[Karl Lagerfeld]] ([[Chanel (Modehaus)|Chanel]]), [[Revlon]].
-*   **Andere Models:** Die "Big Five": [[Naomi Campbell]], [[Cindy Crawford]], [[Christy Turlington]], [[Claudia Schiffer]]. Ihre enge Freundschaft und Rivalität mit Campbell war legendär.
-*   **Kampagnen:** [[Revlon]] "The Most Unforgettable Women in the World", [[L'Oréal]] "Because I'm Worth It".
+*   **Agenturen:** Elite Model Management[ungesichert].
+*   **Fotografen:** Peter Lindbergh, Steven Meisel[ungesichert].
+*   **Designer/Marken:** Chanel, Versace[3][4].
+*   **Andere Models:** Naomi Campbell, Cindy Crawford, Christy Turlington, Claudia Schiffer[ungesichert].
+*   **Kampagnen:** L'Oréal "Because I'm Worth It"[ungesichert].
 
 ## Bildmaterial-Hinweise
-*   **Fotografie:** Zahlreiche ikonische Titelbilder für Vogue (u.a. das "100. Jubiläums"-Cover der US-Vogue, April 1992, fotografiert von [[Patrick Demarchelier]]).
-*   **Werbeanzeigen:** Umfangreiches Printmaterial für [[Revlon]], [[Chanel (Modehaus)|Chanel]] Parfum, [[Versace]].
-*   **Editorials:** Legendäre Fotostrecken in Zusammenarbeit mit [[Steven Meisel]], z.B. für Vogue Italia.
-*   **TV-Werbung:** TV-Spots für [[Revlon]].
-*   **Musikvideo:** Szenenbilder aus "Freedom! '90" von [[George Michael]].
+*   **Fotografie:** Zahlreiche ikonische Titelbilder für Vogue[1][2][4].
+*   **Werbeanzeigen:** Printmaterial für Chanel Parfum, Versace[3][4].
+*   **Editorials:** Fotostrecken für Vogue Italia[ungesichert].
+*   **TV-Werbung:** TV-Spots für Revlon[ungesichert].
+*   **Musikvideo:** Szenenbilder aus "Freedom! '90" von George Michael[ungesichert].

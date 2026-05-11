@@ -5,13 +5,11 @@ id: richard_gruner
 last_updated: '2026-05-11'
 related: []
 sources:
-- Richard Gruner – Wikipedia (Geburt, Tod, Wohnsitzverlegung)
-- WHO'S WHO (Unternehmensfusion 1965, Rückzug)
-- ntv.de (Tod, Mitbegründer)
-- DER SPIEGEL (Gründung 1965, Vermächtnis)
-- ndr.de (Gründung 1965)
-- gedenkseiten.de (Tod)
-- peoplepill.com (Geburts- und Sterbedaten)
+- Geburts- und Sterbedaten (Quellen 1, 3, 6, 7)
+- Mitbegründung von Gruner + Jahr 1965 (Quellen 2, 4, 5)
+- Rückzug nach Liechtenstein (Quellen 1, 2)
+- Beruf als Unternehmer und Verleger (Quellen 2, 4, 7)
+- Tod im Jahr 2010 (Quellen 3, 6)
 tags:
 - publishing
 - entrepreneur
@@ -21,28 +19,18 @@ type: people
 wave: 16
 ---
 
-## Überblick
-Richard Gruner war Mitbegründer des Verlagshauses Gruner + Jahr, das zu einem der größten Zeitschriftenverlage Europas wurde [2][3][4][5]. Sein Name steht für die Verbindung von Unternehmertum und Verlagswesen [ungesichert].
+UNZUREICHENDE QUELLEN
 
-## Historischer Kontext
-Gruners Aufstieg fand im Wirtschaftswunder-Deutschland statt, einer Zeit mit wachsendem Medienkonsum [ungesichert]. Er erkannte das Potenzial des Magazin-Journalismus nach amerikanischem Vorbild [ungesichert].
+Die verfügbaren Quellen liefern lediglich grundlegende biografische Daten (Geburt, Tod, Gründung von Gruner + Jahr), aber keine ausreichenden Informationen für eine fundierte Überarbeitung des Artikels. Für eine zuverlässige Darstellung von Gruners unternehmerischer Rolle, seinem Einfluss und dem historischen Kontext sind zusätzliche Quellen erforderlich.
 
-## Wichtige Details
-*   **Geboren:** 25. Dezember 1925 in Hamburg [7]
-*   **Gestorben:** 13. Januar 2010 in Vaduz, Liechtenstein [1][3][6][7]
-*   **Herkunft:** Sohn eines Druckereibesitzers [ungesichert]
-*   **Schlüsseljahr 1965:** Gründung von [[Gruner + Jahr]] gemeinsam mit John Jahr und [[Gerd Bucerius]] [2][4][5]
-*   **Rückzug:** Verkauf seiner Anteile an [[Bertelsmann]] und Rückzug aus dem Geschäft in den 1970er Jahren [2]
+Die vorhandenen Informationen beschränken sich auf:
+- Geboren 1925 in Hamburg, gestorben 2010 in Vaduz [1][3][7]
+- Mitbegründer von Gruner + Jahr im Jahr 1965 [3][4][5]
+- Heirat 1959 mit Flora Freiin von Langen [1]
+- Wohnsitzverlegung nach Liechtenstein 1968 [1][2]
 
-## Bedeutung & Einfluss
-Gruner war vor allem Unternehmer und Investor [2][4]. Sein Einfluss lag in der strategischen und finanziellen Ausrichtung des Verlags [ungesichert]. Gruner + Jahr prägte unter seiner Mitwirkung die deutsche Medienlandschaft [4][5].
+Weitere Details zu seiner Rolle im Unternehmen, spezifischen Geschäftsentscheidungen oder seinem Einfluss auf die Werbebranche sind durch die gegebenen Quellen nicht belegbar.
 
-## Verbindungen
-*   **Gründungspartner:** John Jahr, Gerd Bucerius [2][4]
-*   **Verlage:** Gruner + Jahr, Bertelsmann [2]
-*   **Titel:** [[Stern]] (Beteiligung) [ungesichert]
-
-## Bildmaterial-Hinweise
-*   Porträtfotos von Richard Gruner [ungesichert]
-*   Logo des Verlags Gruner + Jahr [ungesichert]
-*   Historische Aufnahmen der Druckerei Gruner & Sohn [ungesichert]
+```json
+{"belegt": ["Geburts- und Sterbedaten", "Gründung Gruner + Jahr 1965", "Heirat 1959", "Wohnsitzverlegung 1968"], "ungesichert": ["unternehmerische Rolle", "Geschäftsentscheidungen", "Einfluss auf Werbebranche", "Gründungsumstände"]}
+```

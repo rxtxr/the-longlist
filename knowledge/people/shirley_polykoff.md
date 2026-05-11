@@ -5,11 +5,14 @@ id: shirley_polykoff
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Shirley Polykoff (Geburts-/Sterbedaten, Karriereweg)'
+- 'Wikipedia: Shirley Polykoff (Geburts-/Sterbedaten, Karriereweg, Clairol-Kampagne)'
 - 'Wikipedia: Clairol (Zugehörigkeit zu FCB, Rolle als einzige Copywriterin)'
-- 'Wikipedia: List of copywriters (Hall of Fame Aufnahme)'
-- 'Ad Age: Polykoff, Shirley (1908-1998) (Biografische Details)'
-- 'New York Times: Nachruf (Sterbedatum, Bedeutung)'
+- 'Wikipedia: List of copywriters (Aufnahme in Hall of Fame 1983)'
+- 'Ad Age: Polykoff, Shirley (1908-1998) (Biografie, Herkunft, Einfluss)'
+- 'Ad Age: What I Learned From Shirley Polykoff (Tätigkeit bei FCB)'
+- 'Ad Age: Shirley Polykoff (Bedeutung für Haarfärbemittelindustrie)'
+- 'New York Times: Nachruf (Pionierrolle, gesellschaftlicher Einfluss)'
+- 'Encyclopedia.com: Polykoff, Shirley (Agenturgründung 1974)'
 tags:
 - copywriting
 - pioneer

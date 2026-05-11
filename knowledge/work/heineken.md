@@ -5,13 +5,13 @@ id: heineken
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Heineken N.V. (Slogan und Victor Borge)'
-- 'Wikipedia: Heineken (Sponsoring UEFA)'
-- 'Wikipedia: Heineken brands (Portfolio)'
-- 'Ad Age: Heineken Agency Review'
-- 'Campaign: Heineken Agency Review'
-- 'Campaign: Heineken Historical Background'
-- 'Mashed: Heineken Advertising Campaigns'
+- Heineken N.V. - Wikipedia
+- Heineken - Wikipedia
+- Heineken brands - Wikipedia
+- Ad Age - Heineken keeps Dentsu for media, shakes up creative roster
+- Campaign - Heineken concludes global media, creative and production review
+- Campaign - Heineken brand history
+- 'Heineken: 12 Facts All Beer Drinkers Need To Know'
 tags:
 - beer
 - advertising

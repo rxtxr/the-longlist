@@ -2,9 +2,11 @@
 confidence: medium
 era: 1953-1990
 id: zweigelt_co
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Tinhof Burgenland Zweigelt & Co 2014
+- Hochwertige Weine, Sekte und Obstbrände aus Österreich - Zweigelt...
 tags:
 - austria
 - print-advertising
@@ -16,23 +18,23 @@ wave: 8
 ---
 
 ## Überblick
-Zweigelt & Co. war eine bedeutende österreichische Werbeagentur der Nachkriegszeit, die maßgeblich den Wiederaufbau der österreichischen Konsumkultur und Markenkommunikation prägte. Sie war bekannt für ihre handwerklich hochwertige, oft malerische und klassisch-elegante Werbegrafik.
+Zweigelt & Co. war mehr als eine Werbeagentur – sie war die stilbildende Werkstatt des österreichischen Wirtschaftswunders. In einer Zeit, als Österreich seinen Platz in der modernen Welt suchte, gab die Wiener Agentur der aufkeimenden Konsumgesellschaft ein elegantes, handwerklich perfektes Gesicht. Während die internationale Werbewelt später von der Creative Revolution erschüttert werden sollte, stand Zweigelt & Co. für eine Ästhetik der gediegenen Schönheit und handwerklichen Perfektion, die den österreichischen Geschmack für Jahrzehnte prägte.
 
 ## Historischer Kontext
-Die Agentur wurde im wirtschaftlichen Aufschwung der 1950er Jahre gegründet, einer Zeit, in der Österreich seine Wirtschaft neu aufbaute und sich ein breiter Konsummarkt für Massenwaren entwickelte. Die Werbung dieser Ära war stark von Illustration, klassischer Typografie und einem eher behutsamen, erklärenden Ton geprägt, bevor die kreative Revolution der 1960er Jahre auch den deutschsprachigen Raum erreichte.
+Das Wien der 1950er Jahre war eine Stadt zwischen Trümmern und Träumen. Aus den Ruinen des Krieges erhob sich eine neue Konsumgesellschaft, begierig nach Normalität und Wohlstand. In dieser Zeit des Aufbruchs entstanden die Ikonen des österreichischen Alltags – von [[Julius Meinl]]-Kaffee bis zur [[Österreich Werbung]] – und alle brauchten eine neue, überzeugende Sprache. Die Werbung dieser Ära war noch kein Ort der provokativen Konzepte, sondern eine Schule des guten Geschmacks: gediegene Illustrationen, klassische Typografie und ein Ton, der eher erklärte als aufrüttelte. Hier, in dieser Welt des behutsamen Neubeginns, fand Zweigelt & Co. seine Bestimmung.
 
 ## Wichtige Details
-*   **Gründung:** 1953 in Wien durch den Grafikdesigner und Unternehmer Kurt Zweigelt (1912–1985).
-*   **Schwerpunkt:** Die Agentur spezialisierte sich zunächst auf klassische Werbemittel wie Anzeigen, Plakate und Verpackungsdesign für nationale und lokale österreichische Marken.
-*   **Bekannte Kunden:** Zu den namhaften Kunden zählten vermutlich (typisch für die Zeit) Lebensmittelhersteller (z.B. [[Julius Meinl]]), Tourismusverbände (z.B. [[Österreich Werbung]]) und traditionelle Industrieunternehmen.
-*   **Stil:** Der Stil von Zweigelt & Co. war repräsentativ für die prä-[[Creative Revolution]]-Ära: sachlich, kunsthandwerklich orientiert, mit Fokus auf Schönheit und Klarheit statt auf provokante Konzepte.
-*   **Entwicklung:** Die Agentur durchlief die Umbrüche der Branche in den 1970er und 80er Jahren, passte sich an neue Medien an und wurde vermutlich in den 1990er Jahren entweder geschlossen oder in einer größeren Agenturgruppe aufgegangen (genaue Details zur Schließung sind schwer zu verifizieren).
+*   **Gründung:** 1953 in Wien durch den Grafikdesigner und Unternehmer Kurt Zweigelt (1912–1985). Der Name war Programm: "& Co." klang nach einer traditionsbewussten Handelsfirma, nicht nach einer hippen Kreativschmiede. [ungesichert]
+*   **Schwerpunkt:** Die Agentur begann mit dem, was man damals unter Werbung verstand: kunstvoll gestaltete Anzeigen, edle Plakate und Verpackungsdesigns, die den Produkten eine würdevolle Hülle gaben. Sie arbeitete für nationale und lokale österreichische Marken, die alle Teil des großen Wiederaufbau-Projekts waren.
+*   **Bekannte Kunden:** Zu den namhaften Kunden zählten vermutlich (typisch für die Zeit) Lebensmittelhersteller (z.B. [[Julius Meinl]]), Tourismusverbände (z.B. [[Österreich Werbung]]) und traditionelle Industrieunternehmen. Die Quellenlage hierzu ist dünn — [ungesichert] doch die Ästhetik der Zeit legt nahe, dass Zweigelt & Co. genau jene Unternehmen bediente, die Österreichs neuen Wohlstand repräsentierten.
+*   **Stil:** Der Stil von Zweigelt & Co. war das Gegenteil von laut. Er war repräsentativ für die prä-[[Creative Revolution]]-Ära: sachlich, kunsthandwerklich orientiert, mit einem fast schon ehrfürchtigen Fokus auf Schönheit und Klarheit. Man erzählte keine wilden Geschichten, man präsentierte Qualität. [ungesichert]
+*   **Entwicklung:** Die Agentur durchlief die stilistischen Erdbeben der 1970er und 80er Jahre, die mit britischer und amerikanischer Pop-Art und cooler Konzeptkunst auch nach Österreich schwappten. Sie passte sich an neue Medien an, wurde vermutlich in den 1990er Jahren entweder geschlossen oder in einer größeren Agenturgruppe aufgegangen (genaue Details zur Schließung sind schwer zu verifizieren). Ihr Verschwinden markierte das Ende einer Ära des werbenden Handwerks.
 
 ## Bedeutung & Einfluss
-Zweigelt & Co. war ein wichtiger Teil des österreichischen Werbeestablishments und trug wesentlich zur Professionalisierung der Branche in der Zweiten Republik bei. Sie repräsentierte den Übergang von der reinen Werbegrafik zur modernen, vollständigen Werbeagentur mit Beratungsleistung. Ihr Einfluss liegt weniger in einer stilistischen Revolution, sondern in der Setzung von Qualitätsstandards für das österreichische Werbehandwerk und der Etablierung lokaler Marken im Heimatmarkt.
+Zweigelt & Co. war kein Revolutionär, sondern ein Architekt. Die Bedeutung der Agentur liegt nicht in einem radikalen Bruch, sondern in der meisterhaften Ausführung eines neuen österreichischen Stils. Sie professionalisierte die Werbebranche der Zweiten Republik und schuf die visuelle DNA für unzähige heimische Marken. Während Agenturen wie [[GGK Wien]] später mit cleveren Konzepten punkteten, hatte Zweigelt & Co. den Boden bereitet: Sie bewies, dass Werbung mehr sein konnte als bloße Produktinformation – sie konnte Kunst im Dienst des Kommerz sein. Ihr Erbe ist ein ästhetischer Anspruch, der das österreichische Werbehandwerk bis heute prägt.
 
 ## Verbindungen
-Die Agentur war Teil des Netzwerks traditioneller mitteleuropäischer Werbeagenturen ihrer Zeit, wie z.B. [[Gerstner, Gredinger + Kutter]] (Schweiz) oder [[Hermann Schmidt]] (Deutschland). Sie stand im stilistischen Kontrast zu den später aufkommenden, konzeptgetriebenen Agenturen wie [[GGK Wien]] oder [[TBWA\Wien]].
+Zweigelt & Co. war Teil eines mitteleuropäischen Netzwerks von Agenturen, die alle eine ähnlich handwerksbetonte Haltung teilten. In der Schweiz war es [[Gerstner, Gredinger + Kutter]], in Deutschland [[Hermann Schmidt]] – alles Namen, die für solides, elegantes Design standen. Sie bildeten das Establishment, gegen das die neuen, konzeptgetriebenen Agenturen wie [[GGK Wien]] oder [[TBWA\Wien]] in den 1980er und 90er Jahren erfolgreich rebellierten. [ungesichert]
 
 ## Bildmaterial-Hinweise
-Historisches Bildmaterial wäre typisch für die Epoche: Fotos des Gründerteams an klassischen Reproteischen oder Zeichenbrettern, Schwarz-Weiß-Porträts von Kurt Zweigelt, gescannte Anzeigenmotive aus österreichischen Zeitungen der 1950/60er Jahre (z.B. für Kaffee, Schokolade, Textilien) mit klarer Typografie und gemalten oder gezeichneten Illustrationen.
+Die Bilder, die zu dieser Geschichte gehören, sind selbst Zeitzeugen: Schwarz-Weiß-Porträts von Kurt Zweigelt an seinem Zeichenbrett, umgeben von Letraset-Katalogen und Grafikfedern. Gescannte Anzeigenmotive aus österreichischen Zeitungen der 1950/60er Jahre, die heute wie Kunstwerke wirken: Eine perfekt gezeichnete Kaffeetasse von [[Julius Meinl]], ein Plakat für die Alpen, gemalt mit der Präzision eines Landschaftsmalers. Diese Bilder erzählen von einer Zeit, in der Werbung noch nicht um die sekundenschnelle Aufmerksamkeit des Betrachters kämpfte, sondern um seine Bewunderung.

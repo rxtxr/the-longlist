@@ -24,7 +24,7 @@ wave: 1
 Paul Arden war ein britischer Kreativdirektor bei Saatchi & Saatchi und Autor mehrerer Bücher über Werbung und Motivation, darunter "Whatever You Think, Think The Opposite" und "It's Not How Good You Are, It's How Good You Want To Be" (Quelle 6).
 
 ## Historischer Kontext
-Ardens Karriere bei Saatchi & Saatchi fiel in eine Zeit, als die Agentur zu einer der bekanntesten Werbeagenturen der Welt aufstieg [ungesichert]. Die Werbebranche erlebte in den 1980er Jahren einen erheblichen Aufschwung [ungesichert].
+Ardens Karriere bei Saatchi & Saatchi fiel in eine Zeit, als die Agentur zu einer der bekanntesten Werbeagenturen der Welt aufstieg [ungesichert].
 
 ## Wichtige Details
 *   **Rolle:** Arden war Executive Creative Director bei Saatchi & Saatchi (Quelle 9). Er verbrachte 14 Jahre in dieser Position (Quelle 9).
@@ -37,7 +37,7 @@ Ardens Karriere bei Saatchi & Saatchi fiel in eine Zeit, als die Agentur zu eine
 Arden galt als exzentrische und legendäre Figur in der Werbebranche (Quelle 5, Quelle 7). Seine Bücher wurden weltweit verkauft und erreichten ein breites Publikum über die Werbebranche hinaus (Quelle 3, Quelle 6).
 
 ## Verbindungen
-Arden arbeitete bei Saatchi & Saatchi unter der Führung von Charles und Maurice Saatchi [ungesichert]. Er folgte Jeremy Sinclair als Creative Director nach (Quelle 10).
+Arden folgte Jeremy Sinclair als Creative Director nach (Quelle 10).
 
 ## Bildmaterial-Hinweise
 *   **Porträts:** Es existieren öffentliche Fotos von Paul Arden (Quelle 3).

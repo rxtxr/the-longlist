@@ -5,11 +5,11 @@ id: phyllis_robinson_erste_weibliche_creative_directorin_bei_ddb
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Ad Age: Phyllis Robinson, First DDB Copy Chief, Dies at 89'
-- 'Wikipedia: Phyllis Robinson'
-- 'Campaignlive: Here''s to you, Mrs Robinson'
-- 'Wikipedia: Paula Green'
-- 'The Subhead: Moments That Make Us'
+- 'Wikipedia: Phyllis Robinson (Geburts-/Sterbedatum, Rolle als Copy Chief)'
+- 'Ad Age: Erste weibliche Copy Chief bei DDB'
+- 'Campaignlive: Einfluss auf Diversität in der Branche'
+- 'Wikipedia: Paula Green (Mentoring-Beziehung)'
+- 'The Subhead: Aufnahme unter 100 einflussreichste Werbefachleute'
 tags:
 - women-in-advertising
 - creative-revolution
@@ -32,15 +32,15 @@ Die Gründung von DDB 1949 markierte den Beginn einer kreativen Revolution in de
 *   **Einstieg bei DDB:** Sie wurde Copy Chief bei DDB (laut Ad Age [5] und Campaignlive [6]).
 *   **Beförderung:** Sie wurde als erste weibliche Copy Chief bei DDB bezeichnet (laut Ad Age [5]).
 *   **Wichtige Kampagnen:** Sie war an Kampagnen beteiligt [1].
-*   **Rolle als Mentorin:** Sie förderte Talente wie [[Mary Wells Lawrence — erste weibliche Agentur-CEO]] (laut Adweek [6]) und Paula Green (laut Wikipedia [4]).
+*   **Rolle als Mentorin:** Sie förderte Talente wie Mary Wells Lawrence (laut Adweek [6]) und Paula Green (laut Wikipedia [4]).
 *   **Arbeitsstil:** Robinson war bekannt für ihre literarische Herangehensweise an Texte [ungesichert].
 
 ## Bedeutung & Einfluss
 Robinson war eine Pionierin für Frauen in der Kreativbranche [6][7]. Sie trug zur DDB-Kultur bei [ungesichert]. 1999 wurde sie vom Advertising Age zu einem der 100 einflussreichsten Werbefachleute der Geschichte gewählt (laut The Subhead [9]).
 
 ## Verbindungen
-*   Agentur: [[Doyle Dane Bernbach (DDB) — die Creative Revolution]] (DDB)
-*   Kollegen/Gründer: [[Bill Bernbach — Vater der Kreativen Revolution]]
+*   Agentur: Doyle Dane Bernbach (DDB)
+*   Kollegen/Gründer: Bill Bernbach
 *   Von ihr geförderte Talente: Mary Wells Lawrence (laut Adweek [6]), Paula Green (laut Wikipedia [4])
 
 ## Bildmaterial-Hinweise

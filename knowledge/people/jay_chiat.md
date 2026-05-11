@@ -5,16 +5,15 @@ id: jay_chiat
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Jay Chiat'
-- 'Wikipedia: Tissue meeting'
-- 'Wikipedia: Guy Day'
-- 'Wikipédia: TBWA\Chiat\Day'
-- 'Ad Age: Jay Chiat'
-- 'Adweek: It seems only appropriate'
-- 'Campaign: Industry icon Chiat dies'
-- 'Ad Age: Jay Chiat''s passing highlights'
-- 'Creative Hall of Fame: Jay Chiat'
-- 'Company Histories: Chiat/Day Inc.'
+- 'Wikipedia: Jay Chiat (Geburtsdatum, Karrierebeginn als Texter)'
+- 'Wikipedia: Tissue Meeting (Beteiligung an ''1984''-Kampagne)'
+- 'Wikipedia: Guy Day (Gründung Chiat/Day 1968)'
+- 'Wikipédia FR: TBWA/Chiat/Day (Gründungsdetails)'
+- 'Ad Age: Jay Chiat (Karriereüberblick)'
+- 'Adweek: Geburtskontext der Agentur'
+- 'Campaign: Tod und Kampagnen für Apple und Nike'
+- 'Creative Hall of Fame: Innovationsbeiträge und Account Planning'
+- 'Company Histories: Gründungsgeschichte Chiat/Day'
 tags:
 - creative_revolution
 - account_planning
@@ -37,15 +36,15 @@ Chiat begann seine Karriere als Texter [1] und gründete seine Agentur in einer 
 *   **1968:** Gründet zusammen mit Guy Day die Agentur Chiat/Day in Los Angeles durch Fusion ihrer Agenturen [3][4][10]
 *   **1984:** Lanciert die "1984"-Kampagne zur Einführung des Macintosh [2][3][7]
 *   **1994:** Verkauft Chiat/Day an Omnicom Group [ungesichert]
-*   **1995:** Fusion unter Omnicom mit TBWA zu TBWAChiatDay [ungesichert]
+*   **1995:** Fusion unter Omnicom mit TBWA [ungesichert]
 *   **2002:** Stirbt am 23. April an Krebs [7]
 
 ## Bedeutung & Einfluss
 Chiat veränderte die Branche durch seinen Fokus auf kreative Exzellenz [9]. Die Einführung des Account Planning professionalisierte die strategische Grundlagenarbeit in US-Agenturen [9]. Sein Motto "Great work attracts clients" wurde legendär [9].
 
 ## Verbindungen
-*   Agenturen: Chiat/Day, TBWA, Omnicom Group
-*   Personen: Guy Day, Steve Jobs [2][3]
+*   Agenturen: Chiat/Day, TBWA, Omnicom Group [ungesichert]
+*   Personen: Guy Day [3], Steve Jobs [2][3]
 *   Kampagnen: "1984" [2][3][7]
 
 ## Bildmaterial-Hinweise

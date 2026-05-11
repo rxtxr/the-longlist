@@ -2,7 +2,7 @@
 confidence: low
 era: 1880-2010
 id: der_zeichentisch_und_seine_werkzeuge_in_der_werbeagentur
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
 sources:
 - Ogilvy on Advertising by David Ogilvy

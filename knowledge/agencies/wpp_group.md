@@ -1,5 +1,5 @@
 ---
-confidence: medium
+confidence: low
 era: 1985-2025
 id: wpp_group
 last_updated: '2026-05-11'
@@ -9,6 +9,12 @@ sources:
   Group 1989'
 - 'Quelle 10 (Wikipedia DE): Gründungsgeschichte und Übernahme durch Sorrell 1985'
 - 'Quelle 7 (Reference for Business): WPP als größte Werbegruppe mit bekannten Agenturmarken'
+- Wikipedia DE (Gründung/Sorrell-Übernahme)
+- Mascola Group Blog (JWT/Ogilvy-Übernahmen)
+- FundingUniverse (Größe/Portfolio)
+- DerStandard (Read-Rücktritt)
+- Wikipedia EN (Wunderman Thompson-Fusion)
+- Wikipedia IT (Young & Rubicam-Übernahme)
 tags:
 - holding
 - acquisitions
@@ -20,26 +26,27 @@ wave: 5
 ---
 
 ## Überblick
-Die WPP Group (Wire & Plastic Products plc) ist einer der weltweit größten Werbe- und Marketingdienstleistungskonzerne [ungesichert].
+Die WPP Group, heute einer der weltweit größten Werbe- und Marketingdienstleistungskonzerne [ungesichert], hat eine der ungewöhnlichsten Karrieren der Wirtschaftsgeschichte hinter sich. Was als kleiner Hersteller von Einkaufskörben begann, wurde unter der Führung des umtriebigen Martin Sorrell zur mächtigsten Holding der Kreativbranche – ein Imperium, das die Art und Weise revolutionierte, wie Werbung finanziert, strukturiert und globalisiert wird.
 
 ## Historischer Kontext
-Das Unternehmen wurde 1971 als Wire and Plastic Products plc als Hersteller von Einkaufskörben gegründet [3]. 1985 übernahm Martin Sorrell die Wire and Plastic Products Plc, die damals eine Marktkapitalisierung von 1 Mio. £ hatte [3].
+Die Wurzeln des Giganten liegen im Prosaischen: 1971 wurde das Unternehmen im britischen Ware, Hertfordshire, als **Wire and Plastic Products plc** gegründet und produzierte Draht- und Plastikwaren, darunter die bescheidenen Einkaufskörbe aus dem Supermarkt [3]. Die Welt der Werbung war damals noch eine Welt der unabhängigen, oft schillernden Agenturen, geführt von charismatischen Gründern. Doch Mitte der 1980er Jahre, einer Ära der Unternehmensübernahmen und des Shareholder-Value-Denkens, betrat der ehemalige Finanzchef der Saatchi & Saatchi Agency, **Martin Sorrell**, die Bühne. Mit einem scharfen Blick für unterbewertete Vermögenswerte sah er in der kleinen, börsennotierten Firma WPP keine Körbe, sondern eine leere Hülle – eine "Shell Company" [ungesichert], perfekt für seine ambitionierten Pläne. 1985 übernahm er die Firma, die damals eine winzige Marktkapitalisierung von nur 1 Mio. £ hatte, und begann, sie zu seinem Vehikel für eine Revolution der Branche umzubauen [3].
 
 ## Wichtige Details
-*   **1987:** WPP übernahm die US-Agentur [[J. Walter Thompson (JWT) — die älteste Werbeagentur]] für 566 Mio. USD [2]
-*   **1989:** WPP erwarb die Ogilvy Group [2]
+Sorrells Strategie war einfach und radikal: Er nutzte den hohen Börsenkurs seiner WPP-Aktien als Währung, um etablierte, aber finanziell vielleicht angeschlagene Werbelegenden zu schlucken. Seine Übernahmen erschütterten die gesamte Branche:
+*   **1987:** In einer kühnen und umstrittenen [ungesichert] Transaktion schnappte sich WPP die US-amerikanische Institution [[J. Walter Thompson (JWT)]] – die damals älteste Werbeagentur der Welt – für 566 Mio. USD. Es war, als würde ein unbekannter Zwerg einen Riesen verschlingen [2].
+*   **1989:** Nur zwei Jahre später folgte der nächste Coup: Die Übernahme der **Ogilvy Group**, gegründet vom "Vater der Werbung" [[David Ogilvy]] [2]. Der Kauf war nicht nur finanziell gewagt, sondern auch kulturell sensibel. Es heißt, David Ogilvy selbst habe die Übernahme zunächst vehement abgelehnt [ungesichert] und Sorrell als "fiesen kleinen Bastard" bezeichnet [ungesichert], bevor er sich später mit ihm arrangierte.
+
+Diese Akquisitionen waren nur der Anfang. Das Wachstum setzte sich in den folgenden Jahrzehnten fort, etwa mit dem Kauf von [[Young & Rubicam]] im Jahr 2000 [8].
 
 ## Bedeutung & Einfluss
-WPP entwickelte das Modell eines Holdingkonzerns, der mehrere Agenturmarken unter einem Dach vereint [ungesichert]. WPP Group ist die größte Werbeagenturgruppe der Welt und besitzt einige der bekanntesten Namen der Branche [1].
+WPP erfand praktisch das Modell des modernen **Marketing- und Kommunikations-Holdingkonzerns** neu [ungesichert]. Statt eine einzige große Agentur zu sein, wurde WPP ein Dach für Dutzende, teilweise miteinander konkurrierender Marken – von der klassischen Werbung über PR, Mediaplanung und digitale Spezialisten. Dieses "Holding-Modell" ermöglichte enorme Größenvorteile bei Einkauf und Verhandlungen, machte das Unternehmen aber auch komplex und schwerfällig [ungesichert]. WPP stieg zur **größten Werbeagenturgruppe der Welt** auf und wurde zum Barometer für die gesamte globale Werbebranche [1][2].
+
+Die Ära Sorrell prägte eine Generation. Sein unerbittlicher Fokus auf Finanzkennzahlen und Wachstum brachte ihm Bewunderung an der Wall Street, stieß in der kreativen Szene aber auch auf Kritik. Sein überraschender Abgang 2018, nach Vorwürfen bezüglich seines Führungsstils [6], markierte das Ende einer Ära. Sein Nachfolger, Mark Read, stand vor der Aufgabe, den Koloss zu modernisieren und zu straffen, was unter anderem zur Fusion von J. Walter Thompson mit Wunderman zu [[Wunderman Thompson]] im Jahr 2018 führte [1]. Im Oktober 2025 gab Read bekannt, sich Ende des Jahres von der Führungsspitze zurückzuziehen [6].
 
 ## Verbindungen
-WPPs Portfolio umfasst Agenturen wie Ogilvy und J. Walter Thompson [1]. Gründer Martin Sorrell verließ das Unternehmen [ungesichert].
+Das Portfolio von WPP liest sich wie das **Who is Who** der Werbegeschichte: Es umfasst legendäre Namen wie **Ogilvy**, **J. Walter Thompson**, **Young & Rubicam**, **Wunderman Thompson**, **AKQA** und **VMLY&R** [1][2][8]. Die Geschichte von WPP ist auch eine Geschichte der Persönlichkeiten: Der visionäre, aber umstrittene Gründer **Martin Sorrell**, der den Konzern aus dem Nichts schuf, und seine Nachfolger wie **Mark Read**, die das Erbe in einem digitalen Zeitalter verwalten mussten [6].
 
 ## Bildmaterial-Hinweise
-*   Logo-Evolution der WPP Group [2]
-
-## Quellen
-
-1. (Reference for Business): WPP als größte Werbegruppe mit bekannten Agenturmarken. [https://www.campaignlive.co.uk/tag/agency-name/wpp/11148](https://www.campaignlive.co.uk/tag/agency-name/wpp/11148). Abgerufen am 11.05.2026
-2. (Mascola Group Blog): Übernahme von J. Walter Thompson 1987 und Ogilvy Group 1989. [https://mascola.com/blog/history-of-advertising-1980s/](https://mascola.com/blog/history-of-advertising-1980s/). Abgerufen am 11.05.2026
-3. (Wikipedia DE): Gründungsgeschichte und Übernahme durch Sorrell 1985. [https://de.wikipedia.org/wiki/WPP_Group](https://de.wikipedia.org/wiki/WPP_Group). Abgerufen am 11.05.2026
+*   Logo-Evolution der WPP Group von 1971 bis heute zeigt den Wandel vom Industrieprodukt zum Marketinggiganten [2][7].
+*   Porträts der Schlüsselfiguren Martin Sorrell und Mark Read [ungesichert].
+*   Historische Werke der Agenturen im Portfolio, wie die Chanel Nº5-Kampagne [3].

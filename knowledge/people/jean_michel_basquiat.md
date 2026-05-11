@@ -5,15 +5,20 @@ id: jean_michel_basquiat
 last_updated: '2026-05-11'
 related: []
 sources:
-- Wikipedia-Artikel zu Jean-Michel Basquiat
-- Wikipedia-Liste der Gemälde von Basquiat
-- Wikipedia-Artikel zu 'Warrior'
-- Wikipedia-Artikel zu 'In This Case'
-- Adweek-Artikel zur Tiffany-Kampagne
-- Russische Wikipedia zu Basquiat
-- Kunstwissenschaftliche Dissertation zu Basquiat
-- ARTinWORDS-Ausstellungsrezension
-- Artsper-Magazin-Artikel
+- 'Wikipedia: Jean-Michel Basquiat (Geburts- und Sterbedatum, neo-expressionistische
+  Bewegung)'
+- 'Wikipedia: List of paintings by Jean-Michel Basquiat (Rolle bei Street Art und
+  Neo-Expressionismus, Beginn der Mixed-Media-Arbeiten 1979, Aufgabe des SAMO-Tags
+  1980)'
+- 'Wikipedia: Warrior (Basquiat) (Gemälde von 1982, semi-autobiografische Interpretation)'
+- 'Wikipedia: In This Case (Gemälde von 1983, Schädeldarstellung)'
+- 'Adweek: Basquiat at Tiffany''s Campaign (Werbliche Referenzierung durch Tiffany''s)'
+- 'Russische Wikipedia: Баския, Жан-Мишель (Geburtsort Brooklyn)'
+- 'Dissertation: Jean-Michel Basquiat. OEuvres sur papier (Notizbuchskizzen und Zeichnungen)'
+- 'ARTinWORDS: Basquiat Ausstellung Albertina (Politische Themen, Kritik an Rassismus
+  und sozialen Ungerechtigkeiten)'
+- 'Artsper Magazin: Basquiat-Biografie (neo-expressionistische Bewegung der 1980er
+  Jahre)'
 tags:
 - streetart
 - art

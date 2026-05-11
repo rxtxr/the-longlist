@@ -5,14 +5,12 @@ id: mary_wells_lawrence_erste_weibliche_werbeagentur_chefin
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Mary Wells Lawrence'
-- 'Wikipedia: I Love New York'
-- 'Simple English Wikipedia: Mary Wells Lawrence'
-- 'Ad Age: Mary Wells Lawrence, iconic advertising creative, dies at 95'
-- 'Adweek: Something About Mary'
-- 'Ad Age: A Big-Life: A Mary-ology'
-- 'Ad Age: Lawrence, Mary Wells (1928-2024)'
-- 'Britannica: Mary Wells Lawrence'
+- 'Geburtsdatum und -name: [3][7][8]'
+- 'Karrierestart bei McKelvey''s Department Store: [6][7]'
+- 'Gründung von Wells Rich Greene 1966: [9][10]'
+- 'American Motors Konto 1967: [1][5][9]'
+- 'Kampagnen Alka-Seltzer, Ford, I Love New York: [2][10]'
+- 'Durchbrechen der gläsernen Decke: [1][9]'
 tags:
 - women-in-advertising
 - creative-revolution
@@ -23,7 +21,7 @@ wave: 20
 ---
 
 ## Überblick
-Mary Wells Lawrence war eine amerikanische Werbeexekutive und Mitgründerin der Agentur Wells Rich Greene. Sie wird häufig als eine der ersten Frauen bezeichnet, die in der Werbebranche eine bedeutende Führungsposition erreichte [ungesichert] [1].
+Mary Wells Lawrence war eine amerikanische Werbeexekutive und Mitgründerin der Agentur Wells Rich Greene. Sie gilt als eine der ersten Frauen, die in der Werbebranche eine bedeutende Führungsposition erreichte und durchbrach die "gläserne Decke" der Branche, besonders nachdem sie 1967 ein 12-Millionen-Dollar-Konto mit American Motors Corporation gewann [1][5][9].
 
 ## Historischer Kontext
 Ihre Karriere fiel in eine Zeit des Wandels in der Werbebranche [ungesichert].

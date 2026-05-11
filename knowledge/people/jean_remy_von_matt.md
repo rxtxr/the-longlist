@@ -5,13 +5,14 @@ id: jean_remy_von_matt
 last_updated: '2026-05-11'
 related: []
 sources:
-- Wikipedia-Artikel Jean-Remy von Matt
-- Wikipedia-Artikel Jung von Matt
-- Campaign Germany Artikel
-- Business Insider Artikel
-- SRF Artikel
-- Deutschlandfunk Kultur Artikel
-- WELT Artikel
+- Wikipedia-Artikel zu Jean-Remy von Matt
+- Wikipedia-Artikel zu Jung von Matt
+- Campaign Germany Artikel über Rückzug aus operativer Führung
+- Business Insider Artikel über politische Werbung
+- Grokipedia Eintrag zu Jean-Remy von Matt
+- SRF Artikel über Jean-Remy von Matt
+- Deutschlandfunk Kultur Artikel mit Aquarium-Beschreibung
+- WELT Artikel über Jung von Matt
 tags:
 - copywriter
 - agency-founder

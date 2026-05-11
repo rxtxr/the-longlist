@@ -5,10 +5,10 @@ id: michael_schirner
 last_updated: '2026-05-11'
 related: []
 sources:
-- 'Wikipedia: Geburtsdatum und -ort'
-- 'Eigene Website: Studium und Berufseinstieg'
-- 'Manager Magazin: Bekannte Kampagnen'
-- 'Schirner Zang Website: Spätere Tätigkeit'
+- 'Wikipedia: Geburtsdatum und -ort, Berufsbezeichnung'
+- 'Eigene Website: Studium, Berufseinstieg, Agenturpartnerschaft'
+- 'Manager Magazin: Kampagnen für IBM, Pfanni, Creme 21'
+- 'Schirner Zang Website: Gründung der Berliner Agentur 2019'
 tags:
 - creative_revolution
 - german_advertising
@@ -21,7 +21,7 @@ wave: 11
 ---
 
 ## Überblick
-Michael Schirner ist ein deutscher Künstler und Kommunikationsdesigner, der in der Werbebranche bekannt wurde [1][6]. Er wird als "Anti-Werber" und "Werbe-Anarchist" bezeichnet [ungesichert].
+Michael Schirner ist ein deutscher Künstler und Kommunikationsdesigner [1][6]. Er wird als "Anti-Werber" und "Werbe-Anarchist" bezeichnet [ungesichert].
 
 ## Historischer Kontext
 Schirners Wirken fiel in die Zeit der späten 1970er und 1980er Jahre in Westdeutschland [ungesichert].

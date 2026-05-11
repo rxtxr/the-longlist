@@ -5,15 +5,16 @@ id: marlboro_man_leo_burnetts_ikonischste_kampagne
 last_updated: '2026-05-11'
 related: []
 sources:
-- Wikipedia Marlboro Man
-- Wikipedia Darrell Winfield
-- Wikipedia Wayne McLaren
-- Wikipedia Marlboro
-- Adweek Artikel
-- Campaign Magazine
-- Ad Age Artikel
-- Medium Artikel
-- American Hatmakers Blog
+- Marlboro Man - Wikipedia
+- Darrell Winfield - Wikipedia
+- Wayne McLaren - Wikipedia
+- Marlboro - Wikipedia
+- The Marlboro Man Still Sells Cigarettes - qa.adweek.com
+- Tips from the Marlboro Man - Campaign
+- Marlboro Man Rides Into the Sunset - Ad Age
+- The Marlboro Man Still Sells Cigarettes - Adweek
+- The Peculiar Truth about the Marlboro Man | by Dan Spencer | Medium
+- Who Was the Marlboro Man? Darrell Winfield Legacy – American Hat...
 tags:
 - Marlboro Man
 - Leo Burnett
@@ -28,7 +29,7 @@ wave: 0
 ---
 
 ## Überblick  
-Die **Marlboro Man**-Kampagne wurde von der Werbeagentur Leo Burnett entwickelt und ist eine der bekanntesten Werbekampagnen der Geschichte[ungesichert]. Sie wurde ab 1954 zur Umpositionierung der Zigarettenmarke Marlboro eingesetzt und verwendete die Symbolik des Cowboys[1][7]. Ihre kulturelle Wirkung macht sie zu einem bedeutenden Beispiel strategischer Markenbildung im 20. Jahrhundert[ungesichert].
+Die **Marlboro Man**-Kampagne wurde von der Werbeagentur Leo Burnett entwickelt und gilt als eine der bekanntesten Werbekampagnen der Geschichte[ungesichert]. Sie wurde ab 1954 zur Umpositionierung der Zigarettenmarke Marlboro eingesetzt und verwendete die Symbolik des Cowboys[1][7]. Ihre kulturelle Wirkung macht sie zu einem bedeutenden Beispiel strategischer Markenbildung im 20. Jahrhundert[ungesichert].
 
 ## Historischer Kontext  
 Die Marke „Marlboro“ von Philip Morris war ursprünglich als Zigarette für Frauen positioniert[7][9]. Die Herausforderung bestand darin, Marlboro zu einer maskulinen Marke umzupolen[7].

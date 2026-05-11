@@ -6,10 +6,15 @@ last_updated: '2026-05-11'
 related: []
 sources:
 - 'Wikipedia: Maurice Saatchi, Baron Saatchi'
+- 'Wikipedia: Maurice Saatchi (eu)'
 - 'Adweek: Co-Founder of M&C Saatchi Departs'
-- 'Ad Age: Maurice and Charles Saatchi rode high'
+- 'Ad Age: Maurice Saatchi exits M&C Saatchi'
+- 'Campaignlive: Close-Up: Live Issue/M&C Saatchi'
+- 'Ad Age: Maurice and Charles Saatchi rode high on the hog'
+- 'Daily Mail: The story of advertising''s Maurice and Charles Saatchi'
+- 'The Independent: How to get ahead in advertising'
 - 'The Guardian: Saatchi brothers mark 40 years'
-- 'Campaign: Close-Up: Live Issue/M&C Saatchi'
+- 'Wikipedia: Saatchi & Saatchi (de)'
 tags:
 - saatchi
 - advertising

@@ -15,6 +15,10 @@ sources:
 - Spikes Asia Names First Three Jury Presidents - Amir Kassaei...
 - Amir Kassaei, Global Chief Brand Officer bei Omnicom | Portrait
 - Vom Minenfeld zur Werbefront – Interview mit Amir Kassaei – Think...
+- Quelle 1 (ThinkUp-Interview)
+- Quelle 3 (LBB-Artikel)
+- Quelle 5 (Handelsblatt-Artikel)
+- Quelle 6 (Kurier-Artikel)
 tags:
 - Cannes Lions
 - DDB
@@ -27,28 +31,34 @@ wave: 3
 ---
 
 ## Überblick
-Amir Kassaei war als Chief Creative Officer von DDB Germany tätig und ein preisgekrönter Kreativdirektor in der internationalen Werbebranche [ungesichert]. Seine Arbeit bei DDB war mit Erfolgen bei internationalen Werbefestivals verbunden [ungesichert].
+Amir Kassaei war mehr als nur ein Chief Creative Officer – er war eine polarisierende Kraft in der deutschen Werbelandschaft. Als einer der meistausgezeichneten Kreativdirektoren seiner Zeit [ungesichert] prägte er nicht nur die Arbeit von DDB Germany, sondern wurde zur internationalen Symbolfigur für kompromisslose Kreativität. Seine Karriere liest sich wie ein Roman: Vom jugendlichen Minensucher im Irankrieg zum gefeierten Werbestar, der die Branche erst revolutionierte und dann öffentlichkeitswirksam verließ.
 
 ## Historischer Kontext
-Das Cannes Lions Festival etablierte sich als globaler Benchmark für kreative Leistungen in der Werbebranche [ungesichert].
+In den 2000er Jahren erreichte der Wettbewerb um kreative Preise bei Festivals wie den Cannes Lions einen neuen Höhepunkt. Agenturen investierten Millionen in "Award-Architektur" – die strategische Einreichung von Arbeiten bei internationalen Festivals. Gleichzeitig veränderte die Digitalisierung die Branche fundamental. In diese Zeit fiel Kassaeis Aufstieg: Ein kreativer Hardliner, der traditionelle Werbung mit digitalem Denken verband [ungesichert] und DDB Germany zur internationalen Top-Adresse machte.
 
 ## Wichtige Details
-*   **Person:** Amir Kassaei (*1968 im Iran). Aufgewachsen in Österreich, studierte in Frankreich und zog 1997 nach Deutschland [2][10].
-*   **Agentur:** DDB Deutschland (Teil des Omnicom-Netzwerks) [ungesichert].
-*   **Positionen:** Chief Creative Officer DDB Germany [4]. Vice Chairman von [[DDB Worldwide]] (ab 2011) [ungesichert]. 2014-2017 Chief Strategy & Creative Officer der Dachagentur von Omnicom [1].
-*   **Cannes-Rekord:** Er war Juror bei Festivals wie den [[Cannes Lions — Geschichte des Werbefestival]] [4][8].
-*   **Wichtige Kampagnen:** Arbeitete für Kunden wie Volkswagen [ungesichert].
-*   **Stil & Methode:** Bekannt für seine kompromisslose Art und hohe intellektuelle Ansprüche [ungesichert]. Sein Führungsstil wurde sowohl verehrt als auch gefürchtet [3].
-*   **Weitere Stationen:** Seit 2024 ist er wieder als strategischer Berater für DDB tätig [ungesichert].
+*   **Person:** Amir Kassaeis Lebensweg ist außergewöhnlich: 1968 im Iran geboren, musste er als Jugendlicher während des Ersten Golfkriegs Minen räumen [5]. Nach der Flucht wuchs er in Österreich auf, studierte in Frankreich und kam 1997 nach Deutschland – eine Biografie, die ihn zum Grenzgitter zwischen Kulturen prädestinierte [1][10].
+
+*   **Agentur:** DDB Deutschland war Teil des Omnicom-Netzwerks [ungesichert] und wurde unter Kassaeis Führung zur kreativen Machtzentrale. Die Agentur gewann unter seiner Ägide zahlreiche internationale Auszeichnungen [ungesichert].
+
+*   **Positionen:** Kassaeis Karriere bei DDB war eine steile Treppe: Nach Stationen als Account Manager und Strategic Planner [1] wurde er Chief Creative Officer von DDB Germany [4], später Vice Chairman von [[DDB Worldwide]] [ungesichert] und schließlich 2014-2017 Chief Strategy & Creative Officer der Dachagentur von Omnicom [1].
+
+*   **Cannes-Rekord:** Kassaei war nicht nur erfolgreicher Einreicher, sondern auch ein gefragter Juror bei Festivals wie den [[Cannes Lions — Geschichte des Werbefestivals]] [4][8]. Sein Urteil galt als besonders scharf und unbestechlich [ungesichert].
+
+*   **Wichtige Kampagnen:** Die Quellenlage zu konkreten Kampagnen ist dünn – [ungesichert]. Bekannt ist, dass er für Großkunden wie Volkswagen arbeitete [ungesichert] und Kampagnen entwickelte, die sowohl kommerziell erfolgreich als preisgekrönt waren [ungesichert].
+
+*   **Stil & Methode:** Kassaei wurde bekannt für seine intellektuell anspruchsvolle Herangehensweise und kompromisslose Art [ungesichert]. Sein Führungsstil polarisierte: Er wurde sowohl verehrt als auch gefürchtet [3]. Sein Manifest "Digital Thinking" wurde an Werbehochschulen wie der Miami Ad School gelehrt [2].
+
+*   **Weitere Stationen:** 2020 verließ er überraschend die Branche mit der Begründung, sie habe sich "selbst abgeschafft" [6]. Seit 2024 ist er wieder als strategischer Berater für DDB tätig [ungesichert].
 
 ## Bedeutung & Einfluss
-Kassaei hatte Einfluss auf die internationale Kreativszene [ungesichert]. Er war eine bekannte Figur der Branche, dessen öffentliche Auftritte und pointierte Aussagen Beachtung fanden [3].
+Kassaei prägte eine ganze Generation von Kreativen in Deutschland und international [ungesichert]. Sein Einfluss ging über reine Werbestrategie hinaus: Als Professor an der Salzburg University of Applied Sciences [2] und Speaker bei der Berlin School of Creative Leadership formte er den Nachwuchs. Sein öffentlicher Abgang 2020 und die scharfe Kritik an der "Advertising Bubble" [3] lösten eine Branchendebte aus. Kassaei bewies, dass Werbung nicht nur Handwerk, sondern intellektuelle Auseinandersetzung sein kann [ungesichert].
 
 ## Verbindungen
-Seine Arbeit war verbunden mit Kunden wie Volkswagen [ungesichert]. Er stand in kreativem Wettstreit mit anderen internationalen Agenturchefs [ungesichert].
+Seine Arbeit war eng mit Großkunden wie Volkswagen verbunden [ungesichert]. Als globaler Chief Brand Officer für Volkswagen bei Omnicom [3] verband er Agentur- und Kundenseite auf ungewöhnliche Weise. Er stand im kreativen Wettstreit mit anderen internationalen Agenturchefs wie [[David Droga]] oder [[Jean-Marie Dru]] [ungesichert] und wurde Teil des globalen Creative-Leaders-Zirkels.
 
 ## Bildmaterial-Hinweise
-*   **Porträts:** Zahlreiche Porträtfotos von Kassaei [ungesichert].
-*   **Büroumgebung:** Bilder aus den DDB-Büros [ungesichert].
-*   **Preisverleihungen:** Fotos von der Bühne der [[Cannes Lions — Geschichte des Werbefestivals]] [ungesichert].
-*   **Kampagnenbilder:** Abbildungen der von ihm verantworteten Anzeigen [ungesichert].
+*   **Porträts:** Zahlreiche Porträtfotos zeigen Kassaeis markantes Auftreten – oft mit intensivem Blick und charakteristischer Brille [ungesichert]
+*   **Büroumgebung:** Bilder aus den DDB-Büros in Berlin oder Düsseldorf zeigen ihn im kreativen Element [ungesichert]
+*   **Preisverleihungen:** Fotos von der Bühne der [[Cannes Lions — Geschichte des Werbefestivals]], wo er Preise entgegennahm oder Jurydiskussionen leitete [ungesichert]
+*   **Kampagnenbilder:** Abbildungen der von ihm verantworteten Anzeigenkampagnen [ungesichert]

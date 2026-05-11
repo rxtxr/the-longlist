@@ -5,13 +5,11 @@ id: chanel
 last_updated: '2026-05-11'
 related: []
 sources:
-- Chanel No. 5 - Wikipedia
-- Chanel – Wikipedia (deutsch)
-- Chanel - Wikipedia (englisch)
-- No. 5 the Film - Wikipedia
-- 'Chanel’s approach to marketing: Then and now - hashtagpaid.com'
-- 'Champions of Design: Chanel No 5 - CampaignRatings'
-- The Campaign that Saved Chanel | Via U! Photography
+- Chanel No. 5 Wikipedia (Gründung 1921, Ernest Beaux)
+- Chanel Wikipedia (Gründung 1910, Karl Lagerfeld ab 1983)
+- Hashtagpaid.com (historischer Kontext, Marketingansatz)
+- No. 5 The Film Wikipedia (Kampagne mit Nicole Kidman)
+- 'Campaign Magazine (Champions of Design: Chanel No 5)'
 tags:
 - luxury
 - fashion

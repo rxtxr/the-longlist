@@ -25,7 +25,7 @@ wave: 7
 
 UNZUREICHENDE QUELLEN
 
-Hinweis: Die bereitgestellten Quellen decken nur wenige spezifische Werbekampagnen und Daten ab, bieten aber keine ausreichende Grundlage für eine umfassende Überarbeitung des gesamten Artikels. Für eine faktisch korrekte Überarbeitung wären zusätzliche Quellen zu folgenden Punkten notwendig:
+Hinweis: Die bereitgestehenden Quellen decken nur wenige spezifische Werbekampagnen und Daten ab, bieten aber keine ausreichende Grundlage für eine umfassende Überarbeitung des gesamten Artikels. Für eine faktisch korrekte Überarbeitung wären zusätzliche Quellen zu folgenden Punkten notwendig:
 - Gründungsgeschichte der Marke
 - Entwicklung der Werbestrategien
 - Rolle verschiedener Werbeagenturen

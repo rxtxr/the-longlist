@@ -27,9 +27,13 @@ UNZUREICHENDE QUELLEN
 
 Die vorhandenen Quellen liefern zwar grundlegende Informationen zu Rosser Reeves, seinem Werdegang und seinem Einfluss auf die Werbebranche, sind jedoch für eine vollständige Überarbeitung des Artikels nach den strengen Faktenprüfungsregeln nicht ausreichend. Insbesondere fehlen Quellen, die folgende Punkte eindeutig belegen:
 
-*   Den historischen Kontext des wirtschaftlichen Aufschwungs und der Konsumkultur in den 1940/50er Jahren spezifisch in Bezug auf die Werbebranche.
+*   Den historischen Kontext des wirtschaftlichen Aufschwungs und der Konsumkultur in den 1940er/50er Jahren spezifisch in Bezug auf die Werbebranche.
 *   Seine genaue Rolle als "Creative Director" bei Ted Bates & Company.
 *   Den konkreten Einfluss seines USP-Konzepts auf andere Werbeagenturen und -fachleute.
 *   Die genauen Details zur Verfügbarkeit von historischem Bildmaterial.
 
 Eine Neufassung des Artikels, die sich streng auf die belegbaren Fakten beschränkt, wäre extrem kurz und würde die meisten Abschnitte nicht adäquat abdecken können. Für eine fundierte Überarbeitung wären zusätzliche, spezifischere Quellen erforderlich.
+
+```json
+{"belegt": ["Quelle 1", "Quelle 2", "Quelle 3", "Quelle 4", "Quelle 5", "Quelle 6", "Quelle 7", "Quelle 8", "Quelle 9", "Quelle 10"], "ungesichert": ["Historischer Kontext der 1940er/50er Jahre", "Rolle als Creative Director", "Einfluss auf andere Agenturen", "Verfügbarkeit von Bildmaterial"]}
+```

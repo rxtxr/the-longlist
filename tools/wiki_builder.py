@@ -386,34 +386,59 @@ h1 {
 .sources-panel li:last-child { border-bottom: none; }
 .sources-panel li::before { content: '↳ '; color: var(--text3); }
 
-/* ─── Image gallery ─── */
-.img-gallery {
+/* ─── Media gallery (images + videos) ─── */
+.media-gallery {
   display: flex; flex-wrap: wrap; gap: 12px;
   margin: 0 0 28px 0;
 }
-.img-gallery figure {
+.media-gallery figure {
   margin: 0; flex: 0 0 auto; max-width: 220px;
   background: var(--bg2); border-radius: 4px;
   border: 1px solid var(--border);
   overflow: hidden;
 }
-.img-gallery figure img {
+.media-gallery figure img {
   display: block; width: 100%; height: 140px;
   object-fit: cover;
   outline: 1px solid rgba(0,0,0,0.1);
 }
-.img-gallery figcaption {
+.media-gallery figure.video-item { max-width: 280px; }
+.media-gallery figure.video-item .video-wrap {
+  position: relative; width: 100%; padding-top: 56.25%;
+  background: #000;
+}
+.media-gallery figure.video-item .video-wrap iframe {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  border: none;
+}
+.media-gallery figure.video-item .video-thumb {
+  position: relative; display: block; cursor: pointer;
+}
+.media-gallery figure.video-item .video-thumb img {
+  height: 157px; object-fit: cover;
+}
+.media-gallery figure.video-item .play-btn {
+  position: absolute; top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 44px; height: 44px; border-radius: 50%;
+  background: rgba(0,0,0,0.65);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 18px; color: #fff; pointer-events: none;
+}
+.media-gallery figcaption {
   padding: 7px 9px;
   font-family: var(--font-sans); font-size: 10.5px;
   color: var(--text2); line-height: 1.4;
 }
-.img-gallery figcaption .img-caption { display: block; margin-bottom: 3px; color: var(--text); }
-.img-gallery figcaption .img-credit { display: block; color: var(--text3); font-size: 10px; }
-.img-gallery figcaption .img-copyright-unknown {
+.media-gallery figcaption .img-caption { display: block; margin-bottom: 3px; color: var(--text); }
+.media-gallery figcaption .img-credit { display: block; color: var(--text3); font-size: 10px; }
+.media-gallery figcaption .img-copyright-unknown {
   display: inline-block; margin-top: 2px;
   color: #c8a050; font-size: 9.5px; font-weight: 600;
   background: rgba(200,160,60,0.08); padding: 1px 5px; border-radius: 3px;
 }
+/* Legacy alias */
+.img-gallery { display: flex; flex-wrap: wrap; gap: 12px; margin: 0 0 28px 0; }
 
 /* ─── Related / relation panel ─── */
 .related-panel {
@@ -1211,30 +1236,33 @@ class WikiBuilder:
         return f'<div class="meta-badges">{"".join(badges)}</div>' if badges else ""
 
     def _image_gallery_html(self, images: list) -> str:
-        if not images:
+        """Legacy wrapper — delegates to _media_gallery_html."""
+        return self._media_gallery_html(images)
+
+    def _media_gallery_html(self, media: list) -> str:
+        if not media:
             return ""
         figs = []
-        for img in images:
-            thumb = img.get("thumb_url") or img.get("url", "")
-            if not thumb:
-                continue
-            caption = img.get("caption", "")
-            license_str = img.get("license", "")
-            artist = img.get("artist", "")
-            source = img.get("source", "")
-            status = img.get("copyright_status", "unknown")
+        for item in media:
+            media_type = item.get("type", "image")
+            caption    = item.get("caption", "")
+            license_str = item.get("license", "")
+            artist      = item.get("artist", "")
+            source_url  = item.get("source_url") or item.get("source", "")
+            source_label = item.get("source_label", "Quelle")
+            status      = item.get("copyright_status", "unknown")
 
             credit_parts = []
-            if artist and artist != "unbekannt":
+            if artist and artist not in ("unbekannt", ""):
                 credit_parts.append(artist)
-            if license_str and license_str != "© unbekannt":
+            if license_str and license_str not in ("© unbekannt", "YouTube Standard License", ""):
                 credit_parts.append(license_str)
             credit_line = " · ".join(credit_parts) if credit_parts else ""
 
             source_link = (
-                f' <a href="{source}" target="_blank" rel="noopener" '
-                f'style="color:var(--link);text-decoration:none;">↗ Commons</a>'
-                if source else ""
+                f' <a href="{source_url}" target="_blank" rel="noopener" '
+                f'style="color:var(--link);text-decoration:none;">↗ {source_label}</a>'
+                if source_url else ""
             )
 
             unknown_badge = (
@@ -1242,19 +1270,44 @@ class WikiBuilder:
                 if status == "unknown" else ""
             )
 
-            figs.append(
-                f'<figure>'
-                f'<img src="{thumb}" alt="{caption}" loading="lazy">'
-                f'<figcaption>'
-                f'<span class="img-caption">{caption}</span>'
-                f'<span class="img-credit">{credit_line}{source_link}</span>'
-                f'{unknown_badge}'
-                f'</figcaption>'
-                f'</figure>'
-            )
+            if media_type == "video":
+                vid_id   = item.get("video_id", "")
+                embed    = item.get("embed_url", "")
+                thumb    = item.get("thumb_url", "")
+                duration = item.get("duration", "")
+                dur_badge = f' <span style="color:var(--text3)">({duration})</span>' if duration else ""
+                figs.append(
+                    f'<figure class="video-item">'
+                    f'<div class="video-wrap">'
+                    f'<iframe src="{embed}?rel=0&modestbranding=1" '
+                    f'title="{caption}" allow="accelerometer; autoplay; clipboard-write; '
+                    f'encrypted-media; gyroscope; picture-in-picture" allowfullscreen '
+                    f'loading="lazy"></iframe>'
+                    f'</div>'
+                    f'<figcaption>'
+                    f'<span class="img-caption">{caption}{dur_badge}</span>'
+                    f'<span class="img-credit">{source_link}</span>'
+                    f'</figcaption>'
+                    f'</figure>'
+                )
+            else:
+                thumb = item.get("thumb_url") or item.get("url", "")
+                if not thumb:
+                    continue
+                figs.append(
+                    f'<figure>'
+                    f'<img src="{thumb}" alt="{caption}" loading="lazy">'
+                    f'<figcaption>'
+                    f'<span class="img-caption">{caption}</span>'
+                    f'<span class="img-credit">{credit_line}{source_link}</span>'
+                    f'{unknown_badge}'
+                    f'</figcaption>'
+                    f'</figure>'
+                )
+
         if not figs:
             return ""
-        return f'<div class="img-gallery">{"".join(figs)}</div>'
+        return f'<div class="media-gallery">{"".join(figs)}</div>'
 
     def _build_title_index(self, entries_map: Dict) -> Dict:
         """Returns dict: lookup_key (lowercase) → (cat, fname, full_title)"""

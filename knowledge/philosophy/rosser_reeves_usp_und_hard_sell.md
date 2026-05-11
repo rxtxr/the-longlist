@@ -8,9 +8,9 @@ sources:
 - 'Wikipedia: Rosser Reeves'
 - 'Wikipedia: Ted Bates (executive)'
 - 'Wikipedia: Anacin'
-- 'Ad Age: Reeves, Rosser (1910-1984)'
+- 'Ad Age: Rosser Reeves (1910-1984)'
 - 'Campaign Magazine: History of advertising: No 120'
-- 'Ad Age: Rosser Reeves'
+- 'Ad Age: Rosser Reeves - Special Report'
 - 'Adweek: I Am Legend: Rosser Reeves'
 tags:
 - USP
@@ -32,7 +32,7 @@ In den 1950er Jahren entwickelte sich das Fernsehen zu einem bedeutenden Werbeme
 
 ## Wichtige Details  
 - Rosser Reeves war bei Ted Bates & Company tätig und stieg dort zum Chairman auf (laut Wikipedia)[1][2].  
-- Er wird als Erfinder der [[Unique Selling Proposition (USP)]] bezeichnet, die er in seinem Buch *Reality in Advertising* popularisierte (nach Campaign Magazine und Ad Age)[2][6].  
+- Er wird als Erfinder der Unique Selling Proposition (USP) bezeichnet, die er in seinem Buch *Reality in Advertising* popularisierte (nach Campaign Magazine und Ad Age)[2][6].  
 - Bekannte Kampagnen unter Reeves:  
   - M&M's: „Melts in your mouth, not in your hand“ (laut Wikipedia)[1][2].  
   - Anacin: Wiederholte TV-Spots mit dem Slogan „Fast, fast, fast relief!“ (nach Ad Age)[3][8].  
@@ -50,4 +50,4 @@ M&M's – erfolgreiche USP-Kampagne unter Reeves[1][2]
 Reality in Advertising – Buch von Reeves[2][6]  
 
 ## Bildmaterial-Hinweise  
-Schwarz-Weiß-TV-Spots von Reeves’ Kampagnen (z. B. Anacin, M&M’s) könnten in Archiven verfügbar sein[ungesichert]. Druckanzeigen aus den 1950er/60er Jahren zeigen oft textlastige Layouts[ungesichert]. Fotos von [[Rosser Reeves — USP und Hard Sell]] zeigen ihn meist im Anzug[ungesichert].
+Schwarz-Weiß-TV-Spots von Reeves’ Kampagnen (z. B. Anacin, M&M’s) könnten in Archiven verfügbar sein[ungesichert]. Druckanzeigen aus den 1950er/60er Jahren zeigen oft textlastige Layouts[ungesichert]. Fotos von Rosser Reeves zeigen ihn meist im Anzug[ungesichert].

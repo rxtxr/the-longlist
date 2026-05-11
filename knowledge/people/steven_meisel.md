@@ -1,10 +1,21 @@
 ---
-confidence: high
+confidence: medium
 era: 1980-2010
 id: steven_meisel
-last_updated: '2026-05-10'
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- 'Geburtsdatum und -ort: [1][3][9][10]'
+- 'Frühes Interesse an Modezeichnungen: [9][10]'
+- 'Wechsel zur Fotografie: [1]'
+- 'Hauptfotograf für Vogue Italia seit 1988: [4]'
+- 'Arbeit für Vogue US: [1][3]'
+- 'Fotografie für Madonnas ''Sex''-Buch: [1][3]'
+- 'Zusammenarbeit mit Lancôme: [2]'
+- 'Zusammenarbeit mit Dolce & Gabbana: [8]'
+- 'Zusammenarbeit mit Zara: [7]'
+- 'Einer der führenden lebenden Modefotografen: [4]'
+- 'Prägung des visuellen Erscheinungsbildes der Vogue: [1]'
 tags:
 - fashion-photography
 - vogue
@@ -16,30 +27,27 @@ wave: 13
 ---
 
 ## Überblick
-Steven Meisel ist einer der einflussreichsten und produktivsten Modefotografen seiner Generation. Er prägte über Jahrzehnte das visuelle Erscheinungsbild der Vogue und revolutionierte die Modefotografie durch seinen erzählerischen, oft provokativen Stil.
+Steven Meisel ist ein amerikanischer Modefotograf, der durch seine Arbeit für Vogue Italia und Vogue US bekannt wurde. Er fotografierte Madonnas Buch "Sex" aus dem Jahr 1992.[1][3]
 
 ## Historischer Kontext
-Meisels Karriere begann in den späten 1970er Jahren und erreichte ihren Höhepunkt in den konsumorientierten, mediengeprägten 1980er und 1990er Jahren. In dieser Ära, die von der [[Kreativ-Revolution]] der Werbung und dem Aufstieg des Supermodels geprägt war, verschwammen die Grenzen zwischen Kunst, Kommerz und Celebrity-Kultur zunehmend. Wirtschaftlich fiel seine Blütezeit mit der Hochkonjunktur der Luxusmodebranche und dem Boom großer Verlagshäuser zusammen.
+Meisels Karriere erreichte ihren Höhepunkt in den 1980er und 1990er Jahren [ungesichert].
 
 ## Wichtige Details
-*   **Geboren:** 5. Juni 1954 in New York City, USA.
-*   **Frühe Karriere:** Begann als Illustrator, bevor er zur Fotografie wechselte. Seine erste professionelle Aufnahme war ein Cover für *[[Vogue (Magazin)]]* im Dezember 1980.
-*   **Haupttätigkeit:** Primärfotograf für die amerikanische und italienische Ausgabe der *Vogue* unter der Chefredakteurin [[Anna Wintour]] (US) und [[Franca Sozzani]] (IT).
+*   **Geboren:** 5. Juni 1954 in New York City, USA.[1][3][9][10]
+*   **Frühe Karriere:** Schon als Kind interessierte er sich stark für Mode und zeichnete Frauen nach Vorlagen aus Zeitschriften wie Vogue und Harper's Bazaar.[9][10] Er wechselte später zur Fotografie.[1]
+*   **Haupttätigkeit:** Hauptfotograf für die italienische Ausgabe der Vogue, für die er seit 1988 sämtliche Cover fotografiert.[4] Er arbeitete auch für die amerikanische Vogue.[1][3]
 *   **Schlüsselprojekte:**
-    *   Fotografierte Madonna für ihr umstrittenes Buch "Sex" (1992) und die dazugehörige Werbekampagne.
-    *   Die ikonische "Glamour"-Ausgabe der US-Vogue (November 1993) mit [[Naomi Campbell]], [[Linda Evangelista]], [[Christy Turlington]] und [[Cindy Crawford]] auf dem Cover.
-    *   Schuf die umfassende und einflussreiche "Supermodel"-Kampagne für [[Revlon]] (ca. 1985–1995).
-    *   Längste Zusammenarbeit mit einer Marke: Arbeitete seit über 30 Jahren für [[Max Mara]], beginnend mit einer Anzeige für die Unterlinie iBlues im Magazin *Lei* (ca. Anfang der 1990er).
-*   **Arbeitsweise:** Bekannt für seine intensive, fast filmische Vorbereitung, perfekte Inszenierung und die Entdeckung und Förderung neuer Models.
+    *   Fotografierte Madonna für ihr Buch "Sex" (1992).[1][3]
+    *   Arbeitete für Werbekampagnen von Marken wie Lancôme[2], Dolce & Gabbana[8] und Zara[7].
+*   **Arbeitsweise:** Bekannt für die Entdeckung und Förderung neuer Models [ungesichert].
 
 ## Bedeutung & Einfluss
-Meisel definierte das ästhetische Vokabular der Hochglanz-Modemagazine neu und hob Modefotografie auf das Niveau der Kunst. Sein Stil war oft provokant und gesellschaftskritisch (z.B. seine "Makeover"-Stories in Vogue Italia), was die Grenzen des Genres erweiterte. Er war maßgeblich am Aufbau der "Supermodel"-Ära beteiligt und machte Models zu globalen Stars. Seine Arbeiten für Werbekunden wie [[Revlon]], [[Calvin Klein]] und [[Prada]] setzten kommerzielle Standards und waren stilbildend für eine ganze Branche.
+Meisel gilt als einer der führenden lebenden Modefotografen[4] und hat das visuelle Erscheinungsbild der Vogue mitgeprägt.[1] Sein Stil war oft provokant und erweiterte die Grenzen der Modefotografie [ungesichert]. Er war maßgeblich am Aufbau der "Supermodel"-Ära beteiligt [ungesichert].
 
 ## Verbindungen
-Meisel arbeitete eng mit den einflussreichsten Persönlichkeiten der Modebranche zusammen, darunter die Models [[Naomi Campbell]], [[Linda Evangelista]] und [[Kate Moss]], die Designer [[Gianni Versace]] und [[Miuccia Prada]], sowie die Magazinmacherinnen [[Anna Wintour]] (Vogue US) und [[Franca Sozzani]] (Vogue Italia). Seine Werbekampagnen prägten Marken wie [[Revlon]], [[Calvin Klein]] und [[Max Mara]].
+Meisel arbeitete mit zahlreichen bekannten Models und Marken zusammen, darunter Madonna[1][3], Lancôme[2], Dolce & Gabbana[8] und Zara[7]. Seine enge Zusammenarbeit mit Anna Wintour (Vogue US) und Franca Sozzani (Vogue Italia) ist nicht direkt durch die vorliegenden Quellen belegt [ungesichert].
 
 ## Bildmaterial-Hinweise
-*   Zahlreiche Cover und Editorial-Spreads für *Vogue US* und *Vogue Italia* (1980er–2010er).
-*   Fotografien aus dem Buch "Sex" von Madonna (1992).
-*   Werbekampagnen für Revlon ("Die unvergesslichen Frauen", 1985–1995), Calvin Klein, Prada und [[Versace]].
-*   Porträtfotos von Meisel bei der Arbeit im Studio, oft mit einem Großformatfilm- oder [[Polaroid]]-Kamera.
+*   Fotografien aus dem Buch "Sex" von Madonna (1992)[1][3]
+*   Werbekampagnen für Lancôme[2], Dolce & Gabbana[8] und Zara[7]
+*   Cover und Editorial-Spreads für Vogue Italia (seit 1988)[4]
