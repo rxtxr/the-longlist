@@ -2,9 +2,36 @@
 confidence: high
 era: 2005-2024
 id: michael_roth
-last_updated: '2026-05-10'
+images:
+- artist: G20Voice
+  caption: Michael Froman answers G20 Voice bloggers’ questions
+  copyright_status: clear_cc
+  height: 383
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/36049726@N04/3954509720
+  thumb_url: https://api.openverse.org/v1/images/ac650031-39f7-4e6f-b887-cf3a5489d35a/thumb/
+  type: image
+  url: https://live.staticflickr.com/2559/3954509720_6ae675e6dd.jpg
+  width: 500
+- artist: ''
+  caption: Michael Roth and Diego Scotti On The Best Use of Verizon’s Ad Budget
+  copyright_status: youtube
+  duration: '2:30'
+  embed_url: https://www.youtube-nocookie.com/embed/Qbj12RcsJds
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=Qbj12RcsJds
+  thumb_url: https://img.youtube.com/vi/Qbj12RcsJds/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=Qbj12RcsJds
+  video_id: Qbj12RcsJds
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- 'Business Insider: The 3 Most Powerful Men in Advertising'
+- 'CampaignLive: Michael Roth IPG will not ''do a Havas'''
 tags:
 - CEO
 - Holding

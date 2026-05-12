@@ -2,6 +2,45 @@
 confidence: low
 era: 1960-1970
 id: don_draper
+images:
+- artist: Eric Draper
+  caption: APEC leaders don brown Drizabone coats as they pose for the official APEC
+    portrait Saturday, Sept. 8, 2007, at the Sydney Opera House. White House pho
+  copyright_status: public_domain
+  height: 341
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAPEC%20Australia%202007%20leaders.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/APEC_Australia_2007_leaders.jpg/500px-APEC_Australia_2007_leaders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2b/APEC_Australia_2007_leaders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 514
+- artist: 'Draper, A. S. (Andrew Sloan), 1848-1913
+
+    New York (State) Education dept. [from old catalog]'
+  caption: 'Subjects: Education'
+  copyright_status: public_domain
+  height: 1300
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAddresses%20by%20Andrew%20S.%20Draper%20..%20%28IA%20addressesbyandre00drap%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Addresses_by_Andrew_S._Draper_.._%28IA_addressesbyandre00drap%29.pdf/page1-500px-Addresses_by_Andrew_S._Draper_.._%28IA_addressesbyandre00drap%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7d/Addresses_by_Andrew_S._Draper_.._%28IA_addressesbyandre00drap%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 785
+- artist: ''
+  caption: Jon Hamm discusses Don Draper's dark side and the Coke ad - EMMYTVLEGENDS.ORG
+  copyright_status: youtube
+  duration: '3:57'
+  embed_url: https://www.youtube-nocookie.com/embed/tkDobBLRcjM
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=tkDobBLRcjM
+  thumb_url: https://img.youtube.com/vi/tkDobBLRcjM/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=tkDobBLRcjM
+  video_id: tkDobBLRcjM
 last_updated: '2026-05-11'
 related: []
 sources:

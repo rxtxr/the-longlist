@@ -2,6 +2,30 @@
 confidence: high
 era: 1986-2010
 id: initiative_media
+images:
+- artist: GovernmentZA
+  caption: Initiation media briefing, 2 Jun 2016
+  copyright_status: clear_cc
+  height: 682
+  license: CC BY-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/90122870@N03/27343584761
+  thumb_url: https://api.openverse.org/v1/images/183237f5-d70d-4741-94dc-9521ca3910d8/thumb/
+  type: image
+  url: https://live.staticflickr.com/7728/27343584761_5e7f0f5a72_b.jpg
+  width: 1024
+- artist: UN Women Gallery
+  caption: GA71 - Executive Director speaks at the African Leadership Initiative Media
+    Fellows Event
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/51431730@N04/31127107644
+  thumb_url: https://api.openverse.org/v1/images/f0e5f22f-897d-4f34-b470-c84791f4d903/thumb/
+  type: image
+  url: https://live.staticflickr.com/511/31127107644_62f0eb7cb4_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

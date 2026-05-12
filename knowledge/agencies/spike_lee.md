@@ -2,6 +2,20 @@
 confidence: medium
 era: 1997-2007
 id: spike_lee
+images:
+- artist: ''
+  caption: What Filmmakers Need To Know About Financing Movies by Spike Lee
+  copyright_status: youtube
+  duration: '4:02'
+  embed_url: https://www.youtube-nocookie.com/embed/8Am2Sl96Odg
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=8Am2Sl96Odg
+  thumb_url: https://img.youtube.com/vi/8Am2Sl96Odg/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=8Am2Sl96Odg
+  video_id: 8Am2Sl96Odg
 last_updated: '2026-05-11'
 related: []
 sources:

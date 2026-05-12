@@ -3,34 +3,31 @@ confidence: medium
 era: 1926-present
 id: publicis_worldwide
 images:
-- artist: Tangopaso
-  caption: Drugstore Publicis seen from the avenue Marceau. Paris 8th arrond.
-  copyright_status: public_domain
-  height: 2816
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3ADrugstore%20Publicis%20vu%20depuis%20l%27avenue%20Marceau%201.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Drugstore_Publicis_vu_depuis_l%27avenue_Marceau_1.jpg/500px-Drugstore_Publicis_vu_depuis_l%27avenue_Marceau_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/7/76/Drugstore_Publicis_vu_depuis_l%27avenue_Marceau_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2112
-- artist: Tangopaso
-  caption: Drugstore Publicis seen from the avenue Marceau. Paris 8th arrond.
-  copyright_status: public_domain
-  height: 2112
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3ADrugstore%20Publicis%20vu%20depuis%20l%27avenue%20Marceau%202.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Drugstore_Publicis_vu_depuis_l%27avenue_Marceau_2.jpg/500px-Drugstore_Publicis_vu_depuis_l%27avenue_Marceau_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/6/61/Drugstore_Publicis_vu_depuis_l%27avenue_Marceau_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2816
-- artist: Leticia Fujikawa
-  caption: Publicitário Hugo Rodrigues em seu escritório na agência Publicis Brasil,
-    localizada em São Paulo. Na época da foto, em 2017, Hugo era CEO da Publicis
+- artist: sitemarca
+  caption: Pablo Glaser, vicepresidente de Publicis Group en Latinoamérica
   copyright_status: clear_cc
-  height: 1024
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AHugo%20Rodrigues%20na%20Publicis%20Brasil%2C%20S%C3%A3o%20Paulo%2C%20em%202017.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hugo_Rodrigues_na_Publicis_Brasil%2C_S%C3%A3o_Paulo%2C_em_2017.jpg/500px-Hugo_Rodrigues_na_Publicis_Brasil%2C_S%C3%A3o_Paulo%2C_em_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1d/Hugo_Rodrigues_na_Publicis_Brasil%2C_S%C3%A3o_Paulo%2C_em_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 768
+  height: 683
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/20911561@N07/2380829674
+  thumb_url: https://api.openverse.org/v1/images/3d7bd7b4-11ad-4fd2-acdd-0fb1d31306cc/thumb/
+  type: image
+  url: https://live.staticflickr.com/2119/2380829674_220cc3f59e_b.jpg
+  width: 1024
+- artist: ''
+  caption: "\U0001F680 The Big Six Ad Agencies: How WPP, Publicis & More Dominate
+    Advertising! \U0001F4A1- WPP, Dentsu & Publicis"
+  copyright_status: youtube
+  duration: '23:25'
+  embed_url: https://www.youtube-nocookie.com/embed/V2eS0OpTDl4
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=V2eS0OpTDl4
+  thumb_url: https://img.youtube.com/vi/V2eS0OpTDl4/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=V2eS0OpTDl4
+  video_id: V2eS0OpTDl4
 last_updated: '2026-05-11'
 related: []
 sources:

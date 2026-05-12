@@ -2,6 +2,42 @@
 confidence: low
 era: 1950-1987
 id: andy_warhol
+images:
+- artist: Gandalf's Gallery
+  caption: Andy Warhol - Portrait of Ingrid Bergman
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/45482849@N03/7147774957
+  thumb_url: https://api.openverse.org/v1/images/15fd0d7f-57e3-450b-a54f-2ad0c4436a24/thumb/
+  type: image
+  url: https://live.staticflickr.com/8025/7147774957_d1af50fbc9_b.jpg
+  width: 1017
+- artist: DarklyDreamingDavis
+  caption: Scarlett Johansson Andy Warhol Portrait
+  copyright_status: clear_cc
+  height: 640
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/83693703@N08/7657027942
+  thumb_url: https://api.openverse.org/v1/images/6c83b4ac-5a2a-4b20-994c-8335d226eaa8/thumb/
+  type: image
+  url: https://live.staticflickr.com/8017/7657027942_3eb5e9160d_b.jpg
+  width: 1024
+- artist: ''
+  caption: '1986: Andy Warhol Interview'
+  copyright_status: youtube
+  duration: '3:49'
+  embed_url: https://www.youtube-nocookie.com/embed/xMpJswC4QXM
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=xMpJswC4QXM
+  thumb_url: https://img.youtube.com/vi/xMpJswC4QXM/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=xMpJswC4QXM
+  video_id: xMpJswC4QXM
 last_updated: '2026-05-11'
 related: []
 sources:

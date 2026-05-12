@@ -2,6 +2,43 @@
 confidence: high
 era: 1967-1978
 id: birds_eye
+images:
+- artist: Latente 囧 www.latente.it
+  caption: '[wee planets] Bird Eye test 2'
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/33423611@N00/2263937412
+  thumb_url: https://api.openverse.org/v1/images/8771c192-5ee5-4fc8-8ee5-2b0b49822a41/thumb/
+  type: image
+  url: https://live.staticflickr.com/2033/2263937412_b29d440c07_b.jpg
+  width: 1024
+- artist: SF Brit
+  caption: Grace Cathedral - A Birds Eye View
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/86135961@N00/3173439502
+  thumb_url: https://api.openverse.org/v1/images/551cb888-b6f4-439f-84a7-d65914750989/thumb/
+  type: image
+  url: https://live.staticflickr.com/3336/3173439502_0dfa5ce912_b.jpg
+  width: 1024
+- artist: ''
+  caption: 'Jon Danzig directs: ''The Birds Eye Walls Story'' - how we made our staff
+    world class'
+  copyright_status: youtube
+  duration: '2:33'
+  embed_url: https://www.youtube-nocookie.com/embed/B7wDtJelc14
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=B7wDtJelc14
+  thumb_url: https://img.youtube.com/vi/B7wDtJelc14/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=B7wDtJelc14
+  video_id: B7wDtJelc14
 last_updated: '2026-05-11'
 related: []
 sources:

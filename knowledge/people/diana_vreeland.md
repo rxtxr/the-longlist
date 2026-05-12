@@ -2,6 +2,20 @@
 confidence: high
 era: 1936-1989
 id: diana_vreeland
+images:
+- artist: ''
+  caption: Diana Vreeland in 1977
+  copyright_status: youtube
+  duration: '7:58'
+  embed_url: https://www.youtube-nocookie.com/embed/SUqtF-a23Js
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=SUqtF-a23Js
+  thumb_url: https://img.youtube.com/vi/SUqtF-a23Js/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=SUqtF-a23Js
+  video_id: SUqtF-a23Js
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,29 @@
 confidence: low
 era: 1945-1990
 id: armin_hofmann
+images:
+- artist: Patuni1987
+  caption: File:Armin Hofmann 2.tiff
+  copyright_status: clear_cc
+  height: 4961
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=67105574
+  thumb_url: https://api.openverse.org/v1/images/1db30378-1cc7-4ea6-b417-3b09b385cb2a/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8f/Armin_Hofmann_2.tiff
+  width: 5306
+- artist: 80magazine
+  caption: emil ruder. armin hofmann
+  copyright_status: clear_cc
+  height: 361
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/81135242@N00/3814159695
+  thumb_url: https://api.openverse.org/v1/images/92731a81-f0ad-4ba3-bd97-24aca585a10b/thumb/
+  type: image
+  url: https://live.staticflickr.com/3562/3814159695_5c2fa71051.jpg
+  width: 500
 last_updated: '2026-05-11'
 related: []
 sources:

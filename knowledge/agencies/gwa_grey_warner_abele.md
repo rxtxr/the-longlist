@@ -2,6 +2,7 @@
 confidence: high
 era: 1956-2005
 id: gwa_grey_warner_abele
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

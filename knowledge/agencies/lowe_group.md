@@ -2,6 +2,42 @@
 confidence: high
 era: 1981-1990
 id: lowe_group
+images:
+- artist: renaissancechambara
+  caption: Advice for marketers, part of a postcard set that Mullen Lowe Group did
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39435232@N00/34401174382
+  thumb_url: https://api.openverse.org/v1/images/f09d3ba5-d507-4033-b9f5-873a1ea3a01f/thumb/
+  type: image
+  url: https://live.staticflickr.com/4162/34401174382_62bc688d0e_b.jpg
+  width: 678
+- artist: renaissancechambara
+  caption: Advice for marketers, part of a postcard set that Mullen Lowe Group did
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39435232@N00/33714702723
+  thumb_url: https://api.openverse.org/v1/images/e6676cce-a671-4cb2-9414-2565671e4469/thumb/
+  type: image
+  url: https://live.staticflickr.com/4180/33714702723_0ed18c6377_b.jpg
+  width: 819
+- artist: ''
+  caption: Lowe's - The Story of A Billion Dollar Empire
+  copyright_status: youtube
+  duration: '13:40'
+  embed_url: https://www.youtube-nocookie.com/embed/RIeB08sYOGw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=RIeB08sYOGw
+  thumb_url: https://img.youtube.com/vi/RIeB08sYOGw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=RIeB08sYOGw
+  video_id: RIeB08sYOGw
 last_updated: '2026-05-11'
 related: []
 sources:

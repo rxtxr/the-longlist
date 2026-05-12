@@ -2,6 +2,29 @@
 confidence: low
 era: 1940-1980
 id: kunstgewerbeschule_basel
+images:
+- artist: EinDao
+  caption: Ehemaliges Gewerbemuseum Basel, Fassade Petersgraben 52, Basel
+  copyright_status: clear_cc
+  height: 1800
+  license: CC BY-SA 3.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AGewerbemuseum%20Basel%2C%20Petersgraben%2C%20Basel%20%284%29%2C%202019.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gewerbemuseum_Basel%2C_Petersgraben%2C_Basel_%284%29%2C_2019.jpg/500px-Gewerbemuseum_Basel%2C_Petersgraben%2C_Basel_%284%29%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/55/Gewerbemuseum_Basel%2C_Petersgraben%2C_Basel_%284%29%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1350
+- artist: EinDao
+  caption: Ehemaliges Gewerbemuseum Basel, Petersgraben/Spalenvorstadt, Basel
+  copyright_status: clear_cc
+  height: 1800
+  license: CC BY-SA 3.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AGewerbemuseum%20Basel%2C%20Petersgraben%2C%20Basel%20%285%29%2C%202019.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gewerbemuseum_Basel%2C_Petersgraben%2C_Basel_%285%29%2C_2019.jpg/500px-Gewerbemuseum_Basel%2C_Petersgraben%2C_Basel_%285%29%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e6/Gewerbemuseum_Basel%2C_Petersgraben%2C_Basel_%285%29%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1350
 last_updated: '2026-05-11'
 related: []
 sources:

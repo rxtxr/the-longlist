@@ -2,6 +2,31 @@
 confidence: low
 era: 1960-1979
 id: benjamin_graham
+images:
+- artist: The Guise Archives
+  caption: Lindsay Lohan Wears Benjamin Eyewear 'Graham'
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/24281144@N02/3900979436
+  thumb_url: https://api.openverse.org/v1/images/a6bdac92-bb00-471f-acdf-be63e04e0962/thumb/
+  type: image
+  url: https://live.staticflickr.com/3461/3900979436_d69577431b_b.jpg
+  width: 677
+- artist: ''
+  caption: Benjamin Graham Quotes
+  copyright_status: youtube
+  duration: '5:29'
+  embed_url: https://www.youtube-nocookie.com/embed/xwX6XhVz9zU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=xwX6XhVz9zU
+  thumb_url: https://img.youtube.com/vi/xwX6XhVz9zU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=xwX6XhVz9zU
+  video_id: xwX6XhVz9zU
 last_updated: '2026-05-11'
 related: []
 sources:

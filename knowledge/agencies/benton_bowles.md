@@ -2,6 +2,31 @@
 confidence: low
 era: 1929-1985
 id: benton_bowles
+images:
+- artist: Scarab
+  caption: Benton Township High School yearbook from 1940.
+  copyright_status: public_domain
+  height: 1487
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3A1940%20BTHS%20Yearbook.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/1940_BTHS_Yearbook.pdf/page1-500px-1940_BTHS_Yearbook.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b4/1940_BTHS_Yearbook.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1083
+- artist: ''
+  caption: Masius (D'Arcy Masius Benton & Bowles)
+  copyright_status: youtube
+  duration: '3:13'
+  embed_url: https://www.youtube-nocookie.com/embed/z03lK7m0W28
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=z03lK7m0W28
+  thumb_url: https://img.youtube.com/vi/z03lK7m0W28/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=z03lK7m0W28
+  video_id: z03lK7m0W28
 last_updated: '2026-05-11'
 related: []
 sources:

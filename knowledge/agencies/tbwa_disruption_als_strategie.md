@@ -2,6 +2,42 @@
 confidence: low
 era: 1995-2010
 id: tbwa_disruption_als_strategie
+images:
+- artist: Mario Lira
+  caption: El Escritorio de Mario en TBWA
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/10282572@N07/2121516720
+  thumb_url: https://api.openverse.org/v1/images/f87a843b-5284-497f-b562-97ab504b521f/thumb/
+  type: image
+  url: https://live.staticflickr.com/2065/2121516720_c69e2f6ebf_b.jpg
+  width: 1024
+- artist: jm3
+  caption: TBWA \ Chiat \ Day \ OMD building
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/37996588780@N01/4821836069
+  thumb_url: https://api.openverse.org/v1/images/acba1eb8-7275-44aa-8e9a-a7404974d012/thumb/
+  type: image
+  url: https://live.staticflickr.com/4098/4821836069_65c530655c_b.jpg
+  width: 1024
+- artist: ''
+  caption: Forbes x TBWA - The Costs of Dysfunction with Emily Wilcox
+  copyright_status: youtube
+  duration: 0:58
+  embed_url: https://www.youtube-nocookie.com/embed/ZO3MN7D4PfU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ZO3MN7D4PfU
+  thumb_url: https://img.youtube.com/vi/ZO3MN7D4PfU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ZO3MN7D4PfU
+  video_id: ZO3MN7D4PfU
 last_updated: '2026-05-11'
 related: []
 sources:

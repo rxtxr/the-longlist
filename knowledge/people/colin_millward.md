@@ -2,6 +2,20 @@
 confidence: medium
 era: 1960-1980
 id: colin_millward
+images:
+- artist: ''
+  caption: 'NextUp Asia: Collin Millward (The Business Evaluation Centre)'
+  copyright_status: youtube
+  duration: '4:21'
+  embed_url: https://www.youtube-nocookie.com/embed/oGSlpCBErsA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=oGSlpCBErsA
+  thumb_url: https://img.youtube.com/vi/oGSlpCBErsA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=oGSlpCBErsA
+  video_id: oGSlpCBErsA
 last_updated: '2026-05-11'
 related: []
 sources:

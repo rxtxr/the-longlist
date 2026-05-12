@@ -2,6 +2,20 @@
 confidence: low
 era: 2000-2024
 id: just_eat_takeaway_com
+images:
+- artist: ''
+  caption: Just Eat's Mat Braddy on why the online takeaway business is taking off
+  copyright_status: youtube
+  duration: '11:59'
+  embed_url: https://www.youtube-nocookie.com/embed/M78Dwd2ELVg
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=M78Dwd2ELVg
+  thumb_url: https://img.youtube.com/vi/M78Dwd2ELVg/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=M78Dwd2ELVg
+  video_id: M78Dwd2ELVg
 last_updated: '2026-05-11'
 related: []
 sources:

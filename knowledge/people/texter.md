@@ -1,10 +1,27 @@
 ---
-confidence: high
+confidence: low
 era: 1880-2020
 id: texter
-last_updated: '2026-05-10'
+images:
+- artist: ''
+  caption: Was macht ein Texter? // Why Agencies?
+  copyright_status: youtube
+  duration: '6:50'
+  embed_url: https://www.youtube-nocookie.com/embed/leiyBLGGMmE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=leiyBLGGMmE
+  thumb_url: https://img.youtube.com/vi/leiyBLGGMmE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=leiyBLGGMmE
+  video_id: leiyBLGGMmE
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Geschichte der Werbung - Die Texterin (Quelle 4)
+- 'Werbetexter in echt: Lass dich überraschen - DER SPIEGEL (Quelle 5)'
+- 'Texter: Am Ende der Nahrungskette? (Quelle 6)'
 tags:
 - copywriting
 - creative_revolution
@@ -15,25 +32,29 @@ wave: 7
 ---
 
 ## Überblick
-Der Texter ist eine Schlüsselrolle in Werbeagenturen, die sprachliche Konzepte entwickelt und prägnante Werbebotschaften formuliert. Diese Position ist entscheidend, weil Texte emotionale Verbindungen schaffen, Markenidentitäten prägen und letztlich Kaufentscheidungen beeinflussen.
+Der Texter ist mehr als nur ein Wortlieferant – er ist der Architekt der modernen Werbeseele. In einer Welt voller Produkte schaffen Texter die emotionalen Brücken, die Marken unvergesslich machen. Ihre prägnanten Slogans, berührenden Geschichten und scharfzüngigen Headlines prägen nicht nur Kaufentscheidungen, sondern formten die Popkultur des 20. Jahrhunderts. [ungesichert] Von der Schreibmaschine bis zum Social-Media-Post blieb ihre Kernaufgabe dieselbe: Menschen zu bewegen, nicht nur zu überzeugen.
 
 ## Historischer Kontext
-Die Rolle des Texters entstand parallel zur Professionalisierung der Werbebranche ab den 1880er Jahren. Mit der Expansion der Massenmedien (Zeitschriften, Zeitungen) und später Radio/Fernsehen wuchs die Nachfrage nach spezialisierten Werbetextern, die über einfache Produktbeschreibungen hinausgingen. Die kreative Revolution der 1960er Jahre ([[Bill Bernbach]]) katapultierte den Texter endgültig zum kreativen Kopf.
+Die Geburtsstunde des professionellen Texters schlug mit der industriellen Revolution. Als Waren nicht mehr nur lokal gehandelt wurden, brauchten Hersteller eine Sprache, die ihre Produkte in Zeitungen und Zeitschriften von der Konkurrenz abhob. Ab den 1880er Jahren wurde Werbung zur Disziplin – doch erst mit dem Aufkommen von Radio und später Fernsehen entstand der Bedarf nach spezialisierten Wortakrobaten, die mehr konnten als trockene Produktbeschreibungen. Die kreative Revolution der 1960er Jahre katapultierte den Texter endgültig vom anonymen Schreiberling zum gefeierten Creative Head. [ungesichert]
 
 ## Wichtige Details
-- **1870er-1920er:** Frühe Werbetexter wie [[John E. Powers]] („Vater der Wahrheitswerbung“) etablierten präzise, faktenbasierte Texte. [[Claude C. Hopkins]] (ca. 1908) entwickelte mit „Schreibtisch-Werbung“ und Testverfahren wissenschaftliche Ansätze.
-- **1930er-1940s:** [[Raymond Rubicam]] (Griffin/Rubicam) setzte auf elegante, vertrauensbildende Sprache. [[Leo Burnett]] entwickelte den „Chicagoer Stil“ mit archetypischen Figuren (z.B. [[Marlboro Man — Leo Burnetts ikonischste Kampagne]]).
-- **1960er:** Kreativrevolution bei [[Doyle Dane Bernbach]] (DDB): [[Bill Bernbach]] partnerte Texter und Art-Director ([[Bob Levenson]], [[Helmut Krone]]). Legendäre Kampagnen: „[[Think Small — VW Käfer Kampagne von DDB 1959]]“ für VW (1959), „[[We try harder]]“ für Avis (1962).
-- **1970er-1980er:** Britische „Creative-Agents“ wie [[David Abbott]] ([[Abbott Mead Vickers]]) und [[David Ogilvy]] (Ogilvy & Mather) prägten den literarisch anspruchsvollen Stil („Der Mann im [[Hathaway]]-Hemd“, 1951).
-- **Ab 1990er:** Digitalisierung veränderte die Rolle: Texter mussten für Banner, Websites, Suchmaschinenoptimierung (SEO) und später Social Media schreiben.
+- **1870er-1920er:** Die Pioniere kämpften gegen den windigen Jargon der Zeit. [[John E. Powers]], der „Vater der Wahrheitswerbung“, bestand auf präzisen, faktenbasierten Texten – eine Revolution in einer Ära voller übertriebener Heilversprechen. [[Claude C. Hopkins]] wiederum brachte Wissenschaft in die Branche: Seine „Schreibtisch-Werbung“ und systematischen Testverfahren (ca. 1908) bewiesen erstmals, dass sich kreativer Erfolg messen ließ. [ungesichert]
+
+- **1930er-1940er:** Eleganz und Vertrauen wurden zur Währung. [[Raymond Rubicam]] (Griffin/Rubicam) setzte auf kultivierte Sprache für anspruchsvolle Klientel, während [[Leo Burnett]] im Herzen Amerikas arbeitete. Sein „Chicagoer Stil“ erschuf archetypische Figuren wie den [[Marlboro Man]] – Werbung als modernes Märchen für Erwachsene. [ungesichert]
+
+- **1960er:** Die kreative Revolution explodierte bei [[Doyle Dane Bernbach]] (DDB). [[Bill Bernbach]] erfand das kreative Dreamteam: Er partnerte Texter und Art-Director ([[Bob Levenson]], [[Helmut Krone]]) und machte sie zu gleichberechtigten Gestaltern. Die legendäre Kampagne „[[Think Small — VW Käfer Kampagne von DDB 1959]]“ (1959) drehte jede Werberegel um – und verkaufte den hässlichen Käfer mit Selbstironie zur Kultmarke. „[[We try harder]]“ für Avis (1962) transformierte den Zweitplatzierten zum sympathischen Underdog. [ungesichert]
+
+- **1970er-1980er:** Britische Eleganz eroberte die Welt. [[David Abbott]] ([[Abbott Mead Vickers]]) und [[David Ogilvy]] (Ogilvy & Mather) erhoben Werbetexte zur literarischen Kunstform. Ogilvys „Der Mann im [[Hathaway]]-Hemd“ (1951) erzählte ganze Lebensgeschichten in einer Schlagzeile. [ungesichert]
+
+- **Ab 1990er:** Die Digitalisierung sprengte alle Formate. Texter mussten plötzlich für Banner, Websites und Suchmaschinenoptimierung (SEO) denken, später für die kurze, virale Sprache der Social-Media-Ära. Aus dem Dichter wurde ein „Content-Architekt“. [ungesichert]
 
 ## Bedeutung & Einfluss
-Texter formten die moderne Werbesprache und Popkultur (Slogans wie „Just do it“). Sie etablierten Werbung als kreative Disziplin, die Emotionen, Humor und Storytelling nutzt. Die Partnerschaft mit Art-Directors ([[Bill Bernbach]]s Modell) wurde branchenweit Standard und steigerte die kreative Effektivität.
+Texter formten nicht nur Marken – sie prägten die Sprache unserer Zeit. Slogans wie „Just do it“ oder „Think different“ wurden zu kulturellen Leitsätzen. Sie etablierten Werbung als kreative Disziplin, die Emotionen, Humor und Storytelling strategisch einsetzt. Die von [[Bill Bernbach]] erfundene Partnerschaft zwischen Texter und Art-Director wurde zum branchenweiten Standard und erhöhte die kreative Schlagkraft um ein Vielfaches. [ungesichert] Texter bewiesen, dass rationale Argumente allein nicht verkaufen – Geschichten tun es.
 
 ## Verbindungen
-Wichtige Texter: [[David Ogilvy]], [[Julian Koenig]] (VW „Think Small“), [[Mary Wells Lawrence]] (Wells Rich Greene), [[Neil French]]. Agenturen: [[Doyle Dane Bernbach]], [[Ogilvy & Mather]], [[Leo Burnett]]. Kampagnen: [[VW Käfer]], [[Avis We try harder]], [[Apple Think Different]].
+Die Giganten des Fachs: [[David Ogilvy]] (der Gentleman-Revolutionär), [[Julian Koenig]] (der geniale Kopf hinter „Think Small“), [[Mary Wells Lawrence]] (erste Frau an der Spitze einer Großagentur, Wells Rich Greene) und [[Neil French]] (der rockstarhafte Weltbürger). Agenturen: [[Doyle Dane Bernbach]] (das kreative Epizentrum), [[Ogilvy & Mather]] (die Schule der Eleganz), [[Leo Burnett]] (die Meister der Archetypen). Kampagnen: [[VW Käfer]] (Underdog-Marketing), [[Avis We try harder]] (Zweitplatzierte-Strategie), [[Apple Think Different]] (Kultstatus durch Assoziation).
 
 ## Bildmaterial-Hinweise
-- Historische Fotos: Texter an Schreibmaschinen (1940er), [[Bill Bernbach]] mit Team (1960er).
-- Anzeigen: VW „Think Small“ (1959), Avis „We try harder“ (1962) mit markanten Headlines.
-- Interieur: Kreativ-Büros von DDB mit Skizzen und Konzepten an Wänden (1960er).
+- Historische Fotos: Konzentrierte Texter an klappernden Schreibmaschinen (1940er), [[Bill Bernbach]] im Kreis seines kreativen Teams (1960er) – die Geburtsstunde der modernen Kreativabteilung.
+- Legendäre Anzeigen: Der minimalistisch-geniale VW „Think Small“ (1959), die ehrliche Avis-Kampagne „We try harder“ (1962) – dokumentieren den Siegeszug der Idee über die Produktabbildung.
+- Interieur: Die kreativen Höhlen von DDB – vollgepinnte Wände mit Konzeptskizzen, Storyboards und handgeschriebenen Headlines (1960er).

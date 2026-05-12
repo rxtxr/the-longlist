@@ -2,6 +2,29 @@
 confidence: low
 era: 1986-2010
 id: ddb_worldwide
+images:
+- artist: Galaga Gal
+  caption: DDB Worldwide - Volvo Racing Game
+  copyright_status: clear_cc
+  height: 682
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/99101155@N00/167848115
+  thumb_url: https://api.openverse.org/v1/images/59286f3c-4eaf-4654-9592-bbef78a7bada/thumb/
+  type: image
+  url: https://live.staticflickr.com/53/167848115_378989eca1_b.jpg
+  width: 1024
+- artist: Galaga Gal
+  caption: Go Kitty - Luxury Water Brand - DDB Worldwide 2
+  copyright_status: clear_cc
+  height: 682
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/99101155@N00/167848254
+  thumb_url: https://api.openverse.org/v1/images/fa1eb236-0468-41ed-9ec7-dd7b143b8b34/thumb/
+  type: image
+  url: https://live.staticflickr.com/55/167848254_1e61d0b54e_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

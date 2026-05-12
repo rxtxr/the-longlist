@@ -8,10 +8,37 @@ images:
   copyright_status: clear_cc
   height: 474
   license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3A72andSunny%20logo.jpg
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3A72andSunny%20logo.jpg
   thumb_url: https://upload.wikimedia.org/wikipedia/commons/7/71/72andSunny_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
   url: https://upload.wikimedia.org/wikipedia/commons/7/71/72andSunny_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
   width: 474
+- artist: 72andSunnyLP
+  caption: 72andSunny logo
+  copyright_status: clear_cc
+  height: 474
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=31788339
+  thumb_url: https://api.openverse.org/v1/images/298e14aa-8981-40c1-8e9d-4f0f364cbe7a/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/7/71/72andSunny_logo.jpg
+  width: 474
+- artist: ''
+  caption: Making an Impact in Culture | Simon Summerscales, 72andSunny | OnBrand
+    '16
+  copyright_status: youtube
+  duration: '43:51'
+  embed_url: https://www.youtube-nocookie.com/embed/EDw2_3-IOVw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=EDw2_3-IOVw
+  thumb_url: https://img.youtube.com/vi/EDw2_3-IOVw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=EDw2_3-IOVw
+  video_id: EDw2_3-IOVw
 last_updated: '2026-05-11'
 related: []
 sources:

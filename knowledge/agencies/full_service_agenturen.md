@@ -2,6 +2,7 @@
 confidence: low
 era: 1869-1990
 id: full_service_agenturen
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

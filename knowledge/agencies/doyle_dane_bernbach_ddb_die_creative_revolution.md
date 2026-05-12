@@ -2,6 +2,42 @@
 confidence: low
 era: 1949-1986
 id: doyle_dane_bernbach_ddb_die_creative_revolution
+images:
+- artist: Alec Wilson from Solihull, United Kingdom
+  caption: Boeing 777/2F of Etihad Cargo at Amsterdam Schipol-AMS,Netherlands,22/09/13.
+  copyright_status: clear_cc
+  height: 1536
+  license: CC BY-SA 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AA6-DDB%20%2810897321666%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/A6-DDB_%2810897321666%29.jpg/500px-A6-DDB_%2810897321666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/9/95/A6-DDB_%2810897321666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2304
+- artist: Bram Steeman
+  caption: A6-DDB Etihad Airways Boeing 777-200F
+  copyright_status: clear_cc
+  height: 800
+  license: CC BY-SA 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AA6-DDB%20%2823920086723%29%20%282%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A6-DDB_%2823920086723%29_%282%29.jpg/500px-A6-DDB_%2823920086723%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/a/ad/A6-DDB_%2823920086723%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1200
+- artist: ''
+  caption: Doyle Dane Bernbach - The Real MAD MEN - the Real Volkswagen Ads
+  copyright_status: youtube
+  duration: '18:34'
+  embed_url: https://www.youtube-nocookie.com/embed/-UuzV7nVPm4
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=-UuzV7nVPm4
+  thumb_url: https://img.youtube.com/vi/-UuzV7nVPm4/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=-UuzV7nVPm4
+  video_id: -UuzV7nVPm4
 last_updated: '2026-05-11'
 related: []
 sources:

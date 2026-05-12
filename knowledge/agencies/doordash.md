@@ -2,6 +2,43 @@
 confidence: low
 era: 2013-
 id: doordash
+images:
+- artist: .:fotomaf:.
+  caption: 'Hay ropa tendida . . . . . #doors #exonextdoor #doorlove #doordash #door
+    #urban_shots #urbanex #urbanismo #urbanwear #urbanexplore #streetdance #stree'
+  copyright_status: clear_cc
+  height: 333
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/38953071@N00/31802611447
+  thumb_url: https://api.openverse.org/v1/images/de788cae-dd11-4dc7-af07-f49ee5fbfa68/thumb/
+  type: image
+  url: https://live.staticflickr.com/4840/31802611447_341c1620ee.jpg
+  width: 500
+- artist: Daniel.9
+  caption: DoorDash operations world map
+  copyright_status: clear_cc
+  height: 443
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=177059636
+  thumb_url: https://api.openverse.org/v1/images/78bb669e-25f9-4f98-a292-f7ab58a033b4/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/9/97/DoorDash_operations_world_map.svg
+  width: 863
+- artist: ''
+  caption: 'DoorDash: How a $50 billion Company Got Started'
+  copyright_status: youtube
+  duration: '12:49'
+  embed_url: https://www.youtube-nocookie.com/embed/QF5OnnonU24
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=QF5OnnonU24
+  thumb_url: https://img.youtube.com/vi/QF5OnnonU24/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=QF5OnnonU24
+  video_id: QF5OnnonU24
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,20 @@
 confidence: low
 era: 1999-2002
 id: lowe_lintas_partners
+images:
+- artist: ''
+  caption: Lowe Lintas Reimagines Cloud
+  copyright_status: youtube
+  duration: '1:48'
+  embed_url: https://www.youtube-nocookie.com/embed/ty0Jvq1zttI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ty0Jvq1zttI
+  thumb_url: https://img.youtube.com/vi/ty0Jvq1zttI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ty0Jvq1zttI
+  video_id: ty0Jvq1zttI
 last_updated: '2026-05-11'
 related: []
 sources:

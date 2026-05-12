@@ -2,6 +2,31 @@
 confidence: low
 era: 1990-1999
 id: corinne_day
+images:
+- artist: Victorious Banners
+  caption: Corinne at Agra
+  copyright_status: clear_cc
+  height: 778
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/46202747@N07/4298351403
+  thumb_url: https://api.openverse.org/v1/images/52553067-dd62-41ae-b8ee-848b526099ed/thumb/
+  type: image
+  url: https://live.staticflickr.com/4067/4298351403_1360303ab7_b.jpg
+  width: 1024
+- artist: ''
+  caption: Corinne's Chapel Talk
+  copyright_status: youtube
+  duration: '5:10'
+  embed_url: https://www.youtube-nocookie.com/embed/4Kr-NX437fc
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=4Kr-NX437fc
+  thumb_url: https://img.youtube.com/vi/4Kr-NX437fc/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=4Kr-NX437fc
+  video_id: 4Kr-NX437fc
 last_updated: '2026-05-11'
 related: []
 sources:

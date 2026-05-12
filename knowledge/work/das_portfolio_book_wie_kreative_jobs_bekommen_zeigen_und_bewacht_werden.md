@@ -1,13 +1,24 @@
 ---
-confidence: high
-entity_type: work
+confidence: medium
 era: 1960-2020
-era_from: 1960
-era_to: 2020
 id: das_portfolio_book_wie_kreative_jobs_bekommen_zeigen_und_bewacht_werden
-last_updated: '2026-05-10'
+images:
+- artist: Chaval Brasil
+  caption: Book Cover Page
+  copyright_status: clear_cc
+  height: 255
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/14425592@N07/4135304219
+  thumb_url: https://api.openverse.org/v1/images/7ee68aa4-1b59-48a9-9fd1-41d794c27d6a/thumb/
+  type: image
+  url: https://live.staticflickr.com/2794/4135304219_140150cd2f.jpg
+  width: 475
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- DDB-Archivmaterialien
+- Branchenpublikationen zur Kreativrevolution
 tags:
 - portfolio
 - book
@@ -20,25 +31,25 @@ wave: 3
 ---
 
 ## Überblick
-Das Portfolio (auch "Book" genannt) ist die zentrale Arbeitsprobe von Kreativen in der Werbebranche. Es ist eine sorgfältig kuratierte Sammlung der besten Arbeiten, die Fähigkeiten, Stil und Denkweise seines Schöpfers demonstriert. Es dient als Türöffner für Jobinterviews und ist das entscheidende Bewertungskriterium bei der Einstellung.
+Das Portfolio – in der Branche schlicht "Book" genannt – ist mehr als nur eine Mappe: Es ist die Seele jedes Kreativen. Diese sorgfältig kuratierte Sammlung der besten Arbeiten erzählt nicht nur von vergangenen Erfolgen, sondern offenbart das Denken, den Stil und die Haltung seines Schöpfers. In einer Branche, in der Ideen Währung sind, dient es als Türöffner für Jobinterviews und entscheidet oft mehr über Karrieren als jedes Diplom. [ungesichert]
 
 ## Historischer Kontext
-Die Bedeutung des Portfolios wuchs parallel zur "[[Kreativen Revolution]]" ab den 1960er Jahren. Als sich Werbung von rein verkaufsorientierter Produktinformation zu einer kunstvollen, konzeptionell-unterhaltsamen Disziplin wandelte, wurden nicht mehr nur handwerkliche Fähigkeiten, sondern vor allem Ideenreichtum und ein einzigartiger kreativer Blick eingestellt. Die Einstellungspraxis verlagerte sich von formalen Qualifikationen hin zur Bewertung des konkreten Outputs.
+Die wahre Blütezeit des Portfolios begann mit der "[[Kreativen Revolution]]" ab den 1960er Jahren. Als Werbung sich von trockener Produktinformation zur kunstvollen, konzeptionellen Disziplin wandelte, suchten Agenturen nicht mehr nach Handwerkern, sondern nach Visionären. Plötzlich zählten nicht formale Qualifikationen, sondern die Qualität der Ideen – und die zeigte man am besten im eigenen "Book". Die Branche entwickelte eine neue Art der Talentbewertung: Nicht wo jemand studiert hatte war wichtig, sondern was er erschaffen konnte.
 
 ## Wichtige Details
-*   **1950er-1960er:** In den USA entstehen die ersten "Books" bei [[Doyle Dane Bernbach]] (DDB) und anderen "Creative Hotshops". Sie bestehen aus aufwendig produzierten, eingeklebten Anzeigen- und Kampagnen-Kopien in großen schwarzen Sammelmappen.
-*   **1970er-1980er:** Der "Koffer" wird zum Standardwerkzeug des Art Directors und Copywriters. Er enthält nicht nur veröffentlichte Arbeiten, sondern zunehmend auch spekulativ erstellte "[[Scam Ads — Arbeiten die nur für Awards existieren und nie geschaltet wurden]]" für große Marken, um das eigene Können zu zeigen.
-*   **1990er:** Mit dem Aufkommen von Desktop Publishing ([[Adobe Photoshop]], [[QuarkXPress]]) werden Portfolios professionell aufgemacht, ausgedruckt und in Klarsichthüllen präsentiert. Die Mappe wird zum "Buch".
-*   **1995-2005:** Erste digitale Portfolios auf CD-ROM erweitern das Angebot um bewegte Bilder (TV-Spots) und interaktive Arbeiten.
-*   **Ab ~2005:** Das physische Portfolio wird durch die Online-Präsenz (eigene Website, [[Behance]], [[LinkedIn]]) weitgehend abgelöst. Die Kuratierung und Präsentation der Arbeiten bleibt jedoch die gleiche zentrale Aufgabe.
+*   **1950er-1960er:** In den legendären "Creative Hotshops" wie [[Doyle Dane Bernbach]] (DDB) entstanden die ersten professionellen Portfolios. Sie bestanden aus schweren, schwarzen Sammelmappen, in die aufwendig produzierte Anzeigen-Kopien eingeklebt wurden – jede ein kostbares Sammelstück. [ungesichert]
+*   **1970er-1980er:** Der Ledertaschen-"Koffer" wurde zum Statussymbol jeder ambitionierten Kreativen. Er enthielt nicht nur veröffentlichte Arbeiten, sondern zunehmend auch spekulative "[[Scam Ads]]" – für Awards produzierte Kampagnen, die nie geschaltet wurden, aber das kreative Potenzial demonstrierten.
+*   **1990er:** Desktop Publishing ([[Adobe Photoshop]], [[QuarkXPress]]) revolutionierte die Präsentation. Portfolios wurden professionell aufgemacht, ausgedruckt und in Klarsichthüllen präsentiert. Die Mappe mutierte zum hochglänzenden "Buch".
+*   **1995-2005:** Digitale Portfolios auf CD-ROM ergänzten die physische Mappe um TV-Spots und interaktive Arbeiten – eine Revolution für Art-Director/Writer-Teams.
+*   **Ab ~2005:** Das physische Portfolio wurde durch Online-Präsenzen (Websites, [[Behance]], [[LinkedIn]]) abgelöst. Doch die Kunst der Kuratierung blieb dieselbe: Die Auswahl der besten Arbeiten erzählt bis heute die Geschichte eines Kreativen.
 
 ## Bedeutung & Einfluss
-Das Portfolio demokratisierte den Einstieg in die Kreativbranche. Talentierte Quereinsteiger ohne formale Ausbildung konnten sich allein durch die Qualität ihrer Ideen einen Namen machen. Es etablierte eine Leistungs- und Merkokratie, in der das Werk mehr zählte als Herkunft oder Abschluss. Gleichzeitig förderte es einen intensiven Wettbewerb und einen gewissen Druck, immer spektakulärere "Book-Stücke" zu produzieren, was zur Entstehung der "Scam-Ad"-Kultur beitrug.
+Das Portfolio demokratisierte den Einstieg in die Werbebranche wie nichts anderes. Talentierten Quereinsteigern ohne formale Ausbildung öffnete es Türen, die sonst verschlossen geblieben wären. Es etablierte eine Leistungsgesellschaft, in der das Werk mehr zählte als Herkunft oder Abschluss. Doch diese Meriokratie hatte ihre Schattenseiten: Sie führte zu einem gnadenlosen Wettbewerb und dem Druck, immer spektakulärere "Book-Stücke" zu produzieren – was die "Scam-Ad"-Kultur befeuerte. [ungesichert]
 
 ## Verbindungen
-Die Kultur des Portfolios wurde maßgeblich von US-Agenturen wie [[Doyle Dane Bernbach]], [[Papert Koenig Lois]] und [[Chiat/Day]] geprägt. Einflussreiche kreative Führungspersönlichkeiten wie [[Bill Bernbach]], [[Helmut Krone]] oder [[George Lois]] wurden zu Vorbildern, deren Arbeiten in jedem ambitionierten Book zu finden waren. Die deutsche [[Scholz & Friends]] übernahm in den 1990er Jahren diese Kultur und machte sie zum Standard für den deutschsprachigen Raum.
+Die Kultur des Portfolios wurde maßgeblich von US-Agenturen wie [[Doyle Dane Bernbach]], [[Papert Koenig Lois]] und [[Chiat/Day]] geprägt. Legenden wie [[Bill Bernbach]], [[Helmut Krone]] oder [[George Lois]] wurden zu Vorbildern, deren Arbeiten in jedem ambitionierten Book zu finden waren. Die deutsche [[Scholz & Friends]] importierte diese Kultur in den 1990er Jahren und machte sie zum Standard im deutschsprachigen Raum – oft begleitet von der Frage "Zeig mir dein Book!" in Vorstellungsgesprächen. [ungesichert]
 
 ## Bildmaterial-Hinweise
-*   **Fotos:** Kreative der 1960er Jahre mit großen schwarzen Sammelmappen (DDB-Archiv). Bewerbungsgespräche bei [[Chiat/Day]] in den 1980ern.
-*   **Skizzen/Interieur:** Skizzenbücher und Scribbles, die den Entstehungsprozess von Kampagnen zeigen. Der berühmte "Zeichentisch" eines Art Directors, bedeckt mit Layout-Papier, Stiften und Musterportfolios.
-*   **Anzeigen:** Hochglanz-Reprints von ikonischen Kampagnen wie [[Think Small]] für Volkswagen oder [[Lemon]] für VW, die in fast jedem Portfolio der 70er und 80er Jahre zu finden waren.
+*   **Fotos:** Kreative der 1960er Jahre mit großen schwarzen Sammelmappen (DDB-Archiv). Bewerbungsgespräche bei [[Chiat/Day]] in den 1980ern, wo das Book im Mittelpunkt stand.
+*   **Skizzen/Interieur:** Mit Notizen übersäte Skizzenbücher, die den Entstehungsprozess von Kampagnen zeigen. Der berühmte "Zeichentisch" eines Art Directors, bedeckt mit Layout-Papier, Stiften und Musterportfolios.
+*   **Anzeigen:** Hochglanz-Reprints ikonischer Kampagnen wie [[Think Small]] für Volkswagen oder [[Lemon]] für VW – Pflichtstücke in jedem Portfolio der 70er und 80er Jahre.

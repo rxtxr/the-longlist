@@ -3,34 +3,19 @@ confidence: low
 era: 2004-2024
 id: anomaly
 images:
-- artist: Ph. Pézard
-  caption: Embryologie de l'anomalie d'Ebstein
-  copyright_status: clear_cc
-  height: 256
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AEbstein-Embryo.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/9/91/Ebstein-Embryo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  url: https://upload.wikimedia.org/wikipedia/commons/9/91/Ebstein-Embryo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 358
-- artist: Pezard
-  caption: schéma de l'aomalie d'Ebstein
-  copyright_status: clear_cc
-  height: 342
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AEbstein-sch%C3%A9ma.png
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/4/48/Ebstein-sch%C3%A9ma.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  url: https://upload.wikimedia.org/wikipedia/commons/4/48/Ebstein-sch%C3%A9ma.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 295
-- artist: 'CardioNetworks: Secretariat'
-  caption: "Title: Ebstein anomaly \nCase Presentation:  \n\nDescription: PLAX: enlarged
-    right ventricle in patient with Ebstein anomaly"
-  copyright_status: clear_cc
-  height: 480
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AEbstein%20anomaly%20E00391%20%28CardioNetworks%20ECHOpedia%29.webm
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ebstein_anomaly_E00391_%28CardioNetworks_ECHOpedia%29.webm/500px--Ebstein_anomaly_E00391_%28CardioNetworks_ECHOpedia%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo
-  url: https://upload.wikimedia.org/wikipedia/commons/2/23/Ebstein_anomaly_E00391_%28CardioNetworks_ECHOpedia%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 608
+- artist: ''
+  caption: ANOMALY - CINEMATIC SKI COMMERCIAL | SONY FX3 JAPAN [4K]
+  copyright_status: youtube
+  duration: '1:37'
+  embed_url: https://www.youtube-nocookie.com/embed/6HBxWrmI8OU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=6HBxWrmI8OU
+  thumb_url: https://img.youtube.com/vi/6HBxWrmI8OU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=6HBxWrmI8OU
+  video_id: 6HBxWrmI8OU
 last_updated: '2026-05-11'
 related: []
 sources:

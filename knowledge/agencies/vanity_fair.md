@@ -2,6 +2,44 @@
 confidence: low
 era: 1914-1936, 1983-present
 id: vanity_fair
+images:
+- artist: James Tissot
+  caption: Caricature of Charles Darwin from Vanity Fair magazine. Caption read "Natural
+    Selection".
+  copyright_status: public_domain
+  height: 2383
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AVanityFair-Darwin2.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/VanityFair-Darwin2.jpg/500px-VanityFair-Darwin2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bb/VanityFair-Darwin2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1291
+- artist: film screenshot (Vitagraph)
+  caption: 'Left to right: William Shea, Helen Gardner, and Harry Northrup in the
+    American film Vanity Fair (1911) - cropped screenshot.'
+  copyright_status: public_domain
+  height: 317
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AVanity%20Fair%20%281911%29%201.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/b/ba/Vanity_Fair_%281911%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/ba/Vanity_Fair_%281911%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 446
+- artist: ''
+  caption: Stella Artois and Vanity Fair Raise a Chalice during Campaign Hollywood
+  copyright_status: youtube
+  duration: '1:23'
+  embed_url: https://www.youtube-nocookie.com/embed/lUIRRapNZRY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=lUIRRapNZRY
+  thumb_url: https://img.youtube.com/vi/lUIRRapNZRY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=lUIRRapNZRY
+  video_id: lUIRRapNZRY
 last_updated: '2026-05-11'
 related: []
 sources:

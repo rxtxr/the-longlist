@@ -2,6 +2,29 @@
 confidence: low
 era: 1928-1999
 id: lintas
+images:
+- artist: ChowKaiDeng
+  caption: 1960s Advertising - Magazine Ad - Lintas Pubblicitá Italia (Italy)
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/62205794@N00/527401173
+  thumb_url: https://api.openverse.org/v1/images/45e9a2d8-11fe-4543-aaaa-59b972eb8760/thumb/
+  type: image
+  url: https://live.staticflickr.com/192/527401173_afe9b1bdb7_b.jpg
+  width: 731
+- artist: Netmediatama
+  caption: Nadine Alexandra Dewi Ames for Lintas Imaji Netmediatama
+  copyright_status: clear_cc
+  height: 1888
+  license: CC BY 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=92994275
+  thumb_url: https://api.openverse.org/v1/images/da1d210d-f814-44af-87a3-5ee16ca54d09/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f8/Nadine_Alexandra_Dewi_Ames_for_Lintas_Imaji_Netmediatama.jpg
+  width: 1252
 last_updated: '2026-05-11'
 related: []
 sources:

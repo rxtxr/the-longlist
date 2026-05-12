@@ -1,6 +1,6 @@
 # Wissens-Graph — Agenturgeschichte
 
-_Zuletzt aktualisiert: 2026-05-11 19:38_
+_Zuletzt aktualisiert: 2026-05-12 21:36_
 
 _Einträge gesamt: 568_
 

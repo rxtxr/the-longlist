@@ -2,6 +2,32 @@
 confidence: medium
 era: 1985-2020
 id: bruce_mau
+images:
+- artist: whiteafrican
+  caption: Bruce Mau Design
+  copyright_status: clear_cc
+  height: 681
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/18288598@N00/3010855162
+  thumb_url: https://api.openverse.org/v1/images/629bd79c-ce62-4592-8538-6876beb9459c/thumb/
+  type: image
+  url: https://live.staticflickr.com/3295/3010855162_9d52b586bf_b.jpg
+  width: 1024
+- artist: ''
+  caption: '"We must design a new way of living" | Designer Bruce Mau | Louisiana
+    Channel'
+  copyright_status: youtube
+  duration: '25:27'
+  embed_url: https://www.youtube-nocookie.com/embed/rG3DZ4BteLc
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=rG3DZ4BteLc
+  thumb_url: https://img.youtube.com/vi/rG3DZ4BteLc/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=rG3DZ4BteLc
+  video_id: rG3DZ4BteLc
 last_updated: '2026-05-11'
 related: []
 sources:

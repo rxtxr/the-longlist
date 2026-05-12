@@ -2,6 +2,42 @@
 confidence: medium
 era: 1983-present
 id: goodby_silverstein_partners
+images:
+- artist: Chris Welsby
+  caption: Goodby Silverstein &amp; Partners logo
+  copyright_status: public_domain
+  height: 4167
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AGS%26P.logo.with.name.1.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GS%26P.logo.with.name.1.png/500px-GS%26P.logo.with.name.1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/9/93/GS%26P.logo.with.name.1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 4167
+- artist: Chris Welsby
+  caption: Goodby Silverstein &amp; Partners logo
+  copyright_status: public_domain
+  height: 1804
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AGS%26P.logo.with.name.1%20%28cropped%29.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/GS%26P.logo.with.name.1_%28cropped%29.png/500px-GS%26P.logo.with.name.1_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/ba/GS%26P.logo.with.name.1_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3264
+- artist: ''
+  caption: Goodby Silverstein & Partners Celebrates 150 Years
+  copyright_status: youtube
+  duration: '2:53'
+  embed_url: https://www.youtube-nocookie.com/embed/KpNL8DoHE8A
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=KpNL8DoHE8A
+  thumb_url: https://img.youtube.com/vi/KpNL8DoHE8A/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=KpNL8DoHE8A
+  video_id: KpNL8DoHE8A
 last_updated: '2026-05-11'
 related: []
 sources:

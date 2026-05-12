@@ -2,6 +2,18 @@
 confidence: medium
 era: 1980-2000
 id: andrew_feldmann
+images:
+- artist: Charles F. Rhyne
+  caption: Gelidiella acerosa (Forssk.) Feldmann & G. Hamel
+  copyright_status: public_domain
+  height: null
+  license: CC0 1.0
+  source_label: OpenVerse / smithsonian_national_museum_of_natural_history
+  source_url: https://n2t.net/ark:/65665/38bf76cd7-2487-4480-af17-f13493637556
+  thumb_url: https://api.openverse.org/v1/images/f3585a77-fbcc-4218-bd80-6637ffd02eb5/thumb/
+  type: image
+  url: https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3cc59a9767966473fabd02c201997321d
+  width: null
 last_updated: '2026-05-11'
 related: []
 sources:

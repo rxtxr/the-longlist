@@ -2,6 +2,32 @@
 confidence: high
 era: 1960-2020
 id: interpublic_group_of_companies_ipg
+images:
+- artist: alpha_photo
+  caption: IPG The Interpublic Group of Companies
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/196993421@N03/52666637788
+  thumb_url: https://api.openverse.org/v1/images/a79680cb-1537-4cfc-b2ee-094fbe7d60fb/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/52666637788_2631e799fc_b.jpg
+  width: 1024
+- artist: ''
+  caption: How Is Omnicom Redefining The Advertisement Industry? | Aditya R. Kanthy
+    Decodes IPG Merger | ET Now
+  copyright_status: youtube
+  duration: '12:33'
+  embed_url: https://www.youtube-nocookie.com/embed/W_stOfyvpqw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=W_stOfyvpqw
+  thumb_url: https://img.youtube.com/vi/W_stOfyvpqw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=W_stOfyvpqw
+  video_id: W_stOfyvpqw
 last_updated: '2026-05-11'
 related: []
 sources:

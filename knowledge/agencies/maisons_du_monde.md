@@ -2,6 +2,30 @@
 confidence: low
 era: 1996-2010
 id: maisons_du_monde
+images:
+- artist: thinkretail
+  caption: Maisons Du Monde
+  copyright_status: clear_cc
+  height: 733
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/28964535@N08/5169168032
+  thumb_url: https://api.openverse.org/v1/images/2aecc451-81e8-484f-83c2-d550005df3b2/thumb/
+  type: image
+  url: https://live.staticflickr.com/4040/5169168032_b859be0608_b.jpg
+  width: 1024
+- artist: estampemoderne.fr
+  caption: A La Place Clichy La Premiere Maison du Monde Pour Ces Importations Orientales
+    86X151,5 Chaix
+  copyright_status: clear_cc
+  height: 500
+  license: CC BY-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/24721982@N08/6285599609
+  thumb_url: https://api.openverse.org/v1/images/242eba09-7c32-468d-873e-23ecfc792659/thumb/
+  type: image
+  url: https://live.staticflickr.com/6116/6285599609_81da985095.jpg
+  width: 291
 last_updated: '2026-05-11'
 related: []
 sources:

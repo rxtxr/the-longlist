@@ -230,7 +230,12 @@ class Redakteur(BaseAgent):
 
 
 def _extract_article(text: str) -> str:
-    article = re.sub(r"\n## Quellen.*", "", text, flags=re.DOTALL)
+    # Strip sources block — catches ## Quellen, **Quellen:** and bare ---+json variants
+    article = re.sub(r"\n(#{1,3}\s*Quellen|\*\*Quellen:\*\*).*", "", text, flags=re.DOTALL)
+    # Strip trailing ```json blocks (Redakteur source output)
+    article = re.sub(r"\n```json\s*\{.*?\}\s*```\s*$", "", article, flags=re.DOTALL)
+    # Strip trailing --- dividers
+    article = re.sub(r"\n---\s*$", "", article.rstrip())
     match = re.search(r"(## Überblick.*)", article, re.DOTALL)
     if match:
         return match.group(1).strip()

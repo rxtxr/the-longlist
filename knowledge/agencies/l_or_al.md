@@ -2,6 +2,7 @@
 confidence: medium
 era: 1909-2020s
 id: l_or_al
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

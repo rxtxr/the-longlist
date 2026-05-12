@@ -2,6 +2,44 @@
 confidence: low
 era: 1956-2020
 id: grey_germany
+images:
+- artist: Diliff
+  caption: An Eastern Grey Squirrel (Sciurus carolinensis) in St James's Park, London,
+    England.
+  copyright_status: clear_cc
+  height: 1256
+  license: CC BY-SA 3.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AEastern%20Grey%20Squirrel%20in%20St%20James%27s%20Park%2C%20London%20-%20Nov%202006%20edit.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Eastern_Grey_Squirrel_in_St_James%27s_Park%2C_London_-_Nov_2006_edit.jpg/500px-Eastern_Grey_Squirrel_in_St_James%27s_Park%2C_London_-_Nov_2006_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7c/Eastern_Grey_Squirrel_in_St_James%27s_Park%2C_London_-_Nov_2006_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1628
+- artist: Charles J. Sharp
+  caption: Grey-breasted mountain toucan (Andigena hypoglauca hypoglauca), Hacienda
+    El Bosque, Manizales, Caldas, Colombia
+  copyright_status: clear_cc
+  height: 4373
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AGrey-breasted%20mountain%20toucan%20%28Andigena%20hypoglauca%29%20Caldas.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Grey-breasted_mountain_toucan_%28Andigena_hypoglauca%29_Caldas.jpg/500px-Grey-breasted_mountain_toucan_%28Andigena_hypoglauca%29_Caldas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Grey-breasted_mountain_toucan_%28Andigena_hypoglauca%29_Caldas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3379
+- artist: ''
+  caption: A 100 Years of Grey
+  copyright_status: youtube
+  duration: '1:13'
+  embed_url: https://www.youtube-nocookie.com/embed/AH4VX0yxPx0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=AH4VX0yxPx0
+  thumb_url: https://img.youtube.com/vi/AH4VX0yxPx0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=AH4VX0yxPx0
+  video_id: AH4VX0yxPx0
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,42 @@
 confidence: medium
 era: 1973-2001
 id: geoffrey_hayes
+images:
+- artist: Curious City
+  caption: Geoffrey Hayes artist with two kids (partially blurred)
+  copyright_status: clear_cc
+  height: 2448
+  license: CC BY 2.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=73640697
+  thumb_url: https://api.openverse.org/v1/images/bd00875b-8b36-4b05-a70d-69fcafe4b148/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Geoffrey_Hayes_artist_with_two_kids_%28partially_blurred%29.jpg
+  width: 3264
+- artist: Curious City
+  caption: Geoffrey hayes artist author (cropped)
+  copyright_status: clear_cc
+  height: 974
+  license: CC BY 2.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=73640867
+  thumb_url: https://api.openverse.org/v1/images/22da728c-dd95-4423-bd43-9667f5eeca86/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Geoffrey_hayes_artist_author_%28cropped%29.jpg
+  width: 920
+- artist: ''
+  caption: Virgin Money - Geoffrey Hayes (2000, UK)
+  copyright_status: youtube
+  duration: 0:41
+  embed_url: https://www.youtube-nocookie.com/embed/67NndpNxbfY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=67NndpNxbfY
+  thumb_url: https://img.youtube.com/vi/67NndpNxbfY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=67NndpNxbfY
+  video_id: 67NndpNxbfY
 last_updated: '2026-05-11'
 related: []
 sources:

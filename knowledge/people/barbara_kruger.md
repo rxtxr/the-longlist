@@ -2,6 +2,31 @@
 confidence: medium
 era: 1975-1995
 id: barbara_kruger
+images:
+- artist: Luisafantinel
+  caption: Barbara Kruger
+  copyright_status: clear_cc
+  height: 4523
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=155207029
+  thumb_url: https://api.openverse.org/v1/images/c48e9cd9-ad8b-4308-88c3-5171295424cd/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1f/Barbara_Kruger.jpg
+  width: 3543
+- artist: ''
+  caption: 'Barbara Kruger: Part of the Discourse | Art21 "Extended Play"'
+  copyright_status: youtube
+  duration: '7:24'
+  embed_url: https://www.youtube-nocookie.com/embed/_U3hyPEb2OU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=_U3hyPEb2OU
+  thumb_url: https://img.youtube.com/vi/_U3hyPEb2OU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=_U3hyPEb2OU
+  video_id: _U3hyPEb2OU
 last_updated: '2026-05-11'
 related: []
 sources:

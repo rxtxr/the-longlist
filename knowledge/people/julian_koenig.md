@@ -2,6 +2,20 @@
 confidence: medium
 era: 1950-1970
 id: julian_koenig
+images:
+- artist: ''
+  caption: Helmut Krone and Julian Koenig on the Volkswagen campaign
+  copyright_status: youtube
+  duration: '2:54'
+  embed_url: https://www.youtube-nocookie.com/embed/jIn6DPTHbH0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=jIn6DPTHbH0
+  thumb_url: https://img.youtube.com/vi/jIn6DPTHbH0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=jIn6DPTHbH0
+  video_id: jIn6DPTHbH0
 last_updated: '2026-05-11'
 related: []
 sources:
@@ -12,6 +26,9 @@ sources:
 - '[5] creativehalloffame.org/inductees/julian-koenig/'
 - '[6] www.nytimes.com/2014/06/18/business/julian-koenig-who-sold-americans-on-beetles-and-earth-day-dies-at-93.html'
 - '[7] carstyling.ru/en/entry/Volkswagen_Advertising_Campaign_by_Helmut_Krone_1960_Think_Small/'
+- 'Wikipedia EN: Julian Koenig'
+- 'Forward.com: Remembering Julian Koenig'
+- 'Creative Hall of Fame: Julian Koenig'
 tags:
 - copywriting
 - creative-revolution
@@ -24,7 +41,7 @@ wave: 4
 ---
 
 ## Überblick
-Koenig war ein einflussreicher Copywriter in der Werbebranche [ungesichert]. Er arbeitete an Kampagnen für Unternehmen wie Timex und Volkswagen [1][5]. Zusammen mit Frederic Papert und George Lois gründete er 1960 die Werbeagentur PKL [1][2].
+Julian Koenig war ein einflussreicher Copywriter in der Werbebranche [ungesichert]. Er arbeitete an Kampagnen für Unternehmen wie Timex und Volkswagen [1][5]. Zusammen mit Frederic Papert und George Lois gründete er 1960 die Werbeagentur PKL [1][2].
 
 ## Historischer Kontext
 Koenig wurde in Manhattan geboren [5]. Vor seiner Werbekarriere begann er ein Jurastudium, welches er abbrach, um einen Roman zu schreiben [7]. Während des Zweiten Weltkriegs diente er vier Jahre lang in der USAAF [7].

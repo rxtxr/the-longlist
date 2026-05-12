@@ -2,6 +2,45 @@
 confidence: medium
 era: 1965-2020
 id: the_martin_agency
+images:
+- artist: pingnews.com
+  caption: 'Public Domain: Dr. Martin Luther King, jr. at 1963 March on Washington
+    by USIA (NARA)'
+  copyright_status: public_domain
+  height: 396
+  license: Public Domain Mark
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39735679@N00/286477008
+  thumb_url: https://api.openverse.org/v1/images/e1a3b806-bc2c-406d-931a-c2a69eed8ce9/thumb/
+  type: image
+  url: https://live.staticflickr.com/117/286477008_9e81cd5681.jpg
+  width: 500
+- artist: pingnews.com
+  caption: 'Public Domain: Dr. Martin Luther King, Jr. at 1963 March on Washington
+    by USIA (NARA)'
+  copyright_status: public_domain
+  height: 500
+  license: Public Domain Mark
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39735679@N00/286476606
+  thumb_url: https://api.openverse.org/v1/images/acc5751f-a8b0-45fa-af91-10ad66ac2507/thumb/
+  type: image
+  url: https://live.staticflickr.com/117/286476606_2123bc0962.jpg
+  width: 396
+- artist: ''
+  caption: 'Meet the Makers: The Martin Agency & GEICO: Making GEICO Unskippable |
+    Create with Google'
+  copyright_status: youtube
+  duration: '5:20'
+  embed_url: https://www.youtube-nocookie.com/embed/MpzI16eboJE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=MpzI16eboJE
+  thumb_url: https://img.youtube.com/vi/MpzI16eboJE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=MpzI16eboJE
+  video_id: MpzI16eboJE
 last_updated: '2026-05-11'
 related: []
 sources:

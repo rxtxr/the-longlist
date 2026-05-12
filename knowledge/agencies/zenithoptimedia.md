@@ -2,6 +2,20 @@
 confidence: medium
 era: 2001-2016
 id: zenithoptimedia
+images:
+- artist: ''
+  caption: Our Vibrant and Successful Story in 2011 and 2012 - ZenithOptimedia
+  copyright_status: youtube
+  duration: '2:12'
+  embed_url: https://www.youtube-nocookie.com/embed/8cPdyb0iarg
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=8cPdyb0iarg
+  thumb_url: https://img.youtube.com/vi/8cPdyb0iarg/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=8cPdyb0iarg
+  video_id: 8cPdyb0iarg
 last_updated: '2026-05-11'
 related: []
 sources:

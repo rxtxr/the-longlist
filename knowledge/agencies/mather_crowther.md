@@ -2,6 +2,20 @@
 confidence: low
 era: 1850-1971
 id: mather_crowther
+images:
+- artist: ''
+  caption: 'Thomas Crowther: Understanding Ecology Helps Both Nature And The Economy'
+  copyright_status: youtube
+  duration: '7:12'
+  embed_url: https://www.youtube-nocookie.com/embed/C2dNnZbfghE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=C2dNnZbfghE
+  thumb_url: https://img.youtube.com/vi/C2dNnZbfghE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=C2dNnZbfghE
+  video_id: C2dNnZbfghE
 last_updated: '2026-05-11'
 related: []
 sources:

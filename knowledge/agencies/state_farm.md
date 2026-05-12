@@ -2,6 +2,42 @@
 confidence: medium
 era: 1880-2010
 id: state_farm
+images:
+- artist: NCDOTcommunications
+  caption: NCDOT State Farm Safety Patrol
+  copyright_status: clear_cc
+  height: 281
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39320593@N03/16804974933
+  thumb_url: https://api.openverse.org/v1/images/90bb9af6-1afb-4bfa-9bc0-cf90f2dd7f75/thumb/
+  type: image
+  url: https://live.staticflickr.com/7709/16804974933_3f6993d9d1.jpg
+  width: 500
+- artist: NCDOTcommunications
+  caption: NCDOT State Farm Safety Patrol
+  copyright_status: clear_cc
+  height: 281
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39320593@N03/17237690450
+  thumb_url: https://api.openverse.org/v1/images/d4d9f9f5-6760-444a-924d-e652b1a0ef53/thumb/
+  type: image
+  url: https://live.staticflickr.com/5338/17237690450_a10e6aee1e.jpg
+  width: 500
+- artist: ''
+  caption: Why State Farm®
+  copyright_status: youtube
+  duration: '6:41'
+  embed_url: https://www.youtube-nocookie.com/embed/nAy0OtTufHw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=nAy0OtTufHw
+  thumb_url: https://img.youtube.com/vi/nAy0OtTufHw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=nAy0OtTufHw
+  video_id: nAy0OtTufHw
 last_updated: '2026-05-11'
 related: []
 sources:

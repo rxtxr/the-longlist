@@ -2,6 +2,43 @@
 confidence: high
 era: 1989-2000
 id: claudia_schiffer
+images:
+- artist: regina11163
+  caption: claudia
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/143917955@N07/27438557526
+  thumb_url: https://api.openverse.org/v1/images/f42b2bfe-33b8-45b9-998d-cc2dee0af9bc/thumb/
+  type: image
+  url: https://live.staticflickr.com/7290/27438557526_17ffbf9c6b_b.jpg
+  width: 745
+- artist: '''guerrilla'' strategy'
+  caption: 'fotografiska | Claudia Schiffer dans la salle de bains du Terminus Est,
+    mars 1999, Paris | by Bettina Rheims, celebrity portrait photographer | #photo'
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/64117994@N04/26953494106
+  thumb_url: https://api.openverse.org/v1/images/3bc4f8a1-8dd3-4e5c-bad9-c4f7cec31bf0/thumb/
+  type: image
+  url: https://live.staticflickr.com/7727/26953494106_17ebcf4a89_b.jpg
+  width: 820
+- artist: ''
+  caption: Claudia Schiffer and the J12 Watch. It’s All About Seconds – CHANEL Watches
+  copyright_status: youtube
+  duration: '1:00'
+  embed_url: https://www.youtube-nocookie.com/embed/6l1-gocYk90
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=6l1-gocYk90
+  thumb_url: https://img.youtube.com/vi/6l1-gocYk90/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=6l1-gocYk90
+  video_id: 6l1-gocYk90
 last_updated: '2026-05-11'
 related: []
 sources:

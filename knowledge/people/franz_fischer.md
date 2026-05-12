@@ -2,6 +2,31 @@
 confidence: medium
 era: 1950-1975
 id: franz_fischer
+images:
+- artist: Piano Piano!
+  caption: Backside Mozart - Piano Concerto No.22 KV482, Konzertrondo KV382,KV386
+    - Jorg Demus & Annie Fischer Piano, Bayerisches Staatsorch., Ferenc Fricsay &
+    R
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/11076844@N00/4162092703
+  thumb_url: https://api.openverse.org/v1/images/0417314b-5780-4ede-948e-e64b2d60c737/thumb/
+  type: image
+  url: https://live.staticflickr.com/2728/4162092703_3df1ae99c9_b.jpg
+  width: 1024
+- artist: unbekannt
+  caption: Johann Franz Edler von Hieber
+  copyright_status: public_domain
+  height: 3371
+  license: CC0 1.0
+  source_label: OpenVerse / rawpixel
+  source_url: https://www.rawpixel.com/image/14017121/johann-franz-edler-von-hieber-lithograph-fischer-1839
+  thumb_url: https://api.openverse.org/v1/images/cb634f61-dd94-4f83-be56-f947e6d16927/thumb/
+  type: image
+  url: https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2xyL3djeGJ0aHhyaGYtaW1hZ2UuanBn.jpg
+  width: 2330
 last_updated: '2026-05-11'
 related: []
 sources:

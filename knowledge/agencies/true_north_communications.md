@@ -2,6 +2,42 @@
 confidence: low
 era: 1989-2001
 id: true_north_communications
+images:
+- artist: chris.rycroft
+  caption: Sidewalk outside True North Community Cafe
+  copyright_status: clear_cc
+  height: 671
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/193316968@N06/53570115533
+  thumb_url: https://api.openverse.org/v1/images/4b0fbdaf-3a1a-41dd-9d34-cd65644e3c9f/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/53570115533_54714a4b34_b.jpg
+  width: 1024
+- artist: chris.rycroft
+  caption: True North Community Cafe
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/193316968@N06/53570353100
+  thumb_url: https://api.openverse.org/v1/images/52849158-a5aa-4965-a3ef-95464b33a406/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/53570353100_31dd5cdb48_b.jpg
+  width: 708
+- artist: ''
+  caption: How One Company Finds their True North to Guide Decision Making & Action
+  copyright_status: youtube
+  duration: '2:49'
+  embed_url: https://www.youtube-nocookie.com/embed/6eDQV7GTVrw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=6eDQV7GTVrw
+  thumb_url: https://img.youtube.com/vi/6eDQV7GTVrw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=6eDQV7GTVrw
+  video_id: 6eDQV7GTVrw
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,29 @@
 confidence: low
 era: 1945-1990
 id: schule_fuer_gestaltung_basel
+images:
+- artist: Manuel Schmalstieg
+  caption: Schule für Gestaltung Basel Jean Arp sculpture 3
+  copyright_status: clear_cc
+  height: 3648
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=70188364
+  thumb_url: https://api.openverse.org/v1/images/9e539cd3-d8e7-4319-8966-7d0959dacc79/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/be/Schule_f%C3%BCr_Gestaltung_Basel_Jean_Arp_sculpture_3.jpg
+  width: 5472
+- artist: EinDao
+  caption: Bausteinsäule von Hans Arp, Schule für Gestaltung Basel 5
+  copyright_status: clear_cc
+  height: 1676
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=82988341
+  thumb_url: https://api.openverse.org/v1/images/48908758-cc53-4699-95f4-2366ebf67abe/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/1/13/Bausteins%C3%A4ule_von_Hans_Arp%2C_Schule_f%C3%BCr_Gestaltung_Basel_5.jpg
+  width: 1257
 last_updated: '2026-05-11'
 related: []
 sources:

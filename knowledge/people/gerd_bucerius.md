@@ -2,6 +2,32 @@
 confidence: low
 era: 1946-1995
 id: gerd_bucerius
+images:
+- artist: CDU
+  caption: File:KAS-Bucerius, Gerd-Bild-422-1.jpg
+  copyright_status: clear_cc
+  height: 1124
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=30220622
+  thumb_url: https://api.openverse.org/v1/images/b1feddaa-4f02-4819-8167-3bfa12e89733/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e8/KAS-Bucerius%2C_Gerd-Bild-422-1.jpg
+  width: 793
+- artist: ''
+  caption: Podiumsdiskussion mit Fritz Bauer, Gerd Bucerius, Ralf Dahrendorf u.A.
+    (Teil 1 von 2)
+  copyright_status: youtube
+  duration: '31:39'
+  embed_url: https://www.youtube-nocookie.com/embed/ZIBVWzoOMKo
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ZIBVWzoOMKo
+  thumb_url: https://img.youtube.com/vi/ZIBVWzoOMKo/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ZIBVWzoOMKo
+  video_id: ZIBVWzoOMKo
 last_updated: '2026-05-11'
 related: []
 sources:

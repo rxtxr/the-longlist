@@ -2,6 +2,20 @@
 confidence: low
 era: 1982-present
 id: bartle_bogle_hegarty
+images:
+- artist: ''
+  caption: "Sir John Hegarty, Founder of BBH \U0001F30A  the origin of ideas \U0001F30A"
+  copyright_status: youtube
+  duration: 0:52
+  embed_url: https://www.youtube-nocookie.com/embed/-nhRJMQFckg
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=-nhRJMQFckg
+  thumb_url: https://img.youtube.com/vi/-nhRJMQFckg/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=-nhRJMQFckg
+  video_id: -nhRJMQFckg
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,20 @@
 confidence: low
 era: 1948-1989
 id: david_ogilvy_der_werbe_guru
+images:
+- artist: ''
+  caption: 'David Ogilvy: Essentials'
+  copyright_status: youtube
+  duration: '4:04'
+  embed_url: https://www.youtube-nocookie.com/embed/yj9rokSeack
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=yj9rokSeack
+  thumb_url: https://img.youtube.com/vi/yj9rokSeack/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=yj9rokSeack
+  video_id: yj9rokSeack
 last_updated: '2026-05-11'
 related: []
 sources:

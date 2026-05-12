@@ -2,6 +2,29 @@
 confidence: low
 era: 1984-2010
 id: ogilvyone
+images:
+- artist: antony_mayfield
+  caption: Panos Sabrakos (OgilvyOne), Online Marketing 09, Athens
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/31433424@N00/3601194316
+  thumb_url: https://api.openverse.org/v1/images/9e6b6900-71db-4845-9df7-280fcba771bf/thumb/
+  type: image
+  url: https://live.staticflickr.com/2447/3601194316_ae3f12a140_b.jpg
+  width: 768
+- artist: perininetworks
+  caption: The OgilvyOne team
+  copyright_status: clear_cc
+  height: 685
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/52469915@N05/5737541616
+  thumb_url: https://api.openverse.org/v1/images/0f46e176-b7a1-4b8f-a232-4632651010e9/thumb/
+  type: image
+  url: https://live.staticflickr.com/5068/5737541616_5af71f64eb_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

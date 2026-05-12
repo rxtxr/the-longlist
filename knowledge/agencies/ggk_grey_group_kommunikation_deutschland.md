@@ -2,6 +2,42 @@
 confidence: high
 era: 1973-2009
 id: ggk_grey_group_kommunikation_deutschland
+images:
+- artist: Drewski2112
+  caption: GOL PR-GGK
+  copyright_status: clear_cc
+  height: 681
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/42809587@N00/2343547657
+  thumb_url: https://api.openverse.org/v1/images/cdf987f4-d58d-4089-856b-6c191481cfd9/thumb/
+  type: image
+  url: https://live.staticflickr.com/2243/2343547657_69980274c3_b.jpg
+  width: 1024
+- artist: Rizuan
+  caption: 11th CTR GGK 56th NDP
+  copyright_status: clear_cc
+  height: 4288
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=28030153
+  thumb_url: https://api.openverse.org/v1/images/d556907d-9acb-43bd-9f0b-b14c8a400fc9/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/9/92/11th_CTR_GGK_56th_NDP.JPG
+  width: 3216
+- artist: ''
+  caption: DISCOVERING THE DIGITAL STRATEGY BEHIND GGK AND CRUX DIGITAL
+  copyright_status: youtube
+  duration: '22:54'
+  embed_url: https://www.youtube-nocookie.com/embed/BVUfwuLG3N0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=BVUfwuLG3N0
+  thumb_url: https://img.youtube.com/vi/BVUfwuLG3N0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=BVUfwuLG3N0
+  video_id: BVUfwuLG3N0
 last_updated: '2026-05-11'
 related: []
 sources:

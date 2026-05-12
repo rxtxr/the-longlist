@@ -2,6 +2,42 @@
 confidence: low
 era: 1864-2019
 id: j_walter_thompson_jwt_die_aelteste_werbeagentur
+images:
+- artist: Jorge Lascar
+  caption: The Intihuatana stone, damaged by JWT when filming and ad campaign here
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/8721758@N06/4548727214
+  thumb_url: https://api.openverse.org/v1/images/700345f6-4c3a-49c1-97c2-bdb10a082a1c/thumb/
+  type: image
+  url: https://live.staticflickr.com/4064/4548727214_8fb7b7bd46_b.jpg
+  width: 680
+- artist: miskan
+  caption: J. Walther Thompson
+  copyright_status: clear_cc
+  height: 333
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/37084659@N00/3315962
+  thumb_url: https://api.openverse.org/v1/images/9d7607f8-ba85-455a-b33f-ef6f2e1c994e/thumb/
+  type: image
+  url: https://live.staticflickr.com/1/3315962_eddde044bd.jpg
+  width: 500
+- artist: ''
+  caption: JWT Historical Next Chapter
+  copyright_status: youtube
+  duration: '1:53'
+  embed_url: https://www.youtube-nocookie.com/embed/mbiwYFoQ09A
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=mbiwYFoQ09A
+  thumb_url: https://img.youtube.com/vi/mbiwYFoQ09A/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=mbiwYFoQ09A
+  video_id: mbiwYFoQ09A
 last_updated: '2026-05-11'
 related: []
 sources:

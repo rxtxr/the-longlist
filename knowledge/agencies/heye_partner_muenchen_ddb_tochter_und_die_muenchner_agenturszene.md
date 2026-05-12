@@ -2,6 +2,7 @@
 confidence: low
 era: 1955-2005
 id: heye_partner_muenchen_ddb_tochter_und_die_muenchner_agenturszene
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

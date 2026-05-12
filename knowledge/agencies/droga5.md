@@ -2,6 +2,18 @@
 confidence: high
 era: 2006-2019
 id: droga5
+images:
+- artist: Droga5
+  caption: D5 LOGO BLUE
+  copyright_status: clear_cc
+  height: 873
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AD5%20LOGO%20BLUE.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/D5_LOGO_BLUE.png/500px-D5_LOGO_BLUE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/0/06/D5_LOGO_BLUE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1429
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,43 @@
 confidence: high
 era: 1996-2020
 id: under_armour
+images:
+- artist: Scroogebz
+  caption: Ebenezer Addo-Kufuor pictured during a promotional shoot for the Rising
+    Ballers × Under Armour collaboration in 2025. The image was taken inside a foo
+  copyright_status: clear_cc
+  height: 7952
+  license: CC BY 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AEbenezer%20Addo-Kufuor%20Rising%20Ballers%20x%20Under%20Armour%202025.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ebenezer_Addo-Kufuor_Rising_Ballers_x_Under_Armour_2025.jpg/500px-Ebenezer_Addo-Kufuor_Rising_Ballers_x_Under_Armour_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e1/Ebenezer_Addo-Kufuor_Rising_Ballers_x_Under_Armour_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 5304
+- artist: Under Armour Japan
+  caption: Mick Schumacher in 2021 in an Under Armour Ad
+  copyright_status: clear_cc
+  height: 557
+  license: CC BY 3.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AMick%20Schumacher%20ad%20Under%20Armour.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Mick_Schumacher_ad_Under_Armour.jpg/500px-Mick_Schumacher_ad_Under_Armour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/a/ab/Mick_Schumacher_ad_Under_Armour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 518
+- artist: ''
+  caption: 'The rise and fall of Under Armour: How a $20B brand lost its cool'
+  copyright_status: youtube
+  duration: '12:08'
+  embed_url: https://www.youtube-nocookie.com/embed/b8oj6L03PrU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=b8oj6L03PrU
+  thumb_url: https://img.youtube.com/vi/b8oj6L03PrU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=b8oj6L03PrU
+  video_id: b8oj6L03PrU
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,20 @@
 confidence: low
 era: 1988-present
 id: zenith_media
+images:
+- artist: ''
+  caption: Why CREATIVE Is Media's Biggest Blind Spot
+  copyright_status: youtube
+  duration: '48:58'
+  embed_url: https://www.youtube-nocookie.com/embed/MQQrxiCP2Vs
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=MQQrxiCP2Vs
+  thumb_url: https://img.youtube.com/vi/MQQrxiCP2Vs/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=MQQrxiCP2Vs
+  video_id: MQQrxiCP2Vs
 last_updated: '2026-05-11'
 related: []
 sources:

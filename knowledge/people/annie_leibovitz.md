@@ -2,6 +2,42 @@
 confidence: medium
 era: 1970-present
 id: annie_leibovitz
+images:
+- artist: Andrew Explores
+  caption: 'The most beautiful (and largest) book I''ve seen: Annie Leibovitz portraits'
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/43528990@N03/28752643242
+  thumb_url: https://api.openverse.org/v1/images/3683de4d-4b5f-4fe0-89c5-8421e3d73d04/thumb/
+  type: image
+  url: https://live.staticflickr.com/8572/28752643242_bea51c0390_b.jpg
+  width: 768
+- artist: Andrew Explores
+  caption: 'The most beautiful (and largest) book I''ve seen: Annie Leibovitz portraits'
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/43528990@N03/28573106580
+  thumb_url: https://api.openverse.org/v1/images/f9453784-ed51-40ab-9365-fa99930f44be/thumb/
+  type: image
+  url: https://live.staticflickr.com/8862/28573106580_7d4baeeed9_b.jpg
+  width: 768
+- artist: ''
+  caption: 'TIME Magazine Interviews: Annie Leibovitz'
+  copyright_status: youtube
+  duration: '5:52'
+  embed_url: https://www.youtube-nocookie.com/embed/xRhbqtV6RcA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=xRhbqtV6RcA
+  thumb_url: https://img.youtube.com/vi/xRhbqtV6RcA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=xRhbqtV6RcA
+  video_id: xRhbqtV6RcA
 last_updated: '2026-05-11'
 related: []
 sources:

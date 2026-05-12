@@ -2,6 +2,42 @@
 confidence: low
 era: 1934-1958
 id: alexey_brodovitch
+images:
+- artist: Unknown authorUnknown author
+  caption: Alexey Brodovitch at his desk in France
+  copyright_status: public_domain
+  height: 950
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAlexey%20Brodovitch%201950.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alexey_Brodovitch_1950.jpg/500px-Alexey_Brodovitch_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Alexey_Brodovitch_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 740
+- artist: Unknown authorUnknown author
+  caption: Alexey Brodovitch at his desk in France
+  copyright_status: public_domain
+  height: 666
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAlexey%20Brodovitch%201950cr.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Alexey_Brodovitch_1950cr.jpg/500px-Alexey_Brodovitch_1950cr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f4/Alexey_Brodovitch_1950cr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 522
+- artist: ''
+  caption: Milton Glaser and Alexey Brodovitch MiniLecture
+  copyright_status: youtube
+  duration: '9:00'
+  embed_url: https://www.youtube-nocookie.com/embed/3WiUxxJnxRQ
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=3WiUxxJnxRQ
+  thumb_url: https://img.youtube.com/vi/3WiUxxJnxRQ/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=3WiUxxJnxRQ
+  video_id: 3WiUxxJnxRQ
 last_updated: '2026-05-11'
 related: []
 sources:

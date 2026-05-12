@@ -2,6 +2,7 @@
 confidence: medium
 era: 1953-1990
 id: zweigelt_co
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

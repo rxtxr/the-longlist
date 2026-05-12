@@ -2,6 +2,42 @@
 confidence: medium
 era: 1977-1998
 id: helmut_lang
+images:
+- artist: Kent Wang
+  caption: Helmut Lang, 8 months
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/27454212@N00/204623256
+  thumb_url: https://api.openverse.org/v1/images/15c21490-399d-4075-8c49-97af2d57fc28/thumb/
+  type: image
+  url: https://live.staticflickr.com/65/204623256_12db378ac2_b.jpg
+  width: 583
+- artist: Kent Wang
+  caption: Helmut Lang, 8 months
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/27454212@N00/204624128
+  thumb_url: https://api.openverse.org/v1/images/e72a3706-c724-4de3-b51c-59fcc6aa84ef/thumb/
+  type: image
+  url: https://live.staticflickr.com/63/204624128_dd08b55fdd_b.jpg
+  width: 609
+- artist: ''
+  caption: The Rise and Fall of Helmut Lang
+  copyright_status: youtube
+  duration: '23:19'
+  embed_url: https://www.youtube-nocookie.com/embed/BmEH4ejkAE8
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=BmEH4ejkAE8
+  thumb_url: https://img.youtube.com/vi/BmEH4ejkAE8/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=BmEH4ejkAE8
+  video_id: BmEH4ejkAE8
 last_updated: '2026-05-11'
 related: []
 sources:

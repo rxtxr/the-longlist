@@ -2,6 +2,44 @@
 confidence: low
 era: 1984-2010
 id: vodafone
+images:
+- artist: Pam Brophy
+  caption: 'Newbury: New Vodafone Headquarters. This HQ is situated in the north western
+    section of the grid square and the picture was taken from the west side o'
+  copyright_status: clear_cc
+  height: 480
+  license: CC BY-SA 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ANewbury%2C%20New%20Vodafone%20Headquarters%20-%20geograph.org.uk%20-%205590.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Newbury%2C_New_Vodafone_Headquarters_-_geograph.org.uk_-_5590.jpg/500px-Newbury%2C_New_Vodafone_Headquarters_-_geograph.org.uk_-_5590.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e9/Newbury%2C_New_Vodafone_Headquarters_-_geograph.org.uk_-_5590.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 640
+- artist: Mtaylor848
+  caption: Three and Vodafone, Cambridge Street, Harrogate, North Yorkshire.  Taken
+    on the afternoon of Sunday the 11th June 2023.
+  copyright_status: clear_cc
+  height: 3864
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AThree%20and%20Vodafone%2C%20Cambridge%20Street%2C%20Harrogate%20%2811th%20June%202023%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Three_and_Vodafone%2C_Cambridge_Street%2C_Harrogate_%2811th_June_2023%29.jpg/500px-Three_and_Vodafone%2C_Cambridge_Street%2C_Harrogate_%2811th_June_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Three_and_Vodafone%2C_Cambridge_Street%2C_Harrogate_%2811th_June_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 5152
+- artist: ''
+  caption: 'Vodafone Global Enterprise: A timeline of our history'
+  copyright_status: youtube
+  duration: '4:24'
+  embed_url: https://www.youtube-nocookie.com/embed/AOyAFKrUATI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=AOyAFKrUATI
+  thumb_url: https://img.youtube.com/vi/AOyAFKrUATI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=AOyAFKrUATI
+  video_id: AOyAFKrUATI
 last_updated: '2026-05-11'
 related: []
 sources:

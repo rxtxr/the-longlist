@@ -2,6 +2,20 @@
 confidence: low
 era: 1986-present
 id: tbwa_media_arts_lab
+images:
+- artist: ''
+  caption: Apple Mac Computer Commercial Ad 2010 TBWA Media Arts Lab
+  copyright_status: youtube
+  duration: 0:32
+  embed_url: https://www.youtube-nocookie.com/embed/_LcZbjsTSt8
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=_LcZbjsTSt8
+  thumb_url: https://img.youtube.com/vi/_LcZbjsTSt8/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=_LcZbjsTSt8
+  video_id: _LcZbjsTSt8
 last_updated: '2026-05-11'
 related: []
 sources:

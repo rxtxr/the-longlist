@@ -2,6 +2,7 @@
 confidence: medium
 era: 1970-2010
 id: bbdo_germany_duesseldorf
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

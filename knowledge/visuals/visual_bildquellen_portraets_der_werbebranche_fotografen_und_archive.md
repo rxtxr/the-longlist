@@ -6,6 +6,7 @@ era_from: 1920
 era_to: 1990
 geo_region: madison_avenue
 id: visual_bildquellen_portraets_der_werbebranche_fotografen_und_archive
+images: []
 last_updated: '2026-05-10'
 related: []
 sources: []

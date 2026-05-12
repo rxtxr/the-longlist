@@ -2,6 +2,7 @@
 confidence: low
 era: 1955-1970
 id: die_kreative_revolution_der_1960er_jahre
+images: []
 last_updated: '2026-05-11'
 related: []
 sources: []
@@ -40,3 +41,6 @@ Historisches Bildmaterial umfasst:
 - Originale Printanzeigen wie „Think Small“ (1959) [ungesichert]
 - Porträts der Schlüsselfiguren [ungesichert]
 - Archivbilder von Werbespots im Fernsehen [ungesichert]
+
+## Web-Quellen:
+(keine Web-Quellen)

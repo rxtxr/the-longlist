@@ -8,34 +8,25 @@ images:
   copyright_status: clear_cc
   height: 900
   license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AAcquity%20Group%20Headquarters%20in%20Ogilvie%20Station%2C%20Chicago%2C%20IL.jpg
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAcquity%20Group%20Headquarters%20in%20Ogilvie%20Station%2C%20Chicago%2C%20IL.jpg
   thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Acquity_Group_Headquarters_in_Ogilvie_Station%2C_Chicago%2C_IL.jpg/500px-Acquity_Group_Headquarters_in_Ogilvie_Station%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
   url: https://upload.wikimedia.org/wikipedia/commons/9/98/Acquity_Group_Headquarters_in_Ogilvie_Station%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
   width: 662
-- artist: Central Intelligence Agency
-  caption: 'Scope and content:  This series consists of various records. Most of the
-    materials relate to people in one, or both, of two categories: Axis personnel'
-  copyright_status: public_domain
-  height: 1770
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3ADJUJIC%2C%20MOMCILO.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DJUJIC%2C_MOMCILO.pdf/page1-500px-DJUJIC%2C_MOMCILO.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/4/42/DJUJIC%2C_MOMCILO.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1268
-- artist: Kats, J
-  caption: 'Temple reliefs used were in Prambanan group of temples and the Panataran
-    group of temples
-
-    Mode of access: Internet
-
-    Subjects: Temples; Relief (Sculptur'
-  copyright_status: public_domain
-  height: 1545
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AHet%20R%C3%A2m%C3%A2yana%20op%20Javaansche%20tempel%20reliefs%20%3D%20The%20Ramayana%20as%20sculptured%20in%20reliefs%20in%20Javanese%20temples%20%28IA%20aam3338.0001.001.umich.edu%29.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Het_R%C3%A2m%C3%A2yana_op_Javaansche_tempel_reliefs_%3D_The_Ramayana_as_sculptured_in_reliefs_in_Javanese_temples_%28IA_aam3338.0001.001.umich.edu%29.pdf/page1-500px-Het_R%C3%A2m%C3%A2yana_op_Javaansche_tempel_reliefs_%3D_The_Ramayana_as_sculptured_in_reliefs_in_Javanese_temples_%28IA_aam3338.0001.001.umich.edu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/3/37/Het_R%C3%A2m%C3%A2yana_op_Javaansche_tempel_reliefs_%3D_The_Ramayana_as_sculptured_in_reliefs_in_Javanese_temples_%28IA_aam3338.0001.001.umich.edu%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1295
+- artist: ''
+  caption: Acquity Group Uses Rackspace Advisory Services
+  copyright_status: youtube
+  duration: '4:09'
+  embed_url: https://www.youtube-nocookie.com/embed/GkhHzlGOrBk
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=GkhHzlGOrBk
+  thumb_url: https://img.youtube.com/vi/GkhHzlGOrBk/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=GkhHzlGOrBk
+  video_id: GkhHzlGOrBk
 last_updated: '2026-05-11'
 related: []
 sources:

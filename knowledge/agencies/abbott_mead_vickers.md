@@ -3,36 +3,23 @@ confidence: medium
 era: 1977-2010
 id: abbott_mead_vickers
 images:
-- artist: Kalai Ramu
-  caption: Actress Golshifteh Farahani receives the Excellence Award Davide Campari
-    at the 78th Locarno Film Festival
-  copyright_status: clear_cc
-  height: 3433
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AActress%20Golshifteh%20Farahani%20receives%20the%20Excellence%20Award%20Davide%20Campari%2002.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Actress_Golshifteh_Farahani_receives_the_Excellence_Award_Davide_Campari_02.jpg/500px-Actress_Golshifteh_Farahani_receives_the_Excellence_Award_Davide_Campari_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fd/Actress_Golshifteh_Farahani_receives_the_Excellence_Award_Davide_Campari_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2289
-- artist: Kalai Ramu
-  caption: Actress Golshifteh Farahani receives the Excellence Award Davide Campari
-    at the 78th Locarno Film Festival
-  copyright_status: clear_cc
-  height: 2434
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AActress%20Golshifteh%20Farahani%20receives%20the%20Excellence%20Award%20Davide%20Campari%2003.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Actress_Golshifteh_Farahani_receives_the_Excellence_Award_Davide_Campari_03.jpg/500px-Actress_Golshifteh_Farahani_receives_the_Excellence_Award_Davide_Campari_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d8/Actress_Golshifteh_Farahani_receives_the_Excellence_Award_Davide_Campari_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3651
-- artist: Kalai Ramu
-  caption: Actress Golshifteh Farahani receives the Excellence Award Davide Campari
-    at the 78th Locarno Film Festival
-  copyright_status: clear_cc
-  height: 3659
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AActress%20Golshifteh%20Farahani%20receives%20the%20Excellence%20Award%20Davide%20Campari%2004.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Actress_Golshifteh_Farahani_receives_the_Excellence_Award_Davide_Campari_04.jpg/500px-Actress_Golshifteh_Farahani_receives_the_Excellence_Award_Davide_Campari_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/b/bf/Actress_Golshifteh_Farahani_receives_the_Excellence_Award_Davide_Campari_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2439
+- artist: Abbott, Harry, 1857-1898
+  caption: 'Half title: Abbott on the railway law of Canada
+
+    Includes bibliographical references
+
+    Includes indexes
+
+    Filmed from a copy of the original publication he'
+  copyright_status: public_domain
+  height: 1370
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AA%20treatise%20on%20the%20railway%20law%20of%20Canada%20%28microform%29%20-%20embracing%20constitutional%20law%2C%20the%20law%20of%20corporations%2C%20railway%20securities%2C%20eminent%20domain%2C%20contracts%2C%20common%20carriers%2C%20negligence%2C%20damages%20%28IA%20cihm%2010500%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_treatise_on_the_railway_law_of_Canada_%28microform%29_-_embracing_constitutional_law%2C_the_law_of_corporations%2C_railway_securities%2C_eminent_domain%2C_contracts%2C_common_carriers%2C_negligence%2C_damages_%28IA_cihm_10500%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/4/47/A_treatise_on_the_railway_law_of_Canada_%28microform%29_-_embracing_constitutional_law%2C_the_law_of_corporations%2C_railway_securities%2C_eminent_domain%2C_contracts%2C_common_carriers%2C_negligence%2C_damages_%28IA_cihm_10500%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1145
 last_updated: '2026-05-11'
 related: []
 sources:

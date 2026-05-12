@@ -2,6 +2,42 @@
 confidence: low
 era: 1920-1990
 id: general_motors_der_groesste_werbeauftraggeber_der_geschichte
+images:
+- artist: aldenjewell
+  caption: 1993 General Motors (GM) Impact
+  copyright_status: clear_cc
+  height: 777
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/31411679@N08/15136576649
+  thumb_url: https://api.openverse.org/v1/images/bb429878-6303-482b-b08d-ac161c23a603/thumb/
+  type: image
+  url: https://live.staticflickr.com/2943/15136576649_a2d892f01d_b.jpg
+  width: 1024
+- artist: SenseiAlan
+  caption: 1968 General Motors Advertisement Road & Track December 1967
+  copyright_status: clear_cc
+  height: 672
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/91591049@N00/14541300532
+  thumb_url: https://api.openverse.org/v1/images/4d0c61d1-2365-460a-9ee3-f82faffb8cac/thumb/
+  type: image
+  url: https://live.staticflickr.com/5518/14541300532_2403ece631_b.jpg
+  width: 1024
+- artist: ''
+  caption: General Motors founded 1908-2020 by William C. Durant
+  copyright_status: youtube
+  duration: '3:01'
+  embed_url: https://www.youtube-nocookie.com/embed/W4CRfksxGmY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=W4CRfksxGmY
+  thumb_url: https://img.youtube.com/vi/W4CRfksxGmY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=W4CRfksxGmY
+  video_id: W4CRfksxGmY
 last_updated: '2026-05-11'
 related: []
 sources:

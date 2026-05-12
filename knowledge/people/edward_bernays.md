@@ -2,6 +2,31 @@
 confidence: medium
 era: 1910-1995
 id: edward_bernays
+images:
+- artist: Bain News Service
+  caption: Edward Bernays in 1917.
+  copyright_status: public_domain
+  height: 503
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AEdward%20Bernays%20cropped.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/6/61/Edward_Bernays_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/6/61/Edward_Bernays_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 403
+- artist: ''
+  caption: 'Edward Bernays: how we are governed by modern propaganda.'
+  copyright_status: youtube
+  duration: '7:20'
+  embed_url: https://www.youtube-nocookie.com/embed/oOBWUOg1tDk
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=oOBWUOg1tDk
+  thumb_url: https://img.youtube.com/vi/oOBWUOg1tDk/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=oOBWUOg1tDk
+  video_id: oOBWUOg1tDk
 last_updated: '2026-05-11'
 related: []
 sources:

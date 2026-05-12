@@ -2,6 +2,7 @@
 confidence: low
 era: 1999-2020
 id: alexander_samwer
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

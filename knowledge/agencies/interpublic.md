@@ -2,6 +2,43 @@
 confidence: low
 era: 1961-present
 id: interpublic
+images:
+- artist: Galaga Gal
+  caption: Evolving Role of The Holding Company - Michael Roth - Chariman and Executive
+    Officer - Interpublic Group
+  copyright_status: clear_cc
+  height: 682
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/99101155@N00/167873014
+  thumb_url: https://api.openverse.org/v1/images/093aa1c8-2971-4f9c-812b-180497806651/thumb/
+  type: image
+  url: https://live.staticflickr.com/70/167873014_b221d980c6_b.jpg
+  width: 1024
+- artist: Galaga Gal
+  caption: Michael Roth - Chariman and Executive Officer - Interpublic Group 2
+  copyright_status: clear_cc
+  height: 682
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/99101155@N00/167872987
+  thumb_url: https://api.openverse.org/v1/images/949f9700-227b-4a32-b80d-b1378a42925b/thumb/
+  type: image
+  url: https://live.staticflickr.com/47/167872987_69754b6f35_b.jpg
+  width: 1024
+- artist: ''
+  caption: 'Under Interpublic Group (IPG): Top Agencies Revealed!'
+  copyright_status: youtube
+  duration: '9:44'
+  embed_url: https://www.youtube-nocookie.com/embed/iXCUXiWiyWg
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=iXCUXiWiyWg
+  thumb_url: https://img.youtube.com/vi/iXCUXiWiyWg/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=iXCUXiWiyWg
+  video_id: iXCUXiWiyWg
 last_updated: '2026-05-11'
 related: []
 sources:

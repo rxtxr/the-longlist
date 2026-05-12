@@ -2,6 +2,20 @@
 confidence: medium
 era: 1968-1990
 id: team_bbdo
+images:
+- artist: ''
+  caption: 'BBDO''s Robertson Says Digital `Critical Part'' of Media: Video'
+  copyright_status: youtube
+  duration: '2:27'
+  embed_url: https://www.youtube-nocookie.com/embed/kLRL-p6Bk5k
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=kLRL-p6Bk5k
+  thumb_url: https://img.youtube.com/vi/kLRL-p6Bk5k/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=kLRL-p6Bk5k
+  video_id: kLRL-p6Bk5k
 last_updated: '2026-05-11'
 related: []
 sources:

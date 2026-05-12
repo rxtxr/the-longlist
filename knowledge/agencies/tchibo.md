@@ -2,6 +2,42 @@
 confidence: high
 era: 1949-2010
 id: tchibo
+images:
+- artist: Uwe Hermann
+  caption: Tchibo ecobutton PCB front
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/73628542@N00/4969041252
+  thumb_url: https://api.openverse.org/v1/images/c2e74dff-fac2-4ac5-8129-aad58c92938c/thumb/
+  type: image
+  url: https://live.staticflickr.com/4087/4969041252_c3652cfe6b_b.jpg
+  width: 1024
+- artist: herr.g
+  caption: Tchibo geschlossen
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/31190570@N06/49675953927
+  thumb_url: https://api.openverse.org/v1/images/db9050f3-6064-4cd6-930e-ec958193aad9/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/49675953927_5acb31d5c6_b.jpg
+  width: 768
+- artist: ''
+  caption: The History of Tchibo
+  copyright_status: youtube
+  duration: '1:07'
+  embed_url: https://www.youtube-nocookie.com/embed/m2Ha1jswryU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=m2Ha1jswryU
+  thumb_url: https://img.youtube.com/vi/m2Ha1jswryU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=m2Ha1jswryU
+  video_id: m2Ha1jswryU
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,19 @@
 confidence: low
 era: 1929-2002
 id: dmb_b
+images:
+- artist: unbekannt
+  caption: The male sign with a condom on the arrow representing an advertisement
+    for the New Zealand AIDS Foundation. Colour lithograph by DMB&B NZ and Rob Poul
+  copyright_status: clear_cc
+  height: null
+  license: CC BY-NC 4.0
+  source_label: OpenVerse / wellcome_collection
+  source_url: https://wellcomecollection.org/works/xgn95rxu
+  thumb_url: https://api.openverse.org/v1/images/4df4c8d7-6305-4bdb-9d1f-d1eb762d9f59/thumb/
+  type: image
+  url: https://iiif.wellcomecollection.org/image/L0053042.jpg/full/512,/0/default.jpg
+  width: null
 last_updated: '2026-05-11'
 related: []
 sources:

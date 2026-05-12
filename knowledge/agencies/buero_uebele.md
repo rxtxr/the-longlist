@@ -2,6 +2,7 @@
 confidence: medium
 era: 1990-2010
 id: buero_uebele
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

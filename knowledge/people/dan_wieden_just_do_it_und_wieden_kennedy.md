@@ -2,6 +2,31 @@
 confidence: low
 era: 1982-2022
 id: dan_wieden_just_do_it_und_wieden_kennedy
+images:
+- artist: Sam Beebe
+  caption: Dan Wieden 2014
+  copyright_status: clear_cc
+  height: 1602
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=33822012
+  thumb_url: https://api.openverse.org/v1/images/369af805-56a5-4f39-88ed-51d79275436c/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/84/Dan_Wieden_2014.jpg
+  width: 2136
+- artist: ''
+  caption: Dan Wieden of Wieden+Kennedy Interview
+  copyright_status: youtube
+  duration: '3:35'
+  embed_url: https://www.youtube-nocookie.com/embed/IjYsYggcMTE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=IjYsYggcMTE
+  thumb_url: https://img.youtube.com/vi/IjYsYggcMTE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=IjYsYggcMTE
+  video_id: IjYsYggcMTE
 last_updated: '2026-05-11'
 related: []
 sources:

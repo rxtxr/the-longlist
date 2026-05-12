@@ -3,35 +3,41 @@ confidence: low
 era: 1982-present
 id: wieden_kennedy_dan_wieden_nike_und_das_modell_der_unabhaengigen_agentur
 images:
-- artist: Another Believer
-  caption: Looking up at the ceiling and bird's nest at Wieden+Kennedy in downtown
-    Portland, Oregon in 2012
+- artist: mrrobertwade (wadey)
+  caption: '''Lurpak'' Advert by Wieden + Kennedy London'
   copyright_status: clear_cc
-  height: 3000
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AWieden%2BKennedy%2C%20Portland%2C%20OR%20-%20ceiling%2C%20nest.JPG
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wieden%2BKennedy%2C_Portland%2C_OR_-_ceiling%2C_nest.JPG/500px-Wieden%2BKennedy%2C_Portland%2C_OR_-_ceiling%2C_nest.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/9/95/Wieden%2BKennedy%2C_Portland%2C_OR_-_ceiling%2C_nest.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4000
-- artist: Another Believer
-  caption: Wieden+Kennedy in downtown Portland, Oregon in 2012
+  height: 250
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/83484306@N00/5699144113
+  thumb_url: https://api.openverse.org/v1/images/d8076fe0-c003-42b4-8e13-a1390290b8dd/thumb/
+  type: image
+  url: https://live.staticflickr.com/3532/5699144113_0e6e82b4c6.jpg
+  width: 500
+- artist: ottonassar
+  caption: web recomendado wieden + kennedy
   copyright_status: clear_cc
-  height: 3000
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AWieden%2BKennedy%2C%20Portland%2C%20OR%20-%20room.JPG
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wieden%2BKennedy%2C_Portland%2C_OR_-_room.JPG/500px-Wieden%2BKennedy%2C_Portland%2C_OR_-_room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c8/Wieden%2BKennedy%2C_Portland%2C_OR_-_room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4000
-- artist: Another Believer
-  caption: Totem pole and ceiling at Wieden+Kennedy in downtown Portland, Oregon in
-    2012
-  copyright_status: clear_cc
-  height: 4000
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AWieden%2BKennedy%2C%20Portland%2C%20OR%20-%20totem%20pole%2C%20ceiling.JPG
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wieden%2BKennedy%2C_Portland%2C_OR_-_totem_pole%2C_ceiling.JPG/500px-Wieden%2BKennedy%2C_Portland%2C_OR_-_totem_pole%2C_ceiling.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/9/9b/Wieden%2BKennedy%2C_Portland%2C_OR_-_totem_pole%2C_ceiling.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3000
+  height: 442
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/90646759@N00/472849241
+  thumb_url: https://api.openverse.org/v1/images/0a628f4b-ec03-4822-958c-8128bf092d74/thumb/
+  type: image
+  url: https://live.staticflickr.com/213/472849241_e227c2d6c6_b.jpg
+  width: 1024
+- artist: ''
+  caption: Dan Wieden of Wieden+Kennedy Interview
+  copyright_status: youtube
+  duration: '3:35'
+  embed_url: https://www.youtube-nocookie.com/embed/IjYsYggcMTE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=IjYsYggcMTE
+  thumb_url: https://img.youtube.com/vi/IjYsYggcMTE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=IjYsYggcMTE
+  video_id: IjYsYggcMTE
 last_updated: '2026-05-11'
 related: []
 sources:

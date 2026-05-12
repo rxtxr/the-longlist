@@ -2,6 +2,42 @@
 confidence: medium
 era: 1964-1974
 id: alan_parker
+images:
+- artist: Alan Light
+  caption: Sarah Jessica Parker
+  copyright_status: clear_cc
+  height: 500
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/42274165@N00/4225501043
+  thumb_url: https://api.openverse.org/v1/images/63d0ed57-e742-4b2d-b746-34e238114eaf/thumb/
+  type: image
+  url: https://live.staticflickr.com/4034/4225501043_1b11a2d95a.jpg
+  width: 316
+- artist: whatsthatpicture
+  caption: Alan Parker filming a Hamlet advert at Wimbledon, April 1974
+  copyright_status: clear_cc
+  height: 420
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/24469639@N00/14723582239
+  thumb_url: https://api.openverse.org/v1/images/b1069c21-e358-49de-bf9d-b2772e61cf38/thumb/
+  type: image
+  url: https://live.staticflickr.com/3899/14723582239_a4b1e91b2c_b.jpg
+  width: 1024
+- artist: ''
+  caption: Alan Parker on the actor/director dynamic | TCM Interviews | TCM
+  copyright_status: youtube
+  duration: '1:37'
+  embed_url: https://www.youtube-nocookie.com/embed/q0FL2U-q3js
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=q0FL2U-q3js
+  thumb_url: https://img.youtube.com/vi/q0FL2U-q3js/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=q0FL2U-q3js
+  video_id: q0FL2U-q3js
 last_updated: '2026-05-11'
 related: []
 sources:

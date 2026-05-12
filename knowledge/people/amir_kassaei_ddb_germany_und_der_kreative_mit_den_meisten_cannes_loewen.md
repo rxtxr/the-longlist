@@ -2,6 +2,42 @@
 confidence: low
 era: 2000-2014
 id: amir_kassaei_ddb_germany_und_der_kreative_mit_den_meisten_cannes_loewen
+images:
+- artist: King of Catalunya
+  caption: This is Amir Kassaei Portrait
+  copyright_status: clear_cc
+  height: 270
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAmir%20Kassaei.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/b/b2/Amir_Kassaei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b2/Amir_Kassaei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 180
+- artist: Amir Kassaei
+  caption: Amir Kassaei Portrait (2020)
+  copyright_status: clear_cc
+  height: 1081
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAmir%20Kassaei%202020.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amir_Kassaei_2020.jpg/500px-Amir_Kassaei_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7b/Amir_Kassaei_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 764
+- artist: ''
+  caption: Amir Kassaei, Rosie Arnold & Farid Mokart / Out of the Box
+  copyright_status: youtube
+  duration: '49:25'
+  embed_url: https://www.youtube-nocookie.com/embed/tyG5GHR2A08
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=tyG5GHR2A08
+  thumb_url: https://img.youtube.com/vi/tyG5GHR2A08/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=tyG5GHR2A08
+  video_id: tyG5GHR2A08
 last_updated: '2026-05-11'
 related: []
 sources:

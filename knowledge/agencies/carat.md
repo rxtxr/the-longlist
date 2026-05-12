@@ -2,6 +2,29 @@
 confidence: high
 era: 1968-present
 id: carat
+images:
+- artist: Instant Vantage
+  caption: She's Got a Weight Problem...Carat Weight. VOL. Cuff'd
+  copyright_status: clear_cc
+  height: 434
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/44312356@N04/6225991527
+  thumb_url: https://api.openverse.org/v1/images/9f5d8a03-df21-41a6-afa3-b165c322daa3/thumb/
+  type: image
+  url: https://live.staticflickr.com/6165/6225991527_f53580e670_b.jpg
+  width: 1024
+- artist: DVIDSHUB
+  caption: CARAT Malaysia 2013 [Image 2 of 12]
+  copyright_status: clear_cc
+  height: 524
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/28650594@N03/9127760973
+  thumb_url: https://api.openverse.org/v1/images/b37e71ef-3d24-4b8a-a314-bcf3b7e59c9a/thumb/
+  type: image
+  url: https://live.staticflickr.com/5529/9127760973_48e2e83247_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

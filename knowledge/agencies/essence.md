@@ -2,6 +2,31 @@
 confidence: low
 era: 2005-2023
 id: essence
+images:
+- artist: Adjoajo
+  caption: Essence Festival of Culture 2025; New Orleans, Louisiana
+  copyright_status: clear_cc
+  height: 4080
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AEssence%20Authors.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Essence_Authors.jpg/500px-Essence_Authors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/54/Essence_Authors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3060
+- artist: ''
+  caption: The Essence of Advertising
+  copyright_status: youtube
+  duration: '6:54'
+  embed_url: https://www.youtube-nocookie.com/embed/gsk9svBmySM
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=gsk9svBmySM
+  thumb_url: https://img.youtube.com/vi/gsk9svBmySM/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=gsk9svBmySM
+  video_id: gsk9svBmySM
 last_updated: '2026-05-11'
 related: []
 sources:

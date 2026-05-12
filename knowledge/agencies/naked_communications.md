@@ -2,6 +2,29 @@
 confidence: medium
 era: 2000-2013
 id: naked_communications
+images:
+- artist: pakyouare
+  caption: naked communications
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/15155051@N00/4540299589
+  thumb_url: https://api.openverse.org/v1/images/3d87c0fa-6582-475a-a8f0-0e2a47cb9c31/thumb/
+  type: image
+  url: https://live.staticflickr.com/4055/4540299589_7eb77b5594_b.jpg
+  width: 514
+- artist: pakyouare
+  caption: naked communications
+  copyright_status: clear_cc
+  height: 500
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/15155051@N00/4540905364
+  thumb_url: https://api.openverse.org/v1/images/300b0d8a-0919-4013-bb0c-c7c446c1b240/thumb/
+  type: image
+  url: https://live.staticflickr.com/4060/4540905364_e4d73aa689.jpg
+  width: 251
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,31 @@
 confidence: low
 era: 1902-present
 id: mccann_erickson_internationale_agenturgeschichte
+images:
+- artist: Maiciej
+  caption: McCANN Poland logo
+  copyright_status: public_domain
+  height: 280
+  license: CC0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AMccann-poland%20logo.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mccann-poland_logo.png/500px-Mccann-poland_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Mccann-poland_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1000
+- artist: ''
+  caption: Brand McCann
+  copyright_status: youtube
+  duration: '2:03'
+  embed_url: https://www.youtube-nocookie.com/embed/Lpm6FXgpDnI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=Lpm6FXgpDnI
+  thumb_url: https://img.youtube.com/vi/Lpm6FXgpDnI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=Lpm6FXgpDnI
+  video_id: Lpm6FXgpDnI
 last_updated: '2026-05-11'
 related: []
 sources:

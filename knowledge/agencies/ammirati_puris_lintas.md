@@ -2,6 +2,32 @@
 confidence: low
 era: 1994-2001
 id: ammirati_puris_lintas
+images:
+- artist: Ammirati Puris Lintas. Agence de publicité (création)
+  caption: '<div class=''fn''> Air France. Pour venir jusqu''ici, demandez à Air France.
+    Pour le taxi, nous vous suggérons Nanook : [Affiche] / [Ammirati Puris Linta'
+  copyright_status: public_domain
+  height: 2667
+  license: CC0 1.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=154668289
+  thumb_url: https://api.openverse.org/v1/images/8310b106-0919-4347-ad92-9735932cd0c6/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/9/96/Air_France._Pour_venir_jusqu%27ici%2C_demandez_%C3%A0_Air_France._Pour_le_taxi%2C_nous_vous_sugg%C3%A9rons_Nanook_-_Affiche_-_Ammirati_Puris_Lintas_-_btv1b10116078s.jpg
+  width: 2000
+- artist: ''
+  caption: Resource/Ammirati Sits Down with Dr. Kit Yarrow
+  copyright_status: youtube
+  duration: '4:02'
+  embed_url: https://www.youtube-nocookie.com/embed/ndf9Zb-sDCw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ndf9Zb-sDCw
+  thumb_url: https://img.youtube.com/vi/ndf9Zb-sDCw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ndf9Zb-sDCw
+  video_id: ndf9Zb-sDCw
 last_updated: '2026-05-11'
 related: []
 sources:

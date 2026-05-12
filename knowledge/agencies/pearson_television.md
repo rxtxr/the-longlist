@@ -2,6 +2,20 @@
 confidence: low
 era: 1997-2000
 id: pearson_television
+images:
+- artist: ''
+  caption: The future of Pearson | Marketing Media Money
+  copyright_status: youtube
+  duration: '1:49'
+  embed_url: https://www.youtube-nocookie.com/embed/S0oXHsyq-IM
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=S0oXHsyq-IM
+  thumb_url: https://img.youtube.com/vi/S0oXHsyq-IM/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=S0oXHsyq-IM
+  video_id: S0oXHsyq-IM
 last_updated: '2026-05-11'
 related: []
 sources:

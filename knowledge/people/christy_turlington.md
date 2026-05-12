@@ -2,6 +2,45 @@
 confidence: medium
 era: 1989-2010s
 id: christy_turlington
+images:
+- artist: Kevin Payravi
+  caption: Christy Turlington and Edward Burns at the 2024 Toronto International Film
+    Festival (TIFF) for the movie Millers In Marriage.
+  copyright_status: clear_cc
+  height: 1180
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AChristy%20Turlington%202024%20%28facecrop%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Christy_Turlington_2024_%28facecrop%29.jpg/500px-Christy_Turlington_2024_%28facecrop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/6/65/Christy_Turlington_2024_%28facecrop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 952
+- artist: Kevin Payravi
+  caption: Christy Turlington and Edward Burns at the 2024 Toronto International Film
+    Festival (TIFF) for the movie Millers In Marriage.
+  copyright_status: clear_cc
+  height: 4481
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AChristy%20Turlington%20and%20Edward%20Burns%20at%20the%202024%20Toronto%20International%20Film%20Festival.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Christy_Turlington_and_Edward_Burns_at_the_2024_Toronto_International_Film_Festival.jpg/500px-Christy_Turlington_and_Edward_Burns_at_the_2024_Toronto_International_Film_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Christy_Turlington_and_Edward_Burns_at_the_2024_Toronto_International_Film_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 6720
+- artist: ''
+  caption: Christy Turlington Burns Discusses Maternal Global Health | Amanpour and
+    Company
+  copyright_status: youtube
+  duration: '3:10'
+  embed_url: https://www.youtube-nocookie.com/embed/xx5ujbZj41Q
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=xx5ujbZj41Q
+  thumb_url: https://img.youtube.com/vi/xx5ujbZj41Q/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=xx5ujbZj41Q
+  video_id: xx5ujbZj41Q
 last_updated: '2026-05-11'
 related: []
 sources:

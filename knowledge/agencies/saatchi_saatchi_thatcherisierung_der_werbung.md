@@ -2,6 +2,29 @@
 confidence: low
 era: 1979-1990
 id: saatchi_saatchi_thatcherisierung_der_werbung
+images:
+- artist: Bureau of Educational & Cultural Affairs
+  caption: Luz from Argentina Mentored by Joan at Saatchi & Saatchi
+  copyright_status: clear_cc
+  height: 333
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/45717276@N08/9566257302
+  thumb_url: https://api.openverse.org/v1/images/e351689d-5bad-415c-b00d-80aa4b6ee568/thumb/
+  type: image
+  url: https://live.staticflickr.com/5328/9566257302_91ca47d066.jpg
+  width: 500
+- artist: morebyless
+  caption: Saatchi & Saatchi
+  copyright_status: clear_cc
+  height: 845
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/27121172@N00/9401940377
+  thumb_url: https://api.openverse.org/v1/images/b0d6f7fb-1033-4823-8208-45cc386719cb/thumb/
+  type: image
+  url: https://live.staticflickr.com/5502/9401940377_b101fe91b9_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

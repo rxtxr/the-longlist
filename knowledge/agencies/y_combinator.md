@@ -2,6 +2,42 @@
 confidence: medium
 era: 2005-
 id: y_combinator
+images:
+- artist: Robert Scoble
+  caption: Y Combinator co-founder Jessica Livingston laughs
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/35034363287@N01/6293321522
+  thumb_url: https://api.openverse.org/v1/images/c5b7c8ba-2ed8-44e7-8a65-95be7b0440cb/thumb/
+  type: image
+  url: https://live.staticflickr.com/6118/6293321522_343b3ae853_b.jpg
+  width: 1024
+- artist: Kevin Hale from San Francisco, CA, United States
+  caption: Paul Graham talking about Prototype Day at Y Combinator Summer 2009
+  copyright_status: clear_cc
+  height: 2592
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=24262700
+  thumb_url: https://api.openverse.org/v1/images/ccaaa545-278c-43f0-ab32-7e7bee23fa1f/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Paul_Graham_talking_about_Prototype_Day_at_Y_Combinator_Summer_2009.jpg
+  width: 3872
+- artist: ''
+  caption: What is Y Combinator? The Story Of The Startup Accelerator
+  copyright_status: youtube
+  duration: '8:15'
+  embed_url: https://www.youtube-nocookie.com/embed/oXwFeOv5z0I
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=oXwFeOv5z0I
+  thumb_url: https://img.youtube.com/vi/oXwFeOv5z0I/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=oXwFeOv5z0I
+  video_id: oXwFeOv5z0I
 last_updated: '2026-05-11'
 related: []
 sources:

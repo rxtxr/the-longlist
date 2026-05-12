@@ -2,6 +2,42 @@
 confidence: low
 era: 1988-2025
 id: anna_wintour
+images:
+- artist: david_shankbone
+  caption: Anna Wintour VF Shankbone 2010 NYC
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/27865228@N06/4576776338
+  thumb_url: https://api.openverse.org/v1/images/91b4f9e7-6336-4093-9683-1ca373c06467/thumb/
+  type: image
+  url: https://live.staticflickr.com/3402/4576776338_683c02d784_b.jpg
+  width: 791
+- artist: david_shankbone
+  caption: Anna Wintour Shankbone 2010 NYC
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/27865228@N06/4541734687
+  thumb_url: https://api.openverse.org/v1/images/9e66004d-8df6-4496-a2fb-11eb7806013c/thumb/
+  type: image
+  url: https://live.staticflickr.com/4007/4541734687_4f53fb30e0_b.jpg
+  width: 792
+- artist: ''
+  caption: 73 Questions with Anna Wintour | Vogue
+  copyright_status: youtube
+  duration: '5:45'
+  embed_url: https://www.youtube-nocookie.com/embed/MhXwO_mkdzQ
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=MhXwO_mkdzQ
+  thumb_url: https://img.youtube.com/vi/MhXwO_mkdzQ/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=MhXwO_mkdzQ
+  video_id: MhXwO_mkdzQ
 last_updated: '2026-05-11'
 related: []
 sources:

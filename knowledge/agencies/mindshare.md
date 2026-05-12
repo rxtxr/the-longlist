@@ -2,6 +2,43 @@
 confidence: high
 era: 1997-2010
 id: mindshare
+images:
+- artist: buckofive
+  caption: Summer is in the air and that can mean only one thing, cryptovision Mindshare!
+    Looking forward to the CryptoNite party again this year.
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/47613318@N00/34733430065
+  thumb_url: https://api.openverse.org/v1/images/95f73b04-8345-4546-9b74-9397ed304335/thumb/
+  type: image
+  url: https://live.staticflickr.com/4179/34733430065_5328e32e24_b.jpg
+  width: 1024
+- artist: World Resources
+  caption: MindShare 2017
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/26107309@N05/34761101405
+  thumb_url: https://api.openverse.org/v1/images/e24cc71d-d999-43be-90e4-19db47008c2d/thumb/
+  type: image
+  url: https://live.staticflickr.com/4249/34761101405_3d3a0c2a6a_b.jpg
+  width: 1024
+- artist: ''
+  caption: Mindshare History
+  copyright_status: youtube
+  duration: '2:37'
+  embed_url: https://www.youtube-nocookie.com/embed/ih2EeiKxLVc
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ih2EeiKxLVc
+  thumb_url: https://img.youtube.com/vi/ih2EeiKxLVc/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ih2EeiKxLVc
+  video_id: ih2EeiKxLVc
 last_updated: '2026-05-11'
 related: []
 sources:

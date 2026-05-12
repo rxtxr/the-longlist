@@ -2,6 +2,42 @@
 confidence: high
 era: 1968-1971
 id: guess
+images:
+- artist: pixxiestails
+  caption: Anna Nicole Guess Ad
+  copyright_status: clear_cc
+  height: 500
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/17314244@N00/384923451
+  thumb_url: https://api.openverse.org/v1/images/295dc3d6-4df5-4ddd-a68e-14fefae0fd51/thumb/
+  type: image
+  url: https://live.staticflickr.com/151/384923451_d48d0ec44c.jpg
+  width: 335
+- artist: Ian Sane
+  caption: I Guess I Can Let That One Slide
+  copyright_status: clear_cc
+  height: 819
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/31246066@N04/6007777888
+  thumb_url: https://api.openverse.org/v1/images/b62da0cb-a56e-4c12-9569-218e56d893a4/thumb/
+  type: image
+  url: https://live.staticflickr.com/6009/6007777888_af735532d8_b.jpg
+  width: 1024
+- artist: ''
+  caption: 'The #GUESS Brand Story: Told By Paul & Maurice Marciano'
+  copyright_status: youtube
+  duration: '21:10'
+  embed_url: https://www.youtube-nocookie.com/embed/CvDiuGZ_hmw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=CvDiuGZ_hmw
+  thumb_url: https://img.youtube.com/vi/CvDiuGZ_hmw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=CvDiuGZ_hmw
+  video_id: CvDiuGZ_hmw
 last_updated: '2026-05-11'
 related: []
 sources:

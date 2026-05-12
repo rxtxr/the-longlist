@@ -2,6 +2,20 @@
 confidence: medium
 era: 1941-1994
 id: alexander_liberman
+images:
+- artist: ''
+  caption: 'About the Arts: Alexander Liberman, 1977'
+  copyright_status: youtube
+  duration: '28:41'
+  embed_url: https://www.youtube-nocookie.com/embed/imzRpDYTI6w
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=imzRpDYTI6w
+  thumb_url: https://img.youtube.com/vi/imzRpDYTI6w/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=imzRpDYTI6w
+  video_id: imzRpDYTI6w
 last_updated: '2026-05-11'
 related: []
 sources:

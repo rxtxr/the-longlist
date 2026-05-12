@@ -2,6 +2,31 @@
 confidence: medium
 era: 1959-2010
 id: mediavest
+images:
+- artist: Digitas Photos
+  caption: Amanda Richman, SVP, Direct of Digital, MediaVest
+  copyright_status: clear_cc
+  height: 333
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39039527@N05/3592894893
+  thumb_url: https://api.openverse.org/v1/images/777d01b5-d74f-4c39-9718-52f6563bb9da/thumb/
+  type: image
+  url: https://live.staticflickr.com/2075/3592894893_ab7e295d10.jpg
+  width: 500
+- artist: iabuk
+  caption: Steve Doyle, Commercial Director, InSkin Media and Chairman of the IAB
+    Video Council, Jack Kelly, Account Manager (Heineken), Starcom Mediavest & Dr
+    H
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/35780106@N03/11219661553
+  thumb_url: https://api.openverse.org/v1/images/eb0a485d-10a1-4c12-8534-a4f7ec62558d/thumb/
+  type: image
+  url: https://live.staticflickr.com/3783/11219661553_0ac55e22bc_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

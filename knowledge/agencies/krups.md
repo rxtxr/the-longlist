@@ -2,6 +2,29 @@
 confidence: medium
 era: 1969-1998
 id: krups
+images:
+- artist: Chesi - Fotos CC
+  caption: krups-nescafe-dolce-gusto-coffee-machine
+  copyright_status: clear_cc
+  height: 500
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/19132040@N04/2489417096
+  thumb_url: https://api.openverse.org/v1/images/7210dfdb-935a-42a6-b544-352a88af4197/thumb/
+  type: image
+  url: https://live.staticflickr.com/2024/2489417096_3c1f1a5d79.jpg
+  width: 500
+- artist: Raimond Spekking
+  caption: Krups Type 378 C-4574
+  copyright_status: clear_cc
+  height: 3167
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=126534397
+  thumb_url: https://api.openverse.org/v1/images/4538f09e-aa43-4f45-bc33-38346deb5c08/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f0/Krups_Type_378_C-4574.jpg
+  width: 5630
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,32 @@
 confidence: low
 era: 1985-2025
 id: wpp_group
+images:
+- artist: Esthr
+  caption: WPP Group's Yoda
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/30866445@N00/6825813244
+  thumb_url: https://api.openverse.org/v1/images/2eab5746-dec9-4d0a-98a4-4de0d1771f6f/thumb/
+  type: image
+  url: https://live.staticflickr.com/7201/6825813244_8a182d1762_b.jpg
+  width: 886
+- artist: ''
+  caption: 'WPP: From Visionary Beginnings to Global Advertising Leadership - VINCENT
+    JUBES'
+  copyright_status: youtube
+  duration: '7:20'
+  embed_url: https://www.youtube-nocookie.com/embed/MdNMoMAHkcA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=MdNMoMAHkcA
+  thumb_url: https://img.youtube.com/vi/MdNMoMAHkcA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=MdNMoMAHkcA
+  video_id: MdNMoMAHkcA
 last_updated: '2026-05-11'
 related: []
 sources:

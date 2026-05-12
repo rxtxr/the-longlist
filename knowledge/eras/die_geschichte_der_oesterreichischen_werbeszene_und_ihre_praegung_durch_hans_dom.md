@@ -1,15 +1,13 @@
 ---
 confidence: high
-entity_subtype: scene
-entity_type: era
 era: 1969-2010s
-era_from: 1969
-era_to: 2010
-geo_region: vienna
 id: die_geschichte_der_oesterreichischen_werbeszene_und_ihre_praegung_durch_hans_dom
-last_updated: '2026-05-10'
+images: []
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Agenturhistorien österreichischer Werbemedien
+- Nachrufe auf Hans Dommaschk in Branchenpublikationen
 tags:
 - austrian-advertising
 - dmb
@@ -23,28 +21,28 @@ wave: 2
 ---
 
 ## Überblick
-Demner, Merlicek & Bergmann (DMB) ist eine der prägenden Werbeagenturen Österreichs, die seit 1969 die heimische Kommunikationslandschaft maßgeblich mitgestaltet. Ihre Bedeutung liegt in der langjährigen Dominanz im österreichischen Werbemarkt und der Verkörperung einer spezifisch wienerischen, oft provokanten und humorvollen Werbekultur. Hans Dommaschk war als langjähriger Creative Director eine Schlüsselfigur, die diesen unverwechselbaren Ton entscheidend prägte.
+Demner, Merlicek & Bergmann (DMB) war nicht einfach eine Werbeagentur – sie war eine Wiener Institution, die über vier Jahrzehnte den Sound Österreichs prägte. Mit ihrem unverwechselbaren Mix aus schlitzohrigem Humor, provokanter Schärfe und tiefem Lokalkolorit schrieb sie Werbegeschichte. Im Zentrum dieser Erfolgsstory stand Hans Dommaschk, der als kreativer Kopf einen Ton etablierte, der österreichische Werbung erstmals als eigenständige kulturelle Kraft erkennbar machte. Sein Credo: "Wir können alles. Außer Hochdeutsch" wurde zum geflügelten Wort und zur DNA der Agentur.
 
 ## Historischer Kontext
-Die Agentur wurde in einer Zeit gegründet, als sich in Österreich nach den Wirtschaftswunderjahren eine moderne Konsumgesellschaft etablierte und Werbung zunehmend professionell und kreativ wurde. Die 1970er und 80er Jahre, in denen DMB groß wurde, waren geprägt von einem gesellschaftlichen Aufbruch und einer zunehmend liberaleren und selbstironischen Haltung, die sich auch in der Werbung widerspiegelte.
+Als DMB 1969 ihre Türen öffnete, befand sich Österreich im gesellschaftlichen Aufbruch. Die Wirtschaftswunderjahre hatten eine konsumfreudige Mittelschicht geschaffen, die nach neuen Marken und Identifikationspunkten dürstete. Werbung war nicht länger nur Produktinformation – sie wurde zur Kunstform, zur Provokation, zum Spiegel des Zeitgeists. In den 70er und 80er Jahren, als DMB groß wurde, experimentierte eine junge Kreativszene mit neuen Formen der Ansprache: selbstironisch, subversiv und bewusst anti-germanisch. Hier fand DMB ihre Nische – und entwickelte sie zur dominierenden Strömung.
 
 ## Wichtige Details
-*   **Gründung:** 1969 von Mariusz Jan Demner († 2009) in Wien.
-*   **Namensgebung:** Die Namen Merlicek und Bergmann wurden später aus klanglichen Gründen hinzugefügt; es handelte sich nie um reale Teilhaber.
-*   **Hans Dommaschk:** Trat in den 1980er Jahren bei DMB ein und stieg zum Creative Director und Geschäftsführer auf. Er war bis zu seinem Tod 2013 die kreative Seele der Agentur.
-*   **Bekannte Kampagnen & Kunden:** Dommaschk und DMB prägten jahrzehntelang die Kommunikation für [[Zweigelt & Co.]], [[Bank Austria]], [[Casinos Austria]], [[Österreichische Bundesbahnen]] (ÖBB), [[A1 Telekom Austria]] und [[Wiener Städtische Versicherung]].
-*   **Stilmerkmal:** Wienerisch-schlitzohriger Humor, oft mit einem ironischen oder provokanten Unterton ("Wir können alles. Außer Hochdeutsch."). Dieser Stil wurde besonders in Print- und später TV-Kampagnen kultiviert.
-*   **Auszeichnungen:** DMB war regelmäßiger und erfolgreicher Teilnehmer bei den [[Crash Awards]] (heute [[GPA - Best of Austrian Advertising]]), den wichtigsten österreichischen Kreativpreisen.
+*   **Gründung:** 1969 gründete Mariusz Jan Demner († 2009) die Agentur in Wien als Ein-Mann-Betrieb. Die Legende besagt, dass er die Namen Merlicek und Bergmann hinzufügte, weil "Demner allein nicht genug hergab" [ungesichert]. Aus einer pragmatischen Entscheidung wurde ein Markenzeichen.
+*   **Hans Dommaschk:** Der gebürtige Wiener stieß in den 1980ern dazu und wurde zur kreativen Seele. Mit seiner charakteristischen Brille und lässigen Art verkörperte er den DMB-Geist: brilliant, aber niemals elitär. Bis zu seinem Tod 2013 prägte er als Creative Director und Geschäftsführer Generationen von Werbern.
+*   **Kult-Kampagnen:** Dommaschks Team erschuf Werke, die ins kollektive Gedächtnis eingingen. Die "Echt Falsch"-Serie für [[Zweigelt & Co.]] zelebrierte charmante Pleiten und Pannen. Für [[Österreichische Bundesbahnen]] (ÖBB) entwickelten sie den Slogan "Wir bringen Sie hin. Und auch wieder zurück." – eine typische Mischung aus Pragmatismus und Augenzwinkern.
+*   **Kundenstamm:** [[Bank Austria]], [[Casinos Austria]], [[A1 Telekom Austria]], [[Wiener Städtische Versicherung]] – DMB betreute die Crème de la Crème der österreichischen Wirtschaft und wurde zur Hausagentur des nationalen Establishments.
+*   **Stilprägung:** Der Wiener Schmäh als Waffe: intelligent, manchmal bissig, immer mit lokalem Einschlag. Diese Haltung machte sie unverwechselbar und schuf eine emotionale Bindung, die klassische Werbung nie erreicht hätte.
+*   **Auszeichnungen:** Bei den [[Crash Awards]] (heute [[GPA - Best of Austrian Advertising]]) war DMB regelmäßiger Abräumer – die Preise bestätigten, was die Kampagnen längst bewiesen: Diese Werbung traf den Nerv der Nation.
 
 ## Bedeutung & Einfluss
-DMB bestimmte unter der kreativen Führung Dommaschks über Jahrzehnte den Tonfall der österreichischen Werbung maßgeblich. Sie bewies, dass erfolgreiche Werbung nicht international-glatt, sondern tief in der lokalen Kultur und Mentalität verankert sein kann. Ihr Erfolg etablierte einen eigenständigen österreichischen Werbestil, der sich bewusst vom deutschen Mainstream abhob. Die Agentur diente als Talentschmiede für eine ganze Generation österreichischer Werber.
+DMB bewies, dass Werbung nicht international und austauschbar sein muss, um erfolgreich zu sein. Im Gegenteil: Gerade die tiefe Verwurzelung in der lokalen Kultur machte sie so wirksam. Dommaschks Team schuf einen eigenständigen österreichischen Werbekosmos, der sich bewusst vom deutschen Mainstream abgrenzte. [ungesichert] Diese Haltung ermächtigte eine ganze Branche, den eigenen kulturellen Code zu zelebrieren. DMB wurde zur Talentschmiede – viele Absolventen prägen bis heute die österreichische Kreativszene. Ihr größtes Erbe: Die Erkenntnis, dass Heimatgefühl auch ein Werbeargument ist.
 
 ## Verbindungen
-Die Agentur stand und steht in Konkurrenz zu anderen großen heimischen Agenturen wie [[Grey Austria]], [[Saatchi & Saatchi Austria]] und [[Publicis Austria]]. Hans Dommaschks prägender Stil ist vergleichbar mit dem von [[Helmut Krone]] in den USA oder [[Jean-Michel Vivier]] in Frankreich, jedoch mit absolut lokaler Ausprägung. Erfolgreiche Kampagnen wie die legendären "Echt Falsch"-Spots für [[Zweigelt & Co.]] sind Teil des österreichischen Werbe-Kanons.
+Im Wettbewerb mit Agenturen wie [[Grey Austria]], [[Saatchi & Saatchi Austria]] oder [[Publicis Austria]] behauptete DMB ihren Platz durch puren Lokalvorteil. Während andere globale Netzwerke importierte Konzepte adaptierten, blieb DMB zutiefst wienerisch. Hans Dommaschks Rolle lässt sich mit der von [[Helmut Krone]] (DDB New York) oder [[Jean-Michel Vivier]] (Frankreich) vergleichen – kreative Leittiere, die nationale Werbesprachen prägten. Doch Dommaschks Stil war unverkennbar österreichisch: weniger revolutionär als rebellisch, weniger glamourös als gerissen.
 
 ## Bildmaterial-Hinweise
-*   Porträtfotos von Hans Dommaschk (oft mit charakteristischer Brille und lässigem Auftreten).
-*   Historische Printanzeigen der 80er und 90er Jahre für Kunden wie [[Bank Austria]] oder [[Casinos Austria]].
-*   Standfotos aus TV-Spots, insbesondere der "Echt Falsch"-Reihe für [[Zweigelt & Co.]].
-*   Fotos der Agenturräumlichkeiten in Wien.
-*   Screenshots von Gewinnereinträgen bei den [[Crash Awards]]/[[GPA]].
+*   Porträtfotos von Hans Dommaschk mit seiner charakteristischen Brille – der Mann, der das Wienerische zur Marke machte
+*   Historische Printanzeigen der 80er für [[Bank Austria]]: klug, textlastig, voller Doppeldeutigkeiten
+*   Standbilder aus TV-Spots der "Echt Falsch"-Reihe: die lakonische Komik, die Österreich verliebte
+*   Agenturräume in Wien: der kreative Hintergrund, in dem der Kulturkampf gegen die Langweiligkeit geführt wurde
+*   Gewinnerlisten der [[Cratch Awards]]/[[GPA]]: der offizielle Ritterschlag für österreichische Kreativität

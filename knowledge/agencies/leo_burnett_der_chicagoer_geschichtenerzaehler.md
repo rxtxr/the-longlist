@@ -2,6 +2,42 @@
 confidence: low
 era: 1935-1980
 id: leo_burnett_der_chicagoer_geschichtenerzaehler
+images:
+- artist: Nick Number
+  caption: Grave of Leo Burnett (1891–1971) at Rosehill Cemetery, Chicago
+  copyright_status: clear_cc
+  height: 1224
+  license: CC BY 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AGrave%20of%20Leo%20Burnett%20%281891%E2%80%931971%29%20at%20Rosehill%20Cemetery%2C%20Chicago.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Grave_of_Leo_Burnett_%281891%E2%80%931971%29_at_Rosehill_Cemetery%2C_Chicago.jpg/500px-Grave_of_Leo_Burnett_%281891%E2%80%931971%29_at_Rosehill_Cemetery%2C_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Grave_of_Leo_Burnett_%281891%E2%80%931971%29_at_Rosehill_Cemetery%2C_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1000
+- artist: 李奧貝納廣告
+  caption: ​這是李奧貝納廣告公司的標誌
+  copyright_status: public_domain
+  height: 235
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ALeo-Burnett-logo.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/0/07/Leo-Burnett-logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/0/07/Leo-Burnett-logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 460
+- artist: ''
+  caption: Leo Burnett, Founder of Leo Burnett Company - The Star Reacher
+  copyright_status: youtube
+  duration: '5:00'
+  embed_url: https://www.youtube-nocookie.com/embed/bo3GxudiCvA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=bo3GxudiCvA
+  thumb_url: https://img.youtube.com/vi/bo3GxudiCvA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=bo3GxudiCvA
+  video_id: bo3GxudiCvA
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,30 @@
 confidence: medium
 era: 1970-2015
 id: mullen
+images:
+- artist: myvintagevogue
+  caption: Barbara Mullen wearing dress by Greta Plattry 1954
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/32376209@N08/20579491949
+  thumb_url: https://api.openverse.org/v1/images/9caf1aa4-4b47-4c5b-882d-e165cbd16011/thumb/
+  type: image
+  url: https://live.staticflickr.com/614/20579491949_a24efb0ffa_b.jpg
+  width: 847
+- artist: Dave Adams Automotive Images
+  caption: Peter Mullen and Patrick Blakeney-Edwards - 1975 BMW 3.0 CSL at the 2016
+    Silverstone Classic (Photo 1)
+  copyright_status: clear_cc
+  height: 668
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/8521944@N05/28787727045
+  thumb_url: https://api.openverse.org/v1/images/71de29a2-0b34-4c70-9859-9d021779e028/thumb/
+  type: image
+  url: https://live.staticflickr.com/8821/28787727045_983cc997de_b.jpg
+  width: 1000
 last_updated: '2026-05-11'
 related: []
 sources:

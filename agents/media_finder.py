@@ -271,6 +271,9 @@ class MediaFinder:
         tags  = (meta or {}).get("tags", [])
         era   = (meta or {}).get("era", "")
 
+        # Build relevance terms for post-filter (word-boundary matched)
+        rel_terms = self._relevance_terms(short)
+
         image_queries, video_queries = self._build_queries(
             short, title, category, tags, era
         )
@@ -282,8 +285,8 @@ class MediaFinder:
         for q in image_queries:
             if len(images) >= max_images:
                 break
-            for img in _commons_search(q, max_results=max_images):
-                if img["url"] not in seen_urls:
+            for img in _commons_search(q, max_results=max_images + 2):
+                if img["url"] not in seen_urls and self._is_relevant(img, rel_terms):
                     seen_urls.add(img["url"])
                     images.append(img)
             time.sleep(0.1)
@@ -292,8 +295,8 @@ class MediaFinder:
             for q in image_queries[:2]:
                 if len(images) >= max_images:
                     break
-                for img in _openverse_search(q, max_results=max_images):
-                    if img["url"] not in seen_urls:
+                for img in _openverse_search(q, max_results=max_images + 2):
+                    if img["url"] not in seen_urls and self._is_relevant(img, rel_terms):
                         seen_urls.add(img["url"])
                         images.append(img)
                 time.sleep(0.1)
@@ -306,8 +309,8 @@ class MediaFinder:
         for q in video_queries:
             if len(videos) >= max_videos:
                 break
-            for v in _youtube_search(q, max_results=max_videos):
-                if v["video_id"] not in seen_vids:
+            for v in _youtube_search(q, max_results=max_videos + 1):
+                if v["video_id"] not in seen_vids and self._is_relevant(v, rel_terms):
                     seen_vids.add(v["video_id"])
                     videos.append(v)
             time.sleep(0.15)
@@ -316,6 +319,34 @@ class MediaFinder:
         result = images + videos
         self._cache_save(slug, result)
         return result
+
+    @staticmethod
+    def _relevance_terms(short: str) -> List[str]:
+        """Key terms extracted from the short title for relevance checking."""
+        # Split into words, keep those > 2 chars and not purely numeric
+        words = re.findall(r"[a-zA-ZäöüÄÖÜß&0-9]{3,}", short)
+        # Add the full short name as one term (handles compound names)
+        terms = [short.lower()]
+        for w in words:
+            if len(w) > 2 and w.lower() not in terms:
+                terms.append(w.lower())
+        return terms
+
+    @staticmethod
+    def _is_relevant(item: Dict, rel_terms: List[str]) -> bool:
+        """Return True if any relevance term appears (word-boundary) in item text."""
+        text = " ".join(filter(None, [
+            item.get("caption", ""),
+            item.get("title", ""),
+            item.get("artist", ""),
+            item.get("source_url", ""),
+            item.get("url", ""),
+        ])).lower()
+        for term in rel_terms:
+            # Use word boundary to avoid "groupm" matching "groupme"
+            if re.search(r'\b' + re.escape(term) + r'\b', text):
+                return True
+        return False
 
     def _build_queries(self, short: str, title: str, category: str,
                        tags: list, era: str):

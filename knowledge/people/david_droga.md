@@ -2,6 +2,7 @@
 confidence: medium
 era: 2006-present
 id: david_droga
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

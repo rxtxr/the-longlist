@@ -2,6 +2,21 @@
 confidence: low
 era: 1923-2010
 id: young_rubicam_forschung_und_kreativitaet
+images:
+- artist: ''
+  caption: '173: What It’s Like to Work in Advertising at Young & Rubicam Advertising
+    w/ Steven Shalowitz,...'
+  copyright_status: youtube
+  duration: '44:31'
+  embed_url: https://www.youtube-nocookie.com/embed/ou7tfQlg7jo
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ou7tfQlg7jo
+  thumb_url: https://img.youtube.com/vi/ou7tfQlg7jo/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ou7tfQlg7jo
+  video_id: ou7tfQlg7jo
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,29 @@
 confidence: low
 era: 1960-1980
 id: creative_boutiques
+images:
+- artist: Solomon203
+  caption: Creative Boutique logo board, The Red House 20201213
+  copyright_status: clear_cc
+  height: 3264
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=97521514
+  thumb_url: https://api.openverse.org/v1/images/d0d9ca64-b9b6-4270-a739-e743b78b45e3/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bf/Creative_Boutique_logo_board%2C_The_Red_House_20201213.jpg
+  width: 4352
+- artist: Solomon203
+  caption: Creative Boutique, The Red House 20171111
+  copyright_status: clear_cc
+  height: 3456
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=70013841
+  thumb_url: https://api.openverse.org/v1/images/b4962a5f-fac2-4f6f-9f7d-5838dc7844f6/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/2/21/Creative_Boutique%2C_The_Red_House_20171111.jpg
+  width: 4608
 last_updated: '2026-05-11'
 related: []
 sources:

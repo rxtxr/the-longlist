@@ -2,6 +2,43 @@
 confidence: high
 era: 1903-1922
 id: converse
+images:
+- artist: Nyttend
+  caption: Front and southern side of the Converse-Jackson Township Public Library,
+    a Carnegie library located at the intersection of Marion and Jefferson Street
+  copyright_status: public_domain
+  height: 2112
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AConverse-Jackson%20Township%20Public%20Library.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Converse-Jackson_Township_Public_Library.jpg/500px-Converse-Jackson_Township_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c6/Converse-Jackson_Township_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2816
+- artist: Jacob Bøtter
+  caption: Converse-eating lemurs
+  copyright_status: clear_cc
+  height: 2304
+  license: CC BY 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AConverse-eating%20lemurs.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Converse-eating_lemurs.jpg/500px-Converse-eating_lemurs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/c/ca/Converse-eating_lemurs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3456
+- artist: ''
+  caption: Converse - The Rise and Fall and Rise Again
+  copyright_status: youtube
+  duration: '7:12'
+  embed_url: https://www.youtube-nocookie.com/embed/vqY5vC6MLIM
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=vqY5vC6MLIM
+  thumb_url: https://img.youtube.com/vi/vqY5vC6MLIM/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=vqY5vC6MLIM
+  video_id: vqY5vC6MLIM
 last_updated: '2026-05-11'
 related: []
 sources:

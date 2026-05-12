@@ -2,6 +2,43 @@
 confidence: high
 era: 1972-
 id: pentagram
+images:
+- artist: Deimos DM
+  caption: Concierto de Pentagram realizado en Bogotá, Colombia. Septiembre 03 2022.
+  copyright_status: clear_cc
+  height: 1536
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3APentagram%20Colombia%202022.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pentagram_Colombia_2022.jpg/500px-Pentagram_Colombia_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/6/63/Pentagram_Colombia_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2627
+- artist: brandi666
+  caption: The american doom metal band Pentagram live at the DNA lounge, San Francisco,
+    USA in 2009
+  copyright_status: clear_cc
+  height: 1536
+  license: CC BY 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3APentagram%20live%202009.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pentagram_live_2009.jpg/500px-Pentagram_live_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/2/20/Pentagram_live_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2048
+- artist: ''
+  caption: How Pentagram Really Works
+  copyright_status: youtube
+  duration: '3:01'
+  embed_url: https://www.youtube-nocookie.com/embed/LqHXbWAnyx0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=LqHXbWAnyx0
+  thumb_url: https://img.youtube.com/vi/LqHXbWAnyx0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=LqHXbWAnyx0
+  video_id: LqHXbWAnyx0
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,7 @@
 confidence: low
 era: 1960-1968
 id: jack_tinker_partners
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

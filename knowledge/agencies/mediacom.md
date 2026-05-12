@@ -2,6 +2,29 @@
 confidence: medium
 era: 1986-present
 id: mediacom
+images:
+- artist: mansikka
+  caption: Mobile and Web Content for Mediacom
+  copyright_status: clear_cc
+  height: 375
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/14822830@N00/4531090801
+  thumb_url: https://api.openverse.org/v1/images/aef7b990-dc42-4546-b654-78c53ec90048/thumb/
+  type: image
+  url: https://live.staticflickr.com/4006/4531090801_ec02cff0d8.jpg
+  width: 500
+- artist: Chapendra
+  caption: Mediacom
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/63614902@N00/3098201219
+  thumb_url: https://api.openverse.org/v1/images/c904ba1c-d0e6-4149-83df-82274d8e93fb/thumb/
+  type: image
+  url: https://live.staticflickr.com/3207/3098201219_ffd6e99ba2_b.jpg
+  width: 683
 last_updated: '2026-05-11'
 related: []
 sources:

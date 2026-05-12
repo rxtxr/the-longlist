@@ -2,6 +2,32 @@
 confidence: low
 era: 1909-present
 id: cond_nast
+images:
+- artist: Unknown authorUnknown author
+  caption: Portrait of Condé Montrose Nast from The National Cyclopaedia of American
+    Biography, Volume XV, 1916, pages 80–81
+  copyright_status: public_domain
+  height: 651
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ACond%C3%A9%20Montrose%20Nast.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/8/80/Cond%C3%A9_Montrose_Nast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/80/Cond%C3%A9_Montrose_Nast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 487
+- artist: ''
+  caption: Condé Nast India - Behind The Mask (BTS Film)
+  copyright_status: youtube
+  duration: '6:40'
+  embed_url: https://www.youtube-nocookie.com/embed/8NLJIWyAj1A
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=8NLJIWyAj1A
+  thumb_url: https://img.youtube.com/vi/8NLJIWyAj1A/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=8NLJIWyAj1A
+  video_id: 8NLJIWyAj1A
 last_updated: '2026-05-11'
 related: []
 sources:

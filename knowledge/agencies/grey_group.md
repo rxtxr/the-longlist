@@ -3,34 +3,41 @@ confidence: high
 era: 1917-2020
 id: grey_group
 images:
-- artist: unbekannt
-  caption: A group of Grey Nuns in Ottawa
-  copyright_status: public_domain
-  height: 965
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AA%20group%20of%20Grey%20Nuns%20in%20Ottawa%20%28I0001700%29.tif
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/A_group_of_Grey_Nuns_in_Ottawa_%28I0001700%29.tif/lossy-page1-500px-A_group_of_Grey_Nuns_in_Ottawa_%28I0001700%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/4/43/A_group_of_Grey_Nuns_in_Ottawa_%28I0001700%29.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1245
-- artist: Atanu Bose Photography
-  caption: Taractrocera maevius (Fabricius, 1793) - Grey-veined Grass Dart
+- artist: ~ l i t t l e F I R E ~
+  caption: Grey group
   copyright_status: clear_cc
-  height: 2805
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AClose%20wing%20position%20of%20Taractrocera%20maevius%20%28Fabricius%2C%201793%29%20-%20Grey-veined%20Grass%20Dart.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Close_wing_position_of_Taractrocera_maevius_%28Fabricius%2C_1793%29_-_Grey-veined_Grass_Dart.jpg/500px-Close_wing_position_of_Taractrocera_maevius_%28Fabricius%2C_1793%29_-_Grey-veined_Grass_Dart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1c/Close_wing_position_of_Taractrocera_maevius_%28Fabricius%2C_1793%29_-_Grey-veined_Grass_Dart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3738
-- artist: Thamblyok
-  caption: Close wing pudding position of Ochlodes brahma (Moore, 1878) - Grey-branded
-    Darter_IMG_0531
+  height: 1024
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/77784956@N00/44107244091
+  thumb_url: https://api.openverse.org/v1/images/227070a7-d9d2-44c0-8982-b037d3e05e0c/thumb/
+  type: image
+  url: https://live.staticflickr.com/1818/44107244091_b0ea2ae08c_b.jpg
+  width: 733
+- artist: David Knights-Whittome Photographic Archive
+  caption: Grey group, 24 May 1905
   copyright_status: clear_cc
-  height: 3225
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AClose%20wing%20pudding%20position%20of%20Ochlodes%20brahma%20%28Moore%2C%201878%29%20-%20Grey-branded%20Darter%20IMG%200531.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Close_wing_pudding_position_of_Ochlodes_brahma_%28Moore%2C_1878%29_-_Grey-branded_Darter_IMG_0531.jpg/500px-Close_wing_pudding_position_of_Ochlodes_brahma_%28Moore%2C_1878%29_-_Grey-branded_Darter_IMG_0531.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c8/Close_wing_pudding_position_of_Ochlodes_brahma_%28Moore%2C_1878%29_-_Grey-branded_Darter_IMG_0531.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4631
+  height: 743
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/129320146@N08/35675916513
+  thumb_url: https://api.openverse.org/v1/images/0d05830b-161a-4d6c-8805-c51238d84345/thumb/
+  type: image
+  url: https://live.staticflickr.com/4425/35675916513_80f3141e12_b.jpg
+  width: 1024
+- artist: ''
+  caption: A 100 Years of Grey
+  copyright_status: youtube
+  duration: '1:13'
+  embed_url: https://www.youtube-nocookie.com/embed/AH4VX0yxPx0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=AH4VX0yxPx0
+  thumb_url: https://img.youtube.com/vi/AH4VX0yxPx0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=AH4VX0yxPx0
+  video_id: AH4VX0yxPx0
 last_updated: '2026-05-11'
 related: []
 sources:

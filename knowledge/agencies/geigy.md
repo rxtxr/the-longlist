@@ -2,6 +2,42 @@
 confidence: high
 era: 1940-1970
 id: geigy
+images:
+- artist: 80magazine
+  caption: geigy. das bild der depression
+  copyright_status: clear_cc
+  height: 360
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/81135242@N00/3837092343
+  thumb_url: https://api.openverse.org/v1/images/4f92f3d7-0bf2-440a-bf80-ad8978104866/thumb/
+  type: image
+  url: https://live.staticflickr.com/2654/3837092343_16b2be97f9.jpg
+  width: 500
+- artist: 80magazine
+  caption: geigy bulletins
+  copyright_status: clear_cc
+  height: 195
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/81135242@N00/3837890350
+  thumb_url: https://api.openverse.org/v1/images/dbcd3523-2995-4b1d-936f-4da6cced4fe4/thumb/
+  type: image
+  url: https://live.staticflickr.com/2597/3837890350_6431b0b32e.jpg
+  width: 500
+- artist: ''
+  caption: Ciba Geigy Interview
+  copyright_status: youtube
+  duration: '3:13'
+  embed_url: https://www.youtube-nocookie.com/embed/7yZZ2O87g00
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=7yZZ2O87g00
+  thumb_url: https://img.youtube.com/vi/7yZZ2O87g00/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=7yZZ2O87g00
+  video_id: 7yZZ2O87g00
 last_updated: '2026-05-11'
 related: []
 sources:

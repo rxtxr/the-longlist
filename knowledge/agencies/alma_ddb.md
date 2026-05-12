@@ -2,6 +2,20 @@
 confidence: medium
 era: 1960-2010
 id: alma_ddb
+images:
+- artist: ''
+  caption: First Customer - McDonald's - Alma DDB
+  copyright_status: youtube
+  duration: '1:01'
+  embed_url: https://www.youtube-nocookie.com/embed/5t_mP43RdFs
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=5t_mP43RdFs
+  thumb_url: https://img.youtube.com/vi/5t_mP43RdFs/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=5t_mP43RdFs
+  video_id: 5t_mP43RdFs
 last_updated: '2026-05-11'
 related: []
 sources:

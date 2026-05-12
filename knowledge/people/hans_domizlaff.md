@@ -4,23 +4,27 @@ era: 1920-1970
 id: hans_domizlaff
 images:
 - artist: Knase
-  caption: Indicator stone for Hans-Domizlaff-Trek at Wilseder Berg, Lüneburger Heath.
+  caption: Hans-Domizlaff-Wanderweg Wilseder Berg
   copyright_status: public_domain
   height: 4000
-  license: CC0
-  source: https://commons.wikimedia.org/wiki/File%3AHans-Domizlaff-Wanderweg%20Wilseder%20Berg.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hans-Domizlaff-Wanderweg_Wilseder_Berg.jpg/500px-Hans-Domizlaff-Wanderweg_Wilseder_Berg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/8/80/Hans-Domizlaff-Wanderweg_Wilseder_Berg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  license: CC0 1.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=174389110
+  thumb_url: https://api.openverse.org/v1/images/7011c382-3552-42b0-aace-124e140d385b/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/80/Hans-Domizlaff-Wanderweg_Wilseder_Berg.jpg
   width: 3000
-- artist: Anonymous photographer, not identified anywhere
-  caption: Reemtsma 1923
+- artist: unbekannt
+  caption: '''Hans Domizlaff, Visby, Gotland Runt''; ''1937'''
   copyright_status: public_domain
-  height: 437
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AReemtsma%201923.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Reemtsma_1923.jpg/500px-Reemtsma_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/8/8e/Reemtsma_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 639
+  height: null
+  license: Public Domain Mark
+  source_label: OpenVerse / europeana
+  source_url: https://digitaltmuseum.se/021016102368
+  thumb_url: https://api.openverse.org/v1/images/3ed531c1-7da9-446c-9d4d-01c14d544fdf/thumb/
+  type: image
+  url: https://mm.dimu.org/image/022wY1AHgmfn?dimension=1200x1200
+  width: null
 last_updated: '2026-05-11'
 related: []
 sources:

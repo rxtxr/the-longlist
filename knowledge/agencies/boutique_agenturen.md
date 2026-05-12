@@ -2,6 +2,7 @@
 confidence: high
 era: 1960-2020
 id: boutique_agenturen
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

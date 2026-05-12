@@ -2,6 +2,29 @@
 confidence: medium
 era: 1953-1998
 id: heinz
+images:
+- artist: brunkfordbraun
+  caption: Heinz Field
+  copyright_status: clear_cc
+  height: 375
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/67961268@N00/120510253
+  thumb_url: https://api.openverse.org/v1/images/70fb4f10-8d1d-4e4d-b647-d56f00e97a3e/thumb/
+  type: image
+  url: https://live.staticflickr.com/35/120510253_288a17e396.jpg
+  width: 500
+- artist: montanari.michael
+  caption: Karl Heinz Schneider
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/20454175@N00/2090729021
+  thumb_url: https://api.openverse.org/v1/images/bd851087-299c-4eb0-953d-b5b936e43d8c/thumb/
+  type: image
+  url: https://live.staticflickr.com/2038/2090729021_2892d50a8d_b.jpg
+  width: 768
 last_updated: '2026-05-11'
 related: []
 sources:

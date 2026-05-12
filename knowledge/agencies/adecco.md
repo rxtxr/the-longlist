@@ -3,36 +3,41 @@ confidence: medium
 era: 1980-1999
 id: adecco
 images:
-- artist: Syced
-  caption: '"Tokyo Tower Red Light up" sponsored by Adecco'
-  copyright_status: public_domain
-  height: 3072
-  license: CC0
-  source: https://commons.wikimedia.org/wiki/File%3A%22Tokyo%20Tower%20Red%20Light%20up%22%20sponsored%20by%20Adecco.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%22Tokyo_Tower_Red_Light_up%22_sponsored_by_Adecco.jpg/500px-%22Tokyo_Tower_Red_Light_up%22_sponsored_by_Adecco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1f/%22Tokyo_Tower_Red_Light_up%22_sponsored_by_Adecco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4080
-- artist: Basher Eyre
-  caption: Adecco in South Street
+- artist: Smoothieoperator
+  caption: The Adecco Group Entrance
   copyright_status: clear_cc
-  height: 640
-  license: CC BY-SA 2.0
-  source: https://commons.wikimedia.org/wiki/File%3AAdecco%20in%20South%20Street%20-%20geograph.org.uk%20-%201557519.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/b/b1/Adecco_in_South_Street_-_geograph.org.uk_-_1557519.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b1/Adecco_in_South_Street_-_geograph.org.uk_-_1557519.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 480
-- artist: Chris Talbot
-  caption: 'Andover - Adecco This employment agency i located in Bridge Street.
-
-    Shops and services appear and rapidly disappear these days and this changes the
-    fa'
+  height: 2835
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=56000095
+  thumb_url: https://api.openverse.org/v1/images/2a3d02b7-e905-4528-b512-ff3a762f6442/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Adecco_Group_Entrance.jpg
+  width: 1890
+- artist: Servicio de Comunicación Institucional
+  caption: Convenio Indra-Adecco
   copyright_status: clear_cc
-  height: 480
-  license: CC BY-SA 2.0
-  source: https://commons.wikimedia.org/wiki/File%3AAndover%20-%20Adecco%20-%20geograph.org.uk%20-%201778467.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Andover_-_Adecco_-_geograph.org.uk_-_1778467.jpg/500px-Andover_-_Adecco_-_geograph.org.uk_-_1778467.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/5/5f/Andover_-_Adecco_-_geograph.org.uk_-_1778467.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 640
+  height: 683
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/55112460@N02/15744873867
+  thumb_url: https://api.openverse.org/v1/images/2f28be21-42e0-473d-abce-5747ca8d6d14/thumb/
+  type: image
+  url: https://live.staticflickr.com/8660/15744873867_f75ee757ac_b.jpg
+  width: 1024
+- artist: ''
+  caption: Adecco India *CEO For One Month
+  copyright_status: youtube
+  duration: '3:00'
+  embed_url: https://www.youtube-nocookie.com/embed/h7pFW6JtOxo
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=h7pFW6JtOxo
+  thumb_url: https://img.youtube.com/vi/h7pFW6JtOxo/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=h7pFW6JtOxo
+  video_id: h7pFW6JtOxo
 last_updated: '2026-05-11'
 related: []
 sources:

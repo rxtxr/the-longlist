@@ -2,6 +2,42 @@
 confidence: medium
 era: 2004-present
 id: grubhub
+images:
+- artist: Tech.Co (formerly Tech Cocktail)
+  caption: Matt Maloney & Mike Evans of GrubHub Demos at Tech Cocktail 2
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/20935403@N05/2263156491
+  thumb_url: https://api.openverse.org/v1/images/879b04b0-8146-44fa-840f-92fa525a54a5/thumb/
+  type: image
+  url: https://live.staticflickr.com/2148/2263156491_2ecc03215d_b.jpg
+  width: 1024
+- artist: brandonzeman
+  caption: GrubHub and Groupon perparing for battle
+  copyright_status: clear_cc
+  height: 180
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/9987082@N04/3991325577
+  thumb_url: https://api.openverse.org/v1/images/afc3e291-f89a-4282-94b0-2ee773700590/thumb/
+  type: image
+  url: https://live.staticflickr.com/3530/3991325577_4b8bca6589_m.jpg
+  width: 240
+- artist: ''
+  caption: GrubHub Success Story!
+  copyright_status: youtube
+  duration: '2:16'
+  embed_url: https://www.youtube-nocookie.com/embed/XLgkB2vLeHE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=XLgkB2vLeHE
+  thumb_url: https://img.youtube.com/vi/XLgkB2vLeHE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=XLgkB2vLeHE
+  video_id: XLgkB2vLeHE
 last_updated: '2026-05-11'
 related: []
 sources:

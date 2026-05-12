@@ -2,6 +2,42 @@
 confidence: low
 era: 1968-present
 id: tbwa_chiat_day
+images:
+- artist: jm3
+  caption: TBWA \ Chiat \ Day \ OMD building
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/37996588780@N01/4821836069
+  thumb_url: https://api.openverse.org/v1/images/acba1eb8-7275-44aa-8e9a-a7404974d012/thumb/
+  type: image
+  url: https://live.staticflickr.com/4098/4821836069_65c530655c_b.jpg
+  width: 1024
+- artist: jm3
+  caption: TBWA Chiat Day OMD Infiniti sign
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/37996588780@N01/4822454162
+  thumb_url: https://api.openverse.org/v1/images/75848685-88c4-42b3-9311-fc6894ca951c/thumb/
+  type: image
+  url: https://live.staticflickr.com/4114/4822454162_8021d3e780_b.jpg
+  width: 1024
+- artist: ''
+  caption: 'How Data Informs Creative, Changes Lives: TBWA\Chiat\Day''s Reyes'
+  copyright_status: youtube
+  duration: '4:44'
+  embed_url: https://www.youtube-nocookie.com/embed/E-yHmfFL1vU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=E-yHmfFL1vU
+  thumb_url: https://img.youtube.com/vi/E-yHmfFL1vU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=E-yHmfFL1vU
+  video_id: E-yHmfFL1vU
 last_updated: '2026-05-11'
 related: []
 sources:

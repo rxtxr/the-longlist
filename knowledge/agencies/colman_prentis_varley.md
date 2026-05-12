@@ -2,6 +2,19 @@
 confidence: high
 era: 1934-1960
 id: colman_prentis_varley
+images:
+- artist: Bradford Timeline
+  caption: 31 - Advert - Colman Prentis & Varley Ltd - Best wishes to the Army Benevolent
+    Fund
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/50351436@N07/14119668378
+  thumb_url: https://api.openverse.org/v1/images/6c589667-70f3-4004-9f5e-190afd478002/thumb/
+  type: image
+  url: https://live.staticflickr.com/2909/14119668378_1f906cbeb6_b.jpg
+  width: 746
 last_updated: '2026-05-11'
 related: []
 sources:

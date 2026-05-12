@@ -2,6 +2,29 @@
 confidence: medium
 era: ''
 id: don_johnston
+images:
+- artist: Russian Presidential Press and Information Office; Crop by User:Pruneau
+  caption: Don Johnston
+  copyright_status: clear_cc
+  height: 200
+  license: CC BY 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=4982850
+  thumb_url: https://api.openverse.org/v1/images/1928d3fb-50af-41b5-96a3-22ca7f86a687/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/9/9d/Don_Johnston.jpg
+  width: 201
+- artist: Don Johnston
+  caption: Volkameria mollis Don-Johnston iNat
+  copyright_status: public_domain
+  height: 1362
+  license: CC0 1.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=124929297
+  thumb_url: https://api.openverse.org/v1/images/de9459a0-10b4-45a9-ac22-f0a4b7906fa7/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8f/Volkameria_mollis_Don-Johnston_iNat.jpg
+  width: 2048
 last_updated: '2026-05-11'
 related: []
 sources:

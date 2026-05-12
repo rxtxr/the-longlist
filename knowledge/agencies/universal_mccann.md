@@ -2,6 +2,30 @@
 confidence: high
 era: 1999-present
 id: universal_mccann
+images:
+- artist: Kohenmccann5
+  caption: Andy McCann of team New Brunswick at the 2026 Montanas brier
+  copyright_status: public_domain
+  height: 2880
+  license: CC0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAndy%20McCann%20%28Canadian%20curler%29%2007.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Andy_McCann_%28Canadian_curler%29_07.jpg/500px-Andy_McCann_%28Canadian_curler%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/f/ff/Andy_McCann_%28Canadian_curler%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 4320
+- artist: Scinsvche
+  caption: Brian McCann is an American baseball player who plays for the New York
+    Yankees
+  copyright_status: public_domain
+  height: 1200
+  license: CC0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ABrian%20McCann%20in%202014.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brian_McCann_in_2014.jpg/500px-Brian_McCann_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/88/Brian_McCann_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1200
 last_updated: '2026-05-11'
 related: []
 sources:

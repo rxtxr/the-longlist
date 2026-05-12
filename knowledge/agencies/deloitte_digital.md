@@ -2,6 +2,42 @@
 confidence: low
 era: 2012-ongoing
 id: deloitte_digital
+images:
+- artist: avlxyz
+  caption: Using Wave at Deloitte Digital
+  copyright_status: clear_cc
+  height: 686
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/10559879@N00/4135116449
+  thumb_url: https://api.openverse.org/v1/images/c28ae556-0fa2-48a6-ab62-0c067ef18069/thumb/
+  type: image
+  url: https://live.staticflickr.com/2623/4135116449_0f6ed3481b_b.jpg
+  width: 1024
+- artist: EG Focus
+  caption: Estates Gazette Deloitte Digital tour
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/38865853@N03/17174688222
+  thumb_url: https://api.openverse.org/v1/images/6d459830-0aed-42e5-b624-88b7364daade/thumb/
+  type: image
+  url: https://live.staticflickr.com/8791/17174688222_a3bb21913f_b.jpg
+  width: 1024
+- artist: ''
+  caption: Deloitte History 2015
+  copyright_status: youtube
+  duration: '4:45'
+  embed_url: https://www.youtube-nocookie.com/embed/KEFVKx-Oz3s
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=KEFVKx-Oz3s
+  thumb_url: https://img.youtube.com/vi/KEFVKx-Oz3s/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=KEFVKx-Oz3s
+  video_id: KEFVKx-Oz3s
 last_updated: '2026-05-11'
 related: []
 sources:

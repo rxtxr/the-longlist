@@ -2,6 +2,42 @@
 confidence: low
 era: 1924-2024
 id: rtl_group
+images:
+- artist: rsepulveda
+  caption: CEO RTL Group
+  copyright_status: clear_cc
+  height: 500
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/45631076@N00/22250932
+  thumb_url: https://api.openverse.org/v1/images/9e070772-3a4a-4eb7-b6e2-dd525b621adc/thumb/
+  type: image
+  url: https://live.staticflickr.com/15/22250932_f3db82cf0b.jpg
+  width: 375
+- artist: Maurice Safranek
+  caption: RTL Group-Logo 2026
+  copyright_status: clear_cc
+  height: 90
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=187691357
+  thumb_url: https://api.openverse.org/v1/images/d18cec0f-f549-4c95-9f02-eb1342b8caed/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/53/RTL_Group-Logo_2026.svg
+  width: 512
+- artist: ''
+  caption: The RTL Digital Hub
+  copyright_status: youtube
+  duration: '4:12'
+  embed_url: https://www.youtube-nocookie.com/embed/M_hNwUtWc4U
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=M_hNwUtWc4U
+  thumb_url: https://img.youtube.com/vi/M_hNwUtWc4U/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=M_hNwUtWc4U
+  video_id: M_hNwUtWc4U
 last_updated: '2026-05-11'
 related: []
 sources:

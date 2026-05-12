@@ -2,6 +2,42 @@
 confidence: low
 era: 1991-2010
 id: jung_von_matt_hamburg_1991_gruendungsmythos_und_deutsche_kreativrevolution
+images:
+- artist: Anna L. Schiller
+  caption: Graphic Recording Jung von Matt Executive Camp
+  copyright_status: clear_cc
+  height: 476
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/40726922@N07/15399933681
+  thumb_url: https://api.openverse.org/v1/images/2f792c96-ffc5-474d-8f35-b27a8ec23048/thumb/
+  type: image
+  url: https://live.staticflickr.com/2944/15399933681_b300968aa1_b.jpg
+  width: 1024
+- artist: Anna L. Schiller
+  caption: Graphic Recording Jung von Matt Executive Camp
+  copyright_status: clear_cc
+  height: 476
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/40726922@N07/15216452710
+  thumb_url: https://api.openverse.org/v1/images/091741ff-9815-4068-8f17-319e9ee8e762/thumb/
+  type: image
+  url: https://live.staticflickr.com/3892/15216452710_67527f1bc6_b.jpg
+  width: 1024
+- artist: ''
+  caption: Jung von Matt/Limmat - Samsung - A touch of history
+  copyright_status: youtube
+  duration: '2:01'
+  embed_url: https://www.youtube-nocookie.com/embed/W4KQC54upg8
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=W4KQC54upg8
+  thumb_url: https://img.youtube.com/vi/W4KQC54upg8/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=W4KQC54upg8
+  video_id: W4KQC54upg8
 last_updated: '2026-05-11'
 related: []
 sources:

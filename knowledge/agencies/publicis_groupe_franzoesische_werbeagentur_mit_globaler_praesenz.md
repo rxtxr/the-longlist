@@ -3,35 +3,29 @@ confidence: low
 era: 1926-2020
 id: publicis_groupe_franzoesische_werbeagentur_mit_globaler_praesenz
 images:
-- artist: Pierre-Yves Beaudouin
-  caption: Arc de Triomphe de l'Étoile from the roof of Publicis Groupe headquarters
-    on the Champs-Élysées.
+- artist: Arash Derambarsh
+  caption: Mark Elliot Zuckerberg (Facebook) et Maurice Lévy (Publicis Group) lors
+    du e-G8 à Paris
   copyright_status: clear_cc
-  height: 2000
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AArc%20de%20Triomphe%20de%20l%27%C3%89toile%20depuis%20Publicis%2001.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arc_de_Triomphe_de_l%27%C3%89toile_depuis_Publicis_01.jpg/500px-Arc_de_Triomphe_de_l%27%C3%89toile_depuis_Publicis_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b7/Arc_de_Triomphe_de_l%27%C3%89toile_depuis_Publicis_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2952
-- artist: Rednasberg
-  caption: Current offices of Boomerang and Publicis Groupe NL in Amsterdam.
+  height: 1024
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/37471331@N05/5762349228
+  thumb_url: https://api.openverse.org/v1/images/09ec7322-3c1c-425c-b90d-ac0c95d55a52/thumb/
+  type: image
+  url: https://live.staticflickr.com/2362/5762349228_9f7113ae83_b.jpg
+  width: 768
+- artist: sitemarca
+  caption: Pablo Glaser, vicepresidente de Publicis Group en Latinoamérica
   copyright_status: clear_cc
-  height: 3024
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3ABoomerang%20Building.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Boomerang_Building.jpg/500px-Boomerang_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/4/40/Boomerang_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4032
-- artist: Janericloebe
-  caption: Hauptsitz der Solar Millennium und eine deutsche Niederlassung von Publicis
-    Groupe in der Nägelsbachstraße 33 in Erlangen
-  copyright_status: clear_cc
-  height: 2228
-  license: CC BY 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AErlangen%20Solar%20Millennium%20Publicis%20Groupe%20001.JPG
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Erlangen_Solar_Millennium_Publicis_Groupe_001.JPG/500px-Erlangen_Solar_Millennium_Publicis_Groupe_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a1/Erlangen_Solar_Millennium_Publicis_Groupe_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3165
+  height: 683
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/20911561@N07/2380829674
+  thumb_url: https://api.openverse.org/v1/images/3d7bd7b4-11ad-4fd2-acdd-0fb1d31306cc/thumb/
+  type: image
+  url: https://live.staticflickr.com/2119/2380829674_220cc3f59e_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

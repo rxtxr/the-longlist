@@ -2,6 +2,21 @@
 confidence: high
 era: 1978-2010
 id: springer_jacoby_hamburg
+images:
+- artist: ''
+  caption: PODCAST with Proud@Work  - aka. Advertising legends Reinhard Springer &
+    Konstantin Jacoby
+  copyright_status: youtube
+  duration: '3:14'
+  embed_url: https://www.youtube-nocookie.com/embed/777R2gMeryI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=777R2gMeryI
+  thumb_url: https://img.youtube.com/vi/777R2gMeryI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=777R2gMeryI
+  video_id: 777R2gMeryI
 last_updated: '2026-05-11'
 related: []
 sources:

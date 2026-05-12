@@ -2,6 +2,32 @@
 confidence: low
 era: 1986-2020
 id: omnicom_group
+images:
+- artist: alpha_photo
+  caption: Omnicom Group
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/196993421@N03/52811476564
+  thumb_url: https://api.openverse.org/v1/images/538615b3-d42a-4d6f-b895-cdb68844267c/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/52811476564_ca49aa9751_b.jpg
+  width: 1024
+- artist: ''
+  caption: 'Omnicom Acquires IPG for $13 Billion: What This Merger Means for Advertising
+    | Industry Impact 2025"'
+  copyright_status: youtube
+  duration: '5:06'
+  embed_url: https://www.youtube-nocookie.com/embed/mbdROjy3pNI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=mbdROjy3pNI
+  thumb_url: https://img.youtube.com/vi/mbdROjy3pNI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=mbdROjy3pNI
+  video_id: mbdROjy3pNI
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,20 @@
 confidence: high
 era: 1963-1988
 id: david_schneider
+images:
+- artist: ''
+  caption: David Schneider - What makes a good social media post?
+  copyright_status: youtube
+  duration: '2:03'
+  embed_url: https://www.youtube-nocookie.com/embed/xh1J-QvZhZU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=xh1J-QvZhZU
+  thumb_url: https://img.youtube.com/vi/xh1J-QvZhZU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=xh1J-QvZhZU
+  video_id: xh1J-QvZhZU
 last_updated: '2026-05-11'
 related: []
 sources:

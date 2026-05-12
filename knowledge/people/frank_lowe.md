@@ -2,6 +2,18 @@
 confidence: low
 era: 1960-2010
 id: frank_lowe
+images:
+- artist: Michela Simoncini
+  caption: Anne Frank Statue - Amsterdam
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/59422190@N00/375843100
+  thumb_url: https://api.openverse.org/v1/images/05ca4745-3b02-47ac-8d81-60f763ee583c/thumb/
+  type: image
+  url: https://live.staticflickr.com/155/375843100_6e94c5c190_b.jpg
+  width: 766
 last_updated: '2026-05-11'
 related: []
 sources:

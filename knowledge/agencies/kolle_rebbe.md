@@ -2,6 +2,42 @@
 confidence: low
 era: 1994-present
 id: kolle_rebbe
+images:
+- artist: DESIGNERDOCK
+  caption: KOLLE REBBE
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/48700666@N04/6811715581
+  thumb_url: https://api.openverse.org/v1/images/38511a90-adf9-4736-9e1d-adb76d80d71b/thumb/
+  type: image
+  url: https://live.staticflickr.com/7016/6811715581_eebda85070_b.jpg
+  width: 1024
+- artist: DESIGNERDOCK
+  caption: 'Agentur des Jahres 2011: KOLLE REBBE aus Hamburg'
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/48700666@N04/6811714653
+  thumb_url: https://api.openverse.org/v1/images/bdf67832-1e8b-40e2-9ba3-727546270752/thumb/
+  type: image
+  url: https://live.staticflickr.com/7167/6811714653_db64532434_b.jpg
+  width: 1024
+- artist: ''
+  caption: '12 Reflections on Risk: Stefan Kolle, Werbefachmann'
+  copyright_status: youtube
+  duration: '3:52'
+  embed_url: https://www.youtube-nocookie.com/embed/zIFOO58DKu8
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=zIFOO58DKu8
+  thumb_url: https://img.youtube.com/vi/zIFOO58DKu8/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=zIFOO58DKu8
+  video_id: zIFOO58DKu8
 last_updated: '2026-05-11'
 related: []
 sources:

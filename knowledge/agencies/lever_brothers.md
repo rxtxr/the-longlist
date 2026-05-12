@@ -2,6 +2,29 @@
 confidence: low
 era: 1885-1929
 id: lever_brothers
+images:
+- artist: Shook Photos
+  caption: Lever Brothers Company, Hammond Plant, 1955 - Hammond, Indiana
+  copyright_status: clear_cc
+  height: 646
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/24724221@N07/4224419645
+  thumb_url: https://api.openverse.org/v1/images/c57df63b-d7bb-4ef0-baf0-9f993de71f8d/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/4224419645_582952cd8e_b.jpg
+  width: 1024
+- artist: Jon Whitton
+  caption: Lever Brothers and Crossfield Chemicals - Warrington
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/24872736@N03/2445747304
+  thumb_url: https://api.openverse.org/v1/images/97d428b6-8487-4c04-be70-b938957f7114/thumb/
+  type: image
+  url: https://live.staticflickr.com/3142/2445747304_7336fd1493_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,31 @@
 confidence: low
 era: 1982-1995
 id: david_kennedy
+images:
+- artist: Brian Leon of Ottawa
+  caption: Kennedy Family Portrait 2007
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/18775660@N00/2139849465
+  thumb_url: https://api.openverse.org/v1/images/33e00034-5eb1-47d9-94f3-fa722a7b7913/thumb/
+  type: image
+  url: https://live.staticflickr.com/2207/2139849465_1f40ce8587_b.jpg
+  width: 1024
+- artist: ''
+  caption: David Kennedy, co-founder of Wieden+Kennedy ad agency, dies at 82
+  copyright_status: youtube
+  duration: '1:59'
+  embed_url: https://www.youtube-nocookie.com/embed/NcCbEkzNUe4
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=NcCbEkzNUe4
+  thumb_url: https://img.youtube.com/vi/NcCbEkzNUe4/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=NcCbEkzNUe4
+  video_id: NcCbEkzNUe4
 last_updated: '2026-05-11'
 related: []
 sources:

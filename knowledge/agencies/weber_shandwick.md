@@ -2,6 +2,42 @@
 confidence: low
 era: 2001-2020
 id: weber_shandwick
+images:
+- artist: CarlosPacheco
+  caption: Working from the Weber Shandwick boardroom
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/48678427@N06/7896920300
+  thumb_url: https://api.openverse.org/v1/images/3c608023-7395-4875-8fe2-fb1e4fc6f583/thumb/
+  type: image
+  url: https://live.staticflickr.com/8313/7896920300_33c7fd725f_b.jpg
+  width: 1024
+- artist: CarlosPacheco
+  caption: Emmy Award - Weber Shandwick
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/48678427@N06/7896943328
+  thumb_url: https://api.openverse.org/v1/images/41e93a0c-67b8-4b46-9845-01212cab1982/thumb/
+  type: image
+  url: https://live.staticflickr.com/8445/7896943328_311a4b3fe6_b.jpg
+  width: 1024
+- artist: ''
+  caption: 'Weber Shandwick: The In-Culture Communications Agency'
+  copyright_status: youtube
+  duration: '1:27'
+  embed_url: https://www.youtube-nocookie.com/embed/tw0gQwpXHVI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=tw0gQwpXHVI
+  thumb_url: https://img.youtube.com/vi/tw0gQwpXHVI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=tw0gQwpXHVI
+  video_id: tw0gQwpXHVI
 last_updated: '2026-05-11'
 related: []
 sources:

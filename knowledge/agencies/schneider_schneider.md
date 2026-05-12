@@ -2,6 +2,43 @@
 confidence: high
 era: 1989-1999
 id: schneider_schneider
+images:
+- artist: clamshack
+  caption: Indy 500 Schneider - Schneider-Frame-Hepburn protested winner in The Indy
+    Times June 1 1931
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/91981316@N06/54239080664
+  thumb_url: https://api.openverse.org/v1/images/9f7ceeca-b5c4-4b04-b0e4-6e044589e56c/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/54239080664_2cd0e88584_b.jpg
+  width: 237
+- artist: Gill, André (Paris, 17–10–1840 - Saint-Maurice, 02–05–1885), dessinateur-lithographe
+  caption: Silly-Schneider Schneider-silly, Paris Musées 20231030171146
+  copyright_status: public_domain
+  height: 5943
+  license: CC0 1.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=139838502
+  thumb_url: https://api.openverse.org/v1/images/d088734c-6718-4cad-bf0e-21488e035892/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Silly-Schneider_Schneider-silly%2C_Paris_Mus%C3%A9es_20231030171146.jpg
+  width: 4215
+- artist: ''
+  caption: SCHNEIDER - THE LUCKY SPONSOR (Case Study) | Campaign
+  copyright_status: youtube
+  duration: '2:11'
+  embed_url: https://www.youtube-nocookie.com/embed/FzR2wHJ4F1c
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=FzR2wHJ4F1c
+  thumb_url: https://img.youtube.com/vi/FzR2wHJ4F1c/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=FzR2wHJ4F1c
+  video_id: FzR2wHJ4F1c
 last_updated: '2026-05-11'
 related: []
 sources:

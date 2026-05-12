@@ -2,6 +2,20 @@
 confidence: medium
 era: 1954-2025
 id: frank_gehry
+images:
+- artist: ''
+  caption: FORMA - An Interview with the Iconic Architect Frank Gehry.
+  copyright_status: youtube
+  duration: '2:27'
+  embed_url: https://www.youtube-nocookie.com/embed/PCpzURBwgTY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=PCpzURBwgTY
+  thumb_url: https://img.youtube.com/vi/PCpzURBwgTY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=PCpzURBwgTY
+  video_id: PCpzURBwgTY
 last_updated: '2026-05-11'
 related: []
 sources:

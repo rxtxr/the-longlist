@@ -2,6 +2,19 @@
 confidence: low
 era: 1954-2005
 id: ggk_duesseldorf
+images:
+- artist: Ralf Zeigermann
+  caption: Diedrich Diederichsen, 1984, auf dem Dach der Düsseldorfer Werbeagentur
+    GGK
+  copyright_status: clear_cc
+  height: 1824
+  license: CC BY 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=92828657
+  thumb_url: https://api.openverse.org/v1/images/2f720b8b-8f36-4346-ab44-f17b95a30f25/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/6/67/Diedrich_Diederichsen%2C_1984%2C_auf_dem_Dach_der_D%C3%BCsseldorfer_Werbeagentur_GGK.jpg
+  width: 1800
 last_updated: '2026-05-11'
 related: []
 sources:

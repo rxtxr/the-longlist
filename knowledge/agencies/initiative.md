@@ -2,6 +2,19 @@
 confidence: high
 era: 1968-present
 id: initiative
+images:
+- artist: Patrucio
+  caption: Map of the results of initiative 2066 in Washington state in November of
+    2024
+  copyright_status: public_domain
+  height: 4326
+  license: CC0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3A2024%20Washington%20Initiative%202066.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2024_Washington_Initiative_2066.png/500px-2024_Washington_Initiative_2066.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/0/03/2024_Washington_Initiative_2066.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 6900
 last_updated: '2026-05-11'
 related: []
 sources:

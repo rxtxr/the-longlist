@@ -2,6 +2,20 @@
 confidence: low
 era: 2004-ongoing
 id: meta_unternehmen
+images:
+- artist: ''
+  caption: Meta Platforms, Inc. - Company profile (overview) and history video
+  copyright_status: youtube
+  duration: '1:46'
+  embed_url: https://www.youtube-nocookie.com/embed/xrPNmYo-QVc
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=xrPNmYo-QVc
+  thumb_url: https://img.youtube.com/vi/xrPNmYo-QVc/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=xrPNmYo-QVc
+  video_id: xrPNmYo-QVc
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,21 @@
 confidence: high
 era: 1980-2023
 id: der_kreativdirektor_des_jahres_ego_status_und_wettbewerb_in_der_werbebranche
+images:
+- artist: ''
+  caption: 'Podcast "Der kreative Flow": Folge 59 – New Generation Typo! – Ein Interview
+    Cihan Tamti'
+  copyright_status: youtube
+  duration: '57:36'
+  embed_url: https://www.youtube-nocookie.com/embed/OGRu4gQSSvQ
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=OGRu4gQSSvQ
+  thumb_url: https://img.youtube.com/vi/OGRu4gQSSvQ/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=OGRu4gQSSvQ
+  video_id: OGRu4gQSSvQ
 last_updated: '2026-05-11'
 related: []
 sources:

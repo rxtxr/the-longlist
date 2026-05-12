@@ -2,6 +2,31 @@
 confidence: medium
 era: 1970-present
 id: serviceplan_muenchen_gegruendet_1970_europas_groesste_unabhaengige_agentur
+images:
+- artist: Serviceplan München
+  caption: Firmenlogo der deutschen Firma Hoffmann Mineral GmbH
+  copyright_status: clear_cc
+  height: 3701
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AHoffmann%20Mineral%20Logo%20R.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hoffmann_Mineral_Logo_R.jpg/500px-Hoffmann_Mineral_Logo_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Hoffmann_Mineral_Logo_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 10986
+- artist: ''
+  caption: Video | 50 Years of Serviceplan | Logo
+  copyright_status: youtube
+  duration: 0:31
+  embed_url: https://www.youtube-nocookie.com/embed/WP7_jzurgs0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=WP7_jzurgs0
+  thumb_url: https://img.youtube.com/vi/WP7_jzurgs0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=WP7_jzurgs0
+  video_id: WP7_jzurgs0
 last_updated: '2026-05-11'
 related: []
 sources:

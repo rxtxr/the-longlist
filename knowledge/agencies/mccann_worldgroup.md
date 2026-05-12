@@ -2,6 +2,42 @@
 confidence: low
 era: 1912-present
 id: mccann_worldgroup
+images:
+- artist: McCann Worldgroup
+  caption: Current McCann Emblem
+  copyright_status: public_domain
+  height: 612
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ACurrent%20McCann%20Emblem.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Current_McCann_Emblem.png/500px-Current_McCann_Emblem.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/1/16/Current_McCann_Emblem.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 808
+- artist: McCann Worldgroup
+  caption: Original H.K. McCann Co. Credo
+  copyright_status: public_domain
+  height: 471
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AMcCann%20Co.%20Credo.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/7/7c/McCann_Co._Credo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7c/McCann_Co._Credo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 475
+- artist: ''
+  caption: Brand McCann
+  copyright_status: youtube
+  duration: '2:03'
+  embed_url: https://www.youtube-nocookie.com/embed/Lpm6FXgpDnI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=Lpm6FXgpDnI
+  thumb_url: https://img.youtube.com/vi/Lpm6FXgpDnI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=Lpm6FXgpDnI
+  video_id: Lpm6FXgpDnI
 last_updated: '2026-05-11'
 related: []
 sources:

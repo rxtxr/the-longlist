@@ -2,6 +2,34 @@
 confidence: low
 era: 1937-1991
 id: edwin_h_land
+images:
+- artist: 'Forrest, Edwin, 1806-1872
+
+    Sabin, Joseph, 1821-1881'
+  caption: 'Subjects:'
+  copyright_status: public_domain
+  height: 1439
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ACatalogue%20of%20the%20library%20of%20Edwin%20Forrest%20%28IA%20catalogueoflibra00forrrich%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Catalogue_of_the_library_of_Edwin_Forrest_%28IA_catalogueoflibra00forrrich%29.pdf/page1-500px-Catalogue_of_the_library_of_Edwin_Forrest_%28IA_catalogueoflibra00forrrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5d/Catalogue_of_the_library_of_Edwin_Forrest_%28IA_catalogueoflibra00forrrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 866
+- artist: ''
+  caption: Edwin Land of Polaroid discussing the idea of a folding instant camera
+    which became the SX-70.
+  copyright_status: youtube
+  duration: '2:17'
+  embed_url: https://www.youtube-nocookie.com/embed/9GHZgmyAjks
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=9GHZgmyAjks
+  thumb_url: https://img.youtube.com/vi/9GHZgmyAjks/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=9GHZgmyAjks
+  video_id: 9GHZgmyAjks
 last_updated: '2026-05-11'
 related: []
 sources:

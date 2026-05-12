@@ -2,6 +2,31 @@
 confidence: medium
 era: 1950-2023
 id: charlie_munger
+images:
+- artist: Nick
+  caption: Charlie Munger
+  copyright_status: clear_cc
+  height: 663
+  license: CC BY 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ACharlie%20Munger%20%28cropped%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/5/56/Charlie_Munger_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/56/Charlie_Munger_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 477
+- artist: ''
+  caption: 'Charlie Munger: Invert, always invert'
+  copyright_status: youtube
+  duration: '10:40'
+  embed_url: https://www.youtube-nocookie.com/embed/T5-re2X-YSY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=T5-re2X-YSY
+  thumb_url: https://img.youtube.com/vi/T5-re2X-YSY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=T5-re2X-YSY
+  video_id: T5-re2X-YSY
 last_updated: '2026-05-11'
 related: []
 sources:

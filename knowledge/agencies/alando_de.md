@@ -2,37 +2,7 @@
 confidence: medium
 era: 1999-1999
 id: alando_de
-images:
-- artist: Keith Allison
-  caption: Washington Wizards v/s Phoenix Suns November 8, 2009 at Verizon Center
-    in Washington, D.C. Alando Tucker of the Suns in pregame introductions.
-  copyright_status: clear_cc
-  height: 323
-  license: CC BY 2.0
-  source: https://commons.wikimedia.org/wiki/File%3AAlando%20Tucker%20in%202009.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Alando_Tucker_in_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Alando_Tucker_in_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 283
-- artist: Biser Todorov
-  caption: Alando Forest Tucker (born February 11, 1984) is an American professional
-    basketball player who last played for Hapoel Eilat of the Israeli Premier Le
-  copyright_status: clear_cc
-  height: 3034
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AAlando%20Tucker%20in%202014.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Alando_Tucker_in_2014.jpg/500px-Alando_Tucker_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/4/42/Alando_Tucker_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1948
-- artist: Pierre Bona
-  caption: Alando (Corsica) - Ancien couvent franciscain (1525), clocher de l'église
-    conventuelle
-  copyright_status: clear_cc
-  height: 2352
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AAlando%20ancien%20couvent.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alando_ancien_couvent.jpg/500px-Alando_ancien_couvent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Alando_ancien_couvent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3136
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

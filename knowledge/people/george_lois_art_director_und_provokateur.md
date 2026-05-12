@@ -2,6 +2,31 @@
 confidence: low
 era: 1960-1980
 id: george_lois_art_director_und_provokateur
+images:
+- artist: Argonne National Laboratory
+  caption: Argonne’s Barry Smith and Lois Curfman McInnes Win E.O. Lawrence Award
+  copyright_status: clear_cc
+  height: 680
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/35734278@N05/6425773743
+  thumb_url: https://api.openverse.org/v1/images/2b371847-fb6d-4920-b694-e353beb7c204/thumb/
+  type: image
+  url: https://live.staticflickr.com/7166/6425773743_27b168d00a_b.jpg
+  width: 1024
+- artist: ''
+  caption: George Lois and Lee Clow - Their Best Ever Work Interview
+  copyright_status: youtube
+  duration: '8:36'
+  embed_url: https://www.youtube-nocookie.com/embed/9D04P0hBlpI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=9D04P0hBlpI
+  thumb_url: https://img.youtube.com/vi/9D04P0hBlpI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=9D04P0hBlpI
+  video_id: 9D04P0hBlpI
 last_updated: '2026-05-11'
 related: []
 sources:

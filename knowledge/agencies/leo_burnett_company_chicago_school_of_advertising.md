@@ -2,6 +2,31 @@
 confidence: medium
 era: 1935-1980
 id: leo_burnett_company_chicago_school_of_advertising
+images:
+- artist: Leo Burnett Worldwide
+  caption: Current logo of American advertising firm Leo Burnett Worldwide.
+  copyright_status: public_domain
+  height: 212
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ALeo%20Burnett%20Logo.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leo_Burnett_Logo.png/500px-Leo_Burnett_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/4/48/Leo_Burnett_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1200
+- artist: ''
+  caption: Leo Burnett, Founder of Leo Burnett Company - The Star Reacher
+  copyright_status: youtube
+  duration: '5:00'
+  embed_url: https://www.youtube-nocookie.com/embed/bo3GxudiCvA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=bo3GxudiCvA
+  thumb_url: https://img.youtube.com/vi/bo3GxudiCvA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=bo3GxudiCvA
+  video_id: bo3GxudiCvA
 last_updated: '2026-05-11'
 related: []
 sources:

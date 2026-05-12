@@ -2,6 +2,7 @@
 confidence: low
 era: 1928-1999
 id: lintas_worldwide
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

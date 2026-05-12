@@ -2,6 +2,20 @@
 confidence: low
 era: 1940-2003
 id: bates_worldwide
+images:
+- artist: ''
+  caption: The New Institutionalism | Robert Bates
+  copyright_status: youtube
+  duration: '4:15'
+  embed_url: https://www.youtube-nocookie.com/embed/tqLGSryhZns
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=tqLGSryhZns
+  thumb_url: https://img.youtube.com/vi/tqLGSryhZns/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=tqLGSryhZns
+  video_id: tqLGSryhZns
 last_updated: '2026-05-11'
 related: []
 sources:

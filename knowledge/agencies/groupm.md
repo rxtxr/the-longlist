@@ -2,34 +2,7 @@
 confidence: low
 era: 2003-2024
 id: groupm
-images:
-- artist: Jean-Baptiste Debret
-  caption: The Dinner, a white couple being served and fanned by black slaves
-  copyright_status: public_domain
-  height: 2028
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AA%20Brazilian%20family%20in%20Rio%20de%20Janeiro%20by%20Jean-Baptiste%20Debret%201839.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_Brazilian_family_in_Rio_de_Janeiro_by_Jean-Baptiste_Debret_1839.jpg/500px-A_Brazilian_family_in_Rio_de_Janeiro_by_Jean-Baptiste_Debret_1839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/1/14/A_Brazilian_family_in_Rio_de_Janeiro_by_Jean-Baptiste_Debret_1839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2816
-- artist: Dominicus Johannes Bergsma
-  caption: Fallen chestnuts from a  Castanea sativa . Focus stack of 17 photos.
-  copyright_status: clear_cc
-  height: 3456
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AAfgevallen%20kastanje%20van%20een%20Tamme%20kastanje%20%28Castanea%20sativa%29%2017-10-2021%20%28d.j.b.%29%2001.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afgevallen_kastanje_van_een_Tamme_kastanje_%28Castanea_sativa%29_17-10-2021_%28d.j.b.%29_01.jpg/500px-Afgevallen_kastanje_van_een_Tamme_kastanje_%28Castanea_sativa%29_17-10-2021_%28d.j.b.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/a/af/Afgevallen_kastanje_van_een_Tamme_kastanje_%28Castanea_sativa%29_17-10-2021_%28d.j.b.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3456
-- artist: Mauro David
-  caption: a hyperrealistic painting
-  copyright_status: clear_cc
-  height: 1412
-  license: CC BY 2.5
-  source: https://commons.wikimedia.org/wiki/File%3AFruitbowlwithmelons.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fruitbowlwithmelons.jpg/500px-Fruitbowlwithmelons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Fruitbowlwithmelons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1988
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

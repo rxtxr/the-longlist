@@ -2,6 +2,32 @@
 confidence: low
 era: 1955-present
 id: berkshire_hathaway
+images:
+- artist: No Swan So Fine
+  caption: Berkshire Hathaway HomeServices and Kay &amp; Co, Unit 4, 6 Pancras Square,
+    April 2023
+  copyright_status: clear_cc
+  height: 3024
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ABerkshire%20Hathaway%20HomeServices%2C%206%20Pancras%20Square%2C%20April%202023%2001.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg/500px-Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 4032
+- artist: ''
+  caption: How Berkshire Hathaway Started, Grew & Became a $618 Billion Company
+  copyright_status: youtube
+  duration: '11:41'
+  embed_url: https://www.youtube-nocookie.com/embed/HUqXgl_sfYY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=HUqXgl_sfYY
+  thumb_url: https://img.youtube.com/vi/HUqXgl_sfYY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=HUqXgl_sfYY
+  video_id: HUqXgl_sfYY
 last_updated: '2026-05-11'
 related: []
 sources:

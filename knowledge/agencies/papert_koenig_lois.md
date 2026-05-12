@@ -2,6 +2,20 @@
 confidence: low
 era: 1960-1963
 id: papert_koenig_lois
+images:
+- artist: ''
+  caption: George Lois on the Creative Revolution 4/5
+  copyright_status: youtube
+  duration: '8:33'
+  embed_url: https://www.youtube-nocookie.com/embed/C0rEZ0wEQqU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=C0rEZ0wEQqU
+  thumb_url: https://img.youtube.com/vi/C0rEZ0wEQqU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=C0rEZ0wEQqU
+  video_id: C0rEZ0wEQqU
 last_updated: '2026-05-11'
 related: []
 sources:

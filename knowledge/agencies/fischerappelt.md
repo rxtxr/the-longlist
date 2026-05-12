@@ -2,6 +2,29 @@
 confidence: medium
 era: 1986-2010
 id: fischerappelt
+images:
+- artist: pppspics
+  caption: 'Heute eingetroffen: Post von fischerAppelt München'
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/35637563@N00/5163222729
+  thumb_url: https://api.openverse.org/v1/images/622e3897-396d-4562-a7a6-1cbe81e69107/thumb/
+  type: image
+  url: https://live.staticflickr.com/4012/5163222729_e74d8f4743_b.jpg
+  width: 1024
+- artist: pppspics
+  caption: 'Heute eingetroffen: Post von fischerAppelt München'
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/35637563@N00/5163222595
+  thumb_url: https://api.openverse.org/v1/images/2a4cd515-f3f0-4a6c-99c2-41debd00c5d9/thumb/
+  type: image
+  url: https://live.staticflickr.com/4066/5163222595_4b2afb04b0_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

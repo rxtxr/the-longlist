@@ -2,6 +2,7 @@
 confidence: medium
 era: 1940-1986
 id: ted_bates_company_die_usp_agentur
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,20 @@
 confidence: medium
 era: 1981-2015
 id: lowe_worldwide
+images:
+- artist: ''
+  caption: Lowe's - The Story of A Billion Dollar Empire
+  copyright_status: youtube
+  duration: '13:40'
+  embed_url: https://www.youtube-nocookie.com/embed/RIeB08sYOGw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=RIeB08sYOGw
+  thumb_url: https://img.youtube.com/vi/RIeB08sYOGw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=RIeB08sYOGw
+  video_id: RIeB08sYOGw
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,32 @@
 confidence: high
 era: 1988-2010
 id: david_sims
+images:
+- artist: 1 Stryker Brigade Combat Team Arctic Wolves
+  caption: CSM and Mrs Sims
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/68154159@N07/14233082364
+  thumb_url: https://api.openverse.org/v1/images/0e8e054b-45e0-414c-bf2c-fb5c8e8d319f/thumb/
+  type: image
+  url: https://live.staticflickr.com/5200/14233082364_05c6b52265_b.jpg
+  width: 912
+- artist: ''
+  caption: David Sims on Hating School, Validation, and Not Caring About the Zeitgeist
+    | In Fashion
+  copyright_status: youtube
+  duration: '20:07'
+  embed_url: https://www.youtube-nocookie.com/embed/vvNeZLqiaXk
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=vvNeZLqiaXk
+  thumb_url: https://img.youtube.com/vi/vvNeZLqiaXk/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=vvNeZLqiaXk
+  video_id: vvNeZLqiaXk
 last_updated: '2026-05-11'
 related: []
 sources:

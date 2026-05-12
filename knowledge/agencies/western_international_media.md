@@ -3,38 +3,17 @@ confidence: medium
 era: 1965-1996
 id: western_international_media
 images:
-- artist: Gogerr
-  caption: An exterior view of the faculty of information and media studies (FIMS)
-    at Western University
+- artist: NASA's Marshall Space Flight Center
+  caption: Western Europe at Night
   copyright_status: clear_cc
-  height: 3024
-  license: CC BY 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AAn%20exterior%20view%20of%20the%20faculty%20of%20information%20and%20media%20studies%20%28FIMS%29%20at%20Western%20University.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/An_exterior_view_of_the_faculty_of_information_and_media_studies_%28FIMS%29_at_Western_University.jpg/500px-An_exterior_view_of_the_faculty_of_information_and_media_studies_%28FIMS%29_at_Western_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b3/An_exterior_view_of_the_faculty_of_information_and_media_studies_%28FIMS%29_at_Western_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4032
-- artist: Didier Descouens
-  caption: 'Jimbacrinus bostocki
-
-    Stage : Artinskian  between 290.1 ± 0.1 and 279.3 ± 0.6 million years ago (Ma).
-
-    Size and weight : 77x75x5.5 cm – 25.5 Kg'
-  copyright_status: clear_cc
-  height: 4912
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AJimbacrinus%20bostocki%20MHNT%20Gascoyne%20Junction%2C%20Western%20Australia.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jimbacrinus_bostocki_MHNT_Gascoyne_Junction%2C_Western_Australia.jpg/500px-Jimbacrinus_bostocki_MHNT_Gascoyne_Junction%2C_Western_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/2/26/Jimbacrinus_bostocki_MHNT_Gascoyne_Junction%2C_Western_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 5710
-- artist: ermell
-  caption: Western conifer seed bug. 12 images combined with Helicon Focus.
-  copyright_status: clear_cc
-  height: 4543
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3ALeptoglossus%20occidentalis-Amerikanische%20Kiefernwanze-Western%20conifer%20seed%20bug.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Leptoglossus_occidentalis-Amerikanische_Kiefernwanze-Western_conifer_seed_bug.jpg/500px-Leptoglossus_occidentalis-Amerikanische_Kiefernwanze-Western_conifer_seed_bug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/1/15/Leptoglossus_occidentalis-Amerikanische_Kiefernwanze-Western_conifer_seed_bug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3400
+  height: 682
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / nasa
+  source_url: https://www.flickr.com/photos/28634332@N05/32145532635
+  thumb_url: https://api.openverse.org/v1/images/fa34636e-ff1a-426a-a1cf-0a4d45df22dc/thumb/
+  type: image
+  url: https://live.staticflickr.com/447/32145532635_5b1d8bd319_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

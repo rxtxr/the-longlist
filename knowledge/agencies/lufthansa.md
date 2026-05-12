@@ -2,6 +2,43 @@
 confidence: low
 era: 1926-2024
 id: lufthansa
+images:
+- artist: Nabil Molinari Photography (10 Million views, Than
+  caption: '''Sachsen-Anhalt'' Lufthansa D-ABYF Boeing 747-830 cn/37830-1456 @ EDDF
+    / FRA 25-05-2019'
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/100251406@N07/52502571781
+  thumb_url: https://api.openverse.org/v1/images/862423d2-28fc-4f17-9e50-577a78693e2e/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/52502571781_9f20cf775b_b.jpg
+  width: 1024
+- artist: wilco737
+  caption: Lufthansa Boeing 747-8i new livery! (D-ABYA)
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/24483043@N04/28277128649
+  thumb_url: https://api.openverse.org/v1/images/6ebe20e0-21aa-4d18-a41f-576eb2f4d0c3/thumb/
+  type: image
+  url: https://live.staticflickr.com/4671/28277128649_a93a349206_b.jpg
+  width: 1024
+- artist: ''
+  caption: 'Much More Than An Airline: The Incredible Diversity Of The Lufthansa Group'
+  copyright_status: youtube
+  duration: '12:24'
+  embed_url: https://www.youtube-nocookie.com/embed/7DkgqbrH-b4
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=7DkgqbrH-b4
+  thumb_url: https://img.youtube.com/vi/7DkgqbrH-b4/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=7DkgqbrH-b4
+  video_id: 7DkgqbrH-b4
 last_updated: '2026-05-11'
 related: []
 sources:

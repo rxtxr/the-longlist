@@ -2,6 +2,7 @@
 confidence: medium
 era: 1933-1979
 id: ssc_b
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

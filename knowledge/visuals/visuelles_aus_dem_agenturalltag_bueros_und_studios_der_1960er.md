@@ -5,6 +5,21 @@ era: 1960-1969
 era_from: 1960
 era_to: 1969
 id: visuelles_aus_dem_agenturalltag_bueros_und_studios_der_1960er
+images:
+- artist: ''
+  caption: Corporate Design | | S01F09 | Marketing Süß-Sauer - Kanzleimarketing meets
+    Agenturalltag
+  copyright_status: youtube
+  duration: '36:45'
+  embed_url: https://www.youtube-nocookie.com/embed/kotumBGV_Oc
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=kotumBGV_Oc
+  thumb_url: https://img.youtube.com/vi/kotumBGV_Oc/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=kotumBGV_Oc
+  video_id: kotumBGV_Oc
 last_updated: '2026-05-10'
 related: []
 sources: []

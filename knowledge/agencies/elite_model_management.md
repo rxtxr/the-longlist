@@ -2,6 +2,37 @@
 confidence: high
 era: 1972-2000
 id: elite_model_management
+images:
+- artist: Lathroum, John A.
+  caption: '"March 1998."
+
+    Thesis advisor(s): Gail Fann Thomas, Nancy C. Roberts
+
+    Thesis (M.S. in Management) Naval Postgraduate School, March 1998
+
+    Includes bibliog'
+  copyright_status: public_domain
+  height: 1595
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AA%20comparative%20analysis%20of%20graduate%20management%20education%20%28IA%20comparativeanaly00lath%29.pdf
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/A_comparative_analysis_of_graduate_management_education_%28IA_comparativeanaly00lath%29.pdf/page1-500px-A_comparative_analysis_of_graduate_management_education_%28IA_comparativeanaly00lath%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d5/A_comparative_analysis_of_graduate_management_education_%28IA_comparativeanaly00lath%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1152
+- artist: ''
+  caption: The Secret World of London’s Elite Video Marketing Agencies
+  copyright_status: youtube
+  duration: '1:55'
+  embed_url: https://www.youtube-nocookie.com/embed/t9PisUsHfVk
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=t9PisUsHfVk
+  thumb_url: https://img.youtube.com/vi/t9PisUsHfVk/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=t9PisUsHfVk
+  video_id: t9PisUsHfVk
 last_updated: '2026-05-11'
 related: []
 sources:

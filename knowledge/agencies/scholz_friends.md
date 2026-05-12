@@ -2,6 +2,42 @@
 confidence: low
 era: 1981-present
 id: scholz_friends
+images:
+- artist: Michael Sonnabend
+  caption: Scholz & Friends
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/43702023@N06/6881498686
+  thumb_url: https://api.openverse.org/v1/images/e4c0e72c-38fa-4423-829d-b4e5e935dece/thumb/
+  type: image
+  url: https://live.staticflickr.com/7234/6881498686_fc3d6536d2_b.jpg
+  width: 1024
+- artist: oetting
+  caption: Scholz & Friends, das nagelneue Bürogebäude in Berlin Mitte.
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/35954809@N05/5723105979
+  thumb_url: https://api.openverse.org/v1/images/0ff026bf-cedf-4290-a7fc-49a1a69ebb9d/thumb/
+  type: image
+  url: https://live.staticflickr.com/5028/5723105979_5b9386a8ca_b.jpg
+  width: 612
+- artist: ''
+  caption: Gerety Talks with Scholz & Friends — Gerety 2025 Global Agency of the Year
+  copyright_status: youtube
+  duration: '30:43'
+  embed_url: https://www.youtube-nocookie.com/embed/9GtzVzRSqhc
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=9GtzVzRSqhc
+  thumb_url: https://img.youtube.com/vi/9GtzVzRSqhc/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=9GtzVzRSqhc
+  video_id: 9GtzVzRSqhc
 last_updated: '2026-05-11'
 related: []
 sources:

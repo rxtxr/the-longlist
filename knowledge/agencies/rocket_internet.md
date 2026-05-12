@@ -2,6 +2,29 @@
 confidence: low
 era: 2007-2018
 id: rocket_internet
+images:
+- artist: martin loetzsch
+  caption: Rocket Internet III
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/69328495@N00/8353416124
+  thumb_url: https://api.openverse.org/v1/images/4dbc22c5-fd67-474c-bcd8-169dbe3a05da/thumb/
+  type: image
+  url: https://live.staticflickr.com/8378/8353416124_1b1972069e_b.jpg
+  width: 1024
+- artist: martin loetzsch
+  caption: Rocket Internet IV
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/69328495@N00/8353414456
+  thumb_url: https://api.openverse.org/v1/images/863e2838-5b08-4f08-96d5-760b361dae5f/thumb/
+  type: image
+  url: https://live.staticflickr.com/8217/8353414456_1d8f83ce71_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

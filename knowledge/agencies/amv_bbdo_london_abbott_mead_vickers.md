@@ -3,45 +3,19 @@ confidence: high
 era: 1977-2010
 id: amv_bbdo_london_abbott_mead_vickers
 images:
-- artist: William Murphy from Dublin, Ireland
-  caption: 'There is no doubting the fact that Guinness are on the ball when it comes
-    to marketing campaigns.
-
-
-    Arthur''s Day refers to a series of music events whi'
-  copyright_status: clear_cc
-  height: 1760
-  license: CC BY-SA 2.0
-  source: https://commons.wikimedia.org/wiki/File%3AArthur%27s%20Day%20-%20Guinness%20Advertising%20%285021282636%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arthur%27s_Day_-_Guinness_Advertising_%285021282636%29.jpg/500px-Arthur%27s_Day_-_Guinness_Advertising_%285021282636%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/9/9f/Arthur%27s_Day_-_Guinness_Advertising_%285021282636%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2640
-- artist: William Murphy from Dublin, Ireland
-  caption: 'There is no doubting the fact that Guinness are on the ball when it comes
-    to marketing campaigns.
-
-
-    Arthur''s Day refers to a series of music events whi'
-  copyright_status: clear_cc
-  height: 1760
-  license: CC BY-SA 2.0
-  source: https://commons.wikimedia.org/wiki/File%3AArthur%27s%20Day%20-%20Guinness%20Advertising%20%285021284224%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Arthur%27s_Day_-_Guinness_Advertising_%285021284224%29.jpg/500px-Arthur%27s_Day_-_Guinness_Advertising_%285021284224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Arthur%27s_Day_-_Guinness_Advertising_%285021284224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2640
-- artist: William Murphy from Dublin, Ireland
-  caption: 'There is no doubting the fact that Guinness are on the ball when it comes
-    to marketing campaigns.
-
-
-    Arthur''s Day refers to a series of music events whi'
-  copyright_status: clear_cc
-  height: 1347
-  license: CC BY-SA 2.0
-  source: https://commons.wikimedia.org/wiki/File%3AArthur%27s%20Day%20-%20Guinness%20Advertising%20%285021285148%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Arthur%27s_Day_-_Guinness_Advertising_%285021285148%29.jpg/500px-Arthur%27s_Day_-_Guinness_Advertising_%285021285148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/3/3a/Arthur%27s_Day_-_Guinness_Advertising_%285021285148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2640
+- artist: ''
+  caption: 'Bodyform #wombstories, AMV BBDO London, Grand Prix, Cannes Lions 2021'
+  copyright_status: youtube
+  duration: '2:17'
+  embed_url: https://www.youtube-nocookie.com/embed/zGGsC12WKqE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=zGGsC12WKqE
+  thumb_url: https://img.youtube.com/vi/zGGsC12WKqE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=zGGsC12WKqE
+  video_id: zGGsC12WKqE
 last_updated: '2026-05-11'
 related: []
 sources:

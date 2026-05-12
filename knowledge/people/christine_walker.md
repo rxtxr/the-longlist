@@ -2,6 +2,32 @@
 confidence: low
 era: 1973-1989
 id: christine_walker
+images:
+- artist: Rosiestep
+  caption: Christine Walker, writer, novelist, at Bay Area Book Festival, in Berkeley,
+    California in June 2025
+  copyright_status: clear_cc
+  height: 4672
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AChristine%20Walker%20at%20Bay%20Area%20Book%20Festival%202025.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Christine_Walker_at_Bay_Area_Book_Festival_2025.jpg/500px-Christine_Walker_at_Bay_Area_Book_Festival_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3b/Christine_Walker_at_Bay_Area_Book_Festival_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 7008
+- artist: ''
+  caption: The Curious Entrepreneur Season 1 Episode 8 with Christine Walker Marketing/Website/Passion
+  copyright_status: youtube
+  duration: '45:09'
+  embed_url: https://www.youtube-nocookie.com/embed/olB8Xu8cssE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=olB8Xu8cssE
+  thumb_url: https://img.youtube.com/vi/olB8Xu8cssE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=olB8Xu8cssE
+  video_id: olB8Xu8cssE
 last_updated: '2026-05-11'
 related: []
 sources:

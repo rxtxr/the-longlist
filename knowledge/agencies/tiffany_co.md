@@ -2,6 +2,42 @@
 confidence: low
 era: 1837-present
 id: tiffany_co
+images:
+- artist: wallyg
+  caption: Florida - Palm Beach - Worth Avenue - Tiffany & Co.
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/70323761@N00/2318199159
+  thumb_url: https://api.openverse.org/v1/images/7f81c3dc-9ad8-43ab-abf3-674183c2a99b/thumb/
+  type: image
+  url: https://live.staticflickr.com/2367/2318199159_73b502cefb_b.jpg
+  width: 1024
+- artist: dog97209
+  caption: Tiffany & Co. Building, Wall Street, NYC NY
+  copyright_status: clear_cc
+  height: 681
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/71380981@N06/16961670299
+  thumb_url: https://api.openverse.org/v1/images/2ee854ea-9f6c-46ae-9cd4-4b7d8aca4a49/thumb/
+  type: image
+  url: https://live.staticflickr.com/7699/16961670299_f27abcd39f_b.jpg
+  width: 1024
+- artist: ''
+  caption: Tiffany & Co. - How This High End Brand Was Created from Scratch
+  copyright_status: youtube
+  duration: '9:19'
+  embed_url: https://www.youtube-nocookie.com/embed/oFhc3YyFnRc
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=oFhc3YyFnRc
+  thumb_url: https://img.youtube.com/vi/oFhc3YyFnRc/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=oFhc3YyFnRc
+  video_id: oFhc3YyFnRc
 last_updated: '2026-05-11'
 related: []
 sources:

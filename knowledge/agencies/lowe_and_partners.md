@@ -2,6 +2,29 @@
 confidence: low
 era: 1981-2011
 id: lowe_and_partners
+images:
+- artist: Lowe and Partners
+  caption: Lowe and Partners logo
+  copyright_status: clear_cc
+  height: 1036
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=10457295
+  thumb_url: https://api.openverse.org/v1/images/674f5c6b-dfd0-417e-947c-b1ed8b2b9c8e/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3a/Lowe_and_Partners_logo.jpg
+  width: 1828
+- artist: JAILmake
+  caption: Lowe and Partners NOVA awards
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/55171208@N02/6399077765
+  thumb_url: https://api.openverse.org/v1/images/bf0e3a42-e8cb-4f4a-a635-3e300867ebf3/thumb/
+  type: image
+  url: https://live.staticflickr.com/7155/6399077765_67552a051f_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

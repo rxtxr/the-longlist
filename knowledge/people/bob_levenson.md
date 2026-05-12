@@ -2,6 +2,7 @@
 confidence: medium
 era: 1960-1980
 id: bob_levenson
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

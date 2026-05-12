@@ -2,6 +2,42 @@
 confidence: low
 era: 1948-present
 id: honda
+images:
+- artist: Matti Blume
+  caption: Honda HR-V, Mondial Paris Motor Show 2018
+  copyright_status: clear_cc
+  height: 3840
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AHonda%2C%20Paris%20Motor%20Show%202018%2C%20Paris%20%281Y7A1799%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Honda%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1799%29.jpg/500px-Honda%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1799%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d2/Honda%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1799%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 5760
+- artist: Matti Blume
+  caption: Honda X-ADV, Mondial Paris Motor Show 2018
+  copyright_status: clear_cc
+  height: 3840
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AHonda%2C%20Paris%20Motor%20Show%202018%2C%20Paris%20%281Y7A1802%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Honda%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1802%29.jpg/500px-Honda%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/c/ca/Honda%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 5760
+- artist: ''
+  caption: How a Poor Japanese Boy Created Honda
+  copyright_status: youtube
+  duration: '21:46'
+  embed_url: https://www.youtube-nocookie.com/embed/wlvog-Qd0zw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=wlvog-Qd0zw
+  thumb_url: https://img.youtube.com/vi/wlvog-Qd0zw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=wlvog-Qd0zw
+  video_id: wlvog-Qd0zw
 last_updated: '2026-05-11'
 related: []
 sources:

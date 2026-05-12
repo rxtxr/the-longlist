@@ -2,6 +2,20 @@
 confidence: low
 era: 2010-2024
 id: pwc_digital_services
+images:
+- artist: ''
+  caption: What Is PwC's Consulting Business Like? - All About Capitalism
+  copyright_status: youtube
+  duration: '3:34'
+  embed_url: https://www.youtube-nocookie.com/embed/cbeN1k8140U
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=cbeN1k8140U
+  thumb_url: https://img.youtube.com/vi/cbeN1k8140U/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=cbeN1k8140U
+  video_id: cbeN1k8140U
 last_updated: '2026-05-11'
 related: []
 sources:

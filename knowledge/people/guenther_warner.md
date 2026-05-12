@@ -2,44 +2,7 @@
 confidence: high
 era: 1870-1900
 id: guenther_warner
-images:
-- artist: 'Magdalen College (University of Oxford)
-
-    Macray, William Dunn, 1826-1916
-
-    Bloxam, John Rouse, 1807-189'
-  caption: A continuation of A register of the presidents, fellows, demies ... and
-    other members of Saint Mary Magdalen College ... By John Rouse Bloxam. "[Bloxa
-  copyright_status: public_domain
-  height: 1264
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AA%20register%20of%20the%20members%20of%20St.%20Mary%20Magdalen%20College%2C%20Oxford%2C%20from%20the%20foundation%20of%20the%20college.%20New%20series%20%28IA%20registerofmember05magd%29.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_register_of_the_members_of_St._Mary_Magdalen_College%2C_Oxford%2C_from_the_foundation_of_the_college._New_series_%28IA_registerofmember05magd%29.pdf/page1-500px-A_register_of_the_members_of_St._Mary_Magdalen_College%2C_Oxford%2C_from_the_foundation_of_the_college._New_series_%28IA_registerofmember05magd%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/a/ad/A_register_of_the_members_of_St._Mary_Magdalen_College%2C_Oxford%2C_from_the_foundation_of_the_college._New_series_%28IA_registerofmember05magd%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 779
-- artist: 'Magdalen College (University of Oxford)
-
-    Macray, William Dunn, 1826-1916
-
-    Bloxam, John Rouse, 1807-189'
-  caption: A continuation of A register of the presidents, fellows, demies ... and
-    other members of Saint Mary Magdalen College ... By John Rouse Bloxam. "[Bloxa
-  copyright_status: public_domain
-  height: 1283
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AA%20register%20of%20the%20members%20of%20St.%20Mary%20Magdalen%20College%2C%20Oxford%2C%20from%20the%20foundation%20of%20the%20college.%20New%20series%20%28IA%20registerofmember08magd%29.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/A_register_of_the_members_of_St._Mary_Magdalen_College%2C_Oxford%2C_from_the_foundation_of_the_college._New_series_%28IA_registerofmember08magd%29.pdf/page1-500px-A_register_of_the_members_of_St._Mary_Magdalen_College%2C_Oxford%2C_from_the_foundation_of_the_college._New_series_%28IA_registerofmember08magd%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/a/ae/A_register_of_the_members_of_St._Mary_Magdalen_College%2C_Oxford%2C_from_the_foundation_of_the_college._New_series_%28IA_registerofmember08magd%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 793
-- artist: Portal ArteBlitz
-  caption: Atriz Débora Olivieri em entrevista ao portal ArteBlitz.
-  copyright_status: clear_cc
-  height: 753
-  license: CC BY 3.0
-  source: https://commons.wikimedia.org/wiki/File%3AD%C3%A9bora%20Olivieri.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/D%C3%A9bora_Olivieri.jpg/500px-D%C3%A9bora_Olivieri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c7/D%C3%A9bora_Olivieri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 618
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

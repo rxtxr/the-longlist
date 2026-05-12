@@ -2,6 +2,42 @@
 confidence: low
 era: 2001-2020
 id: just_eat
+images:
+- artist: Chiot's Run
+  caption: Why Wouldn't You Just Eat an Egg?
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/34912142@N03/6169240001
+  thumb_url: https://api.openverse.org/v1/images/16b100a0-5267-47ec-8cfa-188a4674d88a/thumb/
+  type: image
+  url: https://live.staticflickr.com/6169/6169240001_8a302c4f78_b.jpg
+  width: 1024
+- artist: www.force-ouvriere.fr
+  caption: 05102022confdeP-Just Eat-16
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/53678873@N05/52406890285
+  thumb_url: https://api.openverse.org/v1/images/e68b96e2-1240-494c-958d-341e01c14065/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/52406890285_f25bd6b71c_b.jpg
+  width: 683
+- artist: ''
+  caption: 'Just Eat: From basement to billions | CNBC International'
+  copyright_status: youtube
+  duration: '5:11'
+  embed_url: https://www.youtube-nocookie.com/embed/mNHe1RhSm0o
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=mNHe1RhSm0o
+  thumb_url: https://img.youtube.com/vi/mNHe1RhSm0o/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=mNHe1RhSm0o
+  video_id: mNHe1RhSm0o
 last_updated: '2026-05-11'
 related: []
 sources:

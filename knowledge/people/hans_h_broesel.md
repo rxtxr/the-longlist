@@ -2,6 +2,7 @@
 confidence: low
 era: 1933-1971
 id: hans_h_broesel
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

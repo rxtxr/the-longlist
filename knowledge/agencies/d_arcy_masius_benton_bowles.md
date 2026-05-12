@@ -2,6 +2,20 @@
 confidence: low
 era: 1906-1999
 id: d_arcy_masius_benton_bowles
+images:
+- artist: ''
+  caption: Masius (D'Arcy Masius Benton & Bowles)
+  copyright_status: youtube
+  duration: '3:13'
+  embed_url: https://www.youtube-nocookie.com/embed/z03lK7m0W28
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=z03lK7m0W28
+  thumb_url: https://img.youtube.com/vi/z03lK7m0W28/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=z03lK7m0W28
+  video_id: z03lK7m0W28
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,20 @@
 confidence: medium
 era: 1921-2001
 id: bozell_worldwide
+images:
+- artist: ''
+  caption: Bozell – Brand Anthem
+  copyright_status: youtube
+  duration: '1:58'
+  embed_url: https://www.youtube-nocookie.com/embed/Sgy6EsfpLQ8
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=Sgy6EsfpLQ8
+  thumb_url: https://img.youtube.com/vi/Sgy6EsfpLQ8/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=Sgy6EsfpLQ8
+  video_id: Sgy6EsfpLQ8
 last_updated: '2026-05-11'
 related: []
 sources:

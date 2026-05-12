@@ -2,6 +2,7 @@
 confidence: medium
 era: 1960er-2020er
 id: ogilvy_deutschland
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

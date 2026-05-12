@@ -3,34 +3,41 @@ confidence: medium
 era: 1946-present
 id: aldi_nord
 images:
-- artist: Raccoon94
-  caption: ALDI Nord Filiale im Ernst-August-Stieg 7, 21107 Hamburg
-  copyright_status: public_domain
-  height: 3024
-  license: CC0
-  source: https://commons.wikimedia.org/wiki/File%3AALDI%20Nord%2C%20Ernst-August-Stieg%2C%20Wilhelmsburg.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ALDI_Nord%2C_Ernst-August-Stieg%2C_Wilhelmsburg.jpg/500px-ALDI_Nord%2C_Ernst-August-Stieg%2C_Wilhelmsburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2b/ALDI_Nord%2C_Ernst-August-Stieg%2C_Wilhelmsburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4032
-- artist: ALDI Einkauf GmbH &amp; Co. oHG
-  caption: Dies ist das offizielle ALDI Nord Logo der ALDI Einkauf GmbH &amp; Co.
-    oHG in Essen.
-  copyright_status: public_domain
-  height: 1488
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AALDI%20Nord%20Logo%202015.png
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ALDI_Nord_Logo_2015.png/500px-ALDI_Nord_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/2/20/ALDI_Nord_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1417
-- artist: WrS.tm.pl
-  caption: Wewnątrz dyskontu Aldi w Tomaszowie Mazowieckim, woj. łódzkie
-  copyright_status: public_domain
-  height: 1944
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AALDI%20store%20in%20Tomasz%C3%B3w%20Mazowiecki%2C%20Poland.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ALDI_store_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg/500px-ALDI_store_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/6/6a/ALDI_store_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2592
+- artist: baynado1978
+  caption: ALDI Nord
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/11162074@N00/7266213642
+  thumb_url: https://api.openverse.org/v1/images/f313e32e-5dc2-412a-afea-58b9d338daf9/thumb/
+  type: image
+  url: https://live.staticflickr.com/8152/7266213642_ae6bfe3da0_b.jpg
+  width: 1024
+- artist: GeoTrinity
+  caption: Baklava ALDI-Nord 02
+  copyright_status: clear_cc
+  height: 1800
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=50206710
+  thumb_url: https://api.openverse.org/v1/images/0609cfa5-a333-46d9-a725-33b3e20610d5/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/d/df/Baklava_ALDI-Nord_02.jpg
+  width: 2026
+- artist: ''
+  caption: Aldi is Secretly Two Different Companies...
+  copyright_status: youtube
+  duration: '12:10'
+  embed_url: https://www.youtube-nocookie.com/embed/HBudhxKK6vA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=HBudhxKK6vA
+  thumb_url: https://img.youtube.com/vi/HBudhxKK6vA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=HBudhxKK6vA
+  video_id: HBudhxKK6vA
 last_updated: '2026-05-11'
 related: []
 sources:

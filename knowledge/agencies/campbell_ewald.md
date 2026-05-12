@@ -2,6 +2,42 @@
 confidence: low
 era: 1911-2010
 id: campbell_ewald
+images:
+- artist: Davezilla was taken
+  caption: Cintron 5K Run at Campbell-Ewald
+  copyright_status: clear_cc
+  height: 500
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/29697915@N00/497798257
+  thumb_url: https://api.openverse.org/v1/images/05f267fa-f06b-4fb2-afce-46cfb3cc4664/thumb/
+  type: image
+  url: https://live.staticflickr.com/228/497798257_af46b3c4cc.jpg
+  width: 375
+- artist: Davezilla was taken
+  caption: Cintron 5K Run at Campbell-Ewald
+  copyright_status: clear_cc
+  height: 375
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/29697915@N00/497798969
+  thumb_url: https://api.openverse.org/v1/images/8c324d9b-89a4-4939-a044-28e37e3e14cb/thumb/
+  type: image
+  url: https://live.staticflickr.com/217/497798969_95f67903a5.jpg
+  width: 500
+- artist: ''
+  caption: Campbell Ewald | Make History
+  copyright_status: youtube
+  duration: '1:03'
+  embed_url: https://www.youtube-nocookie.com/embed/2a8a8xHsN2c
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=2a8a8xHsN2c
+  thumb_url: https://img.youtube.com/vi/2a8a8xHsN2c/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=2a8a8xHsN2c
+  video_id: 2a8a8xHsN2c
 last_updated: '2026-05-11'
 related: []
 sources:

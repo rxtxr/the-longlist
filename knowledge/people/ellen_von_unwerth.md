@@ -2,6 +2,32 @@
 confidence: low
 era: 1986-2010
 id: ellen_von_unwerth
+images:
+- artist: Ellen von Unwerth
+  caption: Ellen von Unwerth Self Portrait for Ponystep magazine
+  copyright_status: clear_cc
+  height: 1000
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AEllen-von-unwerth-photographer-self-portrait8.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellen-von-unwerth-photographer-self-portrait8.jpg/500px-Ellen-von-unwerth-photographer-self-portrait8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8a/Ellen-von-unwerth-photographer-self-portrait8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 667
+- artist: ''
+  caption: Ellen von Unwerth on designing a cocktail bar to auction for the Elton
+    John AIDS Foundation
+  copyright_status: youtube
+  duration: '2:11'
+  embed_url: https://www.youtube-nocookie.com/embed/ZMIiOb8rD7Q
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ZMIiOb8rD7Q
+  thumb_url: https://img.youtube.com/vi/ZMIiOb8rD7Q/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ZMIiOb8rD7Q
+  video_id: ZMIiOb8rD7Q
 last_updated: '2026-05-11'
 related: []
 sources:

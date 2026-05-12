@@ -2,45 +2,7 @@
 confidence: high
 era: 1989-2010
 id: initiative_media_worldwide
-images:
-- artist: Marcela Oliveira
-  caption: 'Brazilian Portuguese:  Lazer e juventude Leisure and youth: an analysis
-    of beer propaganda conveyed by televisiontitle QS:P1476,pt-br:"Lazer e juventu'
-  copyright_status: clear_cc
-  height: 1752
-  license: CC BY 4.0
-  source: https://commons.wikimedia.org/wiki/File%3ALazer%20e%20juventude%20-%20an%C3%A1lise%20das%20propagandas%20de%20cerveja%20veiculadas%20pela%20televis%C3%A3o%2C%20Journal%20of%20Physical%20Education%20%2811128%29.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lazer_e_juventude_-_an%C3%A1lise_das_propagandas_de_cerveja_veiculadas_pela_televis%C3%A3o%2C_Journal_of_Physical_Education_%2811128%29.pdf/page1-500px-Lazer_e_juventude_-_an%C3%A1lise_das_propagandas_de_cerveja_veiculadas_pela_televis%C3%A3o%2C_Journal_of_Physical_Education_%2811128%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/3/32/Lazer_e_juventude_-_an%C3%A1lise_das_propagandas_de_cerveja_veiculadas_pela_televis%C3%A3o%2C_Journal_of_Physical_Education_%2811128%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1239
-- artist: 'Schumaker, John R
-
-    United States. Bureau of Land Management. Natural Resource Alternative Dispute
-    Res'
-  caption: 'Compiler from p. [1] of tool kit
-
-    Title from cover
-
-    Includes bibliographical references
-
-    Subjects: Dispute resolution (Law); Mediation; Environmental med'
-  copyright_status: public_domain
-  height: 1650
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3ANatural%20resource%20alternative%20dispute%20resolution%20initiative%20-%20strategic%20plan%20and%20tool%20kit%20%28IA%20naturalresourcea00schu%29.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Natural_resource_alternative_dispute_resolution_initiative_-_strategic_plan_and_tool_kit_%28IA_naturalresourcea00schu%29.pdf/page1-500px-Natural_resource_alternative_dispute_resolution_initiative_-_strategic_plan_and_tool_kit_%28IA_naturalresourcea00schu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Natural_resource_alternative_dispute_resolution_initiative_-_strategic_plan_and_tool_kit_%28IA_naturalresourcea00schu%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1241
-- artist: Wikimedia Foundation, Education team
-  caption: This is the Teacher's Guide of the "Reading Wikipedia in the Classroom"
-    program corresponding to Module 2. "Reading Wikipedia in the Classroom" is a p
-  copyright_status: clear_cc
-  height: 1752
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AReading%20Wikipedia%20in%20the%20Classroom%20-%20Teacher%27s%20Guide%20Module%202%20%28English%29.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Reading_Wikipedia_in_the_Classroom_-_Teacher%27s_Guide_Module_2_%28English%29.pdf/page1-500px-Reading_Wikipedia_in_the_Classroom_-_Teacher%27s_Guide_Module_2_%28English%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/7/7c/Reading_Wikipedia_in_the_Classroom_-_Teacher%27s_Guide_Module_2_%28English%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1239
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

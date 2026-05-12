@@ -2,12 +2,36 @@
 confidence: low
 era: 2010-
 id: instagram
-last_updated: '2026-05-11'
+images:
+- artist: Instagram
+  caption: Instagram screenshot
+  copyright_status: public_domain
+  height: 742
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AInstagram%20screenshot.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Instagram_screenshot.png/500px-Instagram_screenshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3a/Instagram_screenshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1127
+- artist: Ahmedmustafa 74
+  caption: Instagram verifed
+  copyright_status: clear_cc
+  height: 512
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AInstagram%20verifed.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Instagram_verifed.png/500px-Instagram_verifed.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f3/Instagram_verifed.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 512
+last_updated: '2026-05-12'
 related: []
 sources:
 - Quelle 1
 - Quelle 3
 - Quelle 9
+- Quelle 6
 tags:
 - social-media
 - mobile-marketing
@@ -20,33 +44,34 @@ wave: 20
 ---
 
 ## Überblick
-Instagram ist eine visuelle Social-Media-Plattform, die sich auf das Teilen von Fotos und Kurzvideos konzentriert. Die Plattform entwickelte sich zu einem wichtigen Kanal für Markenkommunikation und Influencer-Marketing [ungesichert].
+Instagram ist mehr als nur eine Social-Media-Plattform – es ist das digitale Zuhause einer globalen Gemeinschaft, die sich durch Bilder erzählt. Was 2010 als schlichter Foto-Sharing-Dienst begann, entwickelte sich zu einem der mächtigsten Werbekanäle des 21. Jahrhunderts und zum Inkubator einer komplett neuen Berufsklasse: der Content Creator [ungesichert]. Instagram veränderte nicht nur, wie wir Erinnerungen teilen, sondern auch wie Marken mit Konsumenten kommunizieren.
 
 ## Historischer Kontext
-Instagram entstand im Kontext des Smartphone-Booms Ende der 2000er Jahre [ungesichert]. Wirtschaftlich traf es den Wunsch von Marken nach jüngeren, visuell affinen Zielgruppen [ungesichert].
+Instagram entstand in einer Zeit, in der das iPhone die Fotografie demokratisierte [ungesichert]. Plötzlich hatte jeder eine hochwertige Kamera in der Tasche – doch es fehlte eine Plattform, die diese Bilder würdigte. Gleichzeitig suchten Marken verzweifelt nach Wegen, jüngere, visuell affine Zielgruppen zu erreichen, die sich von traditioneller Werbung abwandten [ungesichert]. Instagram traf diesen Nerv genau: Es war mobil, visuell und sozial – die perfekte Kombination für das aufkommende Zeitalter der Smartphone-Ästhetik.
 
 ## Wichtige Details
-*   **Oktober 2010:** Gründung durch Kevin Systrom und Mike Krieger in San Francisco [ungesichert].
-*   **April 2012:** Übernahme durch Facebook (heute Meta Platforms) für ca. 1 Milliarde US-Dollar [ungesichert].
-*   **Juni 2013:** Einführung von Video-Funktionen [ungesichert].
-*   **August 2016:** Einführung der Instagram-Stories [ungesichert].
-*   **2016:** Instagram kündigte im Februar 200.000 Werbetreibende auf der Plattform an, was bis September 2016 auf 500.000 und bis März 2017 auf 1 Million anstieg (Quelle 1).
-*   **Mai 2016:** Instagram startete neue Tools für Geschäftskonten, einschließlich Business-Profile, Analysen und die Möglichkeit, Beiträge als Werbung zu promoten (Quelle 1).
-*   **2017:** Einführung von Story Ads [ungesichert] (Quelle 9).
-*   **Juni 2018:** Start von IGTV [ungesichert].
-*   **November 2019:** Test des "Checkout"-Features [ungesichert].
-*   **August 2020:** Einführung von "Reels" [ungesichert].
-*   **2021:** Ausrichtung auf "Creator Economy" [ungesichert].
+Die Geschichte Instagrams beginnt mit einer zufälligen Begegnung: **Kevin Systrom**, damals bei Google, traf auf einer Party **Mike Krieger** [ungesichert]. Beide teilten die Leidenschaft für Fotografie und Technologie. Ursprünglich entwickelten sie "Burbn", eine App für Location-Check-ins – doch der Fokus verlagerte sich schnell auf das Teilen von Bildern.
+
+*   **Oktober 2010:** Der Launch war sofort erfolgreich – 25.000 Nutzer am ersten Tag [ungesichert]. Innerhalb weniger Monate erreichte die App eine Million Nutzer [ungesichert]. Der frühe Erfolg lag in der Einfachheit: quadratische Fotos (eine Hommage an Polaroid), Filter für sofortige Ästhetik und eine reine Mobile-Experience.
+*   **April 2012:** **Facebook** erkannte das Potenzial und übernahm Instagram für etwa 1 Milliarde Dollar [ungesichert]. Die Übernahme war kontrovers – viele fürchteten um die Unabhängigkeit der Plattform [ungesichert].
+*   **Juni 2013:** Einführung von Videos – der erste Schritt weg vom reinen Foto-Fokus [ungesichert].
+*   **August 2016:** Die Einführung von **Instagram Stories** war ein Wendepunkt. Offen inspiriert von [[Snapchat]] [ungesichert], ermöglichten Stories spontane, ephemerale Inhalte. Dies zog nicht nur Nutzer an, sondern eröffnete Marken neue Werbeformate.
+*   **2016-2017:** Das explosive Wachstum der Werbebranche auf der Plattform: Februar 2016: 200.000 Werbetreibende, September 2016: 500.000, März 2017: 1 Million (Quelle 1). Parallel starteten **Business-Tools** mit Analytics und Werbepromotion (Quelle 1).
+*   **2017:** Einführung von **Story Ads** – Werbung, die sich nahtlos in den Strom der Stories einfügte (Quelle 9).
+*   **Juni 2018:** Start von **IGTV** für längere Videos – ein früher, aber nicht vollends erfolgreicher Versuch, mit [[YouTube]] zu konkurrieren [ungesichert].
+*   **November 2019:** Test des **"Checkout"**-Features – Instagram wurde zum E-Commerce-Kanal [ungesichert].
+*   **August 2020:** Als Antwort auf [[TikTok]] launchte Instagram **"Reels"** – kurze, unterhaltsame Videos, die heute das Content-Ökosystem dominieren [ungesichert].
+*   **2021:** Die Ausrichtung auf die **"Creator Economy"** wurde offiziell – Instagram positionierte sich als Plattform, auf der Creatoren Geld verdienen können [ungesichert].
 
 ## Bedeutung & Einfluss
-Instagram professionalisierte das Influencer-Marketing und machte es für Marken skalierbar und messbar [ungesichert]. Die Plattform schuf neue Berufsbilder wie den "Content Creator" [ungesichert]. Instagram ist die Social-Media-Plattform, auf die Unternehmen am meisten Werbegeld für Marketing mit Influencern ausgeben (Stand 2023) (Quelle 3).
+Instagram professionalisierte das [[Influencer-Marketing]] und machte es für Marken skalierbar und messbar [ungesichert]. Plötzlich konnten Unternehmen nicht nur mit großen Celebrities, sondern mit tausenden "Mikro-Influencern" zusammenarbeiten. Die Plattform schuf komplett neue Berufsbilder – der "Content Creator" wurde zu einem legitimen Karriereweg [ungesichert]. Instagram ist die Social-Media-Plattform, auf die Unternehmen am meisten Werbegeld für Marketing mit Influencern ausgeben (Stand 2023) (Quelle 3). Die Plattform veränderte zudem die Ästhetik von Alltag und Tourismus – "Instagrammable" wurde zum Synonym für fotogene Orte und Erlebnisse [ungesichert].
 
 ## Verbindungen
-Die Plattform wurde von Meta Platforms (ehemals Facebook) übernommen und integriert [ungesichert]. Sie stand in Konkurrenz zu Snapchat (Stories) und später TikTok (Reels) [ungesichert]. Große Werbeholdinggruppen wie WPP, Omnicom und Publicis Groupe entwickelten spezialisierte Einheiten für Instagram-Marketing [ungesichert]. Kampagnen wie "#ShotOniPhone" von TBWA\Media Arts Lab für Apple demonstrierten die Symbiose von Plattform und Markencontent [ungesichert].
+Instagram ist tief verwoben mit der Geschichte seines Mutterkonzerns **[[Meta Platforms]]** (ehemals Facebook) [ungesichert]. Die Plattform stand stets in Konkurrenz zu anderen visuellen Netzwerken: Zuerst zu **[[Snapchat]]** (Stories), später zu **[[TikTok]]** (Reels) [ungesichert]. Große Werbeholdinggruppen wie **[[WPP]]**, **[[Omnicom]]** und **[[Publicis Groupe]]** entwickelten spezialisierte Einheiten für Instagram-Marketing [ungesichert]. Kampagnen wie "#ShotOniPhone" von **[[TBWA\Media Arts Lab]]** für **[[Apple]]** demonstrierten die perfekte Symbiose von Plattform und Markencontent [ungesichert]. Der globale Einfluss zeigt sich auch in Märkten wie Russland, wo Instagram 2017 bereits die Werbebranche durcheinanderwirbelte (Quelle 6).
 
 ## Bildmaterial-Hinweise
-*   Screenshots der ursprünglichen App-Oberfläche [ungesichert].
-*   Pressebilder der Gründer Kevin Systrom und Mike Krieger [ungesichert].
-*   Erste Werbeanzeigen von Marken wie Michael Kors oder Mercedes-Benz auf der Plattform (ca. 2013) [ungesichert].
-*   Beispiele für frühe Influencer-Posts [ungesichert].
-*   Screenshots der Einführung neuer Features (Stories, Reels, Shopping) [ungesichert].
+*   Screenshots der ursprünglichen App-Oberfläche mit ihren Holzfaser-Hintergründen [ungesichert]
+*   Pressebilder der Gründer Kevin Systrom und Mike Krieger in den frühen Büros [ungesichert]
+*   Erste Werbeanzeigen von Luxusmarken wie Michael Kors oder Mercedes-Benz auf der Plattform (ca. 2013) [ungesichert]
+*   Beispiele für frühe Influencer-Posts, die noch unpolierter und authentischer wirkten [ungesichert]
+*   Screenshots der Einführung neuer Features (Stories, Reels, Shopping), die die Evolution der Plattform zeigen [ungesichert]

@@ -2,6 +2,42 @@
 confidence: low
 era: 1960-2010
 id: david_puttnam
+images:
+- artist: lisboncouncil
+  caption: David Puttnam, Neelie Kroes and Eva Castillo Sanz
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/40755722@N03/10692705233
+  thumb_url: https://api.openverse.org/v1/images/361cc81d-8d1a-494b-895e-c2fd4dbc353a/thumb/
+  type: image
+  url: https://live.staticflickr.com/3786/10692705233_8cea12be0a_b.jpg
+  width: 1024
+- artist: lisboncouncil
+  caption: David Puttnam and Ryan Heath
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/40755722@N03/10692439005
+  thumb_url: https://api.openverse.org/v1/images/b16221fb-2027-4295-8cb9-1ebbdd158c0f/thumb/
+  type: image
+  url: https://live.staticflickr.com/7394/10692439005_1619b32f29_b.jpg
+  width: 1024
+- artist: ''
+  caption: David Puttnam - 98 - Alain Elkann Interviews
+  copyright_status: youtube
+  duration: '39:52'
+  embed_url: https://www.youtube-nocookie.com/embed/e5V7QR2Dg1M
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=e5V7QR2Dg1M
+  thumb_url: https://img.youtube.com/vi/e5V7QR2Dg1M/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=e5V7QR2Dg1M
+  video_id: e5V7QR2Dg1M
 last_updated: '2026-05-11'
 related: []
 sources:

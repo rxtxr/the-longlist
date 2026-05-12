@@ -3,33 +3,28 @@ confidence: medium
 era: 1995-2021
 id: aperto
 images:
-- artist: Alice Yoffe
-  caption: 'More info: alisayoffe.com/shows/solo/2019/aperto-raum-curated-by-alisa-yoffe'
+- artist: Paolo Margari | paolomargari.eu
+  caption: salento, (discarica a cielo) aperto tutto l'anno
   copyright_status: clear_cc
-  height: 3024
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AAperto%20Raum%20curated%20by%20Alisa%20Yoffe.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Aperto_Raum_curated_by_Alisa_Yoffe.jpg/500px-Aperto_Raum_curated_by_Alisa_Yoffe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/3/3e/Aperto_Raum_curated_by_Alisa_Yoffe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4032
-- artist: Unknown authorUnknown author
-  caption: Bergamo - Colle Aperto e Torre di Adalberto
-  copyright_status: public_domain
-  height: 303
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3ABergamo%20-%20Colle%20Aperto%20e%20Torre%20di%20Adalberto.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Bergamo_-_Colle_Aperto_e_Torre_di_Adalberto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Bergamo_-_Colle_Aperto_e_Torre_di_Adalberto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 450
-- artist: Ottantafame
-  caption: Fiume Aperto (Como) in Parco regionale Spina Verde (Q3895441)
+  height: 1024
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/97544179@N00/2467310015
+  thumb_url: https://api.openverse.org/v1/images/405455af-902d-424f-98b3-6bf26c48f5f9/thumb/
+  type: image
+  url: https://live.staticflickr.com/3216/2467310015_1d063aaaf9_b.jpg
+  width: 683
+- artist: Comune di Reggio Nell'Emilia
+  caption: Chiostri di San Pietro e Laboratorio aperto Urbano (1)
   copyright_status: clear_cc
-  height: 2011
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AFiume%20Aperto%20%28Como%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fiume_Aperto_%28Como%29.jpg/500px-Fiume_Aperto_%28Como%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c2/Fiume_Aperto_%28Como%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1429
+  height: 683
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39952950@N02/32500356687
+  thumb_url: https://api.openverse.org/v1/images/38c86c29-707c-4661-a131-84e8e808e393/thumb/
+  type: image
+  url: https://live.staticflickr.com/7893/32500356687_8886640ee7_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

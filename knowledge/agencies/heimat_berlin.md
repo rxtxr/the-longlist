@@ -2,6 +2,42 @@
 confidence: medium
 era: 1999-2020
 id: heimat_berlin
+images:
+- artist: Bodo Kubrak
+  caption: Kirche zur Heimat (Berlin-Zehlendorf)
+  copyright_status: public_domain
+  height: 2736
+  license: CC0 1.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=24693310
+  thumb_url: https://api.openverse.org/v1/images/f1f12b31-91dc-420a-932a-ef1660f76ea6/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4b/Kirche_zur_Heimat_%28Berlin-Zehlendorf%29.JPG
+  width: 3648
+- artist: Oh-Berlin.com
+  caption: Heimat Berlin - hat shop made in Berlin
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/33822896@N03/5471351552
+  thumb_url: https://api.openverse.org/v1/images/14a95c22-81e2-45f1-b505-3323519e1567/thumb/
+  type: image
+  url: https://live.staticflickr.com/5175/5471351552_575a6cf726_b.jpg
+  width: 685
+- artist: ''
+  caption: 'Berlin: A Spy’s Guide to its Cold War History (415)'
+  copyright_status: youtube
+  duration: '53:42'
+  embed_url: https://www.youtube-nocookie.com/embed/pwwqzr94vHk
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=pwwqzr94vHk
+  thumb_url: https://img.youtube.com/vi/pwwqzr94vHk/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=pwwqzr94vHk
+  video_id: pwwqzr94vHk
 last_updated: '2026-05-11'
 related: []
 sources:

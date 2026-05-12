@@ -731,35 +731,142 @@ def _first_paragraph(content: str, max_len: int = 200) -> str:
 
 
 _SEARCH_JS = """
-document.addEventListener('DOMContentLoaded', function() {
-  const input = document.getElementById('search-input');
-  const grid  = document.querySelector('.entry-grid');
-  const list  = document.querySelector('.entry-list');
-  const toggleBtns = document.querySelectorAll('.view-btn');
+(function() {
+  let searchIndex = null;
 
-  // Search — filters both views at once
-  if (input) {
-    input.addEventListener('input', function() {
-      const q = this.value.toLowerCase();
-      document.querySelectorAll('.entry-card, .entry-row').forEach(item => {
-        item.style.display = item.textContent.toLowerCase().includes(q) ? '' : 'none';
+  function loadIndex(root) {
+    if (searchIndex) return Promise.resolve(searchIndex);
+    const base = root || '';
+    return fetch(base + 'assets/search-index.json')
+      .then(r => r.json())
+      .then(d => { searchIndex = d; return d; })
+      .catch(() => { searchIndex = []; return []; });
+  }
+
+  function scoreEntry(entry, tokens) {
+    let score = 0;
+    const titleLc = entry.title.toLowerCase();
+    const bodyLc  = entry.body.toLowerCase();
+    for (const t of tokens) {
+      if (titleLc.includes(t)) score += 4;
+      if (bodyLc.includes(t))  score += 1;
+    }
+    return score;
+  }
+
+  // ── Global search bar (index + category pages) ─────────────────────────
+  document.addEventListener('DOMContentLoaded', function() {
+    const input    = document.getElementById('search-input');
+    const grid     = document.querySelector('.entry-grid');
+    const list     = document.querySelector('.entry-list');
+    const toggleBtns = document.querySelectorAll('.view-btn');
+
+    // Derive root path from current location
+    const depth = (location.pathname.match(/\\//g) || []).length - 1;
+    const root  = depth > 1 ? '../../' : depth === 1 ? '../' : '';
+
+    // Full-text search results container (injected once)
+    let resultsBox = null;
+    function getResultsBox() {
+      if (resultsBox) return resultsBox;
+      resultsBox = document.createElement('div');
+      resultsBox.id = 'ft-results';
+      resultsBox.style.cssText = [
+        'position:absolute','z-index:200','top:calc(100% + 4px)','left:0','right:0',
+        'background:var(--bg2)','border:1px solid var(--border)','border-radius:4px',
+        'max-height:340px','overflow-y:auto','box-shadow:0 8px 24px rgba(0,0,0,0.4)',
+      ].join(';');
+      if (input && input.parentElement) {
+        input.parentElement.style.position = 'relative';
+        input.parentElement.appendChild(resultsBox);
+      }
+      return resultsBox;
+    }
+
+    if (input) {
+      loadIndex(root);
+
+      input.addEventListener('input', function() {
+        const q = this.value.trim();
+        const rb = getResultsBox();
+
+        // Also filter visible cards (category page behaviour)
+        if (q.length < 2) {
+          document.querySelectorAll('.entry-card, .entry-row').forEach(i => i.style.display = '');
+          rb.innerHTML = '';
+          rb.style.display = 'none';
+          return;
+        }
+
+        const tokens = q.toLowerCase().split(/\\s+/).filter(Boolean);
+
+        // Filter cards on current page
+        document.querySelectorAll('.entry-card, .entry-row').forEach(item => {
+          item.style.display = item.textContent.toLowerCase().includes(q.toLowerCase()) ? '' : 'none';
+        });
+
+        // Full-text results from index
+        loadIndex(root).then(idx => {
+          if (!idx.length) return;
+          const hits = idx
+            .map(e => ({ e, s: scoreEntry(e, tokens) }))
+            .filter(x => x.s > 0)
+            .sort((a, b) => b.s - a.s)
+            .slice(0, 12);
+
+          if (!hits.length) { rb.innerHTML = ''; rb.style.display = 'none'; return; }
+
+          const CAT_LABELS = {
+            agencies:'Agenturen', people:'Personen', eras:'Epochen',
+            work:'Arbeiten', life:'Agenturleben', technology:'Technik',
+            philosophy:'Philosophie', scandals:'Skandale', visuals:'Visuelles',
+          };
+
+          rb.innerHTML = hits.map(({e}) =>
+            '<a href="' + root + 'pages/' + e.cat + '/' + e.id + '.html" style="' +
+            'display:flex;align-items:baseline;gap:8px;padding:9px 14px;' +
+            'text-decoration:none;color:var(--text);border-bottom:1px solid var(--border2);' +
+            'font-size:13px;transition:background 0.1s" ' +
+            'onmouseover="this.style.background=\'var(--bg3)\'" ' +
+            'onmouseout="this.style.background=\'\'">' +
+            '<span>' + e.title + '</span>' +
+            '<span style="font-size:10px;color:var(--text3);margin-left:auto;white-space:nowrap">' +
+            (CAT_LABELS[e.cat] || e.cat) + '</span>' +
+            '</a>'
+          ).join('');
+          rb.style.display = 'block';
+        });
       });
-    });
-  }
 
-  // View toggle — persists to localStorage
-  if (!toggleBtns.length) return;
-  function setView(v) {
-    toggleBtns.forEach(b => b.classList.toggle('active', b.dataset.view === v));
-    if (grid) grid.style.display = v === 'grid' ? '' : 'none';
-    if (list) list.style.display = v === 'list' ? '' : 'none';
-    try { localStorage.setItem('wiki-view', v); } catch(e) {}
-  }
-  let saved = 'grid';
-  try { saved = localStorage.getItem('wiki-view') || 'grid'; } catch(e) {}
-  setView(saved);
-  toggleBtns.forEach(btn => btn.addEventListener('click', () => setView(btn.dataset.view)));
-});
+      document.addEventListener('click', e => {
+        if (resultsBox && !resultsBox.contains(e.target) && e.target !== input) {
+          resultsBox.style.display = 'none';
+        }
+      });
+
+      input.addEventListener('keydown', e => {
+        if (e.key === 'Escape' && resultsBox) {
+          resultsBox.style.display = 'none';
+          input.value = '';
+          document.querySelectorAll('.entry-card, .entry-row').forEach(i => i.style.display = '');
+        }
+      });
+    }
+
+    // ── View toggle ───────────────────────────────────────────────────────
+    if (!toggleBtns.length) return;
+    function setView(v) {
+      toggleBtns.forEach(b => b.classList.toggle('active', b.dataset.view === v));
+      if (grid) grid.style.display = v === 'grid' ? '' : 'none';
+      if (list) list.style.display = v === 'list' ? '' : 'none';
+      try { localStorage.setItem('wiki-view', v); } catch(e) {}
+    }
+    let saved = 'grid';
+    try { saved = localStorage.getItem('wiki-view') || 'grid'; } catch(e) {}
+    setView(saved);
+    toggleBtns.forEach(btn => btn.addEventListener('click', () => setView(btn.dataset.view)));
+  });
+})();
 """
 
 _GRAPH_HTML = """<!DOCTYPE html>
@@ -1133,6 +1240,7 @@ class WikiBuilder:
 
         self._build_entry_pages(entries, graph_data)
         self._build_index(entries)
+        self._build_search_index(entries)
         print(f"  [WikiBuilder] ✓ HTML-Wiki: {self.html_dir}/index.html")
 
         print("  [WikiBuilder] Baue Obsidian Vault...")
@@ -1160,6 +1268,24 @@ class WikiBuilder:
                 if not expected_md.exists():
                     html_file.unlink()
                     print(f"  [WikiBuilder] Removed stale page: pages/{cat}/{html_file.name}")
+
+    def _build_search_index(self, entries: List[Dict]):
+        """Build search-index.json: title + first 600 chars of body for full-text search."""
+        import html as _html
+        index = []
+        for e in entries:
+            meta  = e["meta"]
+            title = meta.get("title", e["path"].stem)
+            cat   = e["path"].parent.name
+            fid   = e["path"].stem
+            # Strip markdown syntax and [ungesichert] markers for clean search text
+            body  = re.sub(r'\[ungesichert\]', '', e["content"])
+            body  = re.sub(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]', r'\1', body)
+            body  = re.sub(r'[#*`_~\[\]]', ' ', body)
+            body  = re.sub(r'\s+', ' ', body).strip()[:600]
+            index.append({"id": fid, "title": title, "cat": cat, "body": body})
+        out = self.html_dir / "assets" / "search-index.json"
+        out.write_text(json.dumps(index, ensure_ascii=False, separators=(',', ':')), encoding="utf-8")
 
     def _write_assets(self):
         (self.html_dir / "assets" / "style.css").write_text(_CSS, encoding="utf-8")
@@ -1385,10 +1511,8 @@ class WikiBuilder:
                         add(suffix)
                     break
 
-            # Also index tags as aliases (tags often contain the canonical short name)
-            for tag in entry["meta"].get("tags", []):
-                if tag and len(tag) > 2:
-                    add(tag)
+            # Tags intentionally NOT indexed — short tag strings (e.g. "wpp", "bbdo")
+            # collide with article titles from other entries and produce wrong links.
 
         return index
 
@@ -1396,26 +1520,51 @@ class WikiBuilder:
         title_index = self._build_title_index(entries_map)
 
         def replace_wikilink(m):
-            target = m.group(1)
-            # 1. Direct lookup in title index
+            raw = m.group(1)
+            # Normalize: strip HTML entities (e.g. &rsquo; → '), collapse whitespace
+            import html as _html_mod
+            target = _html_mod.unescape(raw).strip()
+
+            def _make_link(cat, fname):
+                return f'<a href="../../pages/{cat}/{fname}.html">{raw}</a>'
+
+            # 1. Direct lowercase lookup
             key = target.lower()
             if key in title_index:
-                cat, fname, full_title = title_index[key]
-                return f'<a href="../../pages/{cat}/{fname}.html">{target}</a>'
-            # 2. Slugify the target and look up
-            slug = re.sub(r'[äÄ]', 'ae', target.lower())
-            slug = re.sub(r'[öÖ]', 'oe', slug)
-            slug = re.sub(r'[üÜ]', 'ue', slug)
-            slug = re.sub(r'[ß]', 'ss', slug)
-            slug = re.sub(r'[^a-z0-9_]+', '_', slug).strip('_')[:80]
+                cat, fname, _ = title_index[key]
+                return _make_link(cat, fname)
+
+            # 2. Slugified lookup
+            slug = target.lower()
+            for old, new in [('ä','ae'),('ö','oe'),('ü','ue'),('ß','ss'),('Ä','ae'),('Ö','oe'),('Ü','ue')]:
+                slug = slug.replace(old, new)
+            slug = re.sub(r"[^a-z0-9_]+", "_", slug).strip("_")[:80]
             if slug in title_index:
-                cat, fname, full_title = title_index[slug]
-                return f'<a href="../../pages/{cat}/{fname}.html">{target}</a>'
-            # 3. Partial match: check if target is contained in a key (e.g. "BBDO" in "bbdo — batten...")
-            for key_lc, (cat, fname, full_title) in title_index.items():
-                if key_lc.startswith(target.lower() + ' ') or key_lc == target.lower():
-                    return f'<a href="../../pages/{cat}/{fname}.html">{target}</a>'
-            return f"<em>{target}</em>"
+                cat, fname, _ = title_index[slug]
+                return _make_link(cat, fname)
+
+            # 3. Prefix match — only if unique (avoids wrong matches for short tokens)
+            prefix = target.lower() + ' '
+            matches = [(k, v) for k, v in title_index.items() if k.startswith(prefix)]
+            if len(matches) == 1:
+                cat, fname, _ = matches[0][1]
+                return _make_link(cat, fname)
+
+            # 4. Token match — target words all present at start of key
+            t_words = target.lower().split()
+            if len(t_words) >= 2:
+                for key_lc, (cat, fname, _) in title_index.items():
+                    if all(key_lc.startswith(w) or (' ' + w) in key_lc for w in t_words):
+                        return _make_link(cat, fname)
+
+            return f"<em>{raw}</em>"
+
+        # Strip ```json blocks (Redakteur outputs {"genutzt":...,"offen":...} after sources)
+        text = re.sub(r'```json\s*\{.*?\}\s*```', '', text, flags=re.DOTALL)
+        # Strip **Quellen:** bold-variant header + trailing content (non-heading sources)
+        text = re.sub(r'\n\*\*Quellen:\*\*\s*\n.*', '', text, flags=re.DOTALL)
+        # Strip orphaned --- dividers at end of article
+        text = re.sub(r'\n---\s*$', '', text.rstrip())
 
         text = re.sub(r"\[\[([^\]]+)\]\]", replace_wikilink, text)
         # Convert [ungesichert] markers to styled inline badges

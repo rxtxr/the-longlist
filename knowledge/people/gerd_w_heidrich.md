@@ -2,6 +2,7 @@
 confidence: medium
 era: 1970-1990
 id: gerd_w_heidrich
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -3,34 +3,29 @@ confidence: medium
 era: 1965-2021
 id: gruner_jahr
 images:
-- artist: Gruner + Jahr
-  caption: Gerd Bucerius, Richard Gruner and John Jahr
+- artist: Polybert49
+  caption: Hamburg, Überseebrücke, Verlagshaus Gruner & Jahr, Hauptkirche Sankt
+    Michaelis und der Fernsehturm
   copyright_status: clear_cc
-  height: 2430
-  license: CC BY-SA 3.0 de
-  source: https://commons.wikimedia.org/wiki/File%3ABucerius%20Gruner%20Jahr%201968.png
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bucerius_Gruner_Jahr_1968.png/500px-Bucerius_Gruner_Jahr_1968.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Bucerius_Gruner_Jahr_1968.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3351
-- artist: Gruner + Jahr
-  caption: Gerd Bucerius
+  height: 732
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/69460501@N04/12813915303
+  thumb_url: https://api.openverse.org/v1/images/443a775e-930a-4811-9bd7-1b85d9cee5ed/thumb/
+  type: image
+  url: https://live.staticflickr.com/7433/12813915303_0fa4b10a56_b.jpg
+  width: 1024
+- artist: Can Pac Swire
+  caption: Gruner + Jahr
   copyright_status: clear_cc
-  height: 1028
-  license: CC BY-SA 3.0 de
-  source: https://commons.wikimedia.org/wiki/File%3ABucerius%20Gruner%20Jahr%201968%20%28cropped%29.png
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bucerius_Gruner_Jahr_1968_%28cropped%29.png/500px-Bucerius_Gruner_Jahr_1968_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Bucerius_Gruner_Jahr_1968_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 747
-- artist: JoachimKohler-HB
-  caption: View from the tower of the St. Michaelis to the Elbe, Elbphilharmonie,
-    harbour, Gruner+Jahr publishing house etc.
-  copyright_status: clear_cc
-  height: 3000
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AElbe%2C%20Elbphilharmonie%2C%20Hafen%20Gruner%2BJahr%20Verlagshaus.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Elbe%2C_Elbphilharmonie%2C_Hafen_Gruner%2BJahr_Verlagshaus.jpg/500px-Elbe%2C_Elbphilharmonie%2C_Hafen_Gruner%2BJahr_Verlagshaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Elbe%2C_Elbphilharmonie%2C_Hafen_Gruner%2BJahr_Verlagshaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4000
+  height: 683
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/18378305@N00/51636424486
+  thumb_url: https://api.openverse.org/v1/images/cb94358e-0826-42b2-8cda-93ea71cde5df/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/51636424486_7efa8dfdc4_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

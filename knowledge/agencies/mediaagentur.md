@@ -2,6 +2,7 @@
 confidence: low
 era: 1966-2020
 id: mediaagentur
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

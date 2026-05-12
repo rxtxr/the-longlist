@@ -2,6 +2,42 @@
 confidence: medium
 era: 1968-1995
 id: chiat_day
+images:
+- artist: Bobak Ha'Eri
+  caption: 052607-007-Chiat-Day-wide
+  copyright_status: clear_cc
+  height: 2048
+  license: CC BY 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=2175028
+  thumb_url: https://api.openverse.org/v1/images/cf99faf7-a39c-4b82-98a0-2bc06986ae26/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2b/052607-007-Chiat-Day-wide.jpg
+  width: 5003
+- artist: IK's World Trip
+  caption: Chiat/Day Bldg
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/28238346@N00/352579207
+  thumb_url: https://api.openverse.org/v1/images/8957eff5-b89d-49e9-8d29-2be8820e8ffa/thumb/
+  type: image
+  url: https://live.staticflickr.com/166/352579207_6104bdc5c1_b.jpg
+  width: 1024
+- artist: ''
+  caption: 'The Works of Frank Gehry: Chiat/Day Ad Agency | University of St. Thomas'
+  copyright_status: youtube
+  duration: 0:43
+  embed_url: https://www.youtube-nocookie.com/embed/-x1vIq-sOTk
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=-x1vIq-sOTk
+  thumb_url: https://img.youtube.com/vi/-x1vIq-sOTk/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=-x1vIq-sOTk
+  video_id: -x1vIq-sOTk
 last_updated: '2026-05-11'
 related: []
 sources:

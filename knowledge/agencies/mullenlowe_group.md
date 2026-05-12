@@ -2,6 +2,20 @@
 confidence: low
 era: 1981-2020
 id: mullenlowe_group
+images:
+- artist: ''
+  caption: Unilever Magnum | Stick to the Original | LOLA MullenLowe
+  copyright_status: youtube
+  duration: '1:17'
+  embed_url: https://www.youtube-nocookie.com/embed/SseStns20xE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=SseStns20xE
+  thumb_url: https://img.youtube.com/vi/SseStns20xE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=SseStns20xE
+  video_id: SseStns20xE
 last_updated: '2026-05-11'
 related: []
 sources:

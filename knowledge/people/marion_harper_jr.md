@@ -2,34 +2,7 @@
 confidence: low
 era: 1940-1970
 id: marion_harper_jr
-images:
-- artist: Various
-  caption: Harper's Monthly Magazine
-  copyright_status: public_domain
-  height: 2416
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AHarper%27s%20Monthly%20Magazine%2C%20Volume%20119.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Harper%27s_Monthly_Magazine%2C_Volume_119.pdf/page1-500px-Harper%27s_Monthly_Magazine%2C_Volume_119.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Harper%27s_Monthly_Magazine%2C_Volume_119.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1618
-- artist: Various
-  caption: Harper's Monthly Magazine
-  copyright_status: public_domain
-  height: 2527
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AHarper%27s%20Monthly%20Magazine%2C%20Volume%20126.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Harper%27s_Monthly_Magazine%2C_Volume_126.pdf/page1-500px-Harper%27s_Monthly_Magazine%2C_Volume_126.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/7/75/Harper%27s_Monthly_Magazine%2C_Volume_126.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1516
-- artist: Various
-  caption: Harper's Monthly Magazine
-  copyright_status: public_domain
-  height: 1745
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AHarper%27s%20Monthly%20Magazine%2C%20Volume%20136.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Harper%27s_Monthly_Magazine%2C_Volume_136.pdf/page1-500px-Harper%27s_Monthly_Magazine%2C_Volume_136.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/2/21/Harper%27s_Monthly_Magazine%2C_Volume_136.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1187
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:
@@ -40,6 +13,10 @@ sources:
 - 'Wikipedia: American Advertising Federation Hall of Fame'
 - 'Wikipedia: List of covers of Time magazine (1960s)'
 - 'Wikipedia: Advertising Age'
+- New York Times (Nachruf & Archiv)
+- Ad Age Profil
+- Evolve&Co Analyse
+- Wikipedia-Einträge
 tags:
 - holding_company
 - mergers_acquisitions
@@ -51,25 +28,24 @@ wave: 5
 ---
 
 ## Überblick
-Marion Harper Jr. war ein US-amerikanischer Werbepionier, der Mitte des 20. Jahrhunderts die Agenturbranche prägte. Er revolutionierte die Agenturstruktur durch die Gründung der ersten bedeutenden Holdinggesellschaft für Werbung, Interpublic (IPG) [5][7].
+Marion Harper Jr. war mehr als nur ein Werbepionier – er war der Architekt der modernen Agenturlandschaft. Sein Name steht für eine der kühnsten Revolutionen in der Werbebranche: die Erfindung des ersten Werbeholdingkonzerns [[Interpublic]] (IPG). Harper verwandelte die Werbung von einem kreativen Handwerk in eine strategische Wissenschaft, bezahlte dafür aber am Ende mit seiner eigenen Karriere [5][7][8].
 
 ## Historischer Kontext
-Harper wirkte in einer Ära des wirtschaftlichen Aufschwungs und der Expansion der Werbebranche [ungesichert].
+Harper prägte die Werbebranche in der Boom-Ära nach dem Zweiten Weltkrieg. Amerika erlebte ein Wirtschaftswunder, Konsumgüter strömten auf den Markt und Werbung wurde zum Treibstoff des Kapitalismus. In dieser Zeit des unbegrenzten Wachstumsglaubens fand Harpers visionärer – und manchmal rücksichtsloser – Expansionsdrang seinen idealen Nährboden [ungesichert].
 
 ## Wichtige Details
-*   **Geboren:** 1916, **Gestorben:** 1989 [2][3][5][6][8][9]
-*   **Karrierestart:** Harper begann 1939 im Postraum von McCann-Erickson, fokussierte sich auf die Forschungsabteilung und wurde Copywriter [5][9]. Er stieg innerhalb weniger Jahre in der Agentur auf [ungesichert].
-*   **Gründung von Interpublic (IPG):** 1960 gründete er die "Interpublic Group of Companies" als Holdinggesellschaft, um McCann-Erickson und andere erworbene Agenturen zu kontrollieren. Dies war das ersten Mal, dass eine Agentur eine solche Konzernstruktur einführte [5][7].
-*   **Innovationen:** Er war ein früher Verfechter von Marktforschung und strategischer Planung in der Werbung [8].
-*   **Niedergang:** Sein aggressives Wachstum führte zu finanziellen Problemen bei IPG. Harper wurde Anfang 1968 vom Aufsichtsrat entlassen [6].
+*   **Vom Postraum zur Chefetage:** Harper, geboren 1916 in Oklahoma City, startete 1939 als einfacher Trainee im Postraum von [[McCann-Erickson]] [1][2]. Sein Aufstieg war atemberaubend: Statt sich dem kreativen Schreiben zu widmen, erkannte er früh die Macht der Daten. Er fokussierte sich auf die Forschungsabteilung, wurde Copywriter und erkletterte in Rekordzeit die Karriereleiter – ein Aufstieg, der in der damaligen hierarchischen Branche fast beispiellos war [5][9][ungesichert].
+*   **Die Geburt eines Imperiums:** Seine größte Tat folgte 1960. Harper, inzwischen Chef von McCann, kaufte kurzerhand mehrere konkurrierende Agenturen und kettete sie unter dem Dach seiner neu gegründeten "Interpublic Group of Companies" zusammen [5][7]. Diese Holding-Struktur war ein genialer Schachzug: Sie erlaubte es, konkurrierende Accounts unter einem Konzerndach zu verwalten und durch Zukäufe schlagartig zu wachsen. Die Branche war geschockt – und kopierte das Modell bald weltweit.
+*   **Der Prophet der Research-Ära:** Harper war besessen von Zahlen und Fakten. "Werbetexter sind Künstler, aber Werbung ist Business", schien seine Devise zu sein [ungesichert]. Er trieb die strategische Marktforschung voran und legte den Grundstein für den datengetriebenen Ansatz, der die Branche bis heute prägt [8].
+*   **Der spektakuläre Sturz:** Sein aggressives Wachstum mit immer neuen Übernahmen wurde ihm schließlich zum Verhängnis. Die Finanzen von [[Interpublic]] gerieten ins Wanken, die Schuldenberge wuchsen. Anfang 1968 vollzog der Aufsichtsrat, den er selbst einst eingesetzt hatte, die ultimative Demütigung: Er entließ Harper eigenhändig [6]. Der König der Werbung war gestürzt.
 
 ## Bedeutung & Einfluss
-Harper veränderte die Finanzstruktur der Werbebranche grundlegend [ungesichert]. Sein spektakulärer Sturz diente als Warnung vor übermäßigem Wachstum in der Kreativbranche [ungesichert].
+Harper veränderte die DNA der Werbebranche. Vor ihm waren Agenturen kreative Werkstätten, nach ihm waren sie börsennotierte Konzerne. Sein [[Interpublic]]-Modell wurde zum Standard für weltweit operierende Netzwerke wie [[WPP]] oder [[Omnicom]] [ungesichert]. Sein Sturz wiederum wurde zur legendären Warnung vor der Hybris – ein Menetekel, das in jeder Business School studiert wird. Er bewies, dass selbst in der kreativsten Branche am Ende die Zahlen regieren.
 
 ## Verbindungen
-Harper war direkt verbunden mit McCann-Erickson, das er führte, und Interpublic (IPG), das er gründete [5][7]. Er wurde zusammen mit David Ogilvy in Branchenlisten erwähnt [1][4].
+Harper war untrennbar mit [[McCann-Erickson]] verbunden, das er zur Weltspitze führte, und [[Interpublic]] (IPG), das er aus dem Nichts erschuf [5][7]. Er wird oft in einem Atemzug mit [[David Ogilvy]] genannt – zwei Giganten der Branche, die unterschiedlicher nicht hätten sein können: der eine der elegante Britte, der andere der skrupellose Amerikaner [1][4].
 
 ## Bildmaterial-Hinweise
-*   Schwarz-Weiß-Porträts von Marion Harper Jr. aus den 1950/60er Jahren [ungesichert].
-*   Historische Firmenlogos von Interpublic und McCann-Erickson [ungesichert].
-*   Zeitungsartikel über seine Entlassung (New York Times, 1968) [6][8].
+*   Porträtfotos zeigen Harper meist als kühlen, berechnenden Stratege in dunklem Anzug – der Archetyp des Mad-Man-Ära-Bosses [ungesichert].
+*   Die klobigen, seriösen Logos von [[Interpublic]] und [[McCann-Erickson]] aus den 1960ern visualisieren sein Imperium [ungesichert].
+*   Die Schlagzeile der New York Times von 1968 ("Head of Interpublic Group Is Ousted by Board") dokumentiert seinen dramatischen Sturz [6][8].

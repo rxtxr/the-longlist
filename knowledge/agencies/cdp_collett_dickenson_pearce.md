@@ -2,6 +2,20 @@
 confidence: low
 era: 1960-1990
 id: cdp_collett_dickenson_pearce
+images:
+- artist: ''
+  caption: '[PIF] Crime Prevention: Dream – UK, Collett Dickenson Pearce, 1988.'
+  copyright_status: youtube
+  duration: '1:03'
+  embed_url: https://www.youtube-nocookie.com/embed/c59D7By-aS0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=c59D7By-aS0
+  thumb_url: https://img.youtube.com/vi/c59D7By-aS0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=c59D7By-aS0
+  video_id: c59D7By-aS0
 last_updated: '2026-05-11'
 related: []
 sources:

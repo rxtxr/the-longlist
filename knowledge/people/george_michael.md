@@ -2,6 +2,31 @@
 confidence: high
 era: 1960-1970
 id: george_michael
+images:
+- artist: The Logo Smith
+  caption: George Michael Portrait Illustration
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/49734147@N00/3697965489
+  thumb_url: https://api.openverse.org/v1/images/dbbb9c48-1243-4943-b42a-35cfa3ee22f8/thumb/
+  type: image
+  url: https://live.staticflickr.com/2667/3697965489_4e39500c61_b.jpg
+  width: 819
+- artist: ''
+  caption: George Michael saying his real name
+  copyright_status: youtube
+  duration: 0:34
+  embed_url: https://www.youtube-nocookie.com/embed/yw7XgoFc6LM
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=yw7XgoFc6LM
+  thumb_url: https://img.youtube.com/vi/yw7XgoFc6LM/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=yw7XgoFc6LM
+  video_id: yw7XgoFc6LM
 last_updated: '2026-05-11'
 related: []
 sources:

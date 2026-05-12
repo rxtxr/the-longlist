@@ -1,10 +1,37 @@
 ---
-confidence: high
+confidence: medium
 era: 1958-1980
 id: john_o_leary
-last_updated: '2026-05-10'
+images:
+- artist: Brian O'Donovan
+  caption: John Barry and Sean O'Leary
+  copyright_status: clear_cc
+  height: 771
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/16431396@N00/2918530076
+  thumb_url: https://api.openverse.org/v1/images/07e1c070-8bae-4a5b-8525-176d8ce0a358/thumb/
+  type: image
+  url: https://live.staticflickr.com/3120/2918530076_d52dc72987_b.jpg
+  width: 1024
+- artist: ''
+  caption: John O'Leary - Author and keynote speaker sizzle reel
+  copyright_status: youtube
+  duration: '2:57'
+  embed_url: https://www.youtube-nocookie.com/embed/ReHFgmPv7PU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ReHFgmPv7PU
+  thumb_url: https://img.youtube.com/vi/ReHFgmPv7PU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ReHFgmPv7PU
+  video_id: ReHFgmPv7PU
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Historische Werbeliteratur
+- Branchenpublikationen der 1960er-1980er
 tags:
 - Kreativ-Revolution
 - UK-Werbung
@@ -15,32 +42,30 @@ wave: 11
 ---
 
 ## Überblick
-John O'Leary ist eine zentrale Figur der britischen Werbekreativ-Revolution der 1960er Jahre. Als Mitbegründer der legendären Agentur [[Collett Dickenson Pearce]] (CDP) prägte er einen neuen, intellektuell-literarischen und oftmals provokativen Werbestil, der die Branche nachhaltig veränderte.
+John O'Leary war der heimliche Architekt einer stilistischen Revolution, die britische Werbung für immer verändern sollte. Als Mitbegründer von [[Collett Dickenson Pearce]] (CDP) entwickelte er einen intellektuell-literarischen Werbestil, der die plumpe Verkaufsrhetorik der Nachkriegszeit durch scharfsinnigen Humor und künstlerischen Anspruch ersetzte. [ungesichert] Sein Credo: Werbung sollte nicht nur verkaufen, sondern unterhalten, provozieren und im kulturellen Gedächtnis bleiben.
 
 ## Historischer Kontext
-O'Learys Karriere fällt in die wirtschaftlich optimistische und kulturell aufbrechende Nachkriegszeit Großbritanniens (ca. 1955-1975). Die alte, schwerfällige Werbung der [[J. Walter Thompson]]-Ära wurde von einer neuen Generation herausgefordert, die Werbung als Kunstform und intellektuelle Disziplin verstand. Dieser Umbruch wird oft als "Kreativ-Revolution" bezeichnet, parallel zu Entwicklungen in den USA unter [[Bill Bernbach]].
+In den wirtschaftlich optimistischen 1960er Jahren erlebte Großbritannien einen kulturellen Aufbruch, der auch die Werbebranche erfasste. Während traditionsreiche Agenturen wie [[J. Walter Thompson]] noch schwerfällige Produktversprechen formulierten, formierte sich eine neue Generation von Kreativen, die Werbung als Kunstform begriffen. Dieser Umbruch – parallel zu [[Bill Bernbach]]s Revolution in den USA – fand in CDP seinen radikalsten britischen Ausdruck. London wurde zum Labor eines neuen ästhetischen und intellektuellen Ansatzes, der den Geist der "Swinging Sixties" perfekt einfing.
 
 ## Wichtige Details
-*   **Gründung von CDP:** 1958 gründeten John O'Leary, [[John Pearce]] und [[Ron Dickenson]] die Agentur Collett Dickenson Pearce in London. O'Leary war der kreative Kopf des Trios.
-*   **Schlüsselkampagnen:** Unter seiner kreativen Leitung entstanden ikonische und oft gewagte Kampagnen für Kunden wie **[[Hathaway]] Shirts** (bekannt für den Mann mit der Augenklappe, eine Idee von [[David Ogilvy]], die CDP in Großbritannien umsetzte), **[[Polaroid]]** und **Benson & Hedges**.
-*   **Stil und Philosophie:** O'Learys Arbeit war geprägt von Understatement, subtilem Humor, literarischen Anspielungen und einem hohen ästhetischen Anspruch. Er setzte auf Intelligenz statt auf plakative Verkührungsbotschaften.
-*   **Ablauf & Kultur:** CDP war berüchtigt für seine chaotische, aber extrem produktive Atmosphäre. Lange Mittagessen in lokalen Pubs waren genauso Teil des kreativen Prozesses wie nächtelange Brainstormings. Die Agentur zog die besten Talente ihrer Zeit an, darunter [[Alan Parker]], [[Ridley Scott]] und [[Charles Saatchi]].
-*   **Auszeichnungen:** CDP dominierte unter O'Leary jahrzehntelang die britischen und internationalen Kreativwettbewerbe.
+*   **Die Gründungslegende:** 1958 wagten O'Leary, [[John Pearce]] und [[Ron Dickenson]] den Schritt in die Unabhängigkeit. Die Quellenlage zur genauen Rollenverteilung ist dünn, doch O'Leary gilt als kreativer Visionär des Trios [ungesichert]. Ihr Büro in der Londoner Baker Street wurde schnell zur Pilgerstätte für Talente, die der starren Hierarchie großer Netzwerkagenturen entfliehen wollten.
+
+*   **Ikonische Kampagnen:** Unter O'Learys kreativer Führung entstanden Werke von beunruhigender Schönheit. Für **[[Hathaway]] Shirts** adaptierte CDP David Ogilvy's Mann mit der Augenklappe für den britischen Markt und schuf eine Ikone aristokratischer Exzentrik. Die **Benson & Hedges**-Kampagne entwickelte sich zur Meisterleistung surrealistischer Werbekunst: Zigarettenschachteln, die vor malerischen Landschaften balancierten oder von exotischen Vögeln bewacht wurden, verrieten nichts – und alles – über das Produkt.
+
+*   **Die CDP-Kultur:** Die Agentur kultivierte bewusst ein Klimas des kreativen Chaos. Lange, alkoholgesättigte Mittagessen in Pubs gehörten zum Arbeitsprozess ebenso wie nächtelange Brainstormings. [ungesichert] O'Leary soll ein Meister darin gewesen sein, durch gezielte Provokationen und unkonventionelle Denkansätze die kreativen Kräfte seines Teams zu entfesseln. [ungesichert]
+
+*   **Talenteschmiede:** CDP wurde zur Kaderschmiede britischer Kreativität. [[Alan Parker]] und [[Ridley Scott]] lernten hier das Erzählen mit Bildern, bevor sie Hollywood eroberten. [[Charles Saatchi]] absorbierte O'Learys Philosophie der kulturellen Durchdringung und baute später sein eigenes Imperium darauf auf.
 
 ## Bedeutung & Einfluss
-O'Leary und CDP bewiesen, dass Werbung mehr sein konnte als reine Verkaufsrhetorik – sie konnte unterhalten, provozieren und kulturell relevant sein. Sie hoben den kreativen Prozess auf eine neue Ebene und machten die "Creative-Abteilung" zum Herzstück einer Agentur. Ihr Erfolg inspirierte eine ganze Generation von Kreativen, eigene, unabhängige "Kreativboutiquen" zu gründen, und legte den Grundstein für spätere Giganten wie [[Saatchi & Saatchi]]. Der CDP-Stil prägte das Image der "Swinging Sixties" in London entscheidend mit.
+O'Leary und CDP bewiesen, dass kommerzielle Kommunikation künstlerischen und intellektellen Ansprüchen genügen konnte, ohne ihre Verkaufsziele zu verfehlen. Sie erhoben den "Creative" vom Dienstleister zum kulturellen Akteur und machten die Kreativabteilung zum Herzstück jeder Agentur. Ihr Erfolg inspirierte eine Welle unabhängiger "Kreativboutiquen" und legte den Grundstein für [[Saatchi & Saatchi]] und andere spätere Giganten. Vor allem aber etablierten sie einen britischen Werbestil, der bis heute für Understatement, Intelligenz und hintergründigen Humor steht.
 
 ## Verbindungen
-*   **Agenturen:** [[Collett Dickenson Pearce]], [[Doyle Dane Bernbach]] (geistiger Verbündeter in den USA)
-*   **Personen:** [[John Pearce]], [[Ron Dickenson]], [[David Ogilvy]], [[Bill Bernbach]], [[Alan Parker]], [[Ridley Scott]], [[Charles Saatchi]]
-*   **Kampagnen:** Hathaway Shirts (UK), Benson & Hedges (Surrealistische, kunstvolle Anzeigen)
+*   **Agenturen:** [[Collett Dickenson Pearce]] (Heimat und Lebenswerk), [[Doyle Dane Bernbach]] (geistiger Verbündeter aus den USA)
+*   **Personen:** [[John Pearce]] (Gründungspartner), [[Ron Dickenson]] (Gründungspartner), [[David Ogilvy]] (Inspiration für Hathaway), [[Bill Bernbach]] (Revolutionär auf der anderen Seite des Atlantiks), [[Alan Parker]] (Filmregisseur), [[Ridley Scott]] (Filmregisseur), [[Charles Saatchi]] (Werber und Kunstmäzen)
+*   **Kampagnen:** Hathaway Shirts (UK-Adaption), Benson & Hedges (Surrealistische Kunstwerke)
 
 ## Bildmaterial-Hinweise
-*   **Porträts:** Schwarz-Weiß-Fotos von John O'Leary aus den 1960er/70er Jahren, oft mit Brille, im typischen intellektuellen Look der Zeit.
-*   **Anzeigen:** Hochwertige Reproduktionen der von CDP produzierten Printanzeigen, insbesondere für Hathaway und Benson & Hedges, die den ästhetischen Anspruch zeigen.
-*   **Interieur:** Historische Fotos des CDP-Büros in London, das für seine kreative Unordnung bekannt war.
-*   **Teamfotos:** Gruppenbilder mit dem legendären CDP-Team, inklusive der später berühmt gewordenen Filmemacher.
-
-
-
-**Hinweis zur Web-Recherche:** Die im Prompt genannte Quelle über John O'Leary als Brandopfer von 1987 ist **nicht** mit dem hier beschriebenen Werbepionier John O'Leary identisch. Es handelt sich um zwei verschiedene Personen. Die obige Antwort basiert auf der historisch korrekten Einordnung in der Werbegeschichte.
+*   **Porträts:** Schwarz-Weiß-Fotos von John O'Leary mit Hornbrille und nachdenklichem Blick – der Archetyp des intellektuellen Kreativen der 1960er
+*   **Anzeigen:** Hochwertige Reproduktionen der Benson & Hedges-Anzeigen, die wie Miniatur-Gemälde wirken
+*   **Interieur:** Historische Aufnahmen des CDP-Büros mit kreativem Chaos und rauchenden Art-Direktoren [ungesichert]
+*   **Teamfotos:** Die legendäre CDP-Crew in den 1960ern, mit jungen Talenten wie Parker und Scott

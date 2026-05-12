@@ -2,6 +2,42 @@
 confidence: medium
 era: 1994-2017
 id: yahoo
+images:
+- artist: pxlline
+  caption: Goodbye Yahoo
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/129097355@N02/37049668836
+  thumb_url: https://api.openverse.org/v1/images/614713fc-7538-41f6-bdcb-44456b4e4c8c/thumb/
+  type: image
+  url: https://live.staticflickr.com/4391/37049668836_2fba851feb_b.jpg
+  width: 1024
+- artist: '@superamit'
+  caption: Yahoo! 'Happy hour in a box'
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/48600091327@N01/2549557680
+  thumb_url: https://api.openverse.org/v1/images/3e65482d-d265-41b7-96b5-a304177de21f/thumb/
+  type: image
+  url: https://live.staticflickr.com/3268/2549557680_db04d49ebd_b.jpg
+  width: 1024
+- artist: ''
+  caption: Yahoo! The Company That Won't Die
+  copyright_status: youtube
+  duration: '26:38'
+  embed_url: https://www.youtube-nocookie.com/embed/swBLc0jmM8g
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=swBLc0jmM8g
+  thumb_url: https://img.youtube.com/vi/swBLc0jmM8g/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=swBLc0jmM8g
+  video_id: swBLc0jmM8g
 last_updated: '2026-05-11'
 related: []
 sources:

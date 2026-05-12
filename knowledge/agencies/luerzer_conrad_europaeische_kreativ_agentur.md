@@ -2,6 +2,7 @@
 confidence: low
 era: 1970-1982
 id: luerzer_conrad_europaeische_kreativ_agentur
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

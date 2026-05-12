@@ -2,6 +2,42 @@
 confidence: low
 era: 1917-2010
 id: grey_advertising_die_new_yorker_agentur
+images:
+- artist: Oliver Dixon
+  caption: Advertising bike on Grey Street
+  copyright_status: clear_cc
+  height: 640
+  license: CC BY-SA 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAdvertising%20bike%20on%20Grey%20Street%20-%20geograph.org.uk%20-%205438614.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Advertising_bike_on_Grey_Street_-_geograph.org.uk_-_5438614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Advertising_bike_on_Grey_Street_-_geograph.org.uk_-_5438614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 480
+- artist: Kenneth  Allen
+  caption: Bus, advertising Fifty Shades of Grey, Omagh
+  copyright_status: clear_cc
+  height: 480
+  license: CC BY-SA 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ABus%2C%20advertising%20Fifty%20Shades%20of%20Grey%2C%20Omagh%20-%20geograph.org.uk%20-%204331615.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bus%2C_advertising_Fifty_Shades_of_Grey%2C_Omagh_-_geograph.org.uk_-_4331615.jpg/500px-Bus%2C_advertising_Fifty_Shades_of_Grey%2C_Omagh_-_geograph.org.uk_-_4331615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b6/Bus%2C_advertising_Fifty_Shades_of_Grey%2C_Omagh_-_geograph.org.uk_-_4331615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 640
+- artist: ''
+  caption: A 100 Years of Grey
+  copyright_status: youtube
+  duration: '1:13'
+  embed_url: https://www.youtube-nocookie.com/embed/AH4VX0yxPx0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=AH4VX0yxPx0
+  thumb_url: https://img.youtube.com/vi/AH4VX0yxPx0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=AH4VX0yxPx0
+  video_id: AH4VX0yxPx0
 last_updated: '2026-05-11'
 related: []
 sources:

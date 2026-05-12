@@ -2,37 +2,7 @@
 confidence: low
 era: 2015-2024
 id: publicis_media
-images:
-- artist: Barrow, Isaac
-  caption: 'Isaaci Barrow ... Lectiones habitae in scholiis publicis academiae Cantabrigiensis:
-    an. dom. 1664. - Londini : typis J. Playford : pro Georgio Wells i'
-  copyright_status: public_domain
-  height: 1623
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3ABarrow%20-%20Lectiones%20habitae%20in%20scholiis%20publicis%20academiae%20Cantabrigiensis%20AD%201664%2C%201683%20-%2048461.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Barrow_-_Lectiones_habitae_in_scholiis_publicis_academiae_Cantabrigiensis_AD_1664%2C_1683_-_48461.jpg/500px-Barrow_-_Lectiones_habitae_in_scholiis_publicis_academiae_Cantabrigiensis_AD_1664%2C_1683_-_48461.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/6/62/Barrow_-_Lectiones_habitae_in_scholiis_publicis_academiae_Cantabrigiensis_AD_1664%2C_1683_-_48461.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 988
-- artist: Rosiestep
-  caption: 'Christopher Outram, Publicis Media, panel at SXSW 2025 in Austin, Texas.
-    The Death of Points Programs: Web3 as a Loyalty Catalyst.'
-  copyright_status: clear_cc
-  height: 4672
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AChristopher%20Outram%20at%20SXSW%202025.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Christopher_Outram_at_SXSW_2025.jpg/500px-Christopher_Outram_at_SXSW_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Christopher_Outram_at_SXSW_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 7008
-- artist: Rosiestep
-  caption: 'Christopher Outram, Publicis Media, panel at SXSW 2025 in Austin, Texas.
-    The Death of Points Programs: Web3 as a Loyalty Catalyst.'
-  copyright_status: clear_cc
-  height: 3094
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AChristopher%20Outram%20at%20SXSW%202025%20%28cropped%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Christopher_Outram_at_SXSW_2025_%28cropped%29.jpg/500px-Christopher_Outram_at_SXSW_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/9/91/Christopher_Outram_at_SXSW_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2305
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

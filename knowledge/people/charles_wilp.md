@@ -3,33 +3,19 @@ confidence: low
 era: 1960-1980
 id: charles_wilp
 images:
-- artist: Rudolfo42
-  caption: Charles-Wilp-Straße (Willich)
-  copyright_status: clear_cc
-  height: 3456
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3A2023%2009%2010%20Charles-Wilp-Stra%C3%9Fe%20%28Willich%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2023_09_10_Charles-Wilp-Stra%C3%9Fe_%28Willich%29.jpg/500px-2023_09_10_Charles-Wilp-Stra%C3%9Fe_%28Willich%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fc/2023_09_10_Charles-Wilp-Stra%C3%9Fe_%28Willich%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4608
-- artist: Rudolfo42
-  caption: Charles-Wilp-Straße (Willich)
-  copyright_status: clear_cc
-  height: 3456
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3A2023%2009%2030%20Charles-Wilp-Stra%C3%9Fe%20%28Willich%29%20%281%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2023_09_30_Charles-Wilp-Stra%C3%9Fe_%28Willich%29_%281%29.jpg/500px-2023_09_30_Charles-Wilp-Stra%C3%9Fe_%28Willich%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d5/2023_09_30_Charles-Wilp-Stra%C3%9Fe_%28Willich%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4608
-- artist: Rudolfo42
-  caption: Charles-Wilp-Straße (Willich)
-  copyright_status: clear_cc
-  height: 3456
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3A2023%2009%2030%20Charles-Wilp-Stra%C3%9Fe%20%28Willich%29%20%282%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2023_09_30_Charles-Wilp-Stra%C3%9Fe_%28Willich%29_%282%29.jpg/500px-2023_09_30_Charles-Wilp-Stra%C3%9Fe_%28Willich%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/e/ef/2023_09_30_Charles-Wilp-Stra%C3%9Fe_%28Willich%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 4608
+- artist: ''
+  caption: Charles Wilp - Into Space (Wilhelm Fabry Museum)
+  copyright_status: youtube
+  duration: '2:22'
+  embed_url: https://www.youtube-nocookie.com/embed/3jmmEyZhTsQ
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=3jmmEyZhTsQ
+  thumb_url: https://img.youtube.com/vi/3jmmEyZhTsQ/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=3jmmEyZhTsQ
+  video_id: 3jmmEyZhTsQ
 last_updated: '2026-05-11'
 related: []
 sources:

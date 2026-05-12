@@ -2,6 +2,43 @@
 confidence: medium
 era: 1891-2010
 id: bbdo_batten_barton_durstine_osborn
+images:
+- artist: BBDO Group
+  caption: Логотип группы компаний BBDO Group
+  copyright_status: public_domain
+  height: 643
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ABBDO%20Group.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBDO_Group.png/500px-BBDO_Group.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/55/BBDO_Group.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1434
+- artist: Bernaskoni Ltd.
+  caption: Boris Bernaskoni. Office BBDO-MOSCOW.
+  copyright_status: clear_cc
+  height: 848
+  license: CC BY-SA 3.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ABoris%20Bernaskoni%20BBDO-01.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Boris_Bernaskoni_BBDO-01.jpg/500px-Boris_Bernaskoni_BBDO-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8a/Boris_Bernaskoni_BBDO-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1181
+- artist: ''
+  caption: 'Generating ideas for business: BBDO Worldwide''s Andrew Robertson on the
+    secrets of creativity'
+  copyright_status: youtube
+  duration: '9:33'
+  embed_url: https://www.youtube-nocookie.com/embed/znjx1ShiULw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=znjx1ShiULw
+  thumb_url: https://img.youtube.com/vi/znjx1ShiULw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=znjx1ShiULw
+  video_id: znjx1ShiULw
 last_updated: '2026-05-11'
 related: []
 sources:

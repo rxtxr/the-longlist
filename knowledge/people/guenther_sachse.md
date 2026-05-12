@@ -2,6 +2,7 @@
 confidence: low
 era: 1960-1989
 id: guenther_sachse
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,19 @@
 confidence: low
 era: 1981-2000s
 id: lowe_partners
+images:
+- artist: P L Chadwick
+  caption: Michael Lowe ^ Partners, 5 Streatfield House, Alvescot Road, Carterton,
+    Oxon - geograph.org.uk - 5812850
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=141441222
+  thumb_url: https://api.openverse.org/v1/images/1acea711-dee6-4822-80a2-d12b72ec32b7/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Michael_Lowe_%5E_Partners%2C_5_Streatfield_House%2C_Alvescot_Road%2C_Carterton%2C_Oxon_-_geograph.org.uk_-_5812850.jpg
+  width: 752
 last_updated: '2026-05-11'
 related: []
 sources:

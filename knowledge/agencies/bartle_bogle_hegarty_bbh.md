@@ -2,6 +2,31 @@
 confidence: low
 era: 1982-2024
 id: bartle_bogle_hegarty_bbh
+images:
+- artist: mandydale
+  caption: goodbye BBH!
+  copyright_status: clear_cc
+  height: 767
+  license: CC BY-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/40781983@N00/2551269933
+  thumb_url: https://api.openverse.org/v1/images/571df4d7-ea99-4810-b83a-83f62aada063/thumb/
+  type: image
+  url: https://live.staticflickr.com/3081/2551269933_ffb2859777_b.jpg
+  width: 1024
+- artist: ''
+  caption: 1985 Levis 501 'Launderette' commercial - made by Bartle Bogle Hegarty
+  copyright_status: youtube
+  duration: 0:54
+  embed_url: https://www.youtube-nocookie.com/embed/FwG_wym3p68
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=FwG_wym3p68
+  thumb_url: https://img.youtube.com/vi/FwG_wym3p68/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=FwG_wym3p68
+  video_id: FwG_wym3p68
 last_updated: '2026-05-11'
 related: []
 sources:

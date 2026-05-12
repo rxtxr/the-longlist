@@ -2,6 +2,20 @@
 confidence: low
 era: 1981-1990
 id: lowe_howard_spink
+images:
+- artist: ''
+  caption: 'Whitworths: Raison D''Etre – UK, Lowe Howard-Spink, 1987.'
+  copyright_status: youtube
+  duration: '1:02'
+  embed_url: https://www.youtube-nocookie.com/embed/6iuajbEzQ4s
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=6iuajbEzQ4s
+  thumb_url: https://img.youtube.com/vi/6iuajbEzQ4s/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=6iuajbEzQ4s
+  video_id: 6iuajbEzQ4s
 last_updated: '2026-05-11'
 related: []
 sources:

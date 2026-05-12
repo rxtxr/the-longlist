@@ -2,6 +2,43 @@
 confidence: low
 era: 1961-present
 id: interpublic_group_of_companies
+images:
+- artist: alpha_photo
+  caption: IPG The Interpublic Group of Companies
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/196993421@N03/52666637788
+  thumb_url: https://api.openverse.org/v1/images/a79680cb-1537-4cfc-b2ee-094fbe7d60fb/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/52666637788_2631e799fc_b.jpg
+  width: 1024
+- artist: Galaga Gal
+  caption: Evolving Role of The Holding Company - Michael Roth - Chariman and Executive
+    Officer - Interpublic Group
+  copyright_status: clear_cc
+  height: 682
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/99101155@N00/167873014
+  thumb_url: https://api.openverse.org/v1/images/093aa1c8-2971-4f9c-812b-180497806651/thumb/
+  type: image
+  url: https://live.staticflickr.com/70/167873014_b221d980c6_b.jpg
+  width: 1024
+- artist: ''
+  caption: Interpublic Group CEO on the impact of coronavirus on the ad industry
+  copyright_status: youtube
+  duration: '6:32'
+  embed_url: https://www.youtube-nocookie.com/embed/ZbMgUEkICKI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ZbMgUEkICKI
+  thumb_url: https://img.youtube.com/vi/ZbMgUEkICKI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ZbMgUEkICKI
+  video_id: ZbMgUEkICKI
 last_updated: '2026-05-11'
 related: []
 sources:

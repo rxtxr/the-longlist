@@ -2,6 +2,7 @@
 confidence: high
 era: 1960-1990
 id: paul_gredinger
+images: []
 last_updated: '2026-05-11'
 related: []
 sources: []

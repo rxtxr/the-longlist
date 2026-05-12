@@ -2,6 +2,7 @@
 confidence: low
 era: 1960-1970
 id: fred_papert
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

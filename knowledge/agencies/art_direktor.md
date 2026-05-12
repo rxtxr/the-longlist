@@ -3,51 +3,20 @@ confidence: medium
 era: 1920-2020
 id: art_direktor
 images:
-- artist: Seder, Anton (1850-1916). Auteur du texte
-  caption: 'Sujet : Arts décoratifs -- Motifs du règne végétal
-
-    Art nouveau -- Allemagne
-
-    Peinture et dessin de fleurs
-
-    Peinture et décoration murales -- Allemagne -'
-  copyright_status: public_domain
-  height: 7640
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3ANaturalistische%20Decorationsmalereien.%20Abth.%20III%20-%20von%20Anton%20Seder%2C%20Professor%20und%20Direktor%20der%20Kunsthandwerkerschule%20in%20Strassburg%20I.E.%20-%20bpt6k91176151%20%2808%20of%2017%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Naturalistische_Decorationsmalereien._Abth._III_-_von_Anton_Seder%2C_Professor_und_Direktor_der_Kunsthandwerkerschule_in_Strassburg_I.E._-_bpt6k91176151_%2808_of_17%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/9/98/Naturalistische_Decorationsmalereien._Abth._III_-_von_Anton_Seder%2C_Professor_und_Direktor_der_Kunsthandwerkerschule_in_Strassburg_I.E._-_bpt6k91176151_%2808_of_17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 5728
-- artist: Seder, Anton (1850-1916). Auteur du texte
-  caption: 'Sujet : Arts décoratifs -- Motifs du règne végétal
-
-    Art nouveau -- Allemagne
-
-    Peinture et dessin de fleurs
-
-    Peinture et décoration murales -- Allemagne -'
-  copyright_status: public_domain
-  height: 5804
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3ANaturalistische%20Decorationsmalereien.%20Abth.%20III%20-%20von%20Anton%20Seder%2C%20Professor%20und%20Direktor%20der%20Kunsthandwerkerschule%20in%20Strassburg%20I.E.%20-%20bpt6k91176151%20%2810%20of%2017%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Naturalistische_Decorationsmalereien._Abth._III_-_von_Anton_Seder%2C_Professor_und_Direktor_der_Kunsthandwerkerschule_in_Strassburg_I.E._-_bpt6k91176151_%2810_of_17%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/8/83/Naturalistische_Decorationsmalereien._Abth._III_-_von_Anton_Seder%2C_Professor_und_Direktor_der_Kunsthandwerkerschule_in_Strassburg_I.E._-_bpt6k91176151_%2810_of_17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3892
-- artist: Seder, Anton (1850-1916). Auteur du texte
-  caption: 'Sujet : Arts décoratifs -- Motifs du règne végétal
-
-    Art nouveau -- Allemagne
-
-    Peinture et dessin de fleurs
-
-    Peinture et décoration murales -- Allemagne -'
-  copyright_status: public_domain
-  height: 5792
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3ANaturalistische%20Decorationsmalereien.%20Abth.%20III%20-%20von%20Anton%20Seder%2C%20Professor%20und%20Direktor%20der%20Kunsthandwerkerschule%20in%20Strassburg%20I.E.%20-%20bpt6k91176151%20%2815%20of%2017%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Naturalistische_Decorationsmalereien._Abth._III_-_von_Anton_Seder%2C_Professor_und_Direktor_der_Kunsthandwerkerschule_in_Strassburg_I.E._-_bpt6k91176151_%2815_of_17%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/9/9a/Naturalistische_Decorationsmalereien._Abth._III_-_von_Anton_Seder%2C_Professor_und_Direktor_der_Kunsthandwerkerschule_in_Strassburg_I.E._-_bpt6k91176151_%2815_of_17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3838
+- artist: ''
+  caption: 'CREATIVE CAREERS EXPLAINED: What''s the difference between a creative
+    director and art director?'
+  copyright_status: youtube
+  duration: '6:14'
+  embed_url: https://www.youtube-nocookie.com/embed/77U0bdJgFAA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=77U0bdJgFAA
+  thumb_url: https://img.youtube.com/vi/77U0bdJgFAA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=77U0bdJgFAA
+  video_id: 77U0bdJgFAA
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -1,13 +1,27 @@
 ---
-confidence: high
-entity_type: life
+confidence: medium
 era: 1952-2020
-era_from: 1952
-era_to: 2020
 id: die_fachpresse_als_machtinstrument_wer_in_w_v_und_horizont_erscheint
-last_updated: '2026-05-10'
+images:
+- artist: ''
+  caption: Paneldiskussion Zukunft der Fachpresse und Nachhaltigkeitskommunikation
+    | Schneider Electric
+  copyright_status: youtube
+  duration: '7:38'
+  embed_url: https://www.youtube-nocookie.com/embed/ARImzMHgJm0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ARImzMHgJm0
+  thumb_url: https://img.youtube.com/vi/ARImzMHgJm0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ARImzMHgJm0
+  video_id: ARImzMHgJm0
+last_updated: '2026-05-12'
 related: []
-sources: []
+sources:
+- Widerstand (Politik) – Wikipedia
+- 'Umfassender Leitfaden zur Werbung: Geschichte, Strategien (Quizlet)'
 tags:
 - Fachpresse
 - Branchenkommunikation
@@ -18,36 +32,41 @@ wave: 3
 ---
 
 ## Überblick
-Die Fachpresse mit Titeln wie [[Horizont]] und [[Werben & Verkaufen]] (W&V) fungierte als zentrales Machtinstrument der deutschsprachigen Werbebranche. Sie bestimmte Reputation, setzte Trends und schuf eine informelle Hierarchie, in der Erwähnung gleichbedeutend mit Einfluss war.
+Die Fachpresse mit Titeln wie [[Horizont]] und [[Werben & Verkaufen]] (W&V) war das eigentliche Machtzentrum der deutschsprachigen Werbebranche. Sie waren nicht nur Informationsorgane, sondern die Architekten von Reputation, die Richter über Erfolg und Misserfolg und die Chronisten einer ganzen Industrie. In einer Welt vor digitaler Vernetzung bestimmten sie, wer gehört wurde und wer nicht. Ihre Titelseiten waren die Trophäenwand der Branche, ihre Erwähnung die Währung der Macht.
 
 ## Historischer Kontext
-Die Blütezeit der Fachpresse als Branchenrichter lag zwischen den 1960er und frühen 2000er Jahren. In dieser Ära des wirtschaftlichen Aufschwungs ([[Wirtschaftswunder]]) und der zunehmenden Professionalisierung der Werbung bildeten die Magazine die zentrale Plattform für Nachrichten, Meinungsbildung und Selbstdarstellung. Sie waren das "Nervensystem" einer noch nicht digital vernetzten Branche.
+Die Blütezeit der Fachpresse als unangefochtener Branchenrichter erstreckte sich von den Wirtschaftswunderjahren der 1960er bis in die frühen 2000er. In einer Ära, die geprägt war durch [[Wirtschaftswunder]] und die zunehmende Professionalisierung der Werbung, bildeten diese Magazine das zentrale Nervensystem. Sie waren die Schaltstellen, in denen sich alles traf: Nachrichten, Gerüchte, Personalwechsel und die große Selbstinszenierung einer Branche, die sich selbst neu erfand. In einer Zeit ohne Social Media und Echtzeit-Updates waren sie die einzige Instanz, die den Puls der Branche fühlbar machte.
 
 ## Wichtige Details
-*   **[[Werben & Verkaufen]] (W&V):** Gegründet 1952. Erschien zunächst monatlich, später wöchentlich. Das führende deutschsprachige Fachblatt, bekannt für seine umfassende Branchenberichterstattung und einflussreichen Rankings.
-*   **[[Horizont]]:** Gegründet 1983 von Eduard Grosse. Wurde 1986 vom Deutschen Fachverlag übernommen. Positionierte sich als etwas moderneres, agileres und internationaler ausgerichtetes Konkurrenzprodukt zur W&V.
-*   **Schlüsselpersonen:** Chefredakteure und Herausgeber wie [[Günter Eder]] (W&V) oder [[Eduard Grosse]] (Horizont) waren mächtige Gatekeeper, deren Meinung Karrieren machen oder brechen konnte.
+*   **[[Werben & Verkaufen]] (W&V):** 1952 aus der Taufe gehoben, startete W&V zunächst monatlich und wurde später zum wöchentlichen Branchenbibel. Es war das Establishment-Blatt, seriös, umfassend und tonangebend. Seine jährlichen Agenturrankings nach Umsatz und Billings waren mehr als eine Liste – sie waren das offizielle Ranking der Machtverhältnisse, gefürchtet und erwartet zugleich.
+*   **[[Horizont]]:** 1983 von [[Eduard Grosse]] als rebellischer Gegenentwurf gegründet und 1986 vom Deutschen Fachverlag übernommen. Es war jünger, schneller, internationaler und mit einem Hauch von "Underdog"-Charme ausgestattet. Horizont positionierte sich als das agile, etwas frechere Magazin, das die aufstrebenden Kräfte der Branche bediente.
+*   **Die Gatekeeper:** Chefredakteure wie [[Günter Eder]] bei W&V oder [[Eduard Grosse]] bei Horizont waren mächtige Fürsten. Ein Telefonat mit ihnen konnte eine Karriere beschleunigen oder beenden. Ihre Meinung hatte Gewicht, ihre Gunst war begehrt. [ungesichert] Sie waren die Strippenzieher im Hintergrund, die wussten, wer wen kannte und welcher Deal kurz vor dem Abschluss stand.
 *   **Jahreszahlen & Ereignisse:**
-    *   **1952:** Gründung W&V.
-    *   **1983:** Gründung Horizont.
-    *   **1986:** Deutscher Fachverlag übernimmt Horizont.
-    *   **Ab den 1990ern:** Beide Magazine erreichen den Höhepunkt ihrer Reichweite und Bedeutung. Die jährliche Veröffentlichung von "Agentur-Rankings" nach Umsatz/Billings wurde zu einem der einflussreichsten Machtinstrumente.
-    *   **2000er Jahre:** Zunehmende Konkurrenz durch Online-Portale (z.B. Kress.de, ab 1996) beginnt das Monopol der Print-Fachpresse zu brechen.
-    *   **2022:** Horizont reduziert sein Erscheinen auf zweiwöchentlich, ein deutliches Zeichen für den Niedergang der traditionellen Fachpresse-Macht.
+    *   **1952:** W&V wird gegründet und etabliert sich als Stimme der wiederaufbauenden Werbebranche.
+    *   **1983:** Eduard Grosse gründet Horizont und fordert den etablierten W&V-Hegemon heraus.
+    *   **1986:** Der Deutsche Fachverlag übernimmt Horizont und baut es zur ernsthaften Konkurrenz aus.
+    *   **Die 1990er:** Der Höhepunkt der Macht. Die Magazine erreichen ihre maximale Reichweite. Die Veröffentlichung der "Agentur-Rankings" wird zum jährlichen Großereignis, das die Hierarchien der Branche für alle sichtbar zementiert.
+    *   **Ab 1996:** Das Internet beginnt, das Monopol zu brechen. Online-Portale wie [[Kress]] (gegründet von [[Horst-Jürgen Tittel]]) liefern Nachrichten in Echtzeit und entziehen den Printmagazinen ihre wichtigste Waffe: die Aktualität.
+    *   **2022:** Ein symbolträchtiges Zeichen des Wandels: Horizont reduziert sein Erscheinen auf zweiwöchentlich. Die Ära der wöchentlichen Branchenrichter neigt sich dem Ende zu.
 
 ## Bedeutung & Einfluss
-Die Macht der Fachpresse manifestierte sich auf mehreren Ebenen:
-1.  **Reputationsmanagement:** Eine Titelseite oder ein lobender Artikel in W&V/Horizont bedeutete Branchenlegitimation. Umgekehrt konnten kritische Berichte erheblichen Schaden anrichten.
-2.  **Trendsetzung:** Die Magazine bestimmten, welche Themen (z.B. [[Kreativ-Revolution]], [[Below-the-Line]], [[Digitale Transformation]]) als relevant galten und welche nicht.
-3.  **Personalvermittlung:** Die "Stellenbörsen" waren essenziell für den Branchen-Jobmarkt.
-4.  **Wettbewerbsüberwachung:** Jeder konnte die Neuigkeiten, Account-Bewegungen und Kampagnen der Konkurrenz verfolgen.
-5.  **Selbstdarstellungsbühne:** Agenturchefs wie [[Reinhard M. Lehmann]] ([[Scholz & Friends]]) oder [[Jean-Remy von Matt]] verstanden es meisterhaft, die Medien für ihre persönliche und unternehmerische Positionierung zu nutzen.
+Die Macht dieser Magazine war vielschichtig und allgegenwärtig:
+
+1.  **Der Reputations-Basar:** Eine Titelseite in W&V oder ein lobendes Porträt in Horizont war die offizielle Eintrittskarte in den Olymp der Branche. Es war ein Siegel der Seriosität und Bedeutung. Umgekehrt war eine kritische Story ein Donnerschlag, der ganze Agentur-Reputationen über Nacht beschädigen konnte. [ungesichert] Es hieß, manche Agenturchefs hätten am Erscheinungstag der Magazine als erstes die "Stellenbörse" durchforstet, um zu sehen, welche Mitarbeiter von welcher Konkurrenz abgeworben wurden.
+
+2.  **Die Trend-Maschine:** Die Magazine bestimmten, was als "in" galt. Ob die [[Kreativ-Revolution]], [[Below-the-Line]]-Aktivitäten oder die [[Digitale Transformation]] – sie waren die Übersetzer und Treiber neuer Strömungen. Wer es nicht auf ihre Seiten schaffte, existierte im Diskurs der Branche kaum.
+
+3.  **Der heimliche Personaldirektor:** Die "Stellenbörsen" waren der Dreh- und Angelpunkt des Berufslebens. Hier fanden junge Talente ihre ersten Jobs und etablierte Kreative ihre nächste Herausforderung. Die Anzeigenumsätze der Magazine waren ein direkter Indikator für die Konjunktur der gesamten Branche.
+
+4.  **Der gläserne Konkurrent:** Jeder konnte sehen, welcher Werber gerade welchen Kunden gewonnen oder verloren hatte ("Account-Bewegungen"). Diese Berichterstattung war die permanente Leistungsschau und sorgte für eine enorme Transparenz – und Neid.
+
+5.  **Die Bühne der Egos:** Agenturgrößen wie [[Reinhard M. Lehmann]] ([[Scholz & Friends]]) oder [[Jean-Remy von Matt]] ([[Jung von Matt]]) waren Meister der Selbstinszenierung. Sie verstanden es perfekt, die Medien als Resonanzraum für ihre Visionen, ihre Provokationen und ihre Unternehmensphilosophie zu nutzen. Sie wurden zu Stars, deren Aussagen zitiert und deren nächste Schritte mit Spannung erwartet wurden.
 
 ## Verbindungen
-Die Magazine berichteten regelmäßig über Schlüsselagenturen wie [[Doyle Dane Bernbach]], [[Ogilvy]], [[TBWA]], [[Jung von Matt]], [[Grabarz & Partner]] und [[Scholz & Friends]]. Sie porträtierten einflussreiche Persönlichkeiten wie [[David Ogilvy]], [[Helmut Krone]], [[Charles Saatchi]] und [[Neil French]]. Große Kampagnen wie [[Think small]] (VW) oder [[Lotto: Die tägliche Sportstunde]] wurden hier gefeiert und analysiert.
+Die Magazine waren die Chronisten des Werbezeitalters. Sie berichteten über die legendären Kampagnen der [[Doyle Dane Bernbach|DDB]]-Ära wie [[Think small]] für VW, porträtierten die großen Denker wie [[David Ogilvy]] und [[Helmut Krone]], und begleiteten den Aufstieg der neuen Machtzentren wie [[Ogilvy]], [[TBWA]], [[Jung von Matt]], [[Grabarz & Partner]] und [[Scholz & Friends]]. Sie waren das Sprachrohr für die Visionäre [[Charles Saatchi]] und [[Neil French]] und feierten deutsche Werbeikonen wie [[Lotto: Die tägliche Sportstunde]]. Ihre Seiten waren das, wo die Branche sich selbst erlebte und reflektierte.
 
 ## Bildmaterial-Hinweise
-*   **Titelseiten:** Archivierte Ausgaben von W&V und Horizont mit prägnanten Schlagzeilen zu großen Account-Wechseln (z.B. "BMW wechselt zu ...") oder Agentur-Fusionen.
-*   **Redaktionsfotos:** Bilder der legendären Chefredakteure in ihren Büros (1980er/90er Jahre).
-*   **Veranstaltungen:** Fotos von den großen, von den Magazinen organisierten Branchenevents und Preisverleihungen (z.B. Horizont-Preis, W&V-Agentur des Jahres).
-*   **Anzeigen:** Werbeanzeigen der großen Agenturen in den Fachmagazinen – eine ironische Selbstreferenzialität, bei der die Werber Werbung bei den Werbern machten.
+*   **Die ikonische Titelseite:** Archivbilder von W&V und Horizont mit Schlagzeilen wie "BMW wechselt zu..." oder "Neue Mega-Fusion: [ungesichert] Publicis und Omnicom". Diese Titel waren die "Breaking News" einer ganzen Industrie.
+*   **Die Herrscher im Hintergrund:** Porträtfotos der mächtigen Chefredakteure wie [[Günter Eder]] oder [[Eduard Grosse]] in ihren redaktionellen "Herrgottswinkeln" der 80er und 90er Jahre, umgeben von Zeitungsstapeln und Aschenbechern.
+*   **Die Gala der Branche:** Fotos von den großen, von den Magazinen organisierten Events – dem Horizont-Preis oder der "W&V-Agentur des Jahres"-Gala. Hier wurde der gesellschaftliche Höhepunkt des Jahres zelebriert.
+*   **Die meta-Werbung:** Eine besonders ironische Pointe: Werbeanzeigen der großen Agenturen (z.B. [[Scholz & Friends]]) in den Fachmagazinen. Die Werber machten Werbung bei den Werbern, um sich bei den Werbern zu bewerben.

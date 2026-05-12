@@ -2,6 +2,32 @@
 confidence: medium
 era: 1989-
 id: horizon_media
+images:
+- artist: Harald Krichel
+  caption: Kim de Horizon at the  2022
+  copyright_status: clear_cc
+  height: 4864
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AKim%20de%20Horizon-62420.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kim_de_Horizon-62420.jpg/500px-Kim_de_Horizon-62420.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5a/Kim_de_Horizon-62420.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3648
+- artist: ''
+  caption: 'Data-Driven Strategies Are Crucial To Navigating Programmatic Advertising
+    Landscape: Horizon''s Nav S'
+  copyright_status: youtube
+  duration: '4:16'
+  embed_url: https://www.youtube-nocookie.com/embed/ZsooL0ZcuGU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=ZsooL0ZcuGU
+  thumb_url: https://img.youtube.com/vi/ZsooL0ZcuGU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=ZsooL0ZcuGU
+  video_id: ZsooL0ZcuGU
 last_updated: '2026-05-11'
 related: []
 sources:

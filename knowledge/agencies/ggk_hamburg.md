@@ -2,6 +2,20 @@
 confidence: low
 era: 1962-1987
 id: ggk_hamburg
+images:
+- artist: ''
+  caption: 'Hamburg''s Firestorm - WWII: Witness to War - S01 EP105 - History Documentary'
+  copyright_status: youtube
+  duration: '43:39'
+  embed_url: https://www.youtube-nocookie.com/embed/UAf3Y14Plvg
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=UAf3Y14Plvg
+  thumb_url: https://img.youtube.com/vi/UAf3Y14Plvg/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=UAf3Y14Plvg
+  video_id: UAf3Y14Plvg
 last_updated: '2026-05-11'
 related: []
 sources:

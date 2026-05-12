@@ -2,6 +2,31 @@
 confidence: low
 era: 1980-2010
 id: bruce_weber
+images:
+- artist: Jindřich Nosek (NoJin)
+  caption: Bruce Weber (2024), Prague
+  copyright_status: clear_cc
+  height: 1280
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=153544582
+  thumb_url: https://api.openverse.org/v1/images/36dc7725-8007-42cb-aea5-347fbab7e4bc/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/be/Bruce_Weber_%282024%29%2C_Prague.jpg
+  width: 1024
+- artist: ''
+  caption: Andres Velencoso by Bruce Weber - Making of Allure Homme Sport
+  copyright_status: youtube
+  duration: '2:28'
+  embed_url: https://www.youtube-nocookie.com/embed/qgPg7OYS658
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=qgPg7OYS658
+  thumb_url: https://img.youtube.com/vi/qgPg7OYS658/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=qgPg7OYS658
+  video_id: qgPg7OYS658
 last_updated: '2026-05-11'
 related: []
 sources:

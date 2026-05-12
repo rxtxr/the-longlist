@@ -2,6 +2,21 @@
 confidence: medium
 era: 1968-1989
 id: boase_massimi_pollitt
+images:
+- artist: ''
+  caption: 'The Mortgage Corporation: John Lohr – UK, Boase Massimi Pollitt, Chris
+    Hartwill,1986.'
+  copyright_status: youtube
+  duration: 0:33
+  embed_url: https://www.youtube-nocookie.com/embed/GIBSZ7dEFes
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=GIBSZ7dEFes
+  thumb_url: https://img.youtube.com/vi/GIBSZ7dEFes/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=GIBSZ7dEFes
+  video_id: GIBSZ7dEFes
 last_updated: '2026-05-11'
 related: []
 sources:

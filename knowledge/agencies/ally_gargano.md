@@ -2,6 +2,7 @@
 confidence: low
 era: 1962-1991
 id: ally_gargano
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

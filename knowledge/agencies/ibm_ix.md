@@ -2,6 +2,31 @@
 confidence: high
 era: 2012-present
 id: ibm_ix
+images:
+- artist: 'Photograph and postprocessing: Andreas Frank, Munich, Germany'
+  caption: 1 GByte IBM MicroDrive.
+  copyright_status: clear_cc
+  height: 915
+  license: CC BY-SA 3.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AMicroDrive1GB.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/MicroDrive1GB.jpg/500px-MicroDrive1GB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3b/MicroDrive1GB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1013
+- artist: ''
+  caption: The Rise and Stagnation of IBM
+  copyright_status: youtube
+  duration: '17:06'
+  embed_url: https://www.youtube-nocookie.com/embed/d5lEkz3Bomc
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=d5lEkz3Bomc
+  thumb_url: https://img.youtube.com/vi/d5lEkz3Bomc/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=d5lEkz3Bomc
+  video_id: d5lEkz3Bomc
 last_updated: '2026-05-11'
 related: []
 sources:

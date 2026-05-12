@@ -2,6 +2,30 @@
 confidence: medium
 era: 1966-1988
 id: watson
+images:
+- artist: Clockready
+  caption: An early prototype of Watson in Yorktown Heights, NY. The cognitive computing
+    system was originally the size of a master bedroom in 2011.
+  copyright_status: clear_cc
+  height: 1037
+  license: CC BY-SA 3.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AIBM%20Watson.PNG
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/IBM_Watson.PNG/500px-IBM_Watson.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/2/22/IBM_Watson.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1549
+- artist: unbekannt
+  caption: Old Live Oak High School, Watson, Louisiana
+  copyright_status: public_domain
+  height: 311
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AOld%20Live%20Oak%20High%20School%2C%20Watson%2C%20Louisiana.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Old_Live_Oak_High_School%2C_Watson%2C_Louisiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Old_Live_Oak_High_School%2C_Watson%2C_Louisiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 421
 last_updated: '2026-05-11'
 related: []
 sources:

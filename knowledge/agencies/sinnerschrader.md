@@ -2,6 +2,34 @@
 confidence: high
 era: 1996-2017
 id: sinnerschrader
+images:
+- artist: NEXT Conference from Berlin, Deutschland
+  caption: 'Matthias Schrader, SinnerSchrader
+
+    Martin Enderle, Deutsche Telekom
+
+
+    Moderation, Ole Tillmann'
+  copyright_status: clear_cc
+  height: 1600
+  license: CC BY 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ANEXT%20BERLIN%20May%208%20Keynote%20Welcome%20%287157721862%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NEXT_BERLIN_May_8_Keynote_Welcome_%287157721862%29.jpg/500px-NEXT_BERLIN_May_8_Keynote_Welcome_%287157721862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2f/NEXT_BERLIN_May_8_Keynote_Welcome_%287157721862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2400
+- artist: SinnerSchrader
+  caption: Office of SinnerSchrader in Hamburg-Ottensen (2013)
+  copyright_status: clear_cc
+  height: 1000
+  license: CC BY-SA 3.0 de
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ASinnerSchrader%20Hamburg%202013.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SinnerSchrader_Hamburg_2013.jpg/500px-SinnerSchrader_Hamburg_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/1/14/SinnerSchrader_Hamburg_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1500
 last_updated: '2026-05-11'
 related: []
 sources:

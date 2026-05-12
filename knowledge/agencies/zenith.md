@@ -2,6 +2,30 @@
 confidence: high
 era: 1988-present
 id: zenith
+images:
+- artist: Todd Ehlers
+  caption: Zenith Space Command
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/47325272@N00/52823834
+  thumb_url: https://api.openverse.org/v1/images/61ae9b4d-1369-427a-8546-5209cde4f8b8/thumb/
+  type: image
+  url: https://live.staticflickr.com/28/52823834_5429a6e452_b.jpg
+  width: 1024
+- artist: France1978
+  caption: Vintage Zenith 'Premier' Transistor (Body) Hearing Aid, Anodized Aluminum
+    Case
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/51764518@N02/8101350264
+  thumb_url: https://api.openverse.org/v1/images/85eac65f-f9b5-4294-b432-971120f87906/thumb/
+  type: image
+  url: https://live.staticflickr.com/8328/8101350264_1087de9c39_b.jpg
+  width: 747
 last_updated: '2026-05-11'
 related: []
 sources:

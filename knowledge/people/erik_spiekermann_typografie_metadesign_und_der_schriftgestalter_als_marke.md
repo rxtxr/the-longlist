@@ -2,6 +2,42 @@
 confidence: low
 era: 1979-2010
 id: erik_spiekermann_typografie_metadesign_und_der_schriftgestalter_als_marke
+images:
+- artist: Stewf
+  caption: Spiekermann Polyptych
+  copyright_status: clear_cc
+  height: 500
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/23806189@N00/310944681
+  thumb_url: https://api.openverse.org/v1/images/b8fd8af3-3b43-4b2f-8882-51b9ba6570d8/thumb/
+  type: image
+  url: https://live.staticflickr.com/118/310944681_9953c7de28.jpg
+  width: 386
+- artist: andré.luís
+  caption: Erik Spiekermann
+  copyright_status: clear_cc
+  height: 682
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/48313345@N00/6346218662
+  thumb_url: https://api.openverse.org/v1/images/8a3498a9-3a66-49b9-9417-a4aa228d4d14/thumb/
+  type: image
+  url: https://live.staticflickr.com/6221/6346218662_c870ebcaa6_b.jpg
+  width: 1024
+- artist: ''
+  caption: Helvetica documentary clip - Erik Spiekermann
+  copyright_status: youtube
+  duration: '2:38'
+  embed_url: https://www.youtube-nocookie.com/embed/McZSUjP1AcE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=McZSUjP1AcE
+  thumb_url: https://img.youtube.com/vi/McZSUjP1AcE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=McZSUjP1AcE
+  video_id: McZSUjP1AcE
 last_updated: '2026-05-11'
 related: []
 sources:

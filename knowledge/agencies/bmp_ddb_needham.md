@@ -2,6 +2,7 @@
 confidence: medium
 era: 1989-2004
 id: bmp_ddb_needham
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

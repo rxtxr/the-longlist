@@ -2,39 +2,7 @@
 confidence: medium
 era: 1962-1987
 id: wiedemann_berg_deutsche_agentur_mit_internationalem_erfolg
-images:
-- artist: unbekannt
-  caption: 'Abendpost 1897-02-09: &lt;a href="https://archive.org/search.php?query=sim_pubid%3A10213%20AND%20volume%3A9"
-    rel="nofollow"&gt;Volume 9&lt;/a&gt;, Iss'
-  copyright_status: public_domain
-  height: 3341
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AAbendpost%201897-02-09-%20Vol%209%20Iss%2033%20%28IA%20sim%20abendpost-sonntagpost%201897-02-09%209%2033%29.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Abendpost_1897-02-09-_Vol_9_Iss_33_%28IA_sim_abendpost-sonntagpost_1897-02-09_9_33%29.pdf/page1-500px-Abendpost_1897-02-09-_Vol_9_Iss_33_%28IA_sim_abendpost-sonntagpost_1897-02-09_9_33%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/b/bb/Abendpost_1897-02-09-_Vol_9_Iss_33_%28IA_sim_abendpost-sonntagpost_1897-02-09_9_33%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2477
-- artist: TyPi
-  caption: 'Announcement of recordings by W&amp;B Television GmbH, a Leonine Company,
-    for the german series „CASH“ at the Rathaus Spandau (at Berlin, Germany) in '
-  copyright_status: clear_cc
-  height: 7423
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AAnk%C3%BCndigung%20Aufnahmen%20W%26B%20TV.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ank%C3%BCndigung_Aufnahmen_W%26B_TV.jpg/500px-Ank%C3%BCndigung_Aufnahmen_W%26B_TV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/3/33/Ank%C3%BCndigung_Aufnahmen_W%26B_TV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 5502
-- artist: Wiedemann, Theodor, 1823-1901
-  caption: 'Book digitized by Google and uploaded by ARLIMA (http://www.arlima.net)
-
-
-    Subjects: periodical; theology; Austria'
-  copyright_status: public_domain
-  height: 1260
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AOesterreichische%20Vierteljahresschrift%20f%C3%BCr%20katholische%20Theologie%20%28IA%20oesterviertelfurkatholtheologie8%29.pdf
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Oesterreichische_Vierteljahresschrift_f%C3%BCr_katholische_Theologie_%28IA_oesterviertelfurkatholtheologie8%29.pdf/page1-500px-Oesterreichische_Vierteljahresschrift_f%C3%BCr_katholische_Theologie_%28IA_oesterviertelfurkatholtheologie8%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Oesterreichische_Vierteljahresschrift_f%C3%BCr_katholische_Theologie_%28IA_oesterviertelfurkatholtheologie8%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 775
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

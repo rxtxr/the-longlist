@@ -2,6 +2,21 @@
 confidence: high
 era: 2001-2024
 id: magna_global
+images:
+- artist: ''
+  caption: '#Magna-Inspiring Story Global Automotive Company-Products Innovation and
+    Customers R& D Centers'
+  copyright_status: youtube
+  duration: '14:21'
+  embed_url: https://www.youtube-nocookie.com/embed/QsvkQgYKNOA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=QsvkQgYKNOA
+  thumb_url: https://img.youtube.com/vi/QsvkQgYKNOA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=QsvkQgYKNOA
+  video_id: QsvkQgYKNOA
 last_updated: '2026-05-11'
 related: []
 sources:

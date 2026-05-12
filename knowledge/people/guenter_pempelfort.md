@@ -2,6 +2,7 @@
 confidence: low
 era: 1965-1980
 id: guenter_pempelfort
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

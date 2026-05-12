@@ -2,6 +2,21 @@
 confidence: medium
 era: 1980-2010
 id: schneider_partner
+images:
+- artist: ''
+  caption: Inside the Alliance Partner Program | Distributor Spotlight | Westcon |
+    Schneider Electric
+  copyright_status: youtube
+  duration: '3:47'
+  embed_url: https://www.youtube-nocookie.com/embed/Z895zjx7eyE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=Z895zjx7eyE
+  thumb_url: https://img.youtube.com/vi/Z895zjx7eyE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=Z895zjx7eyE
+  video_id: Z895zjx7eyE
 last_updated: '2026-05-11'
 related: []
 sources:

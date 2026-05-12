@@ -1,13 +1,14 @@
 ---
-confidence: high
-entity_type: work
+confidence: medium
 era: 1960-1980
-era_from: 1960
-era_to: 1980
 id: feminist_advertising_werbung_und_frauenbewegung
-last_updated: '2026-05-10'
+images: []
+last_updated: '2026-05-11'
 related: []
-sources: []
+sources:
+- Quelle 1
+- Quelle 2
+- Quelle 6
 tags:
 - Feminismus
 - Werbebranche
@@ -18,19 +19,31 @@ wave: 0
 ---
 
 ## Überblick
-Feminist Advertising bezeichnet die Verbindung zwischen der Werbebranche und der Frauenbewegung, insbesondere in den 1960er und 1970er Jahren. Diese Verbindung war wichtig, da sie die Art und Weise, wie Frauen in der Werbung dargestellt wurden, veränderte und zu einer größeren Gleichstellung von Frauen in der Gesellschaft beitrug. Durch die Integration feministischer Ideen in die Werbung konnten Frauen in der Branche ihre Stimme erheben und gegen stereotype Darstellungen von Frauen kämpfen.
+
+Feminist Advertising war mehr als nur ein Marketingtrend — es war eine kulturelle Revolution, die in den Werbeagenturen der 1960er und 1970er Jahre tobte. Während Frauen auf der Straße für Gleichberechtigung kämpften, entbrannte parallel in den Konferenzräumen der Madison Avenue ein ähnlicher Kampf: Kreative, vor allem Frauen, begannen sich gegen die jahrzehntelang propagierten Klischees zu wehren. Sie nutzten die Macht der Werbung nicht mehr nur zum Verkauf, sondern als Werkzeug des sozialen Wandels. Diese Bewegung veränderte nicht nur die Bilder in unseren Zeitschriften, sondern prägte nachhaltig, wie Gesellschaft über Frauenrollen dachte.
 
 ## Historischer Kontext
-Die Frauenbewegung der 1960er und 1970er Jahre hatte einen großen Einfluss auf die Werbebranche. Mit der Veröffentlichung von Betty Friedans Buch "The Feminine Mystique" im Jahr 1963 begann eine neue Ära der Frauenrechte. Frauen begannen, sich gegen die traditionellen Rollen zu wehren, die ihnen in der Gesellschaft zugewiesen wurden, und forderten Gleichberechtigung in allen Bereichen des Lebens. Die Werbebranche, die zuvor von Männern dominiert wurde, musste sich an diese Veränderungen anpassen und begann, Frauen in der Werbung anders darzustellen.
+
+Die Welt der Werbung der 1960er Jahre war eine Männerdomäne — kreative Direktoren, Texter und Art Directors waren fast ausschließlich männlich. Frauen tauchten in Anzeigen primär als Hausfrauen, verführerische Dekorationen oder fürsorgliche Mütter auf. Doch dann erschütterte Betty Friedans "The Feminine Mystique" 1963 die Gesellschaft wie eine Bombe. Plötzlich fragten Millionen Frauen: "Ist das alles?" Die aufkeimende Frauenbewegung ließ sich nicht mehr ignorieren — auch Werbetreibende mussten reagieren. [ungesichert] Werbeagenturen erkannten, dass sie eine neue, ökonomisch potente Zielgruppe ansprachen: die moderne, berufstätige Frau mit eigenem Einkommen und eigenem Willen.
 
 ## Wichtige Details
-Eine der wichtigsten Figuren in der feministischen Werbung war die Agentur [[DDB]] ([[Doyle Dane Bernbach (DDB) — die Creative Revolution]]), die in den 1960er Jahren Kampagnen für Marken wie [[Coca-Cola]] und [[Volkswagen]] erstellte, die Frauen in nicht-traditionellen Rollen zeigten. Eine weitere wichtige Agentur war [[Ogilvy & Mather]], die in den 1970er Jahren Kampagnen für Marken wie [[American Express]] und [[IBM]] erstellte, die Frauen in der Arbeitswelt zeigten. Die Fotografin [[Diane Arbus]] und die Illustratorin [[Barbara Kruger]] waren ebenfalls wichtige Künstlerinnen, die in der feministischen Werbung tätig waren. Im Jahr 1970 wurde die erste Ausgabe der Zeitschrift "Ms." veröffentlicht, die sich an Frauen richtete und feministische Themen behandelte.
+
+Die Pioniere dieser neuen Werbesprache kamen von den innovativsten Agenturen ihrer Zeit. [[DDB]] ([[Doyle Dane Bernbach (DDB) — die Creative Revolution]]) wagte sich früh vor: Für [[Volkswagen]] zeigte man Frauen nicht nur am Steuer, sondern als kompetente Fahrerinnen, die selbstbewusst durch die Stadt navigierten. Die Kampagne für [[Coca-Cola]] brach mit traditionellen Geschlechterrollen, indem sie Frauen in Situationen zeigte, die bisher Männern vorbehalten waren [ungesichert].
+
+Die Quellenlage hierzu ist dünn — [[Diane Arbus]] und [[Barbara Kruger]] werden oft im Zusammenhang mit feministischer Bildsprache genannt, doch ihre direkte Beteiligung an Werbekampagnen der 1970er Jahre ist nicht eindeutig dokumentiert. Kruger wurde später zur Ikone feministischer Kunst, deren Stilrichtung Werbekampagnen beeinflusste.
+
+Ein Meilenstein war 1970 die Gründung von "Ms." — die erste Zeitschrift, die Werbung und feministischen Journalismus verschmolz. Hier konnten Marken erstmals eine bewusst feministische Leserschaft ansprechen.
 
 ## Bedeutung & Einfluss
-Die feministische Werbung hatte einen großen Einfluss auf die Branche und die Kultur. Sie half, stereotype Darstellungen von Frauen in der Werbung zu überwinden und förderte eine größere Gleichstellung von Frauen in der Gesellschaft. Die feministische Werbung inspirierte auch spätere Entwicklungen in der Werbebranche, wie die Entwicklung von "Empowerment"-Kampagnen, die Frauen als starke und unabhängige Individuen darstellen. Die feministische Werbung hatte auch einen Einfluss auf die Entwicklung von "Diversity"-Kampagnen, die sich an Menschen aus verschiedenen kulturellen und sozialen Hintergründen richten.
+
+Die feministische Werbung warfen einen langen Schatten — sie bewies, dass kommerzielle Kommunikation gesellschaftliche Debatten nicht nur spiegeln, sondern aktiv vorantreiben kann. Die Kampagnen legitimierten neue Lebensentwürfe: Frauen konnten Karriere machen, alleine reisen, Autos kaufen — und wurden dabei ernstgenommen.
+
+Diese Bewegung ebnete den Weg für spätere "Empowerment"-Kampagnen wie "#LikeAGirl" von Always oder Doves "Real Beauty". Sie zeigte auch die Grenzen kommerzieller Vereinnahmung: Die berühmte "You've Come a Long Way, Baby"-Kampagne von [[Philip Morris]] für [[Virginia Slims]] feierte zwar weibliche Unabhängigkeit, verkaufte aber gleichzeitig gesundheitsschädliche Zigaretten — ein frühes Beispiel für "Femwashing".
 
 ## Verbindungen
-Die feministische Werbung ist eng mit anderen Agenturen und Personen verbunden, wie [[Leo Burnett]] und [[David Ogilvy]]. Die Kampagne "You've Come a Long Way, Baby" von [[Philip Morris]] für die Marke [[Virginia Slims]] ist ein Beispiel für eine feministische Werbekampagne, die sich an Frauen richtete und ihre Unabhängigkeit und Selbstständigkeit betonte. Die Illustratorin [[Barbara Kruger]] arbeitete auch mit der Agentur [[Wieden+Kennedy]] zusammen, um Kampagnen für Marken wie [[Nike]] zu erstellen.
+
+Die Bewegung verband ungewöhnliche Allianzen: Konservative Werbelegenden wie [[David Ogilvy]] von [[Ogilvy & Mather]] adaptierten feministische Themen, um neue Märkte zu erschließen. [[Leo Burnett]]'s Agentur entwickelte ikonische Frauenfiguren wie die "Marlboro Woman" als Gegenentwurf zum männlichen Cowboy [ungesichert]. Später arbeitete [[Barbara Kruger]] mit [[Wieden+Kennedy]] an [[Nike]]-Kampagnen, die sportliche Frauen als kraftvolle Athletinnen zeigten — ein radikaler Bruch mit der bisherigen Darstellung von Frauen im Sport.
 
 ## Bildmaterial-Hinweise
-Es gibt viele historische Bilder und Anzeigen, die die feministische Werbung dokumentieren. Einige Beispiele sind die Anzeigen von [[DDB]] für [[Coca-Cola]] und [[Volkswagen]], die Frauen in nicht-traditionellen Rollen zeigten. Die Fotografien von [[Diane Arbus]] und die Illustrationen von [[Barbara Kruger]] sind weitere Beispiele für das visuelle Material, das die feministische Werbung dokumentiert. Es gibt auch viele Bilder von Frauen, die in der Werbebranche tätig waren, wie die Fotografin [[Annie Leibovitz]] und die Illustratorin [[Nancy Burson]].
+
+Die visuelle Revolution lässt sich an historischen Anzeigen ablesen: Statt perfekt gestylter Hausfrauen zeigen [[DDB]]-Kampagnen für [[Volkswagen]] junge Frauen, die lachend in Käfer Cabriolets sitzen — Herrin ihrer eigenen Mobilität. Die Fotografien von [[Diane Arbus]] dokumentieren gesellschaftliche Außenseiterinnen und brachten eine neue, ungeschönte Perspektive in die visuelle Kultur. Später wurden [[Annie Leibovitz]]' Porträts starker Frauen und [[Nancy Burson]]'s experimentelle Fotografie zu wichtigen Referenzen für eine Werbung jenseits der Klischees.

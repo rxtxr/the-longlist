@@ -2,6 +2,29 @@
 confidence: medium
 era: 1960-2000
 id: guenter_rohrbach
+images:
+- artist: Harald Bischoff
+  caption: Günter Rohrbach 6378
+  copyright_status: clear_cc
+  height: 1500
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=37961148
+  thumb_url: https://api.openverse.org/v1/images/87d841a2-edfb-43b9-883d-1229a8455a2b/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c1/G%C3%BCnter_Rohrbach_6378.jpg
+  width: 1500
+- artist: JCS
+  caption: Boulevard der Stars - Günter Rohrbach
+  copyright_status: clear_cc
+  height: 3168
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=11456268
+  thumb_url: https://api.openverse.org/v1/images/a76bab2a-41d4-4f85-9e14-28b23f145d73/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bc/Boulevard_der_Stars_-_G%C3%BCnter_Rohrbach.JPG
+  width: 4752
 last_updated: '2026-05-11'
 related: []
 sources:

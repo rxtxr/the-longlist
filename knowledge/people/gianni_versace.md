@@ -2,6 +2,31 @@
 confidence: low
 era: 1978-1997
 id: gianni_versace
+images:
+- artist: Lucien Francois Penet
+  caption: former Versace collection
+  copyright_status: public_domain
+  height: 300
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAdelina%20Patti%20by%20Lucien%20Francois%20Penet.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/a/a0/Adelina_Patti_by_Lucien_Francois_Penet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a0/Adelina_Patti_by_Lucien_Francois_Penet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 299
+- artist: ''
+  caption: Gianni Versace Interview Profile
+  copyright_status: youtube
+  duration: '6:44'
+  embed_url: https://www.youtube-nocookie.com/embed/scBXV8Oxj28
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=scBXV8Oxj28
+  thumb_url: https://img.youtube.com/vi/scBXV8Oxj28/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=scBXV8Oxj28
+  video_id: scBXV8Oxj28
 last_updated: '2026-05-11'
 related: []
 sources:

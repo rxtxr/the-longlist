@@ -2,6 +2,7 @@
 confidence: low
 era: 1981-2000
 id: fallon_mcelligott_minneapolis_mittelamerika_und_die_gegenbewegung_zu_madison_ave
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,20 @@
 confidence: low
 era: 2008-present
 id: ipg_mediabrands
+images:
+- artist: ''
+  caption: 'Under Interpublic Group (IPG): Top Agencies Revealed!'
+  copyright_status: youtube
+  duration: '9:44'
+  embed_url: https://www.youtube-nocookie.com/embed/iXCUXiWiyWg
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=iXCUXiWiyWg
+  thumb_url: https://img.youtube.com/vi/iXCUXiWiyWg/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=iXCUXiWiyWg
+  video_id: iXCUXiWiyWg
 last_updated: '2026-05-11'
 related: []
 sources:

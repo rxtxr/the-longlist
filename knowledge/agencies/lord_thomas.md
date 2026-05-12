@@ -2,6 +2,42 @@
 confidence: low
 era: 1873-1942
 id: lord_thomas
+images:
+- artist: DanR
+  caption: Lord Thomas, at his ease
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/24638567@N00/2798518065
+  thumb_url: https://api.openverse.org/v1/images/8800d0e7-cea6-4bd9-b1c2-69f02e574253/thumb/
+  type: image
+  url: https://live.staticflickr.com/3033/2798518065_179d09b3ac_b.jpg
+  width: 660
+- artist: Roger Harris
+  caption: Official portrait of Lord Thomas of Gresford crop 2
+  copyright_status: clear_cc
+  height: 2000
+  license: CC BY 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=119345978
+  thumb_url: https://api.openverse.org/v1/images/3321d007-c431-4937-9bd0-739b75976d27/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/6/63/Official_portrait_of_Lord_Thomas_of_Gresford_crop_2.jpg
+  width: 1500
+- artist: ''
+  caption: Albert Lasker, Owner of Lord & Thomas - Father of Modern Advertising
+  copyright_status: youtube
+  duration: '5:27'
+  embed_url: https://www.youtube-nocookie.com/embed/OE-QtLb_zNI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=OE-QtLb_zNI
+  thumb_url: https://img.youtube.com/vi/OE-QtLb_zNI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=OE-QtLb_zNI
+  video_id: OE-QtLb_zNI
 last_updated: '2026-05-11'
 related: []
 sources:

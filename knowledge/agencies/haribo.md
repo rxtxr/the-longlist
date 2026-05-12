@@ -2,6 +2,42 @@
 confidence: low
 era: 1920-present
 id: haribo
+images:
+- artist: Caro Wallis
+  caption: Haribo Micro Mix
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/76818399@N00/233838818
+  thumb_url: https://api.openverse.org/v1/images/9f70e175-5ee3-45e3-879a-535f3a2a3a18/thumb/
+  type: image
+  url: https://live.staticflickr.com/89/233838818_97cda60f5a_b.jpg
+  width: 1024
+- artist: DocChewbacca
+  caption: Haribo World Mix
+  copyright_status: clear_cc
+  height: 682
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/49462908@N00/341096780
+  thumb_url: https://api.openverse.org/v1/images/bc141ba4-fd3e-4852-b376-8e0da367d6ea/thumb/
+  type: image
+  url: https://live.staticflickr.com/149/341096780_6b503ae95d_b.jpg
+  width: 1024
+- artist: ''
+  caption: Why Haribo Refuses to Expand Beyond Gummies | WSJ The Economics Of
+  copyright_status: youtube
+  duration: '6:09'
+  embed_url: https://www.youtube-nocookie.com/embed/3aeSBXO9waA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=3aeSBXO9waA
+  thumb_url: https://img.youtube.com/vi/3aeSBXO9waA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=3aeSBXO9waA
+  video_id: 3aeSBXO9waA
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,42 @@
 confidence: medium
 era: 1950-1988
 id: franz_josef_strauss
+images:
+- artist: Hans-Michael Tappen
+  caption: Archiv B357 Franz Josef Strauß, geb. 6. September 1915, Sterbebildchen
+  copyright_status: clear_cc
+  height: 769
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/65091855@N03/21026944002
+  thumb_url: https://api.openverse.org/v1/images/60a03982-f3de-4b99-af01-f1f9f0540b06/thumb/
+  type: image
+  url: https://live.staticflickr.com/655/21026944002_c27263582d_b.jpg
+  width: 1024
+- artist: Bundeswehr-Fotos Wir.Dienen.Deutschland.
+  caption: File:Verteidigungsminister Franz Josef Strauß (4909816836).jpg
+  copyright_status: clear_cc
+  height: 2356
+  license: CC BY 2.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=25719563
+  thumb_url: https://api.openverse.org/v1/images/b241ffec-ae5e-47ef-b1c1-ec750580978c/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6f/Verteidigungsminister_Franz_Josef_Strau%C3%9F_%284909816836%29.jpg
+  width: 1664
+- artist: ''
+  caption: Franz Josef Strauß - clear, hearty & direct Part 1
+  copyright_status: youtube
+  duration: '3:25'
+  embed_url: https://www.youtube-nocookie.com/embed/1oO6ecO7wTE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=1oO6ecO7wTE
+  thumb_url: https://img.youtube.com/vi/1oO6ecO7wTE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=1oO6ecO7wTE
+  video_id: 1oO6ecO7wTE
 last_updated: '2026-05-11'
 related: []
 sources:

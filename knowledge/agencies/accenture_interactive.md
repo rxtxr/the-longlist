@@ -3,36 +3,41 @@ confidence: medium
 era: 2009-present
 id: accenture_interactive
 images:
-- artist: possibly Ganga Ram 'Nakashi' (alt. spelt as Ganga Ram 'Naqqashi')
-  caption: '''Retreat of the Dogras'', from a painted scroll documenting the joint
-    Dogra-Sikh invasions of Ladakh, Baltistan, and Western Tibet, ca.1840''s. Zorawar '
+- artist: Wistula
+  caption: Accenture, Warsaw
+  copyright_status: clear_cc
+  height: 1870
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAccenture%2C%20Warsaw.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Accenture%2C_Warsaw.jpg/500px-Accenture%2C_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/85/Accenture%2C_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1473
+- artist: Accenture PLC
+  caption: Accenture logo.
   copyright_status: public_domain
-  height: 2870
+  height: 412
   license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3A%27Retreat%20of%20the%20Dogras%27%2C%20from%20a%20painted%20scroll%20documenting%20the%20joint%20Dogra-Sikh%20invasions%20of%20Ladakh%2C%20Baltistan%2C%20and%20Western%20Tibet%2C%20ca.1840%27s.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%27Retreat_of_the_Dogras%27%2C_from_a_painted_scroll_documenting_the_joint_Dogra-Sikh_invasions_of_Ladakh%2C_Baltistan%2C_and_Western_Tibet%2C_ca.1840%27s.jpg/500px-%27Retreat_of_the_Dogras%27%2C_from_a_painted_scroll_documenting_the_joint_Dogra-Sikh_invasions_of_Ladakh%2C_Baltistan%2C_and_Western_Tibet%2C_ca.1840%27s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/9/96/%27Retreat_of_the_Dogras%27%2C_from_a_painted_scroll_documenting_the_joint_Dogra-Sikh_invasions_of_Ladakh%2C_Baltistan%2C_and_Western_Tibet%2C_ca.1840%27s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3723
-- artist: possibly Ganga Ram 'Nakashi' (alt. spelt as Ganga Ram 'Naqqashi')
-  caption: '''The Dogras entering Leh'', from a painted scroll documenting the joint
-    Dogra-Sikh invasions of Ladakh, Baltistan, and Western Tibet, ca.1840''s. Zorawa'
-  copyright_status: public_domain
-  height: 3589
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3A%27The%20Dogras%20entering%20Leh%27%2C%20from%20a%20painted%20scroll%20documenting%20the%20joint%20Dogra-Sikh%20invasions%20of%20Ladakh%2C%20Baltistan%2C%20and%20Western%20Tibet%2C%20ca.1840%27s.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%27The_Dogras_entering_Leh%27%2C_from_a_painted_scroll_documenting_the_joint_Dogra-Sikh_invasions_of_Ladakh%2C_Baltistan%2C_and_Western_Tibet%2C_ca.1840%27s.jpg/500px-%27The_Dogras_entering_Leh%27%2C_from_a_painted_scroll_documenting_the_joint_Dogra-Sikh_invasions_of_Ladakh%2C_Baltistan%2C_and_Western_Tibet%2C_ca.1840%27s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/7/7f/%27The_Dogras_entering_Leh%27%2C_from_a_painted_scroll_documenting_the_joint_Dogra-Sikh_invasions_of_Ladakh%2C_Baltistan%2C_and_Western_Tibet%2C_ca.1840%27s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2834
-- artist: possibly Ganga Ram 'Nakashi' (alt. spelt as Ganga Ram 'Naqqashi')
-  caption: '''The soldiers taking rest'', from a painted scroll documenting the joint
-    Dogra-Sikh invasions of Ladakh, Baltistan, and Western Tibet, ca.1840''s. Zoraw'
-  copyright_status: public_domain
-  height: 3657
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3A%27The%20soldiers%20taking%20rest%27%2C%20from%20a%20painted%20scroll%20documenting%20the%20joint%20Dogra-Sikh%20invasions%20of%20Ladakh%2C%20Baltistan%2C%20and%20Western%20Tibet%2C%20ca.1840%27s.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%27The_soldiers_taking_rest%27%2C_from_a_painted_scroll_documenting_the_joint_Dogra-Sikh_invasions_of_Ladakh%2C_Baltistan%2C_and_Western_Tibet%2C_ca.1840%27s.jpg/500px-%27The_soldiers_taking_rest%27%2C_from_a_painted_scroll_documenting_the_joint_Dogra-Sikh_invasions_of_Ladakh%2C_Baltistan%2C_and_Western_Tibet%2C_ca.1840%27s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d5/%27The_soldiers_taking_rest%27%2C_from_a_painted_scroll_documenting_the_joint_Dogra-Sikh_invasions_of_Ladakh%2C_Baltistan%2C_and_Western_Tibet%2C_ca.1840%27s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 2813
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAccenture-logo.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Accenture-logo.png/500px-Accenture-logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8d/Accenture-logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 701
+- artist: ''
+  caption: 'Accenture''s Brand Consulting ''Rips Up The Rule Book: Mendonça'
+  copyright_status: youtube
+  duration: '8:18'
+  embed_url: https://www.youtube-nocookie.com/embed/9nw0zm_sHVA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=9nw0zm_sHVA
+  thumb_url: https://img.youtube.com/vi/9nw0zm_sHVA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=9nw0zm_sHVA
+  video_id: 9nw0zm_sHVA
 last_updated: '2026-05-11'
 related: []
 sources:

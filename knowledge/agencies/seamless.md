@@ -2,6 +2,33 @@
 confidence: medium
 era: 1995-2005
 id: seamless
+images:
+- artist: Sisters.seamless
+  caption: 'this is a texture of a sandy shore. photographed in a warm climate.
+
+    It was turned into a texture using photo editing software, "gimp".'
+  copyright_status: public_domain
+  height: 2762
+  license: CC0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ABeach%20sandy%20shore%20seamless%20ground%20texture.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Beach_sandy_shore_seamless_ground_texture.jpg/500px-Beach_sandy_shore_seamless_ground_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/9/9b/Beach_sandy_shore_seamless_ground_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2762
+- artist: Sisters.seamless
+  caption: 'this is a texture of a grey boulder. photographed in a warm climate.
+
+    It was turned into a texture using photo editing software, "gimp".'
+  copyright_status: public_domain
+  height: 2335
+  license: CC0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AGrey%20boulder%20seamless%20stone%20surface%20texture.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grey_boulder_seamless_stone_surface_texture.jpg/500px-Grey_boulder_seamless_stone_surface_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Grey_boulder_seamless_stone_surface_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2335
 last_updated: '2026-05-11'
 related: []
 sources:

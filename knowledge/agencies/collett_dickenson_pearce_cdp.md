@@ -2,6 +2,32 @@
 confidence: low
 era: 1960-1986
 id: collett_dickenson_pearce_cdp
+images:
+- artist: Photos of the Past from Hanwell, London, UK
+  caption: Does anyone recognise who is who in this shot? The director is Alan Parker,
+    working for the advertising agency Collett Dickenson Pearce on Centre Cour
+  copyright_status: clear_cc
+  height: 1660
+  license: CC BY 2.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AAlan%20Parker%20filming%20a%20Hamlet%20advert%20at%20Wimbledon%2C%20April%201974%20-%20Flickr%20-%20whatsthatpicture.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Alan_Parker_filming_a_Hamlet_advert_at_Wimbledon%2C_April_1974_-_Flickr_-_whatsthatpicture.jpg/500px-Alan_Parker_filming_a_Hamlet_advert_at_Wimbledon%2C_April_1974_-_Flickr_-_whatsthatpicture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bb/Alan_Parker_filming_a_Hamlet_advert_at_Wimbledon%2C_April_1974_-_Flickr_-_whatsthatpicture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 4044
+- artist: ''
+  caption: '[PIF] Crime Prevention: Dream – UK, Collett Dickenson Pearce, 1988.'
+  copyright_status: youtube
+  duration: '1:03'
+  embed_url: https://www.youtube-nocookie.com/embed/c59D7By-aS0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=c59D7By-aS0
+  thumb_url: https://img.youtube.com/vi/c59D7By-aS0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=c59D7By-aS0
+  video_id: c59D7By-aS0
 last_updated: '2026-05-11'
 related: []
 sources:

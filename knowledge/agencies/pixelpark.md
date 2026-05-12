@@ -2,6 +2,18 @@
 confidence: low
 era: 1991-2003
 id: pixelpark
+images:
+- artist: Digitas Pixelpark
+  caption: Logo of Digitas Pixelpark
+  copyright_status: clear_cc
+  height: 2327
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ADigitas%20Pixelpark%20Logo%20Lockup%20black.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Digitas_Pixelpark_Logo_Lockup_black.png/500px-Digitas_Pixelpark_Logo_Lockup_black.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bb/Digitas_Pixelpark_Logo_Lockup_black.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2756
 last_updated: '2026-05-11'
 related: []
 sources:

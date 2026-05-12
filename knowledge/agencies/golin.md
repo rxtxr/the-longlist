@@ -2,6 +2,43 @@
 confidence: high
 era: 1956-present
 id: golin
+images:
+- artist: Chabe01
+  caption: Escale Roland Golin, Asnières-sur-Saône.
+  copyright_status: clear_cc
+  height: 3024
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AEscale%20Roland%20Golin%20-%20Asni%C3%A8res-sur-Sa%C3%B4ne%20%28FR01%29%20-%202022-04-27%20-%201.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Escale_Roland_Golin_-_Asni%C3%A8res-sur-Sa%C3%B4ne_%28FR01%29_-_2022-04-27_-_1.jpg/500px-Escale_Roland_Golin_-_Asni%C3%A8res-sur-Sa%C3%B4ne_%28FR01%29_-_2022-04-27_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/9/9a/Escale_Roland_Golin_-_Asni%C3%A8res-sur-Sa%C3%B4ne_%28FR01%29_-_2022-04-27_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 4032
+- artist: Chabe01
+  caption: Escale Roland Golin, Asnières-sur-Saône.
+  copyright_status: clear_cc
+  height: 4032
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AEscale%20Roland%20Golin%20-%20Asni%C3%A8res-sur-Sa%C3%B4ne%20%28FR01%29%20-%202022-04-27%20-%202.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Escale_Roland_Golin_-_Asni%C3%A8res-sur-Sa%C3%B4ne_%28FR01%29_-_2022-04-27_-_2.jpg/500px-Escale_Roland_Golin_-_Asni%C3%A8res-sur-Sa%C3%B4ne_%28FR01%29_-_2022-04-27_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c2/Escale_Roland_Golin_-_Asni%C3%A8res-sur-Sa%C3%B4ne_%28FR01%29_-_2022-04-27_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 3024
+- artist: ''
+  caption: Golin, a leading global PR agency, leverages Similarweb to help clients
+    communicate effectively
+  copyright_status: youtube
+  duration: '2:37'
+  embed_url: https://www.youtube-nocookie.com/embed/7QJmDwlW3zY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=7QJmDwlW3zY
+  thumb_url: https://img.youtube.com/vi/7QJmDwlW3zY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=7QJmDwlW3zY
+  video_id: 7QJmDwlW3zY
 last_updated: '2026-05-11'
 related: []
 sources:

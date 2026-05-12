@@ -2,6 +2,42 @@
 confidence: low
 era: 1982-2010
 id: fabien_baron
+images:
+- artist: Bhetherington7
+  caption: Fabien Baron Portrait
+  copyright_status: clear_cc
+  height: 3150
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=48667494
+  thumb_url: https://api.openverse.org/v1/images/854ab47e-656e-4991-8810-d6b315631c2a/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/0/04/Fabien_Baron_Portrait.jpg
+  width: 2511
+- artist: See Li from London, UK
+  caption: Fabien Baron 2014
+  copyright_status: clear_cc
+  height: 959
+  license: CC BY 2.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=38162294
+  thumb_url: https://api.openverse.org/v1/images/aa7692a5-992a-44e5-a477-21898a15514f/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4d/Fabien_Baron_2014.jpg
+  width: 674
+- artist: ''
+  caption: Fernando Gutiérrez discusses Harper's Bazaar and the work of Fabien Baron
+  copyright_status: youtube
+  duration: '1:16'
+  embed_url: https://www.youtube-nocookie.com/embed/7qb58cWQ5ZQ
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=7qb58cWQ5ZQ
+  thumb_url: https://img.youtube.com/vi/7qb58cWQ5ZQ/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=7qb58cWQ5ZQ
+  video_id: 7qb58cWQ5ZQ
 last_updated: '2026-05-11'
 related: []
 sources:

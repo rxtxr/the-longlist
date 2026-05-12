@@ -2,6 +2,42 @@
 confidence: low
 era: 1988-1990s
 id: nike_just_do_it
+images:
+- artist: absoluteSteven
+  caption: NIKE
+  copyright_status: clear_cc
+  height: 180
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/15577711@N00/144488978
+  thumb_url: https://api.openverse.org/v1/images/038378d5-5e41-44b6-8880-6f3ba2268be8/thumb/
+  type: image
+  url: https://live.staticflickr.com/55/144488978_158638c454_m.jpg
+  width: 240
+- artist: reginarodriguez
+  caption: Comfort Nike Swimsuit Academy Sports and Outdoors
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/61583821@N07/9151325883
+  thumb_url: https://api.openverse.org/v1/images/614fb14d-004d-49be-9f69-c662bd1d50b9/thumb/
+  type: image
+  url: https://live.staticflickr.com/7369/9151325883_e04eb7d0e1_b.jpg
+  width: 1024
+- artist: ''
+  caption: 'The History of Nike: From Small Business to Global Icon'
+  copyright_status: youtube
+  duration: '8:59'
+  embed_url: https://www.youtube-nocookie.com/embed/mH1-J8vyBo0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=mH1-J8vyBo0
+  thumb_url: https://img.youtube.com/vi/mH1-J8vyBo0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=mH1-J8vyBo0
+  video_id: mH1-J8vyBo0
 last_updated: '2026-05-11'
 related: []
 sources:

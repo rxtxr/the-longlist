@@ -2,6 +2,29 @@
 confidence: medium
 era: 1940-1970
 id: emil_ruder
+images:
+- artist: Manuel Schmalstieg
+  caption: File:Emil Ruder.jpg
+  copyright_status: clear_cc
+  height: 2386
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=67103757
+  thumb_url: https://api.openverse.org/v1/images/76403572-bac5-4663-8b3b-5e060be6d5e8/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4d/Emil_Ruder.jpg
+  width: 1689
+- artist: 80magazine
+  caption: emil ruder. armin hofmann
+  copyright_status: clear_cc
+  height: 361
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/81135242@N00/3814159695
+  thumb_url: https://api.openverse.org/v1/images/92731a81-f0ad-4ba3-bd97-24aca585a10b/thumb/
+  type: image
+  url: https://live.staticflickr.com/3562/3814159695_5c2fa71051.jpg
+  width: 500
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,29 @@
 confidence: low
 era: 1835-2020
 id: bertelsmann
+images:
+- artist: wallyg
+  caption: 'NYC - Times Square: Bertelsmann Building signage'
+  copyright_status: clear_cc
+  height: 682
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/70323761@N00/379224089
+  thumb_url: https://api.openverse.org/v1/images/b4ee8b47-60d4-4e67-bc81-e3b878faa6b0/thumb/
+  type: image
+  url: https://live.staticflickr.com/167/379224089_8e76de03ce_b.jpg
+  width: 1024
+- artist: Daniel Ullrich, Threedots
+  caption: Bertelsmann Lexikothek
+  copyright_status: clear_cc
+  height: 1252
+  license: CC BY-SA 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=1342794
+  thumb_url: https://api.openverse.org/v1/images/550ddae2-703a-4bca-a79c-e269a8de1242/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/6/65/Bertelsmann_Lexikothek.jpg
+  width: 1669
 last_updated: '2026-05-11'
 related: []
 sources:

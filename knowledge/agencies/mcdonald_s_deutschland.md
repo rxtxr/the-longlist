@@ -2,6 +2,42 @@
 confidence: low
 era: 1971-present
 id: mcdonald_s_deutschland
+images:
+- artist: User:Mattes
+  caption: McCroissant®, neuerdings sehr viel kleiner als zuvor
+  copyright_status: clear_cc
+  height: 2288
+  license: CC BY 2.0 de
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AMcDonald%27s%20Deutschland%20%E2%80%94%20McCroissant%C2%AE%20%282017%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/McDonald%27s_Deutschland_%E2%80%94_McCroissant%C2%AE_%282017%29.jpg/500px-McDonald%27s_Deutschland_%E2%80%94_McCroissant%C2%AE_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/0/00/McDonald%27s_Deutschland_%E2%80%94_McCroissant%C2%AE_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 4069
+- artist: Cholo Aleman
+  caption: Hauptverwaltung McDonald's Deutschland LLC,  Zweigniederlassung München
+  copyright_status: clear_cc
+  height: 3648
+  license: CC BY-SA 3.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AMcDonalds%20M%C3%BCnchen%201.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/McDonalds_M%C3%BCnchen_1.jpg/500px-McDonalds_M%C3%BCnchen_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0b/McDonalds_M%C3%BCnchen_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 2736
+- artist: ''
+  caption: McDonald’s ADS different countries
+  copyright_status: youtube
+  duration: '3:41'
+  embed_url: https://www.youtube-nocookie.com/embed/pMLrVP_E-jA
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=pMLrVP_E-jA
+  thumb_url: https://img.youtube.com/vi/pMLrVP_E-jA/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=pMLrVP_E-jA
+  video_id: pMLrVP_E-jA
 last_updated: '2026-05-11'
 related: []
 sources:

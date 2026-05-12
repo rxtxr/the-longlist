@@ -2,6 +2,43 @@
 confidence: low
 era: 1949-1982
 id: bill_bernbach_vater_der_kreativen_revolution
+images:
+- artist: John Drake Flickr
+  caption: 'Book: Bill Bernbach''s Book'
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/9987642@N04/7290759858
+  thumb_url: https://api.openverse.org/v1/images/3f465ee2-0126-49d3-bc98-40643e92f4fe/thumb/
+  type: image
+  url: https://live.staticflickr.com/8165/7290759858_bd906dccfe_b.jpg
+  width: 1024
+- artist: alvaro tapia hidalgo
+  caption: Ilustración de portada revista Bill
+  copyright_status: clear_cc
+  height: 500
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/7567350@N08/6685887383
+  thumb_url: https://api.openverse.org/v1/images/536078d9-c674-4ad9-aa77-6b202287df4b/thumb/
+  type: image
+  url: https://live.staticflickr.com/7152/6685887383_dbb9baa2a7.jpg
+  width: 410
+- artist: ''
+  caption: Ep. 04 - Bill Bernbach on Creativity, Truth & Modern Advertising | Roastbrief
+    CODE
+  copyright_status: youtube
+  duration: '18:18'
+  embed_url: https://www.youtube-nocookie.com/embed/m5aNI29uyEI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=m5aNI29uyEI
+  thumb_url: https://img.youtube.com/vi/m5aNI29uyEI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=m5aNI29uyEI
+  video_id: m5aNI29uyEI
 last_updated: '2026-05-11'
 related: []
 sources:

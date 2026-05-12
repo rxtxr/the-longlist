@@ -2,6 +2,43 @@
 confidence: low
 era: 1999-2010
 id: zappos
+images:
+- artist: Robert Scoble
+  caption: Zappos core values
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/35034363287@N01/3468217595
+  thumb_url: https://api.openverse.org/v1/images/addece00-bd54-4b1d-a6c7-e51cf147340e/thumb/
+  type: image
+  url: https://live.staticflickr.com/3599/3468217595_b3322bc5b3_b.jpg
+  width: 683
+- artist: edkohler
+  caption: Zappos Ad in Airport Security Tub
+  copyright_status: clear_cc
+  height: 819
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/45078337@N00/2506449383
+  thumb_url: https://api.openverse.org/v1/images/37d2d90e-3744-48c9-8c40-b05a016cdc62/thumb/
+  type: image
+  url: https://live.staticflickr.com/2005/2506449383_cdf682603a_b.jpg
+  width: 1024
+- artist: ''
+  caption: How Tony Hsieh Grew Zappos to $1.2 billion value In Just 10 Years - The
+    History of Zappos
+  copyright_status: youtube
+  duration: '6:48'
+  embed_url: https://www.youtube-nocookie.com/embed/IZbAD2ANZN4
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=IZbAD2ANZN4
+  thumb_url: https://img.youtube.com/vi/IZbAD2ANZN4/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=IZbAD2ANZN4
+  video_id: IZbAD2ANZN4
 last_updated: '2026-05-11'
 related: []
 sources:

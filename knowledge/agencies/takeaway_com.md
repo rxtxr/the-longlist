@@ -2,6 +2,20 @@
 confidence: high
 era: 2000-2022
 id: takeaway_com
+images:
+- artist: ''
+  caption: Takeaway.com boss has no plans to increase £4.3m Just Eat bid
+  copyright_status: youtube
+  duration: '1:49'
+  embed_url: https://www.youtube-nocookie.com/embed/iBsGC5DOQWY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=iBsGC5DOQWY
+  thumb_url: https://img.youtube.com/vi/iBsGC5DOQWY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=iBsGC5DOQWY
+  video_id: iBsGC5DOQWY
 last_updated: '2026-05-11'
 related: []
 sources:

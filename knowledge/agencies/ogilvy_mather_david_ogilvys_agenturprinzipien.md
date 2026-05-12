@@ -2,6 +2,30 @@
 confidence: low
 era: 1948-1989
 id: ogilvy_mather_david_ogilvys_agenturprinzipien
+images:
+- artist: Esthr
+  caption: Khai Meng Tham of Ogilvy & Mather
+  copyright_status: clear_cc
+  height: 771
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/30866445@N00/54579470
+  thumb_url: https://api.openverse.org/v1/images/6000e08a-4aaf-4184-b1b7-891e06741d89/thumb/
+  type: image
+  url: https://live.staticflickr.com/30/54579470_3fcf29f6f4_b.jpg
+  width: 1024
+- artist: Lacta.gr
+  caption: 'Η ομάδα των συντελεστών του Love in the end, από την ODEON, την διαφημιστική
+    εταιρία Ogilvy & Mather, Greece, την Kraft Foods, μαζί με τους ηθοποιούς '
+  copyright_status: clear_cc
+  height: 706
+  license: CC BY-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/43039028@N05/8449591121
+  thumb_url: https://api.openverse.org/v1/images/f610a64c-4957-4d64-aea0-b7721b6bbb7d/thumb/
+  type: image
+  url: https://live.staticflickr.com/8361/8449591121_45a3869646_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

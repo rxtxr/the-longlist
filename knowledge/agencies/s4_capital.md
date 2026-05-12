@@ -2,6 +2,21 @@
 confidence: low
 era: 2018-present
 id: s4_capital
+images:
+- artist: ''
+  caption: 'Agentic AI Is Rewriting Business Models for Ad Agencies: S4 Capital''s
+    Sir Martin Sorrell'
+  copyright_status: youtube
+  duration: '14:35'
+  embed_url: https://www.youtube-nocookie.com/embed/Hr5xOhV6SSI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=Hr5xOhV6SSI
+  thumb_url: https://img.youtube.com/vi/Hr5xOhV6SSI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=Hr5xOhV6SSI
+  video_id: Hr5xOhV6SSI
 last_updated: '2026-05-11'
 related: []
 sources:

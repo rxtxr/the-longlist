@@ -2,6 +2,7 @@
 confidence: medium
 era: 1890-1932
 id: claude_c_hopkins
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

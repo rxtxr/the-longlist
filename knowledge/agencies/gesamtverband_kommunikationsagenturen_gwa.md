@@ -2,6 +2,7 @@
 confidence: medium
 era: 1949-present
 id: gesamtverband_kommunikationsagenturen_gwa
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

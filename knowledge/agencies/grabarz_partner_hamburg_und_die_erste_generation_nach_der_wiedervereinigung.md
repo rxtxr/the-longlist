@@ -2,6 +2,19 @@
 confidence: high
 era: 1990-2000
 id: grabarz_partner_hamburg_und_die_erste_generation_nach_der_wiedervereinigung
+images:
+- artist: GrabarzPR
+  caption: 'Geschäftsführung Grabarz&amp;Partner: Andreas Grabarz, Ralf Heuel, Thomas
+    Eickhoff, Anne Jezuita'
+  copyright_status: clear_cc
+  height: 591
+  license: CC BY 3.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AGeschaeftsfuehrung%20Grabarz%26Partner.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Geschaeftsfuehrung_Grabarz%26Partner.jpg/500px-Geschaeftsfuehrung_Grabarz%26Partner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/6/61/Geschaeftsfuehrung_Grabarz%26Partner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 787
 last_updated: '2026-05-11'
 related: []
 sources:

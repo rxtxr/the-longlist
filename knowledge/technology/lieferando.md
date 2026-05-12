@@ -2,9 +2,53 @@
 confidence: high
 era: 2011-present
 id: lieferando
-last_updated: '2026-05-11'
+images:
+- artist: HimmelUnÄäd
+  caption: Lieferando Arbeiter Protest NGG
+  copyright_status: clear_cc
+  height: 1044
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=104899041
+  thumb_url: https://api.openverse.org/v1/images/28e77a0a-7c3f-4721-bf44-87923f3df3f7/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4f/Lieferando_Arbeiter_Protest_NGG.jpg
+  width: 1409
+- artist: AnonymousUnknown author
+  caption: Lieferando Worker Protest against working conditions
+  copyright_status: clear_cc
+  height: 2531
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=104818967
+  thumb_url: https://api.openverse.org/v1/images/ee969717-5d03-46bc-8b6c-2a26033738ee/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/50/Lieferando_Worker_Protest_against_working_conditions.jpg
+  width: 1378
+- artist: ''
+  caption: Werbung verunstaltet | Rügenwalder Mühle, Falken-Reifen, Lieferando | YT-Kacke
+  copyright_status: youtube
+  duration: 0:42
+  embed_url: https://www.youtube-nocookie.com/embed/J714s8AVwdY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=J714s8AVwdY
+  thumb_url: https://img.youtube.com/vi/J714s8AVwdY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=J714s8AVwdY
+  video_id: J714s8AVwdY
+last_updated: '2026-05-12'
 related: []
-sources: []
+sources:
+- Lieferando.de Website
+- Lieferando.at Partnerblog
+- Dept Agency Case Study
+- Campaign Germany Artikel
+- Tonight.de Bericht
+- 'Wikipedia-Datei: Lieferando Protest'
+- 'Wikipedia: Wolt'
+- 'Wikipedia: Just Eat Takeaway.com'
 tags:
 - food-delivery
 - platform-economy
@@ -16,26 +60,29 @@ wave: 18
 ---
 
 ## Überblick
-Lieferando ist ein Online-Lebensmittellieferdienst, der als Marktplatz zwischen Restaurants und Endkunden fungiert. Es ist wichtig, da es den deutschen Food-Delivery-Markt ab den 2010er Jahren revolutionierte und zum Synonym für digitale Essensbestellung wurde.
+Lieferando ist mehr als nur eine App – es ist ein kulturelles Phänomen, das die deutsche Esskultur und Arbeitswelt des 21. Jahrhunderts geprägt hat. Als digitaler Marktplatz zwischen Restaurants und Endkunden revolutionierte es ab den 2010er Jahren nicht nur den Food-Delivery-Markt, sondern wurde zum Synonym für urbanen Lebensstil, spontane Bürofeiern und nächtliche WG-Essensentscheidungen. Die charakteristischen roten Fahrradkuriere mit ihren Thermotaschen gehören heute zum Stadtbild wie Ampeln und Bäckereien.
 
 ## Historischer Kontext
-Lieferando entstand im Kontext der zunehmenden Digitalisierung des Alltags und des Booms von Plattformökonomie-Modellen in den 2010er Jahren. Gesellschaftlich spiegelte es den Wunsch nach Bequemlichkeit (Convenience), Zeitersparnis und einer größeren Auswahl an kulinarischen Angeboten wider, getrieben durch die Verbreitung von Smartphones und mobiler Zahlungsmethoden.
+Die Geburtsstunde von Lieferando fiel in eine Zeit radikalen Wandels: Das Smartphone wurde zur Kommandozentrale des Lebens, die Plattformökonomie begann traditionelle Geschäftsmodelle zu verschlingen, und der Wunsch nach Convenience traf auf eine junge, digitalaffine Generation. Während Pizza- und Asia-Imbisse bereits Lieferdienste anboten, fehlte eine zentrale Plattform, die Auswahl, Bezahlung und Logistik vereinte. In diese Lücke stießen Berliner Gründer, die erkannten, dass das Essensbestellen kurz vor dem digitalen Kollaps stand: Menüs lagen vergilbt in Schubladen, Bestellungen scheiterten an Sprachbarrieren, und Liefergebühren waren undurchsichtig. Lieferando digitalisierte diesen analogen Prozess und machte ihn zum Standard – genau zu dem Zeitpunkt, als Deutschland flächendeckend Breitbandinternet und mobile Zahlungsmethoden adoptierte.
 
 ## Wichtige Details
-*   **2011:** Das Unternehmen wird in Berlin unter dem Namen **Lieferando.de GmbH** gegründet.
-*   **2013:** Der niederländische Online-Food-Delivery-Riese **[[Takeaway.com]]** (gegr. 2000) übernimmt Lieferando und nutzt die Marke für seine Expansion im deutschsprachigen Raum.
-*   **2016:** Lieferando übernimmt seinen größten deutschen Konkurrenten **[[pizza.de]]** (gegr. 2008) und konsolidiert damit seine marktbeherrschende Stellung.
-*   **2020:** Takeaway.com fusioniert mit dem britischen Konkurrenten **[[Just Eat]]** (gegr. 2001) zum **[[Just Eat Takeaway.com]]** Konzern, einer der größten Food-Delivery-Plattformen der Welt. Die Marke Lieferando bleibt in Deutschland, Österreich und der Schweiz erhalten.
-*   **2022/23:** Der Konzern beginnt sich nach wirtschaftlichen Verlusten zu restrukturieren und prüft den Verkauf nicht-rentabler Teile, wie z.B. seiner nordamerikanischen Tochter [[Grubhub]].
+*   **2011:** In der Berliner Start-up-Szene wird die **Lieferando.de GmbH** gegründet. Die Gründer [Namen der Gründer sind in den Quellen nicht erwähnt – ungesichert] erkannten früh das Potenzial eines aggregierten Lieferportals in einem fragmentierten Markt.
+*   **2013:** Der strategische Schachzug: Der niederländische Online-Food-Delivery-Riese **[[Takeaway.com]]** (gegr. 2000) übernimmt Lieferando. Die etablierte deutsche Marke wird zur Speerspitze für Takeaways Expansion im deutschsprachigen Raum.
+*   **2016:** Der deutsche Markt wird konsolidiert: Lieferando schluckt seinen größten Konkurrenten **[[pizza.de]]** (gegr. 2008). Diese Übernahme festigt die marktbeherrschende Stellung und macht Lieferando zum unangefochtenen Marktführer.
+*   **2020:** Im globalen Wettrüsten der Lieferdienste fusioniert Takeaway.com mit dem britischen Konkurrenten **[[Just Eat]]** (gegr. 2001) zum Giganten **[[Just Eat Takeaway.com]]**. Die Marke Lieferando bleibt in DACH erhalten, wird aber Teil eines weltweiten Netzwerks.
+*   **2022/23:** Nach Jahren des Wachstums um jeden Preis folgt die Ernüchterung. Der Konzern restrukturiert sich nach wirtschaftlichen Verlusten und prüft den Verkauf nicht-rentabler Teile, darunter die nordamerikanische Tochter **[[Grubhub]]**. Die Ära der unbegrenzten Expansion ist vorbei.
 
 ## Bedeutung & Einfluss
-Lieferando hatte einen enormen Einfluss auf die Gastronomiebranche, indem es insbesondere kleineren und mittleren Restaurants den Einstieg in den Online-Vertrieb ermöglichte, sie aber gleichzeitig in Abhängigkeit von den hohen Plattform-Provisionen brachte. Kulturell veränderte es das Ess- und Bestellverhalten einer ganzen Generation und wurde zum "Klebstoff" in vielen Büro- und WG-Küchen. Es trieb die Logistik für die "letzte Meile" und die Entwicklung von spezialisierten Lieferdienst-Apps voran.
+Lieferandos Einfluss ist eine Geschichte mit zwei Seiten. Für tausende Restaurants – besonders kleinere Familienbetriebe – war die Plattform der Rettungsanker in die digitale Welt. Sie ermöglichte den Einstieg in den Online-Vertrieb ohne eigene IT-Kosten, machte die Betriebe aber gleichzeitig abhängig von Provisionen, die bis zu 30% pro Bestellung erreichen konnten – ein Dauerkonflikt zwischen Reichweite und Rentabilität.
+
+Kulturell formte Lieferando das Sozialverhalten einer Generation. Es wurde zur Lösung für Büro-Meetings ("Pizza bestellt?"), Studenten-Partys ("Wer bestellt noch was?") und pandemische Isolation. Die Plattform entwickelte sich zum kulinarischen Entdeckerführer, der regionale Küchen neben Burger-Buden platzierte. Gleichzeitig trieb sie die Logistik der "letzten Meile" voran: Ein Heer von Fahrrad- und Autokurieren wurde geschaffen, dessen Arbeitsbedingungen [ungesichert] regelmäßig kritisiert werden, wie Protestbilder der Gewerkschaft NGG zeigen.
 
 ## Verbindungen
-Als reine E-Commerce-Plattform hat Lieferando keine direkten Verbindungen zu klassischen Werbeagenturen. Seine Marketingkampagnen wurden von verschiedenen Agenturen betreut. Als Teil von **[[Just Eat Takeaway.com]]** ist es ein direkter Konkurrent zu anderen globalen Plattformen wie **[[Delivery Hero]]** (Betreiber von u.a. Foodora) und **[[DoorDash]]**.
+Lieferando agiert als reine Plattform ohne klassische Werbeagentur als ständigen Partner. Für Marketingkampagnen wie die hyperlokale "Auch 'n Anlass"-Kampagne (2023), die urbane Lebensart in sechs deutschen Städten feierte, wurde die Agentur **[[Dept Agency]]** engagiert. Als Teil von **[[Just Eat Takeaway.com]]** konkurriert Lieferando im globalen Arena mit **[[Delivery Hero]]** (Betreiber von Foodora), **[[DoorDash]]** und dem finnischen **[[Wolt]]** [ungesichert] um Marktanteile und Kundengunst.
 
 ## Bildmaterial-Hinweise
-*   Screenshots der Website und App-Oberfläche aus verschiedenen Jahren (2011, 2015, 2020) zeigen die Entwicklung des User-Interfaces.
-*   Fotos der charakteristischen roten Fahrradkuriere mit der Thermotasche.
-*   Werbeplakate und Online-Banner mit dem Slogan "Lieferando – Essen bestellen".
-*   Fotografien von Verpackungsmaterial (Tüten, Pizzakartons) mit Logo.
+*   Screenshots der Website und App-Oberfläche (2011, 2015, 2020) dokumentieren die evolutionäre Verbesserung des User-Interfaces von clunky zu clean.
+*   Die ikonischen roten Fahrradkuriere mit der Thermotasche – das wandelnde Logo im Stadtbild.
+*   Werbeplakate und Online-Banner mit dem eingängigen Slogan "Lieferando – Essen bestellen".
+*   Verpackungsmaterial (Tüten, Pizzakartons) mit Logo als Alltags-Branding.
+*   Dokumentarfotos von Kurier-Protesten für bessere Arbeitsbedingungen.

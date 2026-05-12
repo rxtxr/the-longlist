@@ -2,6 +2,42 @@
 confidence: medium
 era: 1996-2020
 id: geico
+images:
+- artist: JeepersMedia
+  caption: Geico Insurance Gecko Car
+  copyright_status: clear_cc
+  height: 854
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39160147@N03/14864157288
+  thumb_url: https://api.openverse.org/v1/images/63e0075f-106c-4bc5-a4b7-976421572a69/thumb/
+  type: image
+  url: https://live.staticflickr.com/5586/14864157288_735bffa377_b.jpg
+  width: 1024
+- artist: JeepersMedia
+  caption: Geico Insurance Gecko Car
+  copyright_status: clear_cc
+  height: 456
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/39160147@N03/15050395792
+  thumb_url: https://api.openverse.org/v1/images/3dfde007-82a6-4381-bbde-ecce12b5df07/thumb/
+  type: image
+  url: https://live.staticflickr.com/5593/15050395792_ff0111db78_b.jpg
+  width: 1024
+- artist: ''
+  caption: The GEICO Story
+  copyright_status: youtube
+  duration: '4:42'
+  embed_url: https://www.youtube-nocookie.com/embed/9-4JeL-Obyk
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=9-4JeL-Obyk
+  thumb_url: https://img.youtube.com/vi/9-4JeL-Obyk/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=9-4JeL-Obyk
+  video_id: 9-4JeL-Obyk
 last_updated: '2026-05-11'
 related: []
 sources:

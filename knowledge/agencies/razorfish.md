@@ -2,6 +2,42 @@
 confidence: medium
 era: 1995-2004
 id: razorfish
+images:
+- artist: zsispeo
+  caption: Peacock Razorfish, juvenile - Iniistius pavo
+  copyright_status: clear_cc
+  height: 668
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/14486836@N06/35061428451
+  thumb_url: https://api.openverse.org/v1/images/126b72c5-2101-4690-9ec8-b7dab92df29c/thumb/
+  type: image
+  url: https://live.staticflickr.com/4240/35061428451_257a2385d3_b.jpg
+  width: 1000
+- artist: Gérard Cachon
+  caption: Rainbow razorfish?
+  copyright_status: clear_cc
+  height: 576
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/96671573@N04/51632362259
+  thumb_url: https://api.openverse.org/v1/images/94ef5e59-b405-411f-a82d-9da437404184/thumb/
+  type: image
+  url: https://live.staticflickr.com/65535/51632362259_0baa2077ef_b.jpg
+  width: 1024
+- artist: ''
+  caption: Razorfish | Behind the Brand
+  copyright_status: youtube
+  duration: '19:26'
+  embed_url: https://www.youtube-nocookie.com/embed/rFz3ecWoLQ0
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=rFz3ecWoLQ0
+  thumb_url: https://img.youtube.com/vi/rFz3ecWoLQ0/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=rFz3ecWoLQ0
+  video_id: rFz3ecWoLQ0
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,29 @@
 confidence: low
 era: 1984-present
 id: sat_1
+images:
+- artist: ProSiebenSat.1 Media SE
+  caption: Neues Sat. 1 Logo transparent
+  copyright_status: clear_cc
+  height: 1772
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=60985114
+  thumb_url: https://api.openverse.org/v1/images/d327614e-35f8-4c50-903b-6bbad0758036/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f8/Neues_Sat._1_Logo_transparent.png
+  width: 1772
+- artist: LoveGreenPhotos
+  caption: Love Green und SAT.1 beim Streetlife Festival in München 2011
+  copyright_status: clear_cc
+  height: 575
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/52299011@N03/6137693073
+  thumb_url: https://api.openverse.org/v1/images/edc7edd2-a407-462f-84f1-aec38faa81cb/thumb/
+  type: image
+  url: https://live.staticflickr.com/6064/6137693073_776961dc3e_b.jpg
+  width: 1024
 last_updated: '2026-05-11'
 related: []
 sources:

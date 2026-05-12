@@ -9,8 +9,10 @@ images:
   copyright_status: clear_cc
   height: 4460
   license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AFire%20Proximity%20Suit%20%28at%20Visakha%20Museum%29.jpg
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3AFire%20Proximity%20Suit%20%28at%20Visakha%20Museum%29.jpg
   thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fire_Proximity_Suit_%28at_Visakha_Museum%29.jpg/500px-Fire_Proximity_Suit_%28at_Visakha_Museum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
   url: https://upload.wikimedia.org/wikipedia/commons/4/48/Fire_Proximity_Suit_%28at_Visakha_Museum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
   width: 2809
 - artist: Lucasbosch
@@ -19,20 +21,12 @@ images:
   copyright_status: clear_cc
   height: 2252
   license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3APepperl%2BFuchs%20inductive%20proximity%20switch%203RG4113-3AG33-PF.jpg
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3APepperl%2BFuchs%20inductive%20proximity%20switch%203RG4113-3AG33-PF.jpg
   thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pepperl%2BFuchs_inductive_proximity_switch_3RG4113-3AG33-PF.jpg/500px-Pepperl%2BFuchs_inductive_proximity_switch_3RG4113-3AG33-PF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
   url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Pepperl%2BFuchs_inductive_proximity_switch_3RG4113-3AG33-PF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
   width: 3378
-- artist: Uncredited/National Institute of Standards and Technology
-  caption: The T-4 was a nose-mounted photoelectric fuse for the 4.5-in. M-8 rocket
-    intended for air-to-air operation
-  copyright_status: public_domain
-  height: 1296
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File%3AProximity%20Fuze%20T-4.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Proximity_Fuze_T-4.jpg/500px-Proximity_Fuze_T-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/5/5d/Proximity_Fuze_T-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 864
 last_updated: '2026-05-11'
 related: []
 sources:

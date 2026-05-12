@@ -2,6 +2,7 @@
 confidence: low
 era: 1873-2020
 id: fcb_global
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

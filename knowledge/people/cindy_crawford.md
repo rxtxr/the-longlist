@@ -2,6 +2,31 @@
 confidence: low
 era: 1986-2000
 id: cindy_crawford
+images:
+- artist: Annie Chartrand
+  caption: The Next Cindy Crawford
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/24453920@N00/362023417
+  thumb_url: https://api.openverse.org/v1/images/44a03242-f264-4caa-afe0-7922a16e98e0/thumb/
+  type: image
+  url: https://live.staticflickr.com/135/362023417_b59f70a49f_b.jpg
+  width: 1024
+- artist: ''
+  caption: A chat with Cindy Crawford
+  copyright_status: youtube
+  duration: '4:07'
+  embed_url: https://www.youtube-nocookie.com/embed/_HYOFsAHBgw
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=_HYOFsAHBgw
+  thumb_url: https://img.youtube.com/vi/_HYOFsAHBgw/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=_HYOFsAHBgw
+  video_id: _HYOFsAHBgw
 last_updated: '2026-05-11'
 related: []
 sources:

@@ -2,6 +2,20 @@
 confidence: medium
 era: 1965-1985
 id: graham_turner
+images:
+- artist: ''
+  caption: KGB interview with Graham Turner, CEO Flight Centre
+  copyright_status: youtube
+  duration: '23:04'
+  embed_url: https://www.youtube-nocookie.com/embed/DJ2rgpZyfbU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=DJ2rgpZyfbU
+  thumb_url: https://img.youtube.com/vi/DJ2rgpZyfbU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=DJ2rgpZyfbU
+  video_id: DJ2rgpZyfbU
 last_updated: '2026-05-11'
 related: []
 sources:

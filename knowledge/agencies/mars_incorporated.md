@@ -2,6 +2,42 @@
 confidence: medium
 era: 1911-present
 id: mars_incorporated
+images:
+- artist: Jacek Halicki
+  caption: Mars bar
+  copyright_status: clear_cc
+  height: 3124
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3A2023%20Baton%20Mars%20%281%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2023_Baton_Mars_%281%29.jpg/500px-2023_Baton_Mars_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a3/2023_Baton_Mars_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 5010
+- artist: Jacek Halicki
+  caption: Mars bar
+  copyright_status: clear_cc
+  height: 2196
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3A2023%20Baton%20Mars%20%282%29.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2023_Baton_Mars_%282%29.jpg/500px-2023_Baton_Mars_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/5/52/2023_Baton_Mars_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 4397
+- artist: ''
+  caption: Mars Incorporated - Bigger Than You Know
+  copyright_status: youtube
+  duration: '7:57'
+  embed_url: https://www.youtube-nocookie.com/embed/cuBAZc7loSY
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=cuBAZc7loSY
+  thumb_url: https://img.youtube.com/vi/cuBAZc7loSY/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=cuBAZc7loSY
+  video_id: cuBAZc7loSY
 last_updated: '2026-05-11'
 related: []
 sources:

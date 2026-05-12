@@ -2,6 +2,21 @@
 confidence: high
 era: 1970-1990
 id: frank_abbott
+images:
+- artist: ''
+  caption: Frank Abagnale Stuns Everyone With Stories of Being a Con Man | Carson
+    Tonight Show
+  copyright_status: youtube
+  duration: '18:39'
+  embed_url: https://www.youtube-nocookie.com/embed/FIYtKR24LQs
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=FIYtKR24LQs
+  thumb_url: https://img.youtube.com/vi/FIYtKR24LQs/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=FIYtKR24LQs
+  video_id: FIYtKR24LQs
 last_updated: '2026-05-11'
 related: []
 sources:

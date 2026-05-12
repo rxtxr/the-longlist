@@ -3,15 +3,41 @@ confidence: medium
 era: 1967-1995
 id: charles_saatchi
 images:
-- artist: unbekannt
-  caption: 2004 Stuckist Turner demo 2 (1)
+- artist: bixentro
+  caption: Charles Saatchi / Him
   copyright_status: clear_cc
-  height: 285
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File%3A2004%20Stuckist%20Turner%20demo%202%20%281%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/5/54/2004_Stuckist_Turner_demo_2_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  url: https://upload.wikimedia.org/wikipedia/commons/5/54/2004_Stuckist_Turner_demo_2_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 400
+  height: 1024
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/82947612@N00/2130884030
+  thumb_url: https://api.openverse.org/v1/images/13f903a6-25ee-46a7-8bb7-61b0fbec190b/thumb/
+  type: image
+  url: https://live.staticflickr.com/2127/2130884030_51b816fbe2_b.jpg
+  width: 768
+- artist: jiggott
+  caption: Suspicious Charles Saatchi poster face on London Underground
+  copyright_status: clear_cc
+  height: 768
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/33618357@N00/15275579792
+  thumb_url: https://api.openverse.org/v1/images/4360b770-4aa9-4868-98fe-c04ad92ee771/thumb/
+  type: image
+  url: https://live.staticflickr.com/3906/15275579792_6fe9966c07_b.jpg
+  width: 1024
+- artist: ''
+  caption: M&C Saatchi's Elspeth Lynn on women in the advertising industry
+  copyright_status: youtube
+  duration: '9:47'
+  embed_url: https://www.youtube-nocookie.com/embed/OeKF9rXEW-A
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=OeKF9rXEW-A
+  thumb_url: https://img.youtube.com/vi/OeKF9rXEW-A/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=OeKF9rXEW-A
+  video_id: OeKF9rXEW-A
 last_updated: '2026-05-11'
 related: []
 sources:

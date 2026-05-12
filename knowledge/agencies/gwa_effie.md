@@ -2,6 +2,20 @@
 confidence: low
 era: 1981-heute
 id: gwa_effie
+images:
+- artist: ''
+  caption: GWA Effie Awards 2018
+  copyright_status: youtube
+  duration: '4:22'
+  embed_url: https://www.youtube-nocookie.com/embed/jqEN0IIyRKE
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=jqEN0IIyRKE
+  thumb_url: https://img.youtube.com/vi/jqEN0IIyRKE/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=jqEN0IIyRKE
+  video_id: jqEN0IIyRKE
 last_updated: '2026-05-11'
 related: []
 sources:

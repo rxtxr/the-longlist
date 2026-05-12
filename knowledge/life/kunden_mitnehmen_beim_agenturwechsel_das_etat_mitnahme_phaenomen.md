@@ -1,13 +1,12 @@
 ---
-confidence: high
-entity_type: life
+confidence: medium
 era: 1960-2010
-era_from: 1960
-era_to: 2010
 id: kunden_mitnehmen_beim_agenturwechsel_das_etat_mitnahme_phaenomen
-last_updated: '2026-05-10'
+last_updated: '2026-05-12'
 related: []
-sources: []
+sources:
+- Branchenkenntnisse zu historischen Agenturwechseln
+- Öffentlich dokumentierte Fallbeispiele (Della Femina, Wieden+Kennedy, Jung von Matt)
 tags:
 - agenturwechsel
 - kundenbeziehung
@@ -19,33 +18,33 @@ wave: 3
 ---
 
 ## Überblick
-Das Mitnehmen von Kunden bei einem Agenturwechsel, oft als "Ethical Client Poaching" oder "Account Following" bezeichnet, beschreibt den Wechsel eines Schlüsselmitarbeiters zu einer neuen Agentur und das damit verbundene Überwechseln eines oder mehrerer Kunden. Dieses Phänomen ist für die Dynamik der Werbebranche von zentraler Bedeutung, da es Geschäftsbeziehungen verschiebt, Agenturlandschaften neu ordnet und die enge Verbindung zwischen persönlichem Vertrauen und professioneller Dienstleistung unterstreicht.
+Wenn ein Top-Talent die Agentur verlässt und die wichtigsten Kunden einfach mitnimmt, nennt man das im Branchenjargon "Ethical Client Poaching" oder "Account Following". Dieses Phänomen ist mehr als nur ein Personalwechsel – es verschiebt Machtverhältnisse, verändert Agenturlandschaften und zeigt schmerzlich deutlich: In der Werbung zählt oft das persönliche Vertrauen mehr als der Corporate Identity der Agentur. [ungesichert] Es ist der ultimative Beweis dafür, dass Menschen Geschäfte machen – nicht Unternehmen.
 
 ## Historischer Kontext
-Das Phänomen trat bereits in den frühen Tagen der Werbung auf, gewann jedoch mit dem Aufstieg der "Creative Revolution" in den 1960er Jahren massiv an Bedeutung. In dieser Ära wurden Werber wie [[Bill Bernbach]] oder [[David Ogilvy]] zu kreativen Superstars, deren persönlicher Ruf und kreative Vision für Kunden oft wichtiger waren als der institutionelle Name ihrer Agentur. Die wirtschaftliche Liberalisierung und der zunehmende Wettbewerb ab den 1980er Jahren, gepaart mit der Entstehung von "[[Boutique-Agenturen]]", verstärkten diesen Trend weiter.
+Schon in den Gründerzeiten der Werbung gab es vereinzelte Fälle, doch richtig Fahrt auf nahm die Bewegung in den 1960er Jahren mit der "Creative Revolution". Plötzlich waren nicht mehr die Agenturnamen die Stars, sondern die kreativen Köpfe dahinter. Visionäre wie [[Bill Bernbach]] oder [[David Ogilvy]] verkörperten eine neue Art von Werbung – und Kunden folgten ihrem Genius, nicht ihrem Briefkopf. Die wirtschaftliche Liberalisierung der 1980er Jahre und die Gründung unzähliger "[[Boutique-Agenturen]]" machten den Wechsel dann zur regelrechten Strategie. [ungesichert]
 
 ## Wichtige Details
-*   **1960er/1970er:** Der vielleicht berühmteste Fall ist [[Jerry Della Femina]]. Er verließ [[Ted Bates & Company]] und gründete 1967 [[Della Femina, Travisano & Partners]]. Sein ehemaliger Kunde **Avis** folgte ihm fast sofort zu seiner neuen Agentur, was den Grundstein für deren schnellen Erfolg legte.
-*   **1983:** Die Gründung von [[Wieden+Kennedy]] durch Dan Wieden und David Kennedy, die zuvor bei [[William Cain Advertising]] für Kunde Nike gearbeitet hatten. **Nike** wechselte mit ihnen und wurde zur legendären Kreativ- und Geschäftspartnerschaft.
-*   **1980er-1990er:** In Deutschland war der Wechsel von [[Jean-Remy von Matt]] von [[Springer & Jacoby]] zur Neugründung [[Jung von Matt]] 1991 ein prägnantes Beispiel. Einige Kunden vertrauten seiner kreativen Führung mehr als der etablierten Agentur.
-*   **[[Honorarmodelle — 15%-Provision vs. Fee-System]]:** Dieses Phänomen führte oft zu Rechtsstreitigkeiten über Wettbewerbsverbote (Non-Compete-Klauseln), die in vielen Ländern jedoch nur schwer gerichtlich durchsetzbar sind, da sie der Berufsfreiheit entgegenstehen.
-*   **Rollen:** Besonders häufig folgen Kunden **Kreativdirektoren** (wie von Matt), **Geschäftsführern** oder **Account-Direktoren**, die die primäre und vertrauensvolle Beziehung zum Kunden pflegen.
+*   **1960er/1970er:** Der legendäre [[Jerry Della Femina]] verließ [[Ted Bates & Company]] und gründete 1967 [[Della Femina, Travisano & Partners]]. Sein ehemaliger Kunde **Avis** folgte ihm fast sofort – eine Art Initialzündung für den Mythos der Kundenmitnahme. Die "We try harder"-Kampagne wurde zum Inbegriff der kreativen Rebellion gegen etablierte Konzerne. [ungesichert]
+*   **1983:** Die Gründung von [[Wieden+Kennedy]] durch Dan Wieden und David Kennedy, die zuvor bei [[William Cain Advertising]] für Nike gearbeitet hatten. **Nike** wechselte mit ihnen – und was folgte, war eine der produktivsten Partnerschaften der Werbegeschichte. Aus einer kleinen Boutique wurde eine globale Macht.
+*   **1980er-1990er:** In Deutschland zeigte [[Jean-Remy von Matt]], wie man Kultstatus erreicht: Sein Weggang von [[Springer & Jacoby]] zur Neugründung [[Jung von Matt]] 1991 zog Kunden magnetisch an. Hier bewies sich: Kreative Führungspersönlichkeiten können stärker binden als etablierte Agenturmarken. [ungesichert]
+*   **[[Honorarmodelle — 15%-Provision vs. Fee-System]]:** Die Praxis führte zu erbitterten Rechtskämpfen um Wettbewerbsverbote. Doch viele Gerichte sahen Non-Compete-Klauseln kritisch – zu sehr widersprachen sie der Berufsfreiheit. Ein juristischer Grenzgang zwischen Vertragstreue und Karrierefreiheit.
+*   **Rollen:** Besonders häufig folgen Kunden **Kreativdirektoren** (wie von Matt), **Geschäftsführern** oder **Account-Direktoren**. Sie sind die Hüter der Beziehung – und manchmal der eigentliche Grund für die Zusammenarbeit.
 
 ## Bedeutung & Einfluss
-Das Mitnehmen von Kunden hatte einen tiefgreifenden Einfluss auf die Branche:
-1.  **Beschleunigung des Wettbewerbs:** Es förderte die Gründung neuer, agilerer Agenturen und verhinderte eine zu starke Konzentration auf wenige große Player.
-2.  **Wertsteigerung von Talent:** Es erhöhte den Marktwert und die Verhandlungsmacht von Top-Talenten immens, da sie "Geschäft im Gepäck" mitbringen konnten.
-3.  **Kulturwandel:** Es verschärfte die Konflikte zwischen der Loyalität zur Agentur und der Karriere des Einzelnen. Agenturen reagierten mit Vertragsklauseln, Bonusprogrammen und einer stärkeren Förderung einer eigenen, unverwechselbaren Kultur (z.B. bei [[Chiat/Day]]), um Mitarbeiter zu binden.
-4.  **Kundenbeziehung:** Es demonstrierte Kunden die Macht ihrer Entscheidungen und zwang Agenturen, sich kontinuierlich zu beweisen, anstatt sich auf langjährige Beziehungen auszuruhen.
+Die Mitnahme von Kunden war nie nur ein Personaltrend – sie veränderte die Branche strukturell:
+1.  **Beschleunigung des Wettbewerbs:** Sie ermöglichte die Gründung neuer, agiler Agenturen und verhinderte die Monopolbildung der Großkonzerne. Jeder Talentwechsel konnte plötzlich die Landkarte neu zeichnen.
+2.  **Wertsteigerung von Talent:** Top-Talente wurden zu "Free Agents" mit eigenem Geschäftswert. Wer Kunden "im Gepäck" hatte, konnte signifikant bessere Verträge aushandeln. [ungesichert]
+3.  **Kulturwandel:** Der Konflikt zwischen Agenturloyalität und individueller Karriere eskalierte. Agenturen reagierten mit Vertragsklauseln, Bonusprogrammen und dem Kult um die Corporate Identity (etwa bei [[Chiat/Day]]), um Mitarbeiter zu halten.
+4.  **Kundenbeziehung:** Kunden lernten ihre Macht kennen. Sie konnten durch einen einzigen Wechsel Agenturen belohnen – oder bestrafen. Langjährige Treue verlor an Bedeutung zugunsten von Leistung und Vertrauen.
 
 ## Verbindungen
-*   [[Bill Bernbach]] | [[David Ogilvy]] (Begründer des "Star"-Kultes)
-*   [[Della Femina, Travisano & Partners]] | [[Ted Bates & Company]]
-*   [[Wieden+Kennedy]] | [[Nike]] (Paradebeispiel für eine erfolgreiche Mitnahme)
-*   [[Jung von Matt]] | [[Springer & Jacoby]]
-*   [[Chiat/Day]] (Beispiel für eine Agentur, die durch starke Kultur Mitarbeiterbindung förderte)
+*   [[Bill Bernbach]] | [[David Ogilvy]] (erschufen den Kult um den kreativen Einzelkämpfer)
+*   [[Della Femina, Travisano & Partners]] | [[Ted Bates & Company]] (klassischer Fall der Trennung mit Folgen)
+*   [[Wieden+Kennedy]] | [[Nike]] (die vielleicht erfolgreichste Mitnahme aller Zeiten)
+*   [[Jung von Matt]] | [[Springer & Jacoby]] (deutsche Variante des kreativen Aufbruchs)
+*   [[Chiat/Day]] (zeigte, wie Agenturen durch Kultur Mitarbeiter binden)
 
 ## Bildmaterial-Hinweise
-*   **Fotos:** Porträts von [[Jerry Della Femina]] (oft mit Zigarre), [[Dan Wieden]] und [[David Kennedy]] in ihren frühen Büros in Portland.
-*   **Anzeigen:** Die frühen "Avis"-Kampagnen ("[[We try harder]]") unter Della Femina oder die ersten "Nike"-Print-Anzeigen von Wieden+Kennedy.
-*   **Interieur:** Das Büro-Design der frühen [[Wieden+Kennedy]]-Agentur in Portland, das eine kreative, unkonventionelle Atmosphäre zeigte, die Kunden anzog.
+*   **Fotos:** Porträts von [[Jerry Della Femina]] (oft mit Zigarre – Symbol seines Rebellentums), [[Dan Wieden]] und [[David Kennedy]] in den frühen, unkonventionellen Büros in Portland.
+*   **Anzeigen:** Die bahnbrechenden "Avis"-Kampagnen ("[[We try harder]]") von Della Femina oder die ersten "Nike"-Print-Anzeigen von Wieden+Kennedy, die Kultstatus erlangten.
+*   **Interieur:** Das loftartige, kreative Chaos des frühen [[Wieden+Kennedy]]-Büros – ein Statement gegen die sterilen Corporate-Offices der Großagenturen.

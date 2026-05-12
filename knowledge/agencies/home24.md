@@ -2,6 +2,29 @@
 confidence: medium
 era: 2012-2023
 id: home24
+images:
+- artist: Kevin J Beaty
+  caption: SINGING AT HOME24
+  copyright_status: clear_cc
+  height: 683
+  license: CC BY 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/33043522@N03/16487457876
+  thumb_url: https://api.openverse.org/v1/images/c3bff5e4-308b-4301-b60b-e836ebe389e6/thumb/
+  type: image
+  url: https://live.staticflickr.com/7381/16487457876_e97e4772e5_b.jpg
+  width: 1024
+- artist: Ermilena Puppeteer
+  caption: Witch-is-coming-home24
+  copyright_status: clear_cc
+  height: 780
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/126209094@N08/28629967914
+  thumb_url: https://api.openverse.org/v1/images/41c735c4-c2da-4f49-ab76-02c90a2ca2b7/thumb/
+  type: image
+  url: https://live.staticflickr.com/8696/28629967914_9e1c396b04_b.jpg
+  width: 1000
 last_updated: '2026-05-11'
 related: []
 sources:

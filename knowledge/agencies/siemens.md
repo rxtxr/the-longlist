@@ -2,6 +2,31 @@
 confidence: low
 era: 1847-2020
 id: siemens
+images:
+- artist: Hugo Charlemont
+  caption: Central power plant of the General Austrian Electrics Comp., Donaustrasse,
+    Vienna, by Siemens &amp; Halske (1898)
+  copyright_status: public_domain
+  height: 1123
+  license: Public domain
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ACentral%20power%20plant%20of%20the%20General%20Austrian%20Electrics%20Comp.%2C%20Siemens%20%26%20Halske%20%281898%29.png
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Central_power_plant_of_the_General_Austrian_Electrics_Comp.%2C_Siemens_%26_Halske_%281898%29.png/500px-Central_power_plant_of_the_General_Austrian_Electrics_Comp.%2C_Siemens_%26_Halske_%281898%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e6/Central_power_plant_of_the_General_Austrian_Electrics_Comp.%2C_Siemens_%26_Halske_%281898%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 1621
+- artist: Ermell
+  caption: Siemens double track magnet for 1000 and 2000 Hz on the Nürnberg-Erfurt
+    high-speed line near Ebing
+  copyright_status: clear_cc
+  height: 3888
+  license: CC BY-SA 4.0
+  source_label: Wikimedia Commons
+  source_url: https://commons.wikimedia.org/wiki/File%3ASiemens%20Doppelgleismagnet-20171103-RM-143240.jpg
+  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Siemens_Doppelgleismagnet-20171103-RM-143240.jpg/500px-Siemens_Doppelgleismagnet-20171103-RM-143240.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/2/21/Siemens_Doppelgleismagnet-20171103-RM-143240.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  width: 5184
 last_updated: '2026-05-11'
 related: []
 sources:

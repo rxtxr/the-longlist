@@ -2,6 +2,42 @@
 confidence: low
 era: 1869-2002
 id: n_w_ayer_son
+images:
+- artist: Beyond My Ken
+  caption: N.W. Ayer & Son Building 210 West Washington Square top
+  copyright_status: clear_cc
+  height: 1857
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=26359834
+  thumb_url: https://api.openverse.org/v1/images/d9a1e025-b082-440e-a30a-bb8b64ebea8d/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/1/11/N.W._Ayer_%26_Son_Building_210_West_Washington_Square_top.jpg
+  width: 3118
+- artist: Beyond My Ken
+  caption: N.W. Ayer & Son Building 210 West Washington Square entrance
+  copyright_status: clear_cc
+  height: 2448
+  license: CC BY-SA 4.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=26359628
+  thumb_url: https://api.openverse.org/v1/images/d01ae7c0-97d4-4b4d-9ec5-0a59124172ce/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/b/be/N.W._Ayer_%26_Son_Building_210_West_Washington_Square_entrance.jpg
+  width: 3264
+- artist: ''
+  caption: 'Evolution of Modern Advertising Agencies: The Case of N.W. Ayer & Son'
+  copyright_status: youtube
+  duration: '5:00'
+  embed_url: https://www.youtube-nocookie.com/embed/NoiOLNd3IGo
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=NoiOLNd3IGo
+  thumb_url: https://img.youtube.com/vi/NoiOLNd3IGo/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=NoiOLNd3IGo
+  video_id: NoiOLNd3IGo
 last_updated: '2026-05-11'
 related: []
 sources:

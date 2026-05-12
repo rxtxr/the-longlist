@@ -2,6 +2,20 @@
 confidence: medium
 era: 2010-2024
 id: arthur_sadoun
+images:
+- artist: ''
+  caption: Arthur Sadoun, CEO of Publicis Groupe at Signal 2023
+  copyright_status: youtube
+  duration: '23:32'
+  embed_url: https://www.youtube-nocookie.com/embed/Qxn0qwNoSZk
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=Qxn0qwNoSZk
+  thumb_url: https://img.youtube.com/vi/Qxn0qwNoSZk/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=Qxn0qwNoSZk
+  video_id: Qxn0qwNoSZk
 last_updated: '2026-05-11'
 related: []
 sources:

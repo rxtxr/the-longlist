@@ -2,6 +2,21 @@
 confidence: medium
 era: 1873-1990
 id: foote_cone_belding_fcb_geschichte
+images:
+- artist: ''
+  caption: American Nationa Business Hall of Fame Audio Series Presents Fairfax M.
+    Cone
+  copyright_status: youtube
+  duration: '23:56'
+  embed_url: https://www.youtube-nocookie.com/embed/nSJwftQX-NU
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=nSJwftQX-NU
+  thumb_url: https://img.youtube.com/vi/nSJwftQX-NU/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=nSJwftQX-NU
+  video_id: nSJwftQX-NU
 last_updated: '2026-05-11'
 related: []
 sources:

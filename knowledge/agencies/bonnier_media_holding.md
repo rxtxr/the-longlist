@@ -2,6 +2,20 @@
 confidence: high
 era: 1993-present
 id: bonnier_media_holding
+images:
+- artist: ''
+  caption: Bonnier Group
+  copyright_status: youtube
+  duration: '5:19'
+  embed_url: https://www.youtube-nocookie.com/embed/e8SKykzZlBo
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=e8SKykzZlBo
+  thumb_url: https://img.youtube.com/vi/e8SKykzZlBo/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=e8SKykzZlBo
+  video_id: e8SKykzZlBo
 last_updated: '2026-05-11'
 related: []
 sources:

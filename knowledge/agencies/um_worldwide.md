@@ -2,6 +2,7 @@
 confidence: medium
 era: 1999-present
 id: um_worldwide
+images: []
 last_updated: '2026-05-11'
 related: []
 sources:

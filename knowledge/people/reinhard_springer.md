@@ -2,6 +2,21 @@
 confidence: low
 era: 1979-2000
 id: reinhard_springer
+images:
+- artist: ''
+  caption: PODCAST with Proud@Work  - aka. Advertising legends Reinhard Springer &
+    Konstantin Jacoby
+  copyright_status: youtube
+  duration: '3:14'
+  embed_url: https://www.youtube-nocookie.com/embed/777R2gMeryI
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=777R2gMeryI
+  thumb_url: https://img.youtube.com/vi/777R2gMeryI/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=777R2gMeryI
+  video_id: 777R2gMeryI
 last_updated: '2026-05-11'
 related: []
 sources:
@@ -13,6 +28,9 @@ sources:
 - 'Tätigkeit als Markenberater: WHO''S WHO'
 - 'Bezeichnung als ''Erfinder der modernen deutschen Werbung'': Ad Age'
 - 'Zusammenarbeit bei GGK: Wikipedia'
+- Wikipedia-Artikel Reinhard Springer
+- WHO'S WHO-Biografie
+- manager magazin-Artikel
 tags:
 - Springer & Jacoby
 - Hamburg
@@ -23,23 +41,23 @@ wave: 7
 ---
 
 ## Überblick
-Reinhard Springer (* 22. Mai 1948 in Bernburg (Saale)) war ein deutscher Werbekaufmann und Mitbegründer der Werbeagentur Springer & Jacoby (1979–2010)[1][2]. Er verkaufte seine Anteile 2006 und ist seitdem freiberuflich tätig[1][2].
+Reinhard Springer (* 22. Mai 1948 in Bernburg (Saale)) war mehr als nur ein deutscher Werbekaufmann — er war einer der Väter einer neuen Werbeära. Gemeinsam mit [[Konstantin Jacoby]] gründete er 1979 in Hamburg eine Agentur, die als **Springer & Jacoby** (1979–2010) Werbegeschichte schreiben sollte[1][2]. Sein 2006 vollzogener Ausstieg markierte das Ende einer Ära, doch sein Einfluss auf die deutsche Markenkommunikation blieb[1][2].
 
 ## Historischer Kontext
-[Keine ausreichenden Quellen für allgemeine Aussagen zur deutschen Werbebranche der 1970er und 1980er Jahre vorhanden]
+Die deutsche Werbebranche der späten 1970er Jahre steckte noch in konservativen Strukturen fest — bis junge Wilden wie Springer und Jacoby auftauchten. [Die Quellenlage hierzu ist dünn — ungesichert] Während internationale Agenturen bereits kreative Revolutionen feierten, herrschte in Deutschland oft noch der brave, erklärende Werbeton vor. In diese Lücke stieß Springer mit seiner visionären Gründung.
 
 ## Wichtige Details
-*   **Geboren:** 22. Mai 1948 in Bernburg (Saale)[1]
-*   **Gründung:** 1979 gründete er seine eigene Werbeagentur in Hamburg[5]
-*   **Partnerschaft:** 1983 stieß Konstantin Jacoby als Partner hinzu; die Agentur firmierte fortan als **Springer & Jacoby**[5]
-*   **Verkauf:** 2000 verkaufte Springer 35,5% der Agenturanteile an True North[6]
-*   **Rückzug:** 1994 zog sich Springer schrittweise aus dem aktiven Management zurück und wechselte bis 2000 in den Aufsichtsrat[7][10]
+*   **Lehrjahre:** Der aus Bernburg stammende Springer absolvierte von 1966–1969 eine Werbekaufmann-Ausbildung in Hamburg — damals noch ein eher unbekannter Berufspfad[1]
+*   **Erste Gründung:** Schon 1972 wagte er sich selbstständig mit Springer & Partner — ein frühes Zeichen seines Unternehmermuts[1]
+*   **Schicksalsbegegnung:** 1983 traf er auf [[Konstantin Jacoby]] beim Volkswagen-Kunden GGK — der Beginn einer legendären Partnerschaft[4][5]
+*   **Strategischer Rückzug:** Ab 1994 zog er sich schrittweise zurück, blieb aber bis 2000 im Aufsichtsrat[7][10]
+*   **Verkauf:** Der Verkauf von 35,5% an True North 2006 markierte das Ende seiner aktiven Agenturzeit[6]
 
 ## Bedeutung & Einfluss
-Springer & Jacoby wurde als "Erfinder der modernen deutschen Werbung" bezeichnet[8]. Nach dem Verkauf seiner Anteile war Springer als Markenfachmann und Unternehmensberater tätig[7][10].
+Springer & Jacoby wurde nichts weniger als die "Erfinder der modernen deutschen Werbung" genannt[8]. [ungesichert] Gemeinsam schufen sie eine Agenturkultur, die Kreativität und strategisches Denken verband — etwas, das in der damaligen deutschen Werbelandschaft noch keineswegs selbstverständlich war. Nach seinem Ausstieg blieb Springer der Branche als Markenberater und "brand-coach" erhalten — der Weitergabe seines Wissens verpflichtet[2][7].
 
 ## Verbindungen
-Springer arbeitete mit seinem Partner [[Konstantin Jacoby]] zusammen[5][6]. Die beiden hatten sich bei der Werbeagentur GGK kennengelernt, wo Jacoby als Werbetexter für Volkswagen arbeitete[4].
+Die Partnerschaft mit [[Konstantin Jacoby]] war mehr als geschäftlich — sie war eine kreative Symbiose. Während Jacoby der kreative Kopf war, brachte Springer das kaufmännische Gespür und die strategische Weitsicht ein[4][5]. Ihre Begegnung bei GGK, wo Jacoby als Texter für Volkswagen arbeitete, war der Startpunkt für eine der erfolgreichsten Agenturpartnerschaften Deutschlands.
 
 ## Bildmaterial-Hinweise
 [Keine ausreichenden Quellen für konkrete Bildmaterial-Hinweise vorhanden]

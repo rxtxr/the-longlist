@@ -3,45 +3,28 @@ confidence: medium
 era: 1949-1973
 id: ariel
 images:
-- artist: ariel
-  caption: Ariel from Complex Numbers music group
+- artist: Anime Nut
+  caption: IMG_4541 - Ariel
   copyright_status: clear_cc
-  height: 1218
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AAriel--black-and-white.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ariel--black-and-white.jpg/500px-Ariel--black-and-white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b7/Ariel--black-and-white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1000
-- artist: 'Another one of my pictures:
-
-
-
-
-    This photograph was taken by Medium69 (William Crochot) and released '
-  caption: Ariel and her Prince in The Little Mermaid in the Disney Magic On Parade
-    in Disneyland Paris.
+  height: 1024
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/92161664@N00/6078312515
+  thumb_url: https://api.openverse.org/v1/images/347eff8e-1ea2-4ade-9e69-f3aa8c130540/thumb/
+  type: image
+  url: https://live.staticflickr.com/6192/6078312515_2d5987e89c_b.jpg
+  width: 683
+- artist: Anime Nut
+  caption: IMG_4463 - Steampunk Ariel
   copyright_status: clear_cc
-  height: 2383
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AAriel%20-%20La%20Petite%20Sir%C3%A8ne%20-%2020150803%2016h44%20%2810799%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810799%29.jpg/500px-Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810799%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810799%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 3574
-- artist: 'Another one of my pictures:
-
-
-
-
-    This photograph was taken by Medium69 (William Crochot) and released '
-  caption: Ariel and her Prince in The Little Mermaid in the Disney Magic On Parade
-    in Disneyland Paris.
-  copyright_status: clear_cc
-  height: 2992
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File%3AAriel%20-%20La%20Petite%20Sir%C3%A8ne%20-%2020150803%2016h44%20%2810800%29.jpg
-  thumb_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810800%29.jpg/500px-Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810800%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Ariel_-_La_Petite_Sir%C3%A8ne_-_20150803_16h44_%2810800%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-  width: 1995
+  height: 1024
+  license: CC BY-NC-ND 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/92161664@N00/17233181439
+  thumb_url: https://api.openverse.org/v1/images/a9bf56b0-4a06-4c4f-8d51-33ef1d43275c/thumb/
+  type: image
+  url: https://live.staticflickr.com/7698/17233181439_a2e3efaccf_b.jpg
+  width: 683
 last_updated: '2026-05-11'
 related: []
 sources:

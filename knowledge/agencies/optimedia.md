@@ -2,6 +2,20 @@
 confidence: high
 era: 1989-2016
 id: optimedia
+images:
+- artist: ''
+  caption: Zenith Optimedia Three Pillars
+  copyright_status: youtube
+  duration: '2:54'
+  embed_url: https://www.youtube-nocookie.com/embed/1pFQB58iPG4
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=1pFQB58iPG4
+  thumb_url: https://img.youtube.com/vi/1pFQB58iPG4/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=1pFQB58iPG4
+  video_id: 1pFQB58iPG4
 last_updated: '2026-05-11'
 related: []
 sources:

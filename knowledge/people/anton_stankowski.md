@@ -2,6 +2,43 @@
 confidence: low
 era: 1929-1990
 id: anton_stankowski
+images:
+- artist: Anton Stankowski
+  caption: Z antonmachtkringel
+  copyright_status: clear_cc
+  height: 1325
+  license: CC BY 3.0
+  source_label: OpenVerse / wikimedia
+  source_url: https://commons.wikimedia.org/w/index.php?curid=23664711
+  thumb_url: https://api.openverse.org/v1/images/c29bce5b-2b47-40b9-a57f-d47ee9ede1cb/thumb/
+  type: image
+  url: https://upload.wikimedia.org/wikipedia/commons/3/33/Z_antonmachtkringel.jpg
+  width: 1862
+- artist: Stewf
+  caption: 'Helmut Matheis: game and poultry distributor; Anton Stankowski: steel
+    company'
+  copyright_status: clear_cc
+  height: 646
+  license: CC BY-NC-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/23806189@N00/38419933792
+  thumb_url: https://api.openverse.org/v1/images/256a9cbf-4d6e-4b80-994c-6c120ec8ec90/thumb/
+  type: image
+  url: https://live.staticflickr.com/4546/38419933792_55cb7f9894_b.jpg
+  width: 1024
+- artist: ''
+  caption: Deutsche Bank Logo - Anton Stankowski  |  Logo design & Designer review
+  copyright_status: youtube
+  duration: '5:45'
+  embed_url: https://www.youtube-nocookie.com/embed/XHeFje673g8
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=XHeFje673g8
+  thumb_url: https://img.youtube.com/vi/XHeFje673g8/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=XHeFje673g8
+  video_id: XHeFje673g8
 last_updated: '2026-05-11'
 related: []
 sources:

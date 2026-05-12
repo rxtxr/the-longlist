@@ -2,6 +2,42 @@
 confidence: high
 era: 2000-
 id: starcom
+images:
+- artist: hepp
+  caption: Med Starcom till Barcelona
+  copyright_status: clear_cc
+  height: 1024
+  license: CC BY-NC 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/15511507@N00/22268276852
+  thumb_url: https://api.openverse.org/v1/images/b8224ad3-e4a8-43b8-b796-6dfee038be27/thumb/
+  type: image
+  url: https://live.staticflickr.com/5622/22268276852_8359e97390_b.jpg
+  width: 819
+- artist: jm3
+  caption: Starcom meeting room
+  copyright_status: clear_cc
+  height: 765
+  license: CC BY-SA 2.0
+  source_label: OpenVerse / flickr
+  source_url: https://www.flickr.com/photos/37996588780@N01/4965745751
+  thumb_url: https://api.openverse.org/v1/images/4784ce94-a26e-4072-aead-561f592ed5c9/thumb/
+  type: image
+  url: https://live.staticflickr.com/4129/4965745751_faa735d360_b.jpg
+  width: 1024
+- artist: ''
+  caption: Starcom MediaVest Group CEO On The Evolution of Media Agencies | Forbes
+  copyright_status: youtube
+  duration: '9:16'
+  embed_url: https://www.youtube-nocookie.com/embed/0PsnlNu2izQ
+  license: YouTube Standard License
+  platform: youtube
+  source_label: YouTube
+  source_url: https://www.youtube.com/watch?v=0PsnlNu2izQ
+  thumb_url: https://img.youtube.com/vi/0PsnlNu2izQ/hqdefault.jpg
+  type: video
+  url: https://www.youtube.com/watch?v=0PsnlNu2izQ
+  video_id: 0PsnlNu2izQ
 last_updated: '2026-05-11'
 related: []
 sources:
