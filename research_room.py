@@ -85,9 +85,13 @@ def main():
                         help="Relevanzwelle: Artikel narrativ anreichern (Geschichten, Kontext, Bedeutung)")
     parser.add_argument("--relevance-force", action="store_true",
                         help="Relevanzwelle auch für bereits bearbeitete Einträge wiederholen")
+    parser.add_argument("--review", action="store_true",
+                        help="Review-Welle: drei Gutachter analysieren Muster, Ton und Qualität des Korpus")
+    parser.add_argument("--review-seed", type=int, default=42,
+                        help="Zufalls-Seed für Artikel-Stichprobe (default: 42)")
     args = parser.parse_args()
 
-    if not any([args.wave, args.topic, args.wiki, args.status, args.visual, args.graph, args.enrich, args.verify, args.strict_verify, args.image_wave, args.relevance_wave]):
+    if not any([args.wave, args.topic, args.wiki, args.status, args.visual, args.graph, args.enrich, args.verify, args.strict_verify, args.image_wave, args.relevance_wave, args.review]):
         parser.print_help()
         print("\nBeispiel: python research_room.py --status")
         return
@@ -154,6 +158,12 @@ def main():
         )
         enriched = len(results.get("enriched", []))
         print(f"\n✓ Bildwelle abgeschlossen: {enriched} Artikel angereichert")
+        return
+
+    if args.review:
+        header("Review-Welle: drei Gutachter")
+        results = runner.run_review_wave(seed=getattr(args, "review_seed", 42))
+        print(f"\n✓ Review abgeschlossen → {results['report_path']}")
         return
 
     if args.graph:

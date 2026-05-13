@@ -711,6 +711,62 @@ class WaveRunner:
               f"{len(results['skipped'])} übersprungen, {len(results['errors'])} Fehler")
         return results
 
+    def run_review_wave(self, seed: int = 42) -> Dict:
+        """Run all three review agents and save a combined report."""
+        from agents.reviewers import ReviewerArchivar, ReviewerCopywriter, ReviewerJournalist
+        from tools.review_sampler import ReviewSampler
+
+        wave = self._current_wave() + 1
+        print(f"\n[Review-Welle {wave}] Drei Gutachter analysieren den Korpus …\n")
+
+        sample = ReviewSampler(self.kb, seed=seed).prepare()
+        sample_titles = [a["title"] for a in sample["articles"]]
+        print(f"  Stichprobe ({len(sample_titles)} Artikel):")
+        for t in sample_titles:
+            print(f"    · {t}")
+        print()
+
+        reviewers = [
+            ("Archivar & Lexikograf",         ReviewerArchivar()),
+            ("Copywriter & Agentur-Historiker", ReviewerCopywriter()),
+            ("Fachbuchkritiker & Journalist",   ReviewerJournalist()),
+        ]
+
+        reports = {}
+        for label, reviewer in reviewers:
+            print(f"  ─── {label} ───")
+            report = reviewer.review(sample)
+            reports[label] = report
+            print(f"    ✓ {len(report)} Zeichen\n")
+
+        # Write combined markdown report
+        wave_dir = WAVES_DIR / f"wave-{wave:03d}"
+        wave_dir.mkdir(parents=True, exist_ok=True)
+
+        from datetime import datetime as _dt
+        header = (
+            f"# Review-Gutachten — The Longlist\n\n"
+            f"*Erstellt: {_dt.now().strftime('%Y-%m-%d')} · "
+            f"Stichprobe: {len(sample_titles)} Artikel · Korpus: {len(list(self.kb.list_all()))} Einträge*\n\n"
+            f"**Stichprobe:** {', '.join(sample_titles)}\n\n"
+            f"**Korpus-Übersicht:**\n```\n{sample['corpus_stats']}\n```\n\n---\n\n"
+        )
+        body = ""
+        for label, report in reports.items():
+            body += f"# Gutachten: {label}\n\n{report}\n\n---\n\n"
+
+        full_report = header + body
+        report_path = wave_dir / "review_report.md"
+        report_path.write_text(full_report, encoding="utf-8")
+        print(f"  [Review] Bericht gespeichert: {report_path}")
+
+        # Also save to a fixed path for easy access
+        latest = Path(__file__).parent / "waves" / "review_latest.md"
+        latest.write_text(full_report, encoding="utf-8")
+        print(f"  [Review] Letztes Review: {latest}\n")
+
+        return {"report_path": str(report_path), "reviewers": list(reports.keys())}
+
     def _collect_wikilink_gaps(self, max_gaps: int = 20, min_mentions: int = 2) -> list:
         """Scan all KB content for [[wikilinks]] that have no matching KB entry. Returns (name, count) pairs."""
         import re
