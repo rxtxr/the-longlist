@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Robert_Gentz_-_2023_%28cropped%29.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/5fef8292-0d5d-4093-bb89-f61495ccd2b6/thumb/",
+    "caption": "Robert Gentz - 2023 (cropped)",
+    "license": "CC BY 4.0",
+    "artist": "Jennifer Jacquemart / European Union, 2023 / EC - Audiovisual Service",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=133876435",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1185,
+    "height": 1783
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Zalando-SE_2024_Robert_Gentz_Daniel-Hofer_small.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/bb488cf0-f426-457c-a37f-e158b394efb0/thumb/",
+    "caption": "Zalando-SE 2024 Robert Gentz Daniel-Hofer small",
+    "license": "CC BY-SA 4.0",
+    "artist": "Aglaeserbligh",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=152761465",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1000,
+    "height": 667
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "fFXvjUrc-Wk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/fFXvjUrc-Wk",
+    "thumb_url": "https://img.youtube.com/vi/fFXvjUrc-Wk/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=fFXvjUrc-Wk",
+    "caption": "Reshaping the Future of E-Commerce | Robert Gentz | Slush 2015",
+    "duration": "17:56",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=fFXvjUrc-Wk",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

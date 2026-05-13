@@ -57,7 +57,7 @@ wave: 7
 ---
 
 ## Überblick
-Armin Hofmann war mehr als nur ein Grafikdesigner – er war ein Revolutionär der visuellen Sprache. In einer Zeit, als Design noch oft dekorativ und verspielt war, führte er eine Ästhetik der radikalen Reduktion ein [1][4]. Seine Lehrtätigkeit in Basel und später an der Yale University machte ihn zum globalen Botschafter des Schweizer Stils [2][9]. Hofmanns Vermächtnis liegt nicht nur in seinen ikonischen Plakaten, sondern vor allem in den Generationen von Designern, die er prägte [9].
+Armin Hofmann war ein Revolutionär der visuellen Sprache. In einer Zeit, als Design noch oft dekorativ und verspielt war, führte er eine Ästhetik der radikalen Reduktion ein [1][4]. Seine Lehrtätigkeit in Basel und später an der Yale University machte ihn zum globalen Botschafter des Schweizer Stils [2][9]. Hofmanns Vermächtnis liegt in seinen ikonischen Plakaten und vor allem in den Generationen von Designern, die er prägte [9].
 
 ## Historischer Kontext
 Die Schweiz der Nachkriegszeit war ein Labor der Moderne. Während Europa wiederaufgebaut wurde, entwickelte sich in Zürich und Basel eine Design-Philosophie, die Klarheit, Präzision und Universalität anstrebte [4][ungesichert]. Der Schweizer Stil (Swiss Style) wurde zur visuellen Sprache der Moderne – sachlich, rational und frei von überflüssigem Dekor [4]. In dieser Ära technischen Fortschritts und wachsender Internationalität bot Hofmanns Arbeit eine Antwort auf das Bedürfnis nach universell verständlicher Kommunikation [ungesichert].

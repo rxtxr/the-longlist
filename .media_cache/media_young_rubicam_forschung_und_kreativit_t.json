@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2184/2404195644_e4e133477c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/24e0eb29-2c6e-4656-adfa-1788fd636d10/thumb/",
+    "caption": "Greater London House ( Carreras Building ) - Mornington Crescent",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "nick.garrod",
+    "source_url": "https://www.flickr.com/photos/26587154@N00/2404195644",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 650
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2363/2407430427_5c464344d1_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/4f5251e5-1f75-484e-a565-e36a1cfabf0d/thumb/",
+    "caption": "Greater London House ( Carreras Building ) - Mornington Crescent",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "nick.garrod",
+    "source_url": "https://www.flickr.com/photos/26587154@N00/2407430427",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 727
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "ou7tfQlg7jo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ou7tfQlg7jo",
+    "thumb_url": "https://img.youtube.com/vi/ou7tfQlg7jo/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ou7tfQlg7jo",
+    "caption": "173: What It’s Like to Work in Advertising at Young & Rubicam Advertising w/ Steven Shalowitz,...",
+    "duration": "44:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=ou7tfQlg7jo",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

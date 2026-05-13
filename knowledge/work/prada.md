@@ -56,7 +56,7 @@ wave: 14
 ---
 
 ## Überblick
-Prada ist weit mehr als eine italienische Luxusmarke – es ist ein Kulturphänomen, das die Sprache des Luxus neu definiert hat. 1913 von Mario Prada in Mailand als Ledergeschäft für die aristokratische Reisewelt gegründet, wurde das Unternehmen unter seiner Enkelin Miuccia Prada ab den späten 1970ern zu einer Ikone intellektueller Provokation. Pradas Werbung entwickelte sich zum Kunstwerk, die Boutiquen zu Architekturikonen und die Marke zum Maßstab für eine neue, widersprüchliche Form des Luxus: hochpreisig, aber nicht protzig; elitär, aber intellektuell anspruchsvoll.
+Prada ist ein Kulturphänomen, das die Sprache des Luxus neu definiert hat. 1913 von Mario Prada in Mailand als Ledergeschäft für die aristokratische Reisewelt gegründet, wurde das Unternehmen unter seiner Enkelin Miuccia Prada ab den späten 1970ern zu einer Ikone intellektueller Provokation. Pradas Werbung entwickelte sich zum Kunstwerk, die Boutiquen zu Architekturikonen und die Marke zum Maßstab für eine neue, widersprüchliche Form des Luxus: hochpreisig, aber nicht protzig; elitär, aber intellektuell anspruchsvoll.
 
 ## Historischer Kontext
 Pradas Anfänge liegen im industriellen Aufschwung Italiens Anfang des 20. Jahrhunderts, als eine wohlhabende Klientel exklusive Reiseaccessoires nachfragte. Doch der eigentliche Durchbruch kam in der postmodernen Ära der 1980er Jahre – einer Zeit, in der Luxusmarken begannen, sich nicht mehr nur über handwerkliche Tradition, sondern über kulturelles Kapital zu definieren. Miuccia Prada, promovierte Politikwissenschaftlerin und ehemalige Mima-Aktivistin, traf genau diesen Nerv: Sie schuf einen Luxus, der sich gegen den offensichtlichen Konsumismus stellte und stattdessen auf intellektuelle Ambivalenz setzte.

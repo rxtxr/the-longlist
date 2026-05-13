@@ -40,8 +40,7 @@ wave: 23
 ---
 
 ## Überblick
-
-D'Arcy Masius Benton & Bowles (DMB&B) war mehr als nur eine internationale Werbeagentur mit 131 Büros in 75 Ländern – sie war ein Koloss, dessen Aufstieg und Fall exemplarisch für eine ganze Ära der Werbung steht. Ihre Geschichte ist eine von Fusionen, Machtkämpfen und dem unaufhaltsamen Drang zur Globalisierung in der Branche. Bekannt wurde sie vor allem für ihre Arbeit für Marketing-Giganten wie Procter & Gamble [ungesichert]. Ihr spektakuläres Ende und die vollständige Integration in [[Publicis]] markierten den Schlusspunkt unter eine Ära, in der kreativ-getriebene Einzelagenturen noch ihren eigenen Namen trugen [ungesichert].
+D'Arcy Masius Benton & Bowles (DMB&B) war eine internationale Werbeagentur mit 131 Büros in 75 Ländern und ein Koloss, dessen Aufstieg und Fall exemplarisch für eine ganze Ära der Werbung steht. Ihre Geschichte ist eine von Fusionen, Machtkämpfen und dem unaufhaltsamen Drang zur Globalisierung in der Branche. Bekannt wurde sie vor allem für ihre Arbeit für Marketing-Giganten wie Procter & Gamble. Ihr spektakuläres Ende und die vollständige Integration in Publicis markierten den Schlusspunkt unter eine Ära, in der kreativ-getriebene Einzelagenturen noch ihren eigenen Namen trugen.
 
 ## Historischer Kontext
 

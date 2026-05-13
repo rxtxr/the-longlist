@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4053/4547671722_06c38a4534_m.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/ea8391fe-cc09-484c-b28a-4f71f6227ed1/thumb/",
+    "caption": "NaomiCampbell",
+    "license": "CC BY 2.0",
+    "artist": "harrysach2010",
+    "source_url": "https://www.flickr.com/photos/49484987@N04/4547671722",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 180,
+    "height": 240
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4054/4547034565_2d9c3c1472_m.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/1e4ed1c1-850d-4fe9-8c2e-884b77c645e5/thumb/",
+    "caption": "Naomi Campbell",
+    "license": "CC BY 2.0",
+    "artist": "harrysach2010",
+    "source_url": "https://www.flickr.com/photos/49484987@N04/4547034565",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 240,
+    "height": 176
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "iDo1cvyvGX0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/iDo1cvyvGX0",
+    "thumb_url": "https://img.youtube.com/vi/iDo1cvyvGX0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iDo1cvyvGX0",
+    "caption": "Naomi Campbell on 'Being Naomi' | Marketing Media Money",
+    "duration": "7:56",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=iDo1cvyvGX0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

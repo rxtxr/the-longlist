@@ -50,8 +50,7 @@ wave: 10
 ---
 
 ## Überblick
-
-Die Acquity Group war mehr als nur eine weitere Digitalagentur – sie war ein Kind ihrer Zeit und ein Beleg für den unaufhaltsamen Aufstieg des Digitalen im Wirtschaftsleben. Als Spezialist für digitale Strategie, E-Commerce und Marketing-Technologie verkörperte sie den Übergang vom traditionellen Marketing zur datengetriebenen Digitalwirtschaft [1][6]. Ihre rasante Reise von der Gründung 2001 bis zur Übernahme durch den globalen Riesen [[Accenture]] im Jahr 2013 [1][4] erzählt die Geschichte einer Branche im Wandel.
+Die Acquity Group war ein Kind ihrer Zeit und ein Beleg für den unaufhaltsamen Aufstieg des Digitalen im Wirtschaftsleben. Als Spezialist für digitale Strategie, E-Commerce und Marketing-Technologie verkörperte sie den Übergang vom traditionellen Marketing zur datengetriebenen Digitalwirtschaft [1][6]. Ihre rasante Reise von der Gründung 2001 bis zur Übernahme durch den globalen Riesen [[Accenture]] im Jahr 2013 [1][4] erzählt die Geschichte einer Branche im Wandel.
 
 ## Historischer Kontext
 

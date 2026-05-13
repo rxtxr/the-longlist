@@ -60,7 +60,7 @@ wave: 7
 ---
 
 ## Überblick
-McDonald's Deutschland startete 1971 als Pionierprojekt in einer Zeit, als "Fast Food" für viele Deutsche noch ein Fremdwort war. Die deutsche Tochtergesellschaft des US-amerikanischen Fast-Food-Konzerns [ungesichert] etablierte nicht nur Burgermahlzeiten im Land, sondern revolutionierte die gesamte Systemgastronomie [ungesichert]. Was als Experiment mit amerikanischem Lebensstil begann, wurde zu einem Wirtschaftsimperium mit über 1.400 Restaurants und täglich 1,5 Millionen Kunden – ein Stück Zeitgeschichte, serviert in roten Pappschachteln.
+McDonald's Deutschland startete 1971 als Pionierprojekt in einer Zeit, als "Fast Food" für viele Deutsche noch ein Fremdwort war. Die deutsche Tochtergesellschaft des US-amerikanischen Fast-Food-Konzerns etablierte Burgermahlzeiten im Land und revolutionierte die gesamte Systemgastronomie. Was als Experiment mit amerikanischem Lebensstil begann, wurde zu einem Wirtschaftsimperium mit über 1.400 Restaurants und täglich 1,5 Millionen Kunden – ein Stück Zeitgeschichte, serviert in roten Pappschachteln.
 
 ## Historischer Kontext
 Die erste Filiale in München eröffnete mitten im Wirtschaftswunder-Westdeutschland, als die junge Bundesrepublik ihren amerikanischen Traum lebte [ungesichert]. Während Volkswagen Käfer und Wirtschaftswunder prägten, brachte McDonald's den American Way of Life direkt auf den Teller. Die Expansion nach Ostdeutschland 1990 fiel dann in die heiße Phase der Wiedervereinigung – Fast Food als Symbol westlicher Freiheit [ungesichert]. Ronald traf auf Rotkäppchen, und die Currywastandbesitzer bekamen unerwartete Konkurrenz.

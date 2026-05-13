@@ -32,7 +32,7 @@ wave: 3
 ---
 
 ## Überblick
-Der Titel "Kreativdirektor des Jahres" ist mehr als nur eine Auszeichnung — er ist der ultimative Statusakt in einer Branche, die von Ego, Kreativität und Machtspielen geprägt ist. Diese jährliche Krönung des besten Art- oder Creative Directors spiegelt den intensiven Wettbewerb und fast kultartigen Status dieser Schlüsselposition wider. Wer hier gewinnt, wird nicht nur gefeiert, sondern schreibt sich selbst in die Geschichtsbücher der Werbung ein.
+Der Titel "Kreativdirektor des Jahres" ist der ultimative Statusakt in einer Branche, die von Ego, Kreativität und Machtspielen geprägt ist. Diese jährliche Krönung des besten Art- oder Creative Directors spiegelt den intensiven Wettbewerb und fast kultartigen Status dieser Schlüsselposition wider. Wer hier gewinnt, wird gefeiert und schreibt sich selbst in die Geschichtsbücher der Werbung ein.
 
 ## Historischer Kontext
 Die Auszeichnung entstand in den wilden 1980er und 1990er Jahren, als Werbung endgültig den Sprung vom Handwerk zur Kunstform schaffte. Während die Wirtschaft durch den Boom der Konsumgüterindustrie und die aufkeimende Globalisierung schwamm, verlagerte sich der Fokus von der trockenen Mediaplanung hin zur glorreichen Ideenproduktion. Plötzlich wurden Werber wie [[Neil French]] oder [[David Abbott]] zu gefeierten Stars, deren exzentrischer Lebensstil und übergroße Egos die Branche nachhaltig prägten [ungesichert]. In dieser Ära des kreativen Überschwangs wurde die Auszeichnung zum Symbol für den neuen Kult um die kreative Führungspersönlichkeit.

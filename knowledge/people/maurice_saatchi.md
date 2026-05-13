@@ -68,7 +68,7 @@ wave: 5
 ---
 
 ## Überblick
-Maurice Saatchi ist mehr als nur ein Werbeunternehmer – er ist einer der Architekten der modernen Werbebranche. Zusammen mit seinem Bruder [[Charles Saatchi]] erschuf er nicht nur eine globale Werbeagentur, sondern revolutionierte, wie Unternehmen und sogar Regierungen kommunizieren. Sein Name steht für eine Ära, in der Werbung von der kreativen Nische zum milliardenschweren Wirtschaftsfaktor wurde [1][2][6].
+Maurice Saatchi ist einer der Architekten der modernen Werbebranche. Zusammen mit seinem Bruder [[Charles Saatchi]] erschuf er eine globale Werbeagentur und revolutionierte, wie Unternehmen und sogar Regierungen kommunizieren. Sein Name steht für eine Ära, in der Werbung von der kreativen Nische zum milliardenschweren Wirtschaftsfaktor wurde [1][2][6].
 
 ## Historischer Kontext
 Die Gründung von [[Saatchi & Saatchi]] fiel in eine Zeit des Umbruchs. Anfang der 1970er Jahre war Werbung noch weitgehend eine handwerkliche, lokal verankerte Branche. Große globale Netzwerke waren die Ausnahme. Gleichzeitig begann die neoliberale Welle, die [[Margaret Thatcher]] später an die Macht bringen sollte – eine politische Revolution, die die Saatchis maßgeblich mit bewerben würden [6][8][9]. In dieser Welt des Wandels starteten zwei Brüder mit einem kleinen Kreativbüro in London [8].

@@ -42,7 +42,7 @@ wave: 9
 ---
 
 ## Überblick
-Raymond Loewy war mehr als nur ein Designer – er war ein Visionär, der das Antlitz des modernen Amerika prägte. Der französisch-amerikanische Industriedesigner gilt als einer der einflussreichsten Gestalter des 20. Jahrhunderts, obwohl er das Stromlinien-Design nicht erfand, sondern zur perfekten kommerziellen Ikone erhob [1][7][10]. Sein Motto "Zwischen zwei gleichwertigen Produkten wird sich das schönere verkaufen" wurde zum Glaubensbekenntnis einer ganzen Industrie.
+Raymond Loewy war ein Visionär, der das Antlitz des modernen Amerika prägte. Der französisch-amerikanische Industriedesigner gilt als einer der einflussreichsten Gestalter des 20. Jahrhunderts, obwohl er das Stromlinien-Design nicht erfand, sondern zur perfekten kommerziellen Ikone erhob [1][7][10]. Sein Motto "Zwischen zwei gleichwertigen Produkten wird sich das schönere verkaufen" wurde zum Glaubensbekenntnis einer ganzen Industrie.
 
 ## Historischer Kontext
 Als Loewy 1919 nach Amerika auswanderte, fand er eine Nation im Aufbruch vor [10]. Die Roaring Twenties, gefolgt von der Wirtschaftskrise und dem Nachkriegsboom, schufen den perfekten Nährboden für seine Visionen [10]. In einer Ära, in der Industriedesign noch kein etablierter Beruf war, erfand er ihn praktisch neu – nicht als Kunst, sondern als strategisches Werkzeug im Wettbewerb. Die Massenproduktion benötigte Gesichter, und Loewy gab ihnen eines: glatt, effizient und unverkennbar modern.

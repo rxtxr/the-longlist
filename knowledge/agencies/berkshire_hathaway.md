@@ -53,7 +53,7 @@ wave: 15
 ---
 
 ## Überblick
-[[Berkshire Hathaway]] ist mehr als nur ein US-amerikanisches multinationales Konglomerat mit Hauptsitz in Omaha, Nebraska. Es ist die materielle Verkörperung einer der größten Investment-Legenden aller Zeiten. Aus der Asche einer sterbenden Textilindustrie erbaut, wurde es unter der Führung von [[Warren Buffett]] zum mächtigsten Konglomerat der Welt – eine Geschichte von Weitsicht, Geduld und radikalem Umbruch [1][4].
+[[Berkshire Hathaway]] ist ein US-amerikanisches multinationales Konglomerat mit Hauptsitz in Omaha, Nebraska. Es ist die materielle Verkörperung einer der größten Investment-Legenden aller Zeiten. Aus der Asche einer sterbenden Textilindustrie erbaut, wurde es unter der Führung von [[Warren Buffett]] zum mächtigsten Konglomerat der Welt – eine Geschichte von Weitsicht, Geduld und radikalem Umbruch [1][4].
 
 ## Historischer Kontext
 Die Wurzeln des Giganten liegen im rauen Geschäft der Textilproduktion des 19. Jahrhunderts. 1955 fusionierten die beiden angeschlagenen Textilfirmen [[Berkshire Fine Spinning]] und [[Hathaway Manufacturing]] zur Berkshire Hathaway Inc. [10]. Die Zeit war denkbar ungünstig: Billigkonkurrenz aus dem Süden der USA und aggressive Billigimporte aus dem Ausland machten das Überleben der veralteten Fabriken in Neuengland nahezu unmöglich [10]. Das Unternehmen kämpfte, wie die gesamte Branche, einen verlorenen Kampf gegen den Strukturwandel.

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5101/5679469520_bec197e62a_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/d1c76e53-fb84-42c1-9b94-31e62dabce08/thumb/",
+    "caption": "Allstate Northern Ireland, the new name for Northbrook Technology",
+    "license": "CC BY-SA 2.0",
+    "artist": "infomatique",
+    "source_url": "https://www.flickr.com/photos/80824546@N00/5679469520",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 681
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2812/13487229704_e21b54f182_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/d55a0c57-c130-4dda-b84f-042e089582c6/thumb/",
+    "caption": "1968 Allstate Drunk Driving Advertisement Time Magazine December_27 1968",
+    "license": "CC BY 2.0",
+    "artist": "SenseiAlan",
+    "source_url": "https://www.flickr.com/photos/91591049@N00/13487229704",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 711,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "TscHTLOL9bY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/TscHTLOL9bY",
+    "thumb_url": "https://img.youtube.com/vi/TscHTLOL9bY/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=TscHTLOL9bY",
+    "caption": "Allstate Commercial - The Best Things in Life",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=TscHTLOL9bY",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

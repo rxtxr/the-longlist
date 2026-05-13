@@ -44,8 +44,7 @@ wave: 17
 ---
 
 ## Überblick
-
-Home24 war mehr als nur ein weiterer Onlineshop. Es war ein Pionier, der den Mut hatte, einen der traditionellsten und schwerfälligsten Märkte überhaupt anzugehen: den Möbelhandel. In einer Branche, die von langen Lieferzeiten, regionalen Händlern und schwerfändelbaren Katalogen geprägt war, bewies Home24, dass auch Sofas, Betten und Kommoden das Zeug zum erfolgreichen Online-Business haben. Das Unternehmen revolutionierte nicht nur die Einkaufsgewohnheiten für Wohnaccessoires, sondern zwang eine ganze Branche zum digitalen Umdenken.
+Home24 war ein Pionier, der den Mut hatte, einen der traditionellsten und schwerfälligsten Märkte überhaupt anzugehen: den Möbelhandel. In einer Branche, die von langen Lieferzeiten, regionalen Händlern und schwerfändelbaren Katalogen geprägt war, bewies Home24, dass auch Sofas, Betten und Kommoden das Zeug zum erfolgreichen Online-Business haben. Das Unternehmen revolutionierte die Einkaufsgewohnheiten für Wohnaccessoires und zwang eine ganze Branche zum digitalen Umdenken.
 
 ## Historischer Kontext
 

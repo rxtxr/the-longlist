@@ -52,7 +52,7 @@ wave: 18
 ---
 
 ## Überblick
-Günter Rohrbach war mehr als nur ein Produzent – er war der Architekt hinter Deutschlands filmischem Neuanfang. Als "Mäzen mit der Brieftasche des Westdeutschen Rundfunks" (Die Zeit) ermöglichte er einer ganzen Generation von Filmemachern ihre visionären Projekte [5]. Seine einzigartige Fähigkeit, künstlerischen Anspruch mit Massenwirksamkeit zu verbinden, machte ihn zur Schlüsselfigur im deutschen Film- und Fernsehproduktionswesen [5][8][9][10].
+Günter Rohrbach war der Architekt hinter Deutschlands filmischem Neuanfang. Als "Mäzen mit der Brieftasche des Westdeutschen Rundfunks" (Die Zeit) ermöglichte er einer ganzen Generation von Filmemachern ihre visionären Projekte [5]. Seine einzigartige Fähigkeit, künstlerischen Anspruch mit Massenwirksamkeit zu verbinden, machte ihn zur Schlüsselfigur im deutschen Film- und Fernsehproduktionswesen [5][8][9][10].
 
 ## Historischer Kontext
 In den 1960er Jahren befand sich der deutsche Film in einer tiefen Krise – das Kino war von Heimatfilmen und trivialen Unterhaltungsproduktionen dominiert, während das Fernsehen zur neuen Leitkultur aufstieg. Genau in dieser Umbruchzeit trat Rohrbach seine Stelle beim WDR an [5]. Er erkannte früh, dass das öffentlich-rechtliche Fernsehen nicht nur Unterhaltungsfunk, sondern auch ein Labor für künstlerische Experimente sein konnte. An der Schnittstelle von öffentlich-rechtlichem Auftrag, künstlerischem Anspruch und Massenpublikum schuf er ein bis dahin einzigartiges Ökosystem für den Filmnachwuchs [5][10].

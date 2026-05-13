@@ -21,7 +21,7 @@ wave: 1
 ---
 
 ## Überblick
-Der Cannes Lions International Festival of Creativity ist nicht einfach nur ein Wettbewerb – es ist der weltweite Gipfel der Werbekreativität. Seit Jahrzehnten krönt diese prestigeträchtige Veranstaltung jährlich die brillantesten Arbeiten der Branche und definiert damit immer wieder neu, was kreative Spitzenleistung in der globalen Kommunikation bedeutet. Wer hier gewinnt, schreibt nicht nur Werbegeschichte, sondern prägt auch die kommerzielle Kultur seiner Zeit.
+Der Cannes Lions International Festival of Creativity ist der weltweite Gipfel der Werbekreativität. Seit Jahrzehnten krönt diese prestigeträchtige Veranstaltung jährlich die brillantesten Arbeiten der Branche und definiert damit immer wieder neu, was kreative Spitzenleistung in der globalen Kommunikation bedeutet. Wer hier gewinnt, schreibt Werbegeschichte und prägt die kommerzielle Kultur seiner Zeit.
 
 ## Historischer Kontext
 Die Geburtsstunde des Festivals fiel in eine Zeit des radikalen Wandels: 1954, als Mitglieder der Cinema Advertising Association das "International Advertising Film Festival" in Venedig ins Leben riefen. Europa lag in Trümmern, doch der Wirtschaftsaufschwung war bereits spürbar. Das Fernsehen begann, die Werbewelt zu erobern, und Agenturen strebten nach internationaler Anerkennung für ihre kreativen Leistungen. Der Umzug nach Cannes 1984 war dann mehr als nur ein Ortswechsel – er war ein Symbol für den wachsenden Glamour und die globale Strahlkraft der Werbebranche, die sich nun endgültig von der reinen Verkaufspropaganda zur kulturellen Kraft emanzipierte.

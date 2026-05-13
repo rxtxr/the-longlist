@@ -32,7 +32,7 @@ wave: 9
 ---
 
 ## Überblick
-Frank Abbott war der stille Architekt einer der bedeutendsten Werbeagenturen Großbritanniens. Als Mitgründer von [[Abbott Mead Vickers]] (AMV) schuf er nicht nur ein Unternehmen, sondern legte den Grundstein für eine kreative Kultur, die den Ton der britischen Werbung für Jahrzehnte prägen sollte. Seine Bedeutung liegt weniger im Rampenlicht der kreativen Stars, sondern im strategischen Weitblick, der die Fusion ermöglichte und eine Agentur entstehen ließ, die Intelligenz, literarische Qualität und kommerziellen Erfolg vereinte.
+Frank Abbott war der stille Architekt einer der bedeutendsten Werbeagenturen Großbritanniens. Als Mitgründer von [[Abbott Mead Vickers]] (AMV) schuf er ein Unternehmen und legte den Grundstein für eine kreative Kultur, die den Ton der britischen Werbung für Jahrzehnte prägen sollte. Seine Bedeutung liegt im strategischen Weitblick, der die Fusion ermöglichte und eine Agentur entstehen ließ, die Intelligenz, literarische Qualität und kommerziellen Erfolg vereinte.
 
 ## Historischer Kontext
 Abbotts Karriere entfaltete sich im Großbritannien der Nachkriegsära – eine Zeit des ökonomischen und kulturellen Umbruchs. Die strenge, argumentativ-sachliche Werbung der 1950er Jahre wich zunehmend einem neuen, kreativeren Ansatz, inspiriert von der [[Creative Revolution]] aus den USA. Doch die britische Werbebranche begann, sich von diesen Vorbildern zu emanzipieren und einen eigenen, unverwechselbaren Stil zu entwickeln. In diese Zeit hinein gründete Abbott 1967 zusammen mit Adrian Stephenson die Agentur **Abbott & Stephenson**. Es war eine Ära, in der Werbung begann, Markenpersönlichkeiten zu formen und sich als Teil der Popkultur zu verstehen, anstatt nur Produkte zu verkaufen.

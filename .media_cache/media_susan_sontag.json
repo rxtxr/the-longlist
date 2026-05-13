@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Susan_Sontag_1979_%C2%A9Lynn_Gilbert_%28headshot%29.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a4c91762-46fc-4ad2-94d8-3a3ddbbd62a9/thumb/",
+    "caption": "Susan Sontag 1979 ©Lynn Gilbert (headshot)",
+    "license": "CC BY-SA 4.0",
+    "artist": "Lynn Gilbert",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=63818412",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 243,
+    "height": 233
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Susan_Sontag_by_Juan_Bastos.JPG",
+    "thumb_url": "https://api.openverse.org/v1/images/9576f4f3-aed0-455d-abcd-ce24e5f97631/thumb/",
+    "caption": "Susan Sontag by Juan Bastos",
+    "license": "CC BY 3.0",
+    "artist": "Juan Fernando Bastos",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=23237777",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1761,
+    "height": 2532
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "kYINwG7l17s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/kYINwG7l17s",
+    "thumb_url": "https://img.youtube.com/vi/kYINwG7l17s/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kYINwG7l17s",
+    "caption": "Susan Sontag's \"Against Interpretation\" and The Shining | Video Essay",
+    "duration": "8:38",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=kYINwG7l17s",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

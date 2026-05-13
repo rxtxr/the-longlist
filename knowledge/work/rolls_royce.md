@@ -64,8 +64,7 @@ wave: 8
 ---
 
 ## Überblick
-
-Rolls-Royce ist weit mehr als eine Automobilmarke; sie ist ein globales Symbol für unerreichte handwerkliche Perfektion, technische Brillanz und absoluten Luxus. Diese Aura des "Besten der Besten" wurde nicht nur durch die Fahrzeuge selbst geschmiedet, sondern auch durch eine der einflussreichsten Werbekampagnen aller Zeiten, die von David Ogilvy erschaffen wurde [1][5][7].
+Rolls-Royce ist ein globales Symbol für unerreichte handwerkliche Perfektion, technische Brillanz und absoluten Luxus. Diese Aura des "Besten der Besten" wurde durch die Fahrzeuge selbst und eine der einflussreichsten Werbekampagnen aller Zeiten, die von David Ogilvy erschaffen wurde [1][5][7], geschmiedet.
 
 ## Historischer Kontext
 

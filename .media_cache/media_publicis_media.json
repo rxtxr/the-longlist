@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5490/12118335295_eaa179b46f_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/402952b6-0c50-4f1e-93f0-e00fc7f6446f/thumb/",
+    "caption": "Disruptive Innovation Ahead!: Ruhle, McMillion, Levy, Jacobs, Schatz",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "World Economic Forum",
+    "source_url": "https://www.flickr.com/photos/15237218@N00/12118335295",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 598
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2866/12098907825_05e4c2bd2e_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a6baeeba-539c-41fc-964b-2b635c7fcf6c/thumb/",
+    "caption": "Disruptive Innovation Ahead!: Ruhle, McMillion, Levy, Jacobs, Schatz",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "World Economic Forum",
+    "source_url": "https://www.flickr.com/photos/15237218@N00/12098907825",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 598
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "vNt4Yo9Quv4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/vNt4Yo9Quv4",
+    "thumb_url": "https://img.youtube.com/vi/vNt4Yo9Quv4/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=vNt4Yo9Quv4",
+    "caption": "Change by Marcel Bleustein-Blanchet",
+    "duration": "2:54",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=vNt4Yo9Quv4",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

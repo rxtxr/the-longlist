@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2654/3794562772_54297d681a_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e69c7603-0ed7-478b-a3bd-4374914963f6/thumb/",
+    "caption": "modern day marlboro man",
+    "license": "CC BY-SA 2.0",
+    "artist": "Dene' Miles",
+    "source_url": "https://www.flickr.com/photos/26720971@N02/3794562772",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 994
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3182/5710295065_fb05c6dc43_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/56e4fe02-dcfa-470e-b907-18c42b996169/thumb/",
+    "caption": "What happened to Marlboro Man?",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "CharlesFred",
+    "source_url": "https://www.flickr.com/photos/40279823@N00/5710295065",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "0_4b7DTorXk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/0_4b7DTorXk",
+    "thumb_url": "https://img.youtube.com/vi/0_4b7DTorXk/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=0_4b7DTorXk",
+    "caption": "1968 Marlboro Cigarette Commercial",
+    "duration": "0:53",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=0_4b7DTorXk",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

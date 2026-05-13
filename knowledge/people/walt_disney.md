@@ -60,8 +60,7 @@ wave: 6
 ---
 
 ## Überblick
-
-Walt Disney war mehr als nur ein Filmemacher — er war ein visionärer Unternehmer, der nicht nur ein globales Medienimperium schuf, sondern auch die Spielregeln der modernen Markenführung neu schrieb [ungesichert]. Sein Vermächtnis reicht weit über die Leinwand hinaus: Disney erfand nicht nur Figuren, sondern ganze Erlebniswelten. Er verstand wie kein Zweiter, wie man Geschichten in verkaufbare Emotionen verwandelt — und prägte damit indirekt die Werbeindustrie nachhaltig [ungesichert]. Sein Name steht für die Kunst, Welten zu bauen, in die Menschen eintauchen wollen.
+Walt Disney war ein visionärer Unternehmer, der ein globales Medienimperium schuf und die Spielregeln der modernen Markenführung neu schrieb. Sein Vermächtnis reicht über die Leinwand hinaus: Disney erfand ganze Erlebniswelten. Er verstand, wie man Geschichten in verkaufbare Emotionen verwandelt — und prägte damit die Werbeindustrie nachhaltig. Sein Name steht für die Kunst, Welten zu bauen, in die Menschen eintauchen wollen.
 
 ## Historischer Kontext
 

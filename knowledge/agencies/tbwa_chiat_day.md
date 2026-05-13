@@ -73,7 +73,7 @@ Chiat\Day wurde 1968 durch die Fusion von Jay Chiat & Associates (gegründet in 
     *   **Apple "1984":** TV-Spot zur Einführung des Macintosh [ungesichert].
     *   **Nike "Just Do It":** Ursprünglich von Chiat\Day entwickelter Slogan [ungesichert].
     *   **Absolut Vodka:** Kampagne mit Fokus auf die Flasche [ungesichert].
-*   **Revolutionäres Bürodesign:** Das "Binoculars Building" in Los Angeles (1991) von [[Frank Gehry]] war der Hauptsitz von Chiat\Day und wurde als „Raumschiff“ beschrieben, das die kreative und unkonventionelle Arbeitskultur der Agentur physisch verkörperte [4][5].
+*   **Revolutionäres Bürodesign:** Das "Binoculars Building" in Los Angeles (1991) von Frank Gehry war der Hauptsitz von Chiat\Day und wurde als „Raumschiff“ beschrieben, das die kreative und unkonventionelle Arbeitskultur der Agentur physisch verkörperte [4][5].
 *   **Wichtige Persönlichkeiten:** [[Jay Chiat]] (Gründer) [3][8], [[Guy Day]] (Gründer) [3][8].
 
 ## Bedeutung & Einfluss
@@ -81,7 +81,7 @@ Chiat\Day wurde 1989 zur "U.S. Agency of the Decade" ernannt [3]. TBWA\Chiat\Day
 
 ## Verbindungen
 *   **Agenturen:** [[TBWA Worldwide]], [[Omnicom Group]]
-*   **Personen:** [[Jay Chiat]], [[Guy Day]], [[Frank Gehry]]
+*   **Personen:** [[Jay Chiat]], [[Guy Day]], Frank Gehry
 *   **Kampagnen:** Apple "1984", Nike "Just Do It", Absolut Vodka Kampagne [ungesichert]
 
 ## Bildmaterial-Hinweise

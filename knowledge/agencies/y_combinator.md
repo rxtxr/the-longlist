@@ -56,12 +56,11 @@ wave: 23
 ---
 
 ## Überblick
-
-Y Combinator ist mehr als nur ein Accelerator – es ist die Wiege der modernen Startup-Ära. 2005 im Herzen der Tech-Welt gegründet, hat diese Institution nicht nur Unternehmen wie Airbnb und Dropbox hervorgebracht, sondern das gesamte Spiel verändert: Aus einer undurchdringlichen Welt für Elite-Investoren wurde ein demokratisiertes System, in dem Gründer mit einer guten Idee und viel Ehrgeiz eine echte Chance bekamen. Der Name selbst ist eine Hommage an das Programmieren – "Y Combinator" bezieht sich auf ein fundamentales Konzept der lambda calculus, das Funktionen ohne Namen ermöglicht [ungesichert]. Das war Programm: Ideen sollten für sich selbst sprechen, nicht die Hintergründe ihrer Schöpfer.
+Y Combinator ist die Wiege der modernen Startup-Ära. 2005 im Herzen der Tech-Welt gegründet, hat diese Institution Unternehmen wie Airbnb und Dropbox hervorgebracht und das gesamte Spiel verändert: Aus einer undurchdringlichen Welt für Elite-Investoren wurde ein demokratisiertes System, in dem Gründer mit einer guten Idee und viel Ehrgeiz eine echte Chance bekamen. Der Name selbst ist eine Hommage an das Programmieren – "Y Combinator" bezieht sich auf ein fundamentales Konzept der lambda calculus, das Funktionen ohne Namen ermöglicht. Das war Programm: Ideen sollten für sich selbst sprechen, nicht die Hintergründe ihrer Schöpfer.
 
 ## Historischer Kontext
 
-Die Dotcom-Blase war gerade geplatzt, und das Silicon Valley lag noch in Trümmern. Die Jahre 2002-2004 waren von Skepsis geprägt – Venture Capitalists hatten sich zurückgezogen, Investitionen in frühe Startups waren quasi zum Erliegen gekommen. Doch genau in dieser Ruhe nach dem Sturm erkannten [[Paul Graham]], [[Jessica Livingston]], [[Robert Morris]] und [[Trevor Blackwell]] die Chance: Die Infrastruktur war billig, die Talente verfügbar, aber niemand wagte sich mehr an die allererste Finanzierungsrunde.
+Die Dotcom-Blase war gerade geplatzt, und das Silicon Valley lag noch in Trümmern. Die Jahre 2002-2004 waren von Skepsis geprägt – Venture Capitalists hatten sich zurückgezogen, Investitionen in frühe Startups waren quasi zum Erliegen gekommen. Doch genau in dieser Ruhe nach dem Sturm erkannten [[Paul Graham]], Jessica Livingston, [[Robert Morris]] und [[Trevor Blackwell]] die Chance: Die Infrastruktur war billig, die Talente verfügbar, aber niemand wagte sich mehr an die allererste Finanzierungsrunde.
 
 Graham, selbst ein erfolgreicher Gründer (Viaweb wurde für 49 Millionen an Yahoo! verkauft), hatte bereits als Angel Investor gearbeitet und sah das Problem aus zwei Perspektiven: Gründer scheiterten an banalen Fehlern, Investoren übersahen Talente wegen fehlender Referenzen. Ihre Lösung war radikal einfach: Statt auf einzelne Startups zu setzen, wettete man auf den "Batch" – eine ganze Kohorte. Und statt monatelanger Due Diligence gab es ein intensives, dreimonatiges Bootcamp, in dem aus Rohdiamanten investierbare Unternehmen werden sollten.
 
@@ -83,7 +82,7 @@ Durch YC wurde der Begriff "Accelerator" überhaupt erst populär – heute gibt
 
 ## Verbindungen
 
-[[Paul Graham]] blieb lange das Gesicht von YC – seine Essays wurden zur Pflichtlektüre für eine ganze Generation von Gründern. [[Jessica Livingston]] wurde als "Soul of YC" bezeichnet [ungesichert] und brachte die menschliche Komponente in den oft technokratischen Prozess.
+[[Paul Graham]] blieb lange das Gesicht von YC – seine Essays wurden zur Pflichtlektüre für eine ganze Generation von Gründern. Jessica Livingston wurde als "Soul of YC" bezeichnet [ungesichert] und brachte die menschliche Komponente in den oft technokratischen Prozess.
 
 [[Sam Altman]] übernahm 2014 die Präsidentschaft und führte YC durch seine expansive Phase, bevor er zu [[OpenAI]] wechselte. Unter [[Garry Tan]] (Mitgründer von [[Postmates]]) setzt sich die Tradition fort.
 

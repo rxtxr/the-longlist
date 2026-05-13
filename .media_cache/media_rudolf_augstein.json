@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/OJ_C_No._32_of_2012_-_EN_English.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/OJ_C_No._32_of_2012_-_EN_English.pdf/page1-500px-OJ_C_No._32_of_2012_-_EN_English.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Official Journal of the European Union - C 32 of 4 February 2012 - English edition",
+    "license": "Public domain",
+    "artist": "Publications Office of the European Union",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOJ%20C%20No.%2032%20of%202012%20-%20EN%20English.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1239,
+    "height": 1752
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/OJ_C_No._32_of_2012_-_FR_French.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/OJ_C_No._32_of_2012_-_FR_French.pdf/page1-500px-OJ_C_No._32_of_2012_-_FR_French.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Official Journal of the European Union - C 32 of 4 February 2012 - French edition",
+    "license": "Public domain",
+    "artist": "Publications Office of the European Union",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOJ%20C%20No.%2032%20of%202012%20-%20FR%20French.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1239,
+    "height": 1752
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "mHAWuhZXaVk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/mHAWuhZXaVk",
+    "thumb_url": "https://img.youtube.com/vi/mHAWuhZXaVk/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=mHAWuhZXaVk",
+    "caption": "Günter Gaus im Gespräch mit Rudolf Augstein (1972)",
+    "duration": "44:09",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=mHAWuhZXaVk",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

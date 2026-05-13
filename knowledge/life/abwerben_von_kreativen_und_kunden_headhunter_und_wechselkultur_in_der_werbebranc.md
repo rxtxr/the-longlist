@@ -20,7 +20,7 @@ wave: 3
 ---
 
 ## Überblick
-Das Abwerben von Kreativen und Kunden bildet den pulsierenden Herzschlag der dynamischen Werbebranche – ein ständiges Spiel aus Verrat und Verführung, Talentjagd und Treuebruch. Diese Kultur des Wechsels trieb nicht nur Gehälter in schwindelerregende Höhen, sondern formte die kreative Landschaft neu, erschütterte Agenturimperien und schrieb einige der dramatischsten Geschichten der Werbegeschichte.
+Das Abwerben von Kreativen und Kunden bildet den pulsierenden Herzschlag der dynamischen Werbebranche – ein ständiges Spiel aus Verrat und Verführung, Talentjagd und Treuebruch. Diese Kultur des Wechsels trieb Gehälter in schwindelerregende Höhen, formte die kreative Landschaft neu, erschütterte Agenturimperien und schrieb einige der dramatischsten Geschichten der Werbegeschichte.
 
 ## Historischer Kontext
 Die systematische Abwerbekultur entstand parallel zur Professionalisierung der Werbebranche ab den 1920er Jahren. Doch erst mit dem Wirtschaftswunder der 1950er Jahre und der [[Kreativ-Revolution]] der 1960er Jahre wurde Talent zur heißesten Währung im Werbegeschäft. Plötzlich zählten nicht mehr nur Kontakte und Konten, sondern kreative Brillanz und innovatives Denken. Die Globalisierung der Agenturnetzwerke ab den 1980er Jahren schließlich verwandelte den Talentmarkt in ein internationales Schlachtfeld, auf dem um Top-Kreative und Schlüsselkunden mit allen Mitteln gekämpft wurde.

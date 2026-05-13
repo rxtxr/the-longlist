@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4607/28072010179_376954ca91_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e7810879-09cd-42ff-bad7-d6520709ea79/thumb/",
+    "caption": "DLD Campus FIRE SIDE CHAT with Marc Samwer and Stefan Winners",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Hubert Burda Media",
+    "source_url": "https://www.flickr.com/photos/39263853@N02/28072010179",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4626/39819072742_56e2a914b3_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/fa352eef-e4fd-47a4-8ade-468bc703e7b7/thumb/",
+    "caption": "DLD Campus FIRE SIDE CHAT with Marc Samwer and Stefan Winners",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Hubert Burda Media",
+    "source_url": "https://www.flickr.com/photos/39263853@N02/39819072742",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "AhVC92lyZDI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/AhVC92lyZDI",
+    "thumb_url": "https://img.youtube.com/vi/AhVC92lyZDI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AhVC92lyZDI",
+    "caption": "THE MOST HATED MEN IN SILICON VALLEY",
+    "duration": "8:44",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=AhVC92lyZDI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2728/4162092703_3df1ae99c9_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/0417314b-5780-4ede-948e-e64b2d60c737/thumb/",
+    "caption": "Backside Mozart - Piano Concerto No.22 KV482, Konzertrondo KV382,KV386 - Jorg Demus & Annie Fischer Piano, Bayerisches Staatsorch., Ferenc Fricsay & R",
+    "license": "CC BY 2.0",
+    "artist": "Piano Piano!",
+    "source_url": "https://www.flickr.com/photos/11076844@N00/4162092703",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2xyL3djeGJ0aHhyaGYtaW1hZ2UuanBn.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/cb634f61-dd94-4f83-be56-f947e6d16927/thumb/",
+    "caption": "Johann Franz Edler von Hieber",
+    "license": "CC0 1.0",
+    "artist": "unbekannt",
+    "source_url": "https://www.rawpixel.com/image/14017121/johann-franz-edler-von-hieber-lithograph-fischer-1839",
+    "source_label": "OpenVerse / rawpixel",
+    "copyright_status": "public_domain",
+    "width": 2330,
+    "height": 3371
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "vMTzMe1STEk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/vMTzMe1STEk",
+    "thumb_url": "https://img.youtube.com/vi/vMTzMe1STEk/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=vMTzMe1STEk",
+    "caption": "A Dialogue on Practicing Change | Eileen Fisher | TEDxWashingtonSquare",
+    "duration": "20:05",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=vMTzMe1STEk",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

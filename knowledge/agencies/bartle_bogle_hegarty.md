@@ -57,8 +57,7 @@ wave: 5
 ---
 
 ## Überblick
-
-Bartle Bogle Hegarty, besser bekannt als BBH, ist mehr als nur eine Werbeagentur – sie wurde zur Legende. 1982 von drei britischen Werbegrößen gegründet, schrieb sie mit ikonischen Kampagnen für Marken wie [[Levi's]], [[Audi]] und [[Johnnie Walker]] Werbegeschichte. Die Agentur stand für eine seltene Mischung aus kreativer Brillanz und strategischer Strenge und wurde zur Exporteurin eines ganz besonderen britischen Selbstbewusstseins in die globale Werbewelt.
+Bartle Bogle Hegarty, besser bekannt als BBH, ist eine legendäre Werbeagentur. 1982 von drei britischen Werbegrößen gegründet, schrieb sie mit ikonischen Kampagnen für Marken wie [[Levi's]], [[Audi]] und [[Johnnie Walker]] Werbegeschichte. Die Agentur steht für eine seltene Mischung aus kreativer Brillanz und strategischer Strenge und ist Exporteurin eines ganz besonderen britischen Selbstbewusstseins in die globale Werbewelt.
 
 ## Historischer Kontext
 

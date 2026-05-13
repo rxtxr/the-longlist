@@ -33,8 +33,7 @@ wave: 12
 ---
 
 ## Überblick
-
-Team/BBDO war mehr als nur eine Werbeagentur – es war ein Stück deutscher Werbegeschichte. Aus der legendären [[Team (Werbeagentur)|TEAM]] Werbeagentur hervorgegangen, wurde sie zum deutschen Vorzeige-Partner des US-Giganten [[BBDO Worldwide|BBDO]] und schrieb mit Kampagnen für Marken wie [[Eduscho]] oder [[Opel]] Werbegeschichte. Die Agentur stand exemplarisch für die Internationalisierung der deutschen Werbebranche in den 1970er Jahren, als deutsche Kreativität auf amerikanische Marketing-Power traf.
+Team/BBDO war ein Stück deutscher Werbegeschichte. Aus der legendären [[Team (Werbeagentur)|TEAM]] Werbeagentur hervorgegangen, wurde sie zum deutschen Vorzeige-Partner des US-Giganten [[BBDO Worldwide|BBDO]] und schrieb mit Kampagnen für Marken wie [[Eduscho]] oder [[Opel]] Werbegeschichte. Die Agentur stand exemplarisch für die Internationalisierung der deutschen Werbebranche in den 1970er Jahren, als deutsche Kreativität auf amerikanische Marketing-Power traf.
 
 ## Historischer Kontext
 

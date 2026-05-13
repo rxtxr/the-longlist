@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2609/3766198247_7d38a07fec.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/fb1112b7-3173-48d2-9828-dde2179d4d1c/thumb/",
+    "caption": "Cigarette Advertising: Gay Boy",
+    "license": "CC BY-SA 2.0",
+    "artist": "Fugue",
+    "source_url": "https://www.flickr.com/photos/16633713@N00/3766198247",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 360,
+    "height": 489
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2476/3766195973_ea3482a7d1.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/978f0669-ab50-4f83-943f-6f6d8a71bd1f/thumb/",
+    "caption": "Cigarette Advertising",
+    "license": "CC BY-SA 2.0",
+    "artist": "Fugue",
+    "source_url": "https://www.flickr.com/photos/16633713@N00/3766195973",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 373,
+    "height": 500
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "sxrCjmqRTz0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/sxrCjmqRTz0",
+    "thumb_url": "https://img.youtube.com/vi/sxrCjmqRTz0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=sxrCjmqRTz0",
+    "caption": "1950's Camel Smoking Advert",
+    "duration": "1:00",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=sxrCjmqRTz0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

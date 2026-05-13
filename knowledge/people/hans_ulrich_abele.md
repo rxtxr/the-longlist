@@ -32,7 +32,7 @@ wave: 19
 ---
 
 ## Überblick
-Hans-Ulrich Abele war mehr als nur ein Werbetexter – er war einer der Architekten des kreativen Aufbruchs in der deutschen Werbebranche der 1980er und 1990er Jahre. Als Mitbegründer und namensgebender Creative Director der legendären [[GGK Werbeagentur]] verkörperte er den Übergang von der nüchternen Produktwerbung zur psychologisch feinsinnigen, kunstvollen Markenkommunikation. Sein Name steht für eine Ära, in der deutsche Werbung erstmals internationalen Glanz entwickelte und der Creative Director zum Star wurde.
+Hans-Ulrich Abele war ein Werbetexter und einer der Architekten des kreativen Aufbruchs in der deutschen Werbebranche der 1980er und 1990er Jahre. Als Mitbegründer und namensgebender Creative Director der legendären [[GGK Werbeagentur]] verkörperte er den Übergang von der nüchternen Produktwerbung zur psychologisch feinsinnigen, kunstvollen Markenkommunikation. Sein Name steht für eine Ära, in der deutsche Werbung erstmals internationalen Glanz entwickelte und der Creative Director zum Star wurde.
 
 ## Historischer Kontext
 Abele wirkte in einer Zeit des radikalen Umbruchs. Die Wirtschaftswunder-Mentalität war verblasst, Konsumenten wurden anspruchsvoller und die Werbung musste sich neu erfinden. Inspiriert von US-Revolutionären wie [[Bill Bernbach]] entstand in Deutschland eine "Kreativ-Revolution" – ein kreatives Wettrüsten zwischen Agenturen wie [[GGK]], [[Scholz & Friends]] und [[Springer & Jacoby]]. Es war die Zeit der großen Visionäre, der teuren Produktionen und der kultischen Verehrung großer Werbekampagnen. Werbung wurde zur Popkultur.

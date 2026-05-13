@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3736/10922417174_68516c3c4f_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/02292c18-9d27-457f-aa8e-b4d3af6894a8/thumb/",
+    "caption": "Oliver Samwer - NOAH Conference - London 2013 - Dan Taylor - Heisenberg Media-14",
+    "license": "CC BY 2.0",
+    "artist": "Heisenberg Media",
+    "source_url": "https://www.flickr.com/photos/88975472@N03/10922417174",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 678
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Oliver_Samwer_-_NOAH_Conference_-_London_2013_-_Dan_Taylor_-_Heisenberg_Media-14.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/d7eca12c-ee95-42df-9c96-3849d5d298ae/thumb/",
+    "caption": "Oliver Samwer - NOAH Conference - London 2013 - Dan Taylor - Heisenberg Media-14",
+    "license": "CC BY 2.0",
+    "artist": "Heisenberg Media from Vienna, Austria",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=30487439",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1600,
+    "height": 1060
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "jGqy_OVHBVM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/jGqy_OVHBVM",
+    "thumb_url": "https://img.youtube.com/vi/jGqy_OVHBVM/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=jGqy_OVHBVM",
+    "caption": "Oliver Samwer gibt Tipps für Gründer (von VentureTV.de)",
+    "duration": "3:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=jGqy_OVHBVM",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

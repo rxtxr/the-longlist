@@ -29,8 +29,7 @@ wave: 8
 ---
 
 ## Überblick
-
-Claude C. Hopkins (1866–1932) war mehr als nur ein Werbetexter – er war ein Revolutionär, der die Werbebranche für immer veränderte. In einer Zeit, in der Werbung oft aus übertriebenen Behauptungen und hohlen Phrasen bestand, brachte er wissenschaftliche Präzision und messbare Ergebnisse in das Geschäft. Sein berühmtes Buch "Scientific Advertising" wurde zur Bibel einer ganzen Generation von Vermarktern und prägte spätere Legenden wie [[David Ogilvy]]. Hopkins' Credo: Werbung sei kein Kunsthandwerk, sondern ein präzises Instrument zur Steigerung von Verkäufen – eine damals radikale Idee, die bis heute nachhallt.
+Claude C. Hopkins (1866–1932) war ein Revolutionär, der die Werbebranche für immer veränderte. In einer Zeit, in der Werbung oft aus übertriebenen Behauptungen und hohlen Phrasen bestand, brachte er wissenschaftliche Präzision und messbare Ergebnisse in das Geschäft. Sein berühmtes Buch "Scientific Advertising" wurde zur Bibel einer ganzen Generation von Vermarktern und prägte spätere Legenden wie [[David Ogilvy]]. Hopkins' Credo: Werbung sei kein Kunsthandwerk, sondern ein präzises Instrument zur Steigerung von Verkäufen – eine damals radikale Idee, die bis heute nachhallt.
 
 ## Historischer Kontext
 

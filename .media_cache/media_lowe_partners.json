@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Michael_Lowe_%5E_Partners%2C_5_Streatfield_House%2C_Alvescot_Road%2C_Carterton%2C_Oxon_-_geograph.org.uk_-_5812850.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/1acea711-dee6-4822-80a2-d12b72ec32b7/thumb/",
+    "caption": "Michael Lowe ^ Partners, 5 Streatfield House, Alvescot Road, Carterton, Oxon - geograph.org.uk - 5812850",
+    "license": "CC BY-SA 2.0",
+    "artist": "P L Chadwick",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=141441222",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 752,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2609/4007361094_bf7750e898_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/b8c6bcc5-d30d-4007-9ce2-4b86ea72e64e/thumb/",
+    "caption": "An Empty Main Street at Night (Explored)",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Express Monorail",
+    "source_url": "https://www.flickr.com/photos/23322134@N02/4007361094",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 819,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "HI2gVvnJkLk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/HI2gVvnJkLk",
+    "thumb_url": "https://img.youtube.com/vi/HI2gVvnJkLk/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HI2gVvnJkLk",
+    "caption": "Conscious Living inside an advertising agency ...",
+    "duration": "4:41",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=HI2gVvnJkLk",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

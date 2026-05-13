@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Adecco_Group_Entrance.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2a3d02b7-e905-4528-b512-ff3a762f6442/thumb/",
+    "caption": "The Adecco Group Entrance",
+    "license": "CC BY-SA 4.0",
+    "artist": "Smoothieoperator",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=56000095",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1890,
+    "height": 2835
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8660/15744873867_f75ee757ac_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2f28be21-42e0-473d-abce-5747ca8d6d14/thumb/",
+    "caption": "Convenio Indra-Adecco",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Servicio de Comunicación Institucional",
+    "source_url": "https://www.flickr.com/photos/55112460@N02/15744873867",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "h7pFW6JtOxo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/h7pFW6JtOxo",
+    "thumb_url": "https://img.youtube.com/vi/h7pFW6JtOxo/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=h7pFW6JtOxo",
+    "caption": "Adecco India *CEO For One Month",
+    "duration": "3:00",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=h7pFW6JtOxo",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/A_library_of_American_literature%2C_from_the_earliest_settlement_to_the_present_time_%28IA_cu31924021999887%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/A_library_of_American_literature%2C_from_the_earliest_settlement_to_the_present_time_%28IA_cu31924021999887%29.pdf/page1-500px-A_library_of_American_literature%2C_from_the_earliest_settlement_to_the_present_time_%28IA_cu31924021999887%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that con",
+    "license": "Public domain",
+    "artist": "Stedman, Edmund Clarence, 1833-1908\nCortissoz, Ellen Mackay, d. 1933\nStedman, Arthur, 1859-1908",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AA%20library%20of%20American%20literature%2C%20from%20the%20earliest%20settlement%20to%20the%20present%20time%20%28IA%20cu31924021999887%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 860,
+    "height": 1320
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/A_treatise_on_the_railway_law_of_Canada_%28microform%29_-_embracing_constitutional_law%2C_the_law_of_corporations%2C_railway_securities%2C_eminent_domain%2C_contracts%2C_common_carriers%2C_negligence%2C_damages_%28IA_cihm_10500%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_treatise_on_the_railway_law_of_Canada_%28microform%29_-_embracing_constitutional_law%2C_the_law_of_corporations%2C_railway_securities%2C_eminent_domain%2C_contracts%2C_common_carriers%2C_negligence%2C_damages_%28IA_cihm_10500%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Half title: Abbott on the railway law of Canada\nIncludes bibliographical references\nIncludes indexes\nFilmed from a copy of the original publication he",
+    "license": "Public domain",
+    "artist": "Abbott, Harry, 1857-1898",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AA%20treatise%20on%20the%20railway%20law%20of%20Canada%20%28microform%29%20-%20embracing%20constitutional%20law%2C%20the%20law%20of%20corporations%2C%20railway%20securities%2C%20eminent%20domain%2C%20contracts%2C%20common%20carriers%2C%20negligence%2C%20damages%20%28IA%20cihm%2010500%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1145,
+    "height": 1370
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "o4E9ymZVVII",
+    "embed_url": "https://www.youtube-nocookie.com/embed/o4E9ymZVVII",
+    "thumb_url": "https://img.youtube.com/vi/o4E9ymZVVII/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=o4E9ymZVVII",
+    "caption": "1999 Guinness 'Bet on Black' TV commercial made by AMVBBDO and directed by Frank Budgen",
+    "duration": "1:41",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=o4E9ymZVVII",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

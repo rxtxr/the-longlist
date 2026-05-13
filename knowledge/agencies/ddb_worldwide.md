@@ -47,8 +47,7 @@ wave: 4
 ---
 
 ## Überblick
-
-DDB Worldwide, ursprünglich **Doyle Dane Bernbach**, war mehr als nur eine Werbeagentur – sie war eine Revolution in der Welt der Kommunikation. Gegründet 1949 in New York von [[Bill Bernbach]], Ned Doyle und Maxwell Dane, brach sie radikal mit der bis dahin üblichen Werbepraxis. Statt plakativer Verkaufshymnen und überhöhter Produktversprechen setzte die Agentur auf Intelligenz, Humor und Respekt vor dem Verbraucher. Ihr Motto: "Werbung ist Kunst" und "Die Wahrheit gut erzählt". Mit dieser Philosophie schrieb DDB nicht nur Werbegeschichte, sondern prägte die [[Konsumgesellschaft]] der Nachkriegszeit nachhaltig.
+DDB Worldwide, ursprünglich **Doyle Dane Bernbach**, war eine Revolution in der Welt der Kommunikation. Gegründet 1949 in New York von [[Bill Bernbach]], Ned Doyle und Maxwell Dane, brach sie radikal mit der bis dahin üblichen Werbepraxis. Statt plakativer Verkaufshymnen und überhöhter Produktversprechen setzte die Agentur auf Intelligenz, Humor und Respekt vor dem Verbraucher. Ihr Motto: "Werbung ist Kunst" und "Die Wahrheit gut erzählt". Mit dieser Philosophie schrieb DDB Werbegeschichte und prägte die [[Konsumgesellschaft]] der Nachkriegszeit nachhaltig.
 
 ## Historischer Kontext
 

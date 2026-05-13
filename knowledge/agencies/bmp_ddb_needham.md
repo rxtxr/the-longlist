@@ -29,7 +29,7 @@ wave: 19
 ---
 
 ## Überblick
-BMP DDB Needham war mehr als nur eine weitere Werbeagentur – sie war das pulsierende Herzstück einer kreativen Revolution im britischen Werbegeschäft, das sich plötzlich in globalen Netzwerken wiederfand. Aus der Fusion der legendären Londoner Kreativschmiede [[Boase Massimi Pollitt]] (BMP) mit der internationalen Giganten [[DDB Needham]] entstanden, verkörperte sie den Wandel einer ganzen Branche [1]. Als Teil des [[Omnicom]]-Netzwerks stand sie zwischen britischer Tradition und amerikanischer Globalisierung – und wurde zur Bühne für einige der prägendsten Kampagnen ihrer Zeit.
+BMP DDB Needham war das pulsierende Herzstück einer kreativen Revolution im britischen Werbegeschäft, das sich plötzlich in globalen Netzwerken wiederfand. Aus der Fusion der legendären Londoner Kreativschmiede [[Boase Massimi Pollitt]] (BMP) mit der internationalen Giganten [[DDB Needham]] entstanden, verkörperte sie den Wandel einer ganzen Branche [1]. Als Teil des [[Omnicom]]-Netzwerks stand sie zwischen britischer Tradition und amerikanischer Globalisierung – und wurde zur Bühne für einige der prägendsten Kampagnen ihrer Zeit.
 
 ## Historischer Kontext
 Die Fusion 1989 fiel in eine Ära der Konsolidierung in der globalen Werbebranche [ungesichert]. Während die 1980er Jahre Agenturen wie BMP noch als unabhängige Kreativzentren feierten, begannen die 1990er Jahre einen radikalen Wandel: Globale Netzwerke wie Omnicom kauften traditionelle Häuser auf, um multinationalen Konzernen weltweit einheitliche Marketingstrategien anbieten zu können. In dieser Umbruchphase wurde aus der lokal verwurzelten BMP plötzlich BMP DDB Needham – ein Labor für die Frage: Kann kreative Unabhängigkeit in einem globalen Konzern überleben?

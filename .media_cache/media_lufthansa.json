@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/52502571781_9f20cf775b_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/862423d2-28fc-4f17-9e50-577a78693e2e/thumb/",
+    "caption": "'Sachsen-Anhalt' Lufthansa D-ABYF Boeing 747-830 cn/37830-1456 @ EDDF / FRA 25-05-2019",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Nabil Molinari Photography (10 Million views, Than",
+    "source_url": "https://www.flickr.com/photos/100251406@N07/52502571781",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4671/28277128649_a93a349206_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/6ebe20e0-21aa-4d18-a41f-576eb2f4d0c3/thumb/",
+    "caption": "Lufthansa Boeing 747-8i new livery! (D-ABYA)",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "wilco737",
+    "source_url": "https://www.flickr.com/photos/24483043@N04/28277128649",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "7DkgqbrH-b4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/7DkgqbrH-b4",
+    "thumb_url": "https://img.youtube.com/vi/7DkgqbrH-b4/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=7DkgqbrH-b4",
+    "caption": "Much More Than An Airline: The Incredible Diversity Of The Lufthansa Group",
+    "duration": "12:24",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=7DkgqbrH-b4",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -25,7 +25,7 @@ wave: 5
 ---
 
 ## Überblick
-David Droga ist mehr als nur ein Werbeunternehmer – er ist eine Legende der Kreativbranche. Der australische Gründer der preisgekrönten Agentur [[Droga5]] vollzog einen bemerkenswerten Werdegang: Vom kreativen Freigeist zum CEO des weltgrößten Kreativ-Netzwerks [[Accenture Song]] (vormals Accenture Interactive), das seine Agentur 2019 übernahm [1][2]. Sein Werdegang spiegelt die radikale Transformation der gesamten Werbebranche im 21. Jahrhundert wider.
+David Droga ist eine Legende der Kreativbranche. Der australische Gründer der preisgekrönten Agentur [[Droga5]] vollzog einen bemerkenswerten Werdegang: Vom kreativen Freigeist zum CEO des weltgrößten Kreativ-Netzwerks [[Accenture Song]] (vormals Accenture Interactive), das seine Agentur 2019 übernahm [1][2]. Sein Werdegang spiegelt die radikale Transformation der gesamten Werbebranche im 21. Jahrhundert wider.
 
 ## Historischer Kontext
 Als Droga seine Karriere in den späten 1980er/1990er Jahren begann [3][7], befand sich die Werbewelt im Umbruch. Die klassische Trennung zwischen Werbung, Design und Technologie begann zu bröckeln. Während traditionelle Netzwerkagenturen noch in starren Silos arbeiteten, bahnte sich eine neue Ära integrierter Kommunikationsansätze an [ungesichert]. In diese Zeit des Aufbruchs stieg Droga ein und wurde schnell zu einem ihrer prägenden Gestalter.

@@ -58,8 +58,7 @@ wave: 24
 ---
 
 ## Überblick
-
-Charles "Chuck" Geschke war mehr als der Mitgründer von Adobe Systems — er war der Architekt einer digitalen Revolution, die das Fundament unserer heutigen Kreativindustrie legte. Zusammen mit John Warnock entwickelte er PostScript, die Sprache, die erstmals Drucker und Computer eine gemeinsame Sprache lehrte. Sein Werk veränderte nicht nur Technik, sondern erschuf komplett neue Berufsfelder und machte Desktop Publishing für Millionen zugänglich. Hinter der technischen Brillanz stand ein Mann mit tiefen katholischen Wurzeln, dessen Leben selbst eine dramatische Wendung nahm: eine Entführung, die ihn 1992 unfreiwillig in die Schlagzeilen brachte.
+Charles "Chuck" Geschke war der Architekt einer digitalen Revolution, die das Fundament unserer heutigen Kreativindustrie legte. Zusammen mit John Warnock entwickelte er PostScript, die Sprache, die erstmals Drucker und Computer eine gemeinsame Sprache lehrte. Sein Werk veränderte die Technik und erschuf komplett neue Berufsfelder, machte Desktop Publishing für Millionen zugänglich. Hinter der technischen Brillanz stand ein Mann mit tiefen katholischen Wurzeln, dessen Leben selbst eine dramatische Wendung nahm: eine Entführung, die ihn 1992 unfreiwillig in die Schlagzeilen brachte.
 
 ## Historischer Kontext
 

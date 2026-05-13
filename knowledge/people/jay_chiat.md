@@ -67,7 +67,7 @@ wave: 4
 ---
 
 ## Überblick
-Jay Chiat war mehr als nur ein Werbeunternehmer — er war ein Revolutionär, der die amerikanische Werbebranche aus ihrem konservativen Schlaf rüttelte. Als Mitbegründer der legendären Agentur [[Chiat/Day]] prägte er eine Ära, in der Kreativität über alles ging und Werbung zur Kunstform wurde [1][3][4][5][9]. Sein berühmtes Motto "Great work attracts clients" wurde zum Mantra einer ganzen Generation von Kreativen.
+Jay Chiat war ein Revolutionär, der die amerikanische Werbebranche aus ihrem konservativen Schlaf rüttelte. Als Mitbegründer der legendären Agentur [[Chiat/Day]] prägte er eine Ära, in der Kreativität über alles ging und Werbung zur Kunstform wurde [1][3][4][5][9]. Sein berühmtes Motto "Great work attracts clients" wurde zum Mantra einer ganzen Generation von Kreativen.
 
 ## Historischer Kontext
 Chiat begann seine Karriere in den 1950er Jahren als Texter [1], als Werbung noch vornehmlich aus Verkaufsargumenten und Produktversprechen bestand. Als er 1968 [[Guy Day]] traf und [[Chiat/Day]] gründete, befand sich die amerikanische Gesellschaft im Umbruch: Die Gegenkultur der 1960er Jahre hatte traditionelle Werte infrage gestellt, und eine neue Generation von Konsumenten verlangte nach Authentizität und intelligenten Botschaften [6]. Los Angeles galt damals in der Werbebranche noch als "kreatives Niemandsland" — eine Wahrnehmung, die Chiat entschlossen ändern wollte [3].

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/28/52823834_5429a6e452_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/61ae9b4d-1369-427a-8546-5209cde4f8b8/thumb/",
+    "caption": "Zenith Space Command",
+    "license": "CC BY-SA 2.0",
+    "artist": "Todd Ehlers",
+    "source_url": "https://www.flickr.com/photos/47325272@N00/52823834",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8328/8101350264_1087de9c39_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/85eac65f-f9b5-4294-b432-971120f87906/thumb/",
+    "caption": "Vintage Zenith 'Premier' Transistor (Body) Hearing Aid, Anodized Aluminum Case",
+    "license": "CC BY 2.0",
+    "artist": "France1978",
+    "source_url": "https://www.flickr.com/photos/51764518@N02/8101350264",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 747,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "xSlj7aGA38s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/xSlj7aGA38s",
+    "thumb_url": "https://img.youtube.com/vi/xSlj7aGA38s/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=xSlj7aGA38s",
+    "caption": "Remember American TV Brands? What happened to them??",
+    "duration": "4:52",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=xSlj7aGA38s",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

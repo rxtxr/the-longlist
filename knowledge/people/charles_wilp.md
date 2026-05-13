@@ -39,7 +39,7 @@ wave: 14
 ---
 
 ## Überblick
-Charles Wilp war mehr als nur ein Werbegrafiker – er war ein Grenzgänger zwischen Kunst und Kommerz, der in den 1960er und 1970er Jahren die deutsche Werbelandschaft radikal neu erfand [ungesichert]. Als "Andy Warhol der deutschen Werbung" [2][4] brachte er künstlerische Avantgarde in die konservative Welt der Anzeigen und wurde zum Vordenker einer kreativen Revolution. Sein Werk zeigt exemplarisch, wie Werbung im Wirtschaftswunderdeutschland zum Spiegel gesellschaftlicher Befreiung wurde [6].
+Charles Wilp war ein Grenzgänger zwischen Kunst und Kommerz, der in den 1960er und 1970er Jahren die deutsche Werbelandschaft radikal neu erfand [ungesichert]. Als "Andy Warhol der deutschen Werbung" [2][4] brachte er künstlerische Avantgarde in die konservative Welt der Anzeigen und wurde zum Vordenker einer kreativen Revolution. Sein Werk zeigt exemplarisch, wie Werbung im Wirtschaftswunderdeutschland zum Spiegel gesellschaftlicher Befreiung wurde [6].
 
 ## Historischer Kontext
 Wilps Schaffensperiode fiel in eine Zeit des Umbruchs: Das Nachkriegsdeutschland verwandelte sich vom Trümmerfeld in eine Konsumgesellschaft, während gleichzeitig die 68er-Bewegung alte Moralvorstellungen infrage stellte [ungesichert]. In dieser Spannung zwischen Wirtschaftswunder und kultureller Revolution positionierte Wilp seine Arbeit – nicht als bloße Produktwerbung, sondern als künstlerisches Statement [6]. Seine Werbung widersetzte sich bewusst den konventionellen Werbestrategien und bürgerlichen Normen der Zeit [6], was ihn zum Chronisten einer sich befreienden Gesellschaft machte.

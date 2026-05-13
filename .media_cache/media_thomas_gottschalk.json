@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3820/9283902814_aa80bef7e6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a0d7c0ec-e9b3-47f5-8334-e14c26dd41ca/thumb/",
+    "caption": "Wax Figure Thomas Gottschalk, Panoptikum Hamburg",
+    "license": "CC BY 2.0",
+    "artist": "Thragor",
+    "source_url": "https://www.flickr.com/photos/76961277@N08/9283902814",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3208/2924528651_87d5a8236d_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/6e218475-64c2-460d-8bb1-e0c354e7b089/thumb/",
+    "caption": "Thomas Gottschalk",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Sebastian Niedlich (Grabthar)",
+    "source_url": "https://www.flickr.com/photos/42311564@N00/2924528651",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 681
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "8Gvu1UCpFXo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/8Gvu1UCpFXo",
+    "thumb_url": "https://img.youtube.com/vi/8Gvu1UCpFXo/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8Gvu1UCpFXo",
+    "caption": "How Gottschalk's brother cashed in with advertising on ZDF | WALULIS TV History",
+    "duration": "15:03",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=8Gvu1UCpFXo",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

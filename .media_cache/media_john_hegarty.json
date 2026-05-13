@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2078/2343118568_646ef277e7_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/54526fce-9fc4-46ec-b196-42c779ac277f/thumb/",
+    "caption": "Sir John Hegarty.",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "DuvalGuillaume",
+    "source_url": "https://www.flickr.com/photos/48642876@N00/2343118568",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 921,
+    "height": 598
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/6065/6052662917_3eedb26ea9.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/317e3db6-3461-4c2d-b3e2-5582fc83ce18/thumb/",
+    "caption": "John Hegarty at IAB Engage 2006",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "iabuk",
+    "source_url": "https://www.flickr.com/photos/35780106@N03/6052662917",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 316
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "_J9Ru84DtXI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/_J9Ru84DtXI",
+    "thumb_url": "https://img.youtube.com/vi/_J9Ru84DtXI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=_J9Ru84DtXI",
+    "caption": "CAMPAIGN TV: Sir John Hegarty says \"advertising has got worse\"",
+    "duration": "3:50",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=_J9Ru84DtXI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

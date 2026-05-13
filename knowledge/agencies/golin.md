@@ -55,8 +55,7 @@ wave: 23
 ---
 
 ## Überblick
-
-Golin ist mehr als nur eine PR-Agentur – es ist eine Institution, deren Geschichte untrennbar mit dem Aufstieg einer der ikonischsten Marken der Welt verbunden ist. Gegründet 1956 in Chicago von **Al Golin**, schrieb die Agentur Geschichte durch ihre lebenslange Partnerschaft mit **McDonald's**. Sie erfand dabei nicht nur das branchenprägende "Trust Bank"-Konzept, sondern definierte neu, was strategische Kommunikation für eine globale Konsumgütermarke bedeuten kann. Von einem kalten Anruf bei Ray Kroc bis zum Gewinn der höchsten kreativen Auszeichnungen in Cannes – Golins Weg ist eine der großen Erfolgsgeschichten der PR-Branche.
+Golin ist eine Institution, deren Geschichte untrennbar mit dem Aufstieg einer der ikonischsten Marken der Welt verbunden ist. Gegründet 1956 in Chicago von **Al Golin**, schrieb die Agentur Geschichte durch ihre lebenslange Partnerschaft mit **McDonald's**. Sie erfand dabei das branchenprägende "Trust Bank"-Konzept und definierte neu, was strategische Kommunikation für eine globale Konsumgütermarke bedeuten kann. Von einem kalten Anruf bei Ray Kroc bis zum Gewinn der höchsten kreativen Auszeichnungen in Cannes – Golins Weg ist eine der großen Erfolgsgeschichten der PR-Branche.
 
 ## Historischer Kontext
 

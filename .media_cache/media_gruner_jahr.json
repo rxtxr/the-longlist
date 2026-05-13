@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7433/12813915303_0fa4b10a56_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/443a775e-930a-4811-9bd7-1b85d9cee5ed/thumb/",
+    "caption": "Hamburg, Überseebrücke, Verlagshaus Gruner & Jahr, Hauptkirche Sankt Michaelis und der Fernsehturm",
+    "license": "CC BY-SA 2.0",
+    "artist": "Polybert49",
+    "source_url": "https://www.flickr.com/photos/69460501@N04/12813915303",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 732
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/51636424486_7efa8dfdc4_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/cb94358e-0826-42b2-8cda-93ea71cde5df/thumb/",
+    "caption": "Gruner + Jahr",
+    "license": "CC BY-NC 2.0",
+    "artist": "Can Pac Swire",
+    "source_url": "https://www.flickr.com/photos/18378305@N00/51636424486",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "kfTzsTyBP0E",
+    "embed_url": "https://www.youtube-nocookie.com/embed/kfTzsTyBP0E",
+    "thumb_url": "https://img.youtube.com/vi/kfTzsTyBP0E/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kfTzsTyBP0E",
+    "caption": "How P&G has been scoring number ones for 180 years | Marketing Media Money",
+    "duration": "5:49",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=kfTzsTyBP0E",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

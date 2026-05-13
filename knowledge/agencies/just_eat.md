@@ -58,7 +58,7 @@ wave: 19
 ---
 
 ## Überblick
-Just Eat war mehr als nur eine Essensbestell-App – es war eine der ersten Plattformen, die den traditionellen Pizzaservice in das digitale Zeitalter katapultierte. 2001 im dänischen Kolding gegründet, schuf das Unternehmen einen digitalen Marktplatz, der Restaurants und Kunden auf völlig neue Weise verband [1]. Was als lokales Startup begann, entwickelte sich zu einem globalen Phänomen, das die Art und Weise revolutionierte, wie wir Essen bestellen [ungesichert].
+Just Eat war eine der ersten Plattformen, die den traditionellen Pizzaservice in das digitale Zeitalter katapultierte. 2001 im dänischen Kolding gegründet, schuf das Unternehmen einen digitalen Marktplatz, der Restaurants und Kunden auf völlig neue Weise verband [1]. Was als lokales Startup begann, entwickelte sich zu einem globalen Phänomen, das die Art und Weise revolutionierte, wie wir Essen bestellen [ungesichert].
 
 ## Historischer Kontext
 Just Eat entstand in der späten Dotcom-Ära, als das Internet begann, Alltagsdienstleistungen zu erobern [ungesichert]. Während andere Startups mit komplexen Geschäftsmodellen scheiterten, setzte Just Eat auf Einfachheit: Sie digitalisierten den klassischen Lieferdienstkatalog. In einer Zeit, in denen Menschen noch Telefonnummern aus Gelben Seiten riefen, bot Just Eat erstmals eine zentrale Plattform mit Bewertungen, Bezahlfunktion und Menüübersicht [ungesichert].

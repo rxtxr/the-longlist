@@ -62,7 +62,7 @@ wave: 18
 ---
 
 ## Überblick
-Robert Gentz ist Mitgründer und Co-CEO des E-Commerce-Modehändlers [[Zalando]] SE – ein Name, der heute aus der europäischen Digitalwirtschaft nicht mehr wegzudenken ist. Zusammen mit [[David Schneider]] baute er aus einer Studenten-WG-Idee einen Modegiganten auf, der nicht nur den deutschen Online-Handel revolutionierte, sondern auch zum DAX-Konzern aufstieg.
+Robert Gentz ist Mitgründer und Co-CEO des E-Commerce-Modehändlers [[Zalando]] SE – ein Name, der heute aus der europäischen Digitalwirtschaft nicht mehr wegzudenken ist. Zusammen mit [[David Schneider]] baute er aus einer Studenten-WG-Idee einen Modegiganten auf, der den deutschen Online-Handel revolutionierte und zum DAX-Konzern aufstieg.
 
 ## Historischer Kontext
 Die Quellenlage hierzu ist dünn – doch die Geschichte von Robert Gentz ist untrennbar mit einer Zeit verbunden, in der das Internet begann, traditionelle Branchen umzukrempeln [ungesichert]. Ende der 2000er Jahre war Online-Shopping in Deutschland noch weitgehend auf Bücher und Elektronik beschränkt. Der Gedanke, hochpreisige und geschmacksabhängige Produkte wie Schuhe oder Kleidung online zu kaufen, galt vielen als absurd – "Das wird nicht funktionieren!" war eine typische Reaktion [5]. In diese Lücke stießen Gentz und Schneider, inspiriert vom amerikanischen Vorbild [[Zappos]] [7][8]. Sie erkannten früh das Potenzial eines vertrauensbasierten Online-Modehandels mit liberalen Rückgaberechten – eine damals revolutionäre Idee [ungesichert].

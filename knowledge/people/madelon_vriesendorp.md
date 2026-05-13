@@ -64,7 +64,7 @@ wave: 16
 ---
 
 ## Überblick
-Madelon Vriesendorp ist mehr als nur Mitbegründerin des Office for Metropolitan Architecture (OMA) – sie war die bildgewaltige Stimme der Architektur-Avantgarde [1][2][4][5]. Mit ihren surrealistischen Gemälden übersetzte sie komplexe Stadtvisionen in eine universelle Bildsprache, die Architekturdebatten weltweit zugänglich machte [3][7]. Während ihre Kollegen [[Rem Koolhaas]], [[Elia Zenghelis]] und [[Zoe Zenghelis]] bauten und planten, malte Vriesendorp die Träume und Albträufe der modernen Metropole.
+Madelon Vriesendorp ist die bildgewaltige Stimme der Architektur-Avantgarde [1][2][4][5]. Mit ihren surrealistischen Gemälden übersetzte sie komplexe Stadtvisionen in eine universelle Bildsprache, die Architekturdebatten weltweit zugänglich machte [3][7]. Während ihre Kollegen [[Rem Koolhaas]], [[Elia Zenghelis]] und [[Zoe Zenghelis]] bauten und planten, malte Vriesendorp die Träume und Albträume der modernen Metropole.
 
 ## Historischer Kontext
 Die 1970er Jahre waren eine Zeit des architektonischen Aufbruchs. Der starre Modernismus mit seinen gläsernen Rastern und betonierten Utopien war in die Krise geraten [ungesichert]. In diese Lücke stießen Vriesendorp und ihre Mitstreiter: 1975 gründeten sie OMA in London – nicht zufällig in einer Stadt, die selbst zwischen Nachkriegstristesse und aufkeimendem Punk vibrierte [ungesichert]. Hier entwickelten sie eine neue Sprache für den urbanen Raum, die Vriesendorps Pinsel erst vollständig zum Leben erweckte.

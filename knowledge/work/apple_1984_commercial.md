@@ -53,7 +53,7 @@ wave: 10
 ---
 
 ## Überblick
-Der Apple '1984'-Commercial ist mehr als nur ein Werbespot — es ist ein kulturelles Manifest, das die Werbelandschaft für immer verändern sollte. Dieser einminütige Film, der am 22. Januar 1984 während des Super Bowl XVIII ausgestrahlt wurde, kündigte nicht einfach nur den Apple Macintosh an [4][7][8]. Er inszenierte einen ideologischen Befreiungsschlag gegen die etablierte Technologieordnung und wurde zum Meilenstein der Werbegeschichte [1][4][5]. Was als Werbung begann, endete als Statement.
+Der Apple '1984'-Commercial ist ein kulturelles Manifest, das die Werbelandschaft für immer verändern sollte. Dieser einminütige Film, der am 22. Januar 1984 während des Super Bowl XVIII ausgestrahlt wurde, kündigte den Apple Macintosh an und inszenierte einen ideologischen Befreiungsschlag gegen die etablierte Technologieordnung. Er wurde zum Meilenstein der Werbegeschichte. Was als Werbung begann, endete als Statement.
 
 ## Historischer Kontext
 Die Welt des Jahres 1984 war geprägt von technologischer Monokultur. IBM dominierte den Computer-Markt mit seinen Großrechnern und dem IBM PC — eine geschlossene, von Konzernlogik bestimmte Welt [ungesichert]. Apple positionierte sich bewusst als Underdog, als rebellische Alternative. Die Wahl von George Orwells dystopischem Roman "1984" als Bezugspunkt war kein Zufall [4][7]. Sie spiegelte das Lebensgefühl einer Generation wider, die sich nach individueller Freiheit und kreativer Selbstbestimmung sehnte — Werte, die Apple für sich beanspruchte.

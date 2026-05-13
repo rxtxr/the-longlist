@@ -47,8 +47,7 @@ wave: 16
 ---
 
 ## Überblick
-
-**Richard Gruner** (1925–2010) war nicht nur Mitbegründer des legendären Medienhauses [[Gruner + Jahr]], sondern auch ein typischer Vertreter des deutschen Wirtschaftswunder-Unternehmers. Der Sohn eines Druckereibesitzers aus Hamburg brachte das handwerkliche Erbe seiner Familie in eine der folgenreichsten Partnerschaften der deutschen Verlagswelt ein. Sein Name prangt bis heute auf einem der größten Zeitschriftenverlage Europas – ein Vermächtnis, das weit über seinen Tod hinausreicht.
+**Richard Gruner** (1925–2010) war Mitbegründer des legendären Medienhauses [[Gruner + Jahr]] und ein typischer Vertreter des deutschen Wirtschaftswunder-Unternehmers. Der Sohn eines Druckereibesitzers aus Hamburg brachte das handwerkliche Erbe seiner Familie in eine der folgenreichsten Partnerschaften der deutschen Verlagswelt ein. Sein Name prangt bis heute auf einem der größten Zeitschriftenverlage Europas – ein Vermächtnis, das über seinen Tod hinausreicht.
 
 ## Historischer Kontext
 

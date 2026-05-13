@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Catalogue_de_la_grande_collection_exquise_de_livres_imprim%C3%A9s_et_manuscrits%2C_cartes%2C_portraits_et_estampes_-_premi%C3%A8re_partie%3B_sciences_et_lettres_%28IA_cataloguegrande00jlbe%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Catalogue_de_la_grande_collection_exquise_de_livres_imprim%C3%A9s_et_manuscrits%2C_cartes%2C_portraits_et_estampes_-_premi%C3%A8re_partie%3B_sciences_et_lettres_%28IA_cataloguegrande00jlbe%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "No price list\nAccompanied by supplement and errata\nAnnotated with prices. Library copy is the first item bound in: 1898 Oct.17 UtBeH\nSubjects: W.J. Ro",
+    "license": "Public domain",
+    "artist": "J.L. Beijers (Firm)",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACatalogue%20de%20la%20grande%20collection%20exquise%20de%20livres%20imprim%C3%A9s%20et%20manuscrits%2C%20cartes%2C%20portraits%20et%20estampes%20-%20premi%C3%A8re%20partie%3B%20sciences%20et%20lettres%20%28IA%20cataloguegrande00jlbe%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 877,
+    "height": 1266
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Historia_numorum%3B_a_manual_of_Greek_numismatics_%28IA_cu31924029779141%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Historia_numorum%3B_a_manual_of_Greek_numismatics_%28IA_cu31924029779141%29.pdf/page1-500px-Historia_numorum%3B_a_manual_of_Greek_numismatics_%28IA_cu31924029779141%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that con",
+    "license": "Public domain",
+    "artist": "Head, Barclay Vincent, 1844-1914",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHistoria%20numorum%3B%20a%20manual%20of%20Greek%20numismatics%20%28IA%20cu31924029779141%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 891,
+    "height": 1450
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "AhVC92lyZDI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/AhVC92lyZDI",
+    "thumb_url": "https://img.youtube.com/vi/AhVC92lyZDI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AhVC92lyZDI",
+    "caption": "THE MOST HATED MEN IN SILICON VALLEY",
+    "duration": "8:44",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=AhVC92lyZDI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

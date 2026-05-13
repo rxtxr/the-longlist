@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/1663/23941455062_871700c1e9.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/48625f9a-c17e-466c-8fcd-189a1f702f6d/thumb/",
+    "caption": "Monster pike not a fishy tale Cadishead and Irlam Guardian.",
+    "license": "CC BY-SA 2.0",
+    "artist": "Irlam,Cadishead,Rixton with Glazebrook old photos",
+    "source_url": "https://www.flickr.com/photos/77779370@N02/23941455062",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 416
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7512/15829093139_c984fda9f6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/ff07f160-b3e7-45b5-8d8d-1936474bd554/thumb/",
+    "caption": "1154 Nora & Beattie",
+    "license": "CC BY 2.0",
+    "artist": "GSofV",
+    "source_url": "https://www.flickr.com/photos/93003266@N04/15829093139",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 688
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "52YU12P5XWY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/52YU12P5XWY",
+    "thumb_url": "https://img.youtube.com/vi/52YU12P5XWY/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=52YU12P5XWY",
+    "caption": "Figure It Out Friday  - Get to Know Ron Collins - Episode #1 7.22.22",
+    "duration": "7:46",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=52YU12P5XWY",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Current_McCann_Emblem.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Current_McCann_Emblem.png/500px-Current_McCann_Emblem.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Current McCann Emblem",
+    "license": "Public domain",
+    "artist": "McCann Worldgroup",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACurrent%20McCann%20Emblem.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 808,
+    "height": 612
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/McCann_Co._Credo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/McCann_Co._Credo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "caption": "Original H.K. McCann Co. Credo",
+    "license": "Public domain",
+    "artist": "McCann Worldgroup",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMcCann%20Co.%20Credo.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 475,
+    "height": 471
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "Lpm6FXgpDnI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Lpm6FXgpDnI",
+    "thumb_url": "https://img.youtube.com/vi/Lpm6FXgpDnI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Lpm6FXgpDnI",
+    "caption": "Brand McCann",
+    "duration": "2:03",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=Lpm6FXgpDnI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

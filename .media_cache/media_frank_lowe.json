@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5043/5255137696_2ec773bab6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/31be087e-54ca-4657-9eca-6fed53430594/thumb/",
+    "caption": "***older photo, updated one in photostream*** My Chemical Romance Photoshop Edit: 'Just chillin' in the clouds''",
+    "license": "CC BY 2.0",
+    "artist": "Rob Ellis'",
+    "source_url": "https://www.flickr.com/photos/45597153@N05/5255137696",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 682
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/155/375843100_6e94c5c190_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/05ca4745-3b02-47ac-8d81-60f763ee583c/thumb/",
+    "caption": "Anne Frank Statue - Amsterdam",
+    "license": "CC BY 2.0",
+    "artist": "Michela Simoncini",
+    "source_url": "https://www.flickr.com/photos/59422190@N00/375843100",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 766,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "6bGp55mqsD0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/6bGp55mqsD0",
+    "thumb_url": "https://img.youtube.com/vi/6bGp55mqsD0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=6bGp55mqsD0",
+    "caption": "Potato Clip 3 Tony Moretemore on Pritchard Wood the agency before BMP",
+    "duration": "1:55",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=6bGp55mqsD0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

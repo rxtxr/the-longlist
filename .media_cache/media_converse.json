@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Converse-Jackson_Township_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Converse-Jackson_Township_Public_Library.jpg/500px-Converse-Jackson_Township_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Front and southern side of the Converse-Jackson Township Public Library, a Carnegie library located at the intersection of Marion and Jefferson Street",
+    "license": "Public domain",
+    "artist": "Nyttend",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AConverse-Jackson%20Township%20Public%20Library.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 2816,
+    "height": 2112
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Converse-eating_lemurs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Converse-eating_lemurs.jpg/500px-Converse-eating_lemurs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Converse-eating lemurs",
+    "license": "CC BY 2.0",
+    "artist": "Jacob Bøtter",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AConverse-eating%20lemurs.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 3456,
+    "height": 2304
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "vqY5vC6MLIM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/vqY5vC6MLIM",
+    "thumb_url": "https://img.youtube.com/vi/vqY5vC6MLIM/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=vqY5vC6MLIM",
+    "caption": "Converse - The Rise and Fall and Rise Again",
+    "duration": "7:12",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=vqY5vC6MLIM",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

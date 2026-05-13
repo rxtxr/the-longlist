@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3491/4031050027_685aea73d7_m.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/7797ddd5-f666-4622-9359-0f107b7e4fe3/thumb/",
+    "caption": "scam ads",
+    "license": "CC BY-SA 2.0",
+    "artist": "FunnyBiz",
+    "source_url": "https://www.flickr.com/photos/75549540@N00/4031050027",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 240,
+    "height": 240
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2536/4031802352_642b31dfe4_m.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/51150423-0cdc-4e5c-88db-fbd014796e50/thumb/",
+    "caption": "scam ads",
+    "license": "CC BY-SA 2.0",
+    "artist": "FunnyBiz",
+    "source_url": "https://www.flickr.com/photos/75549540@N00/4031802352",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 210,
+    "height": 240
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "hgM7HztR2aw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/hgM7HztR2aw",
+    "thumb_url": "https://img.youtube.com/vi/hgM7HztR2aw/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=hgM7HztR2aw",
+    "caption": "Tech Report: Meta ad controversy, Google’s prediction data deal, and new AI innovations",
+    "duration": "2:03",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=hgM7HztR2aw",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

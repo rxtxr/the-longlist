@@ -48,7 +48,7 @@ wave: 1
 ---
 
 ## Überblick
-Paul Arden war mehr als nur ein britischer Kreativdirektor — er war eine der schillerndsten Figuren der Werbebranche. Bei [[Saatchi & Saatchi]] prägte er in den 1980er Jahren, der goldenen Ära der Werbung, ikonische Kampagnen und wurde später durch seine provokativen Motivationsbücher wie "Whatever You Think, Think The Opposite" weltbekannt. Arden verkörperte den kreativen Übermut einer Ära, in der Werbung zur Popkultur wurde.
+Paul Arden war ein britischer Kreativdirektor und eine der schillerndsten Figuren der Werbebranche. Bei [[Saatchi & Saatchi]] prägte er in den 1980er Jahren, der goldenen Ära der Werbung, ikonische Kampagnen und wurde später durch seine provokativen Motivationsbücher wie "Whatever You Think, Think The Opposite" weltbekannt. Arden verkörperte den kreativen Übermut einer Ära, in der Werbung zur Popkultur wurde.
 
 ## Historischer Kontext
 Ardens Aufstieg bei Saatchi & Saatchi fiel in eine Zeit, als Werbung sich vom nüchternen Verkaufsinstrument zum kulturellen Ereignis wandelte. Die 1980er Jahre waren geprägt von ökonomischer Deregulierung, globalen Märkten und einem neuen Selbstbewusstsein der Kreativbranche [ungesichert]. Agenturen wie Saatchi & Saatchi wurden zu Machtzentren, die nicht nur Produkte verkauften, sondern gesellschaftliche Debatten prägten. In dieser Ära des "Big Bang" der Werbung wurde Arden zur Legende.

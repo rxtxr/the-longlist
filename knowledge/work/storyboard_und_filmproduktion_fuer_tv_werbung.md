@@ -19,8 +19,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Ein Storyboard ist das geheime Skelett jedes großen Werbespots – die visuelle Blaupause, die aus einer abstrakten Idee einen konkreten Film werden lässt. In der TV-Werbung dient es nicht nur als Planungsinstrument, sondern als diplomatisches Dokument zwischen Kreativen, Kunden und Produktionsteams. Es übersetzt Worte in Bilder, bevor die erste Kamera läuft, und verhindert so millionenschwere Missverständnisse. [ungesichert] Dieser Prozess verwandelt Marketing-Strategien in emotionale Erzählungen und macht das Storyboard zur unverzichtbaren Drehscheibe zwischen kreativem Genius und handwerklicher Umsetzung.
+Ein Storyboard ist das geheime Skelett jedes großen Werbespots – die visuelle Blaupause, die aus einer abstrakten Idee einen konkreten Film werden lässt. In der TV-Werbung dient es als Planungsinstrument und diplomatisches Dokument zwischen Kreativen, Kunden und Produktionsteams. Es übersetzt Worte in Bilder, bevor die erste Kamera läuft, und verhindert so millionenschwere Missverständnisse. Dieser Prozess verwandelt Marketing-Strategien in emotionale Erzählungen und macht das Storyboard zur unverzichtbaren Drehscheibe zwischen kreativem Genius und handwerklicher Umsetzung.
 
 ## Historischer Kontext
 

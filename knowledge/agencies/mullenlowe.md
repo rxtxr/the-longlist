@@ -56,7 +56,7 @@ wave: 10
 ---
 
 ## Überblick
-MullenLowe war mehr als nur eine internationale Werbeagentur – sie war ein lebendiges Archiv der Werbegeschichte, das in seiner DNA die Geschichten mehrerer legendärer Agenturen trug [4][9]. Ihre Entstehung durch Fusion und ihre spätere Auflösung stehen beispielhaft für die radikale Konsolidierungswelle, die die Werbebranche ab den 1980er Jahren erfasste [4][9]. Der Name MullenLowe wurde 2025 eingestellt, doch ihr Erbe aus über 120 Jahren Werbegeschichte wirkt weiter [2][3].
+MullenLowe war eine internationale Werbeagentur und ein lebendiges Archiv der Werbegeschichte, das in seiner DNA die Geschichten mehrerer legendärer Agenturen trug [4][9]. Ihre Entstehung durch Fusion und ihre spätere Auflösung stehen beispielhaft für die radikale Konsolidierungswelle, die die Werbebranche ab den 1980er Jahren erfasste [4][9]. Der Name MullenLowe wurde 2025 eingestellt, doch ihr Erbe aus über 120 Jahren Werbegeschichte wirkt weiter [2][3].
 
 ## Historischer Kontext
 Die Agentur entstand in einer Ära, in der Giganten die Bühne betraten. Die 1980er bis 2010er Jahre waren geprägt von einer beispiellosen Globalisierung der Märkte. Werbeholdinggesellschaften wie [[Interpublic]] wuchsen zu globalen Machtzentren heran und schluckten einstige kreative Unabhängige, um internationale Netzwerke aus einem Guss zu formen [4][5]. In diesem Klima der Konzentration war Zusammenlegen oder Untergehen das neue Motto. MullenLowe war ein Kind dieser Zeit – ein Versuch, durch gebündelte Stärke im Zeitalter der digitalen Disruption relevant zu bleiben [8][10].

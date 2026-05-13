@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3899/14723582239_a4b1e91b2c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/b1069c21-e358-49de-bf9d-b2772e61cf38/thumb/",
+    "caption": "Alan Parker filming a Hamlet advert at Wimbledon, April 1974",
+    "license": "CC BY 2.0",
+    "artist": "whatsthatpicture",
+    "source_url": "https://www.flickr.com/photos/24469639@N00/14723582239",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 420
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5238/5869717260_7e10ac75b6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/026e9f9e-cf50-4cc8-a74e-ee22ca34c36a/thumb/",
+    "caption": "Wimbledon Centre Court, 1974 - Alan Parker filming a famous Hamlet advert",
+    "license": "CC BY-NC 2.0",
+    "artist": "whatsthatpicture",
+    "source_url": "https://www.flickr.com/photos/24469639@N00/5869717260",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 926
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "c59D7By-aS0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/c59D7By-aS0",
+    "thumb_url": "https://img.youtube.com/vi/c59D7By-aS0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=c59D7By-aS0",
+    "caption": "[PIF] Crime Prevention: Dream – UK, Collett Dickenson Pearce, 1988.",
+    "duration": "1:03",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=c59D7By-aS0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

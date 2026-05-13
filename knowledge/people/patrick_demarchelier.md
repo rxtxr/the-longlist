@@ -65,7 +65,7 @@ wave: 14
 ---
 
 ## Überblick
-Patrick Demarchelier war mehr als nur ein französischer Modefotograf — er war der Architekt eines modernen, zugänglichen Luxusbildes, der die Modefotografie für immer veränderte [1][4][8][10]. Seine Karriere spannte sich von den Pariser Ateliers der 1960er bis in die globalen Modezentren des 21. Jahrhunderts, gekrönt von der historischen Berufung zum offiziellen Porträtisten der britischen Königsfamilie [8][10]. Demarchelier schuf nicht nur Bilder; er schuf Ikonen.
+Patrick Demarchelier war der Architekt eines modernen, zugänglichen Luxusbildes, der die Modefotografie für immer veränderte [1][4][8][10]. Seine Karriere spannte sich von den Pariser Ateliers der 1960er bis in die globalen Modezentren des 21. Jahrhunderts, gekrönt von der historischen Berufung zum offiziellen Porträtisten der britischen Königsfamilie [8][10]. Demarchelier schuf Ikonen.
 
 ## Historischer Kontext
 Demarcheliers Aufstieg fiel mit einer Revolution in der Modefotografie zusammen. Die 1980er und 1990er Jahre — die Hochphase seiner Karriere [ungesichert] — waren geprägt vom Aufkommen der Supermodels, der Globalisierung der Luxusindustrie und einer neuen Sehnsucht nach "lebendigem" statt steifem Fotografieren. Während die alte Garde noch distanzierte Eleganz produzierte, brachte Demarchelier eine französisch-leichtfüßige und doch hochprofessionelle Ästhetik nach New York, die perfekt zum Zeitgeist passte.

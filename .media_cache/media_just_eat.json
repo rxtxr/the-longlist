@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/6169/6169240001_8a302c4f78_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/16b100a0-5267-47ec-8cfa-188a4674d88a/thumb/",
+    "caption": "Why Wouldn't You Just Eat an Egg?",
+    "license": "CC BY-NC 2.0",
+    "artist": "Chiot's Run",
+    "source_url": "https://www.flickr.com/photos/34912142@N03/6169240001",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/52406890285_f25bd6b71c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e68b96e2-1240-494c-958d-341e01c14065/thumb/",
+    "caption": "05102022confdeP-Just Eat-16",
+    "license": "CC BY-NC 2.0",
+    "artist": "www.force-ouvriere.fr",
+    "source_url": "https://www.flickr.com/photos/53678873@N05/52406890285",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "mNHe1RhSm0o",
+    "embed_url": "https://www.youtube-nocookie.com/embed/mNHe1RhSm0o",
+    "thumb_url": "https://img.youtube.com/vi/mNHe1RhSm0o/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=mNHe1RhSm0o",
+    "caption": "Just Eat: From basement to billions | CNBC International",
+    "duration": "5:11",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=mNHe1RhSm0o",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

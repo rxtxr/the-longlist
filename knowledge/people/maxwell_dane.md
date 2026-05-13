@@ -64,7 +64,7 @@ wave: 12
 ---
 
 ## Überblick
-Maxwell "Mac" Dane war mehr als nur Mitgründer der legendären Werbeagentur [[Doyle Dane Bernbach]] — er war der Mann hinter den Kulissen, der das finanzielle und organisatorische Fundament schuf, auf dem die kreative Revolution der Werbung erst möglich wurde[1][3][4][5]. Während seine Partner [[Bill Bernbach]] und [[Ned Doyle]] im Rampenlicht standen, sorgte Dane als geschäftstüchtiger Manager dafür, dass die visionären Ideen auch kommerziell erfolgreich waren[4].
+Maxwell "Mac" Dane war der Mann hinter den Kulissen, der das finanzielle und organisatorische Fundament schuf, auf dem die kreative Revolution der Werbung erst möglich wurde[1][3][4][5]. Während seine Partner [[Bill Bernbach]] und [[Ned Doyle]] im Rampenlicht standen, sorgte Dane als geschäftstüchtiger Manager dafür, dass die visionären Ideen auch kommerziell erfolgreich waren[4].
 
 ## Historischer Kontext
 Als Dane 1949 DDB gründete, herrschte in der US-Werbebranche eine Ära der bombastischen Verkaufssprüche und übertriebener Produktversprechen[ungesichert]. Die Wirtschaft boomte nach dem Krieg, doch die Werbung war oft laut, aufdringlich und wenig kreativ[ungesichert]. In diese Welt platzierten Dane und seine Partner einen völlig neuen Ansatz: Werbung, die auf Intelligenz, Humor und Respekt vor dem Verbraucher setzte[4]. Die Quellenlage hierzu ist dünn — [ungesichert], aber dieser Kontrast zum damaligen Werbestil erklärt den revolutionären Charakter von DDB.

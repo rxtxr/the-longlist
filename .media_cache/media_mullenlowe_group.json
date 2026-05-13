@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3244/2773766071_b4928efe3e_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/133ea4f2-d655-47fb-8bc4-bcda06c8fd87/thumb/",
+    "caption": "History Makers 'James R. Ford'",
+    "license": "CC BY 2.0",
+    "artist": "TRFPhotography",
+    "source_url": "https://www.flickr.com/photos/14819299@N00/2773766071",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 685
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2857/12831938593_65a9baf5c7_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/59356485-7495-483b-a521-f2f3211f09b1/thumb/",
+    "caption": "To whom it may concern; enjoy Carnaval !!!",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Fr@ηk",
+    "source_url": "https://www.flickr.com/photos/56936646@N07/12831938593",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1012,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "SseStns20xE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/SseStns20xE",
+    "thumb_url": "https://img.youtube.com/vi/SseStns20xE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=SseStns20xE",
+    "caption": "Unilever Magnum | Stick to the Original | LOLA MullenLowe",
+    "duration": "1:17",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=SseStns20xE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

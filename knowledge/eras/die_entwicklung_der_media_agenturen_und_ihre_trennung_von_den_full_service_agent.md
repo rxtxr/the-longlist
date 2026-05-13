@@ -22,7 +22,7 @@ wave: 2
 ---
 
 ## Überblick
-Die Trennung der Media-Agenturen von den klassischen Full-Service-Agenturen ab den 1990er Jahren war eine der tiefgreifendsten Revolutionen in der Werbebranche [ungesichert]. Es war der Moment, in dem die Medienplanung und -vermarktung erwachsen wurde und sich von der kreativen Konzeption emanzipierte. Dieser Prozess veränderte nicht nur Arbeitsabläufe, sondern verschob die Machtverhältnisse in der gesamten Branche [ungesichert] und schuf eine neue Generation von Daten-getriebenen Giganten, die heute das Werbegeschäft dominieren [ungesichert].
+Die Trennung der Media-Agenturen von den klassischen Full-Service-Agenturen ab den 1990er Jahren war eine der tiefgreifendsten Revolutionen in der Werbebranche. Es war der Moment, in dem die Medienplanung und -vermarktung erwachsen wurde und sich von der kreativen Konzeption emanzipierte. Dieser Prozess veränderte die Arbeitsabläufe und verschob die Machtverhältnisse in der gesamten Branche. Er schuf eine neue Generation von Daten-getriebenen Giganten, die heute das Werbegeschäft dominieren.
 
 ## Historischer Kontext
 Die Welt der Werbung befand sich in den frühen 1990er Jahren im Umbruch. Während die traditionellen Full-Service-Agenturen noch nach dem alten Modell arbeiteten — kreative Konzeption, Text, Grafik und Mediaplanung unter einem Dach —, brach eine neue Medienrealität herein. Das Privatfernsehen (RTL, Sat.1) war in Deutschland etabliert, das Internet stand kurz davor, kommerziell zu werden [ungesichert]. Plötzlich gab es nicht mehr nur eine Handvoll Werbeträger, sondern Dutzende TV-Sender, Hunderte Zeitschriften und bald unzählige digitale Kanäle.

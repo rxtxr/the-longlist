@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3484/3795967299_7d916b66f2_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/5e681118-7d4c-4be3-a7cf-714f68e8d655/thumb/",
+    "caption": "1957 Revlon Satin Set",
+    "license": "CC BY-NC 2.0",
+    "artist": "clotho98",
+    "source_url": "https://www.flickr.com/photos/34382775@N06/3795967299",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 749,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3446/3795967309_e41a6d8766_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e8038147-2f0a-45e5-b70e-01f6e12384e7/thumb/",
+    "caption": "1957 Revlon Nail Enamel",
+    "license": "CC BY-NC 2.0",
+    "artist": "clotho98",
+    "source_url": "https://www.flickr.com/photos/34382775@N06/3795967309",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 725,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "t1WX9znN7CE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/t1WX9znN7CE",
+    "thumb_url": "https://img.youtube.com/vi/t1WX9znN7CE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=t1WX9znN7CE",
+    "caption": "Revlon Charlie Commercial (April 2, 1979)",
+    "duration": "0:30",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=t1WX9znN7CE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

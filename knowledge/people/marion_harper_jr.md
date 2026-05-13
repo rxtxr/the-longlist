@@ -28,7 +28,7 @@ wave: 5
 ---
 
 ## Überblick
-Marion Harper Jr. war mehr als nur ein Werbepionier – er war der Architekt der modernen Agenturlandschaft. Sein Name steht für eine der kühnsten Revolutionen in der Werbebranche: die Erfindung des ersten Werbeholdingkonzerns [[Interpublic]] (IPG). Harper verwandelte die Werbung von einem kreativen Handwerk in eine strategische Wissenschaft, bezahlte dafür aber am Ende mit seiner eigenen Karriere [5][7][8].
+Marion Harper Jr. war der Architekt der modernen Agenturlandschaft. Sein Name steht für eine der kühnsten Revolutionen in der Werbebranche: die Erfindung des ersten Werbeholdingkonzerns [[Interpublic]] (IPG). Harper verwandelte die Werbung von einem kreativen Handwerk in eine strategische Wissenschaft, bezahlte dafür aber am Ende mit seiner eigenen Karriere [5][7][8].
 
 ## Historischer Kontext
 Harper prägte die Werbebranche in der Boom-Ära nach dem Zweiten Weltkrieg. Amerika erlebte ein Wirtschaftswunder, Konsumgüter strömten auf den Markt und Werbung wurde zum Treibstoff des Kapitalismus. In dieser Zeit des unbegrenzten Wachstumsglaubens fand Harpers visionärer – und manchmal rücksichtsloser – Expansionsdrang seinen idealen Nährboden [ungesichert].

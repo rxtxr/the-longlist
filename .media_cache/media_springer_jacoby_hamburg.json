@@ -1,0 +1,30 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4083/4989058067_bc83ba34db_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/abb66665-8b8d-4a77-8633-5c43da41c10a/thumb/",
+    "caption": "»Schulterblick« in Berlin",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "DESIGNERDOCK",
+    "source_url": "https://www.flickr.com/photos/48700666@N04/4989058067",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "777R2gMeryI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/777R2gMeryI",
+    "thumb_url": "https://img.youtube.com/vi/777R2gMeryI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=777R2gMeryI",
+    "caption": "PODCAST with Proud@Work  - aka. Advertising legends Reinhard Springer & Konstantin Jacoby",
+    "duration": "3:14",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=777R2gMeryI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

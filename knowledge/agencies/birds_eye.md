@@ -56,7 +56,7 @@ wave: 25
 ---
 
 ## Überblick
-Birds Eye war eine der einflussreichsten und rebellischsten Werbeagenturen der deutschen Nachkriegsära. In einer Zeit, als Werbung oft noch steif und belehrend war, brachten sie einen revolutionären Geist in die Branche – frech, intellektuell und provokant. Sie waren die kreative Avantgarde, die bewies, dass Werbung nicht nur Waren verkaufen, sondern auch unterhalten, aufregen und den Zeitgeist einfangen kann. Ihre Kampagnen wurden zu gesellschaftlichen Diskussionsthemen und prägten eine ganze Generation von Kreativen.
+Birds Eye war eine der einflussreichsten und rebellischsten Werbeagenturen der deutschen Nachkriegsära. In einer Zeit, als Werbung oft noch steif und belehrend war, brachten sie einen revolutionären Geist in die Branche – frech, intellektuell und provokant. Sie waren die kreative Avantgarde, die bewies, dass Werbung unterhalten, aufregen und den Zeitgeist einfangen kann. Ihre Kampagnen wurden zu gesellschaftlichen Diskussionsthemen und prägten eine ganze Generation von Kreativen.
 
 ## Historischer Kontext
 Die Agentur entstand im Aufbruchsklima der späten 1960er Jahre. Die Bundesrepublik hatte das Wirtschaftswunder hinter sich, die Konsumgesellschaft blühte auf, und junge Leute rebellierten gegen die verkrusteten Strukturen der Nachkriegszeit. Während große, etablierte [[Scholz & Friends|Agenturen]] oft noch in steifen Tonlagen kommunizierten, brach Birds Eye mit allen Konventionen. Sie waren Teil einer internationalen Bewegung, inspiriert von der kreativen Revolution [[Doyle Dane Bernbach|Doyle Dane Bernbachs]] in New York, entwickelten aber einen spezifisch deutschen, schärferen und intellektuelleren Tonfall.

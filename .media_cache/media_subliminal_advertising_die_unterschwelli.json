@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2465/32799633151_baeff28998_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/15ac17f4-9f6f-460e-85cf-fd0e41a02474/thumb/",
+    "caption": "Subliminal Advertising",
+    "license": "CC0 1.0",
+    "artist": "Clay Fraser",
+    "source_url": "https://www.flickr.com/photos/56597497@N06/32799633151",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "public_domain",
+    "width": 1024,
+    "height": 698
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/49/158367318_a281483c37_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/cbd57c4f-4173-40b6-9623-3dfa3983a3a9/thumb/",
+    "caption": "Subliminal advertising",
+    "license": "CC BY-NC 2.0",
+    "artist": "unsure shot",
+    "source_url": "https://www.flickr.com/photos/46162062@N00/158367318",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "3URM9GtDQHM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/3URM9GtDQHM",
+    "thumb_url": "https://img.youtube.com/vi/3URM9GtDQHM/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=3URM9GtDQHM",
+    "caption": "Now that is a 70's T. V. commercial Full of subliminal Messaging",
+    "duration": "0:34",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=3URM9GtDQHM",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

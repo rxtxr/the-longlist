@@ -45,7 +45,7 @@ wave: 16
 ---
 
 ## Überblick
-Charlie Munger war mehr als nur der zweite Mann hinter [[Warren Buffett]] — er war der architektonische Denker, der das Investmenthaus [[Berkshire Hathaway]] von einem Textilrest in einen globalen Giganten verwandelte. Sein Vermächtnis liegt nicht nur in Milliardenrenditen, sondern in einer radikal rationalen Philosophie, die Generationen von Investoren lehrte, wie man denkt, nicht was man denkt.
+Charlie Munger war der architektonische Denker, der das Investmenthaus [[Berkshire Hathaway]] von einem Textilrest in einen globalen Giganten verwandelte. Sein Vermächtnis liegt in einer radikal rationalen Philosophie, die Generationen von Investoren lehrte, wie man denkt, nicht was man denkt.
 
 ## Historischer Kontext
 Mungers Leben spannte sich über ein Jahrhundert amerikanischer Wirtschaftsgeschichte: von der Großen Depression, die seine Kindheit prägte, über den Nachkriegsboom, in dem er seine Karriere startete, bis hin zur Dotcom-Blase und Finanzkrise 2008, die seine skeptische Haltung gegenüber Spekulation und komplexen Derivaten immer wieder bestätigten. In einer Ära, die zunehmend von kurzfristigem Denken, Quartalsberichten und Hochfrequenzhandel geprägt war, verkörperte er das Gegenteil: die Kunst des langfristigen, disziplinierten Wartens auf die wirklich großen Chancen.

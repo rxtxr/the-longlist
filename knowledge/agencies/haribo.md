@@ -61,7 +61,7 @@ wave: 6
 ---
 
 ## Überblick
-Haribo ist nicht einfach nur ein deutscher Süßwarenhersteller – es ist eine kulinarische Institution, die die Art und Weise, wie die Welt Naschwerk konsumiert, revolutioniert hat. 1920 im beschaulichen Bonn gegründet, schuf das Unternehmen nicht nur eine Marke, sondern eine ganze Produktkategorie: die weltberühmten Gummibärchen. Die ikonischen Goldbären sind heute aus kaum einer Süßigkeitenschale wegzudenken und gehören zur kulturellen DNA Deutschlands wie Bratwurst und Oktoberfest [1][2][9].
+Haribo ist eine kulinarische Institution, die die Art und Weise, wie die Welt Naschwerk konsumiert, revolutioniert hat. 1920 im beschaulichen Bonn gegründet, schuf das Unternehmen eine ganze Produktkategorie: die weltberühmten Gummibärchen. Die ikonischen Goldbären sind heute aus kaum einer Süßigkeitenschale wegzudenken und gehören zur kulturellen DNA Deutschlands wie Bratwurst und Oktoberfest [1][2][9].
 
 ## Historischer Kontext
 Gegründet in den turbulenten Anfängen der Weimarer Republik, startete Haribo in einer Zeit des Mangels mit einfachsten Mitteln. Während die Weltwirtschaft in den 1920er Jahren litt, schuf Hans Riegel sen. mit Zucker, Gelatine und viel Unternehmergeist eine kleine Süßigkeiten-Revolution [ungesichert]. Die eigentliche Blütezeit erlebte das Unternehmen jedoch in der deutschen Nachkriegszeit, als der Wohlstand wuchs und Süßigkeiten für breite Bevölkerungsschichten erschwinglich wurden [ungesichert]. Diese wirtschaftliche Dynamik ermöglichte die internationale Expansion, die Haribo zu einem globalen Phänomen machte [ungesichert].

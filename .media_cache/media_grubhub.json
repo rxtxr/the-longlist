@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2148/2263156491_2ecc03215d_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/879b04b0-8146-44fa-840f-92fa525a54a5/thumb/",
+    "caption": "Matt Maloney & Mike Evans of GrubHub Demos at Tech Cocktail 2",
+    "license": "CC BY-ND 2.0",
+    "artist": "Tech.Co (formerly Tech Cocktail)",
+    "source_url": "https://www.flickr.com/photos/20935403@N05/2263156491",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3530/3991325577_4b8bca6589_m.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/afc3e291-f89a-4282-94b0-2ee773700590/thumb/",
+    "caption": "GrubHub and Groupon perparing for battle",
+    "license": "CC BY-SA 2.0",
+    "artist": "brandonzeman",
+    "source_url": "https://www.flickr.com/photos/9987082@N04/3991325577",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 240,
+    "height": 180
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "XLgkB2vLeHE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/XLgkB2vLeHE",
+    "thumb_url": "https://img.youtube.com/vi/XLgkB2vLeHE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=XLgkB2vLeHE",
+    "caption": "GrubHub Success Story!",
+    "duration": "2:16",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=XLgkB2vLeHE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -30,7 +30,7 @@ wave: 5
 ---
 
 ## Überblick
-Shirley Polykoff war nicht nur eine einflussreiche Copywriterin der US-Werbegeschichte, sondern eine regelrechte Pionierin, die mit einem einzigen Satz die Haarfarbe-Industrie revolutionierte und Frauen in der Werbebranche Türen einrannte, die bis dahin fest verschlossen waren [1][5][9]. Ihre legendäre Kampagne "Does She... Or Doesn't She?" für [[Clairol]] verwandelte ein Tabuthema in ein gesellschaftsfähiges Schönheitsritual und machte sie zur bestbezahlten Texterin ihrer Zeit [1][4][7].
+Shirley Polykoff war eine einflussreiche Copywriterin der US-Werbegeschichte und eine regelrechte Pionierin, die mit einem einzigen Satz die Haarfarbe-Industrie revolutionierte und Frauen in der Werbebranche Türen einrannte, die bis dahin fest verschlossen waren [1][5][9]. Ihre legendäre Kampagne "Does She... Or Doesn't She?" für [[Clairol]] verwandelte ein Tabuthema in ein gesellschaftsfähiges Schönheitsritual und machte sie zur bestbezahlten Texterin ihrer Zeit [1][4][7].
 
 ## Historischer Kontext
 Ihre Karriere fiel in die Zeit des Nachkriegsbooms in den USA [ungesichert], eine Ära des wirtschaftlichen Aufschwungs, aber auch strikter gesellschaftlicher Konventionen. In den 1950er Jahren war das öffentliche Eingeständnis, die Haare zu färben, noch ein sozialer Fauxpas – etwas für Schauspielerinnen oder Frauen von zweifelhaftem Ruf [ungesichert]. Polykoffs genialer Schachzug bestand darin, diese Scham in neugieriges Flüstern zu verwandeln.

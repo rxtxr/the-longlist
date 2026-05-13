@@ -55,7 +55,7 @@ wave: 10
 ---
 
 ## Überblick
-[[Thomas Gottschalk]] gilt als eine der prägendsten Persönlichkeiten des deutschen Fernsehens. Seine Karriere umfasst nicht nur jahrzehntelange Moderationstätigkeiten, sondern auch eine bemerkenswerte Präsenz in der Werbebranche. Besonders bekannt wurde seine fast ein Vierteljahrhundert andauernde Partnerschaft mit [[Haribo]], die als einer der längsten Werbeverträge der Geschichte gilt [ungesichert]. Gottschalks Werbeauftritte zeichneten sich durch seine unverwechselbare Art und seine Fähigkeit aus, Marken sympathisch und nahbar zu machen [ungesichert].
+[[Thomas Gottschalk]] gilt als eine der prägendsten Persönlichkeiten des deutschen Fernsehens. Seine Karriere umfasst jahrzehntelange Moderationstätigkeiten und eine bemerkenswerte Präsenz in der Werbebranche. Seine fast ein Vierteljahrhundert andauernde Partnerschaft mit [[Haribo]] gilt als einer der längsten Werbeverträge der Geschichte [ungesichert]. Gottschalks Werbeauftritte zeichnen sich durch seine unverwechselbare Art und seine Fähigkeit aus, Marken sympathisch und nahbar zu machen [ungesichert].
 
 ## Historischer Kontext
 In den 1980er und 1990er Jahren wurde die deutsche Werbebranche zunehmend von prominenten Gesichtern dominiert. Gottschalk, der bereits durch Shows wie "Wetten, dass..?" einem breiten Publikum bekannt war, nutzte seine Popularität, um Werbeverträge abzuschließen [ungesichert]. Diese Zeit war geprägt von einer wachsenden Bedeutung von Celebrity-Marketing, bei dem die Identifikation des Publikums mit den Stars im Vordergrund stand [ungesichert].

@@ -21,7 +21,7 @@ wave: 1
 ---
 
 ## Überblick
-Die Debatte um Ethik in der Werbung ist mehr als nur eine Fachdiskussion — es ist ein Spiegel unserer Gesellschaft. Seit Werbung existiert, kämpft sie mit dem Vorwurf der Manipulation, der Täuschung, der moralischen Grenzüberschreitung. Dieser fortwährende Diskurs zeigt: Werbung verkauft nicht nur Produkte, sie verkauft auch Werte, prägt Verhaltensmuster und greift tief in das soziale Gefüge ein. Es ist ein Kampf zwischen kreativer Freiheit und gesellschaftlicher Verantwortung, zwischen Profitstreben und Moral.
+Die Debatte um Ethik in der Werbung ist ein Spiegel unserer Gesellschaft. Seit Werbung existiert, kämpft sie mit dem Vorwurf der Manipulation, der Täuschung, der moralischen Grenzüberschreitung. Dieser fortwährende Diskurs zeigt: Werbung verkauft Produkte und Werte, prägt Verhaltensmuster und greift tief in das soziale Gefüge ein. Es ist ein Kampf zwischen kreativer Freiheit und gesellschaftlicher Verantwortung, zwischen Profitstreben und Moral.
 
 ## Historischer Kontext
 Die Kritik an Werbung ist so alt wie die Werbung selbst. Doch mit der Industrialisierung und dem Aufkommen des modernen [[Mass Marketing]] Ende des 19. Jahrhunderts wurde aus vereinzelter Kritik ein gesellschaftlicher Diskurs. Die Professionalisierung der [[Werbung 1880-1920|Werbeagenturen ab 1880]] schuf neue, mächtige Werkzeuge der Überzeugung — und damit auch neue Ängste. Plötzlich konnten irreführende Versprechen und manipulative Techniken Millionen erreichen. Die Debatten wurden immer von drei Kräften befeuert: wirtschaftlichen Interessen (Wachstum vs. Verbraucherschutz), technologischen Neuerungen (vom Fernsehen zum Internet) und kulturellen Verschiebungen (wie der 68er-Bewegung).

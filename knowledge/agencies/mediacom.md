@@ -41,7 +41,7 @@ wave: 17
 ---
 
 ## Überblick
-MediaCom ist mehr als nur eine globale Mediaagentur – sie ist eine der prägenden Institutionen der Werbebranche. Als Teil der [[WPP]] Group spezialisiert sie sich auf Mediaplanung und -einkauf und zählt zu den größten Playern weltweit. Doch ihre eigentliche Bedeutung liegt darin, dass sie das strategische Media-Management als eigenständige Disziplin etablierte und professionalisierte. MediaCom verwandelte den Mediaeinkauf von einer reinen Kaufhaus-Operation in eine wissenschaftlich fundierte Strategiearbeit.
+MediaCom ist eine der prägenden Institutionen der Werbebranche. Als Teil der [[WPP]] Group spezialisiert sie sich auf Mediaplanung und -einkauf und zählt zu den größten Playern weltweit. Ihre eigentliche Bedeutung liegt darin, dass sie das strategische Media-Management als eigenständige Disziplin etablierte und professionalisierte. MediaCom verwandelte den Mediaeinkauf von einer reinen Kaufhaus-Operation in eine wissenschaftlich fundierte Strategiearbeit.
 
 ## Historischer Kontext
 Die Geburtsstunde von MediaCom fiel in eine Zeit der medialen Revolution. Die 1980er und 1990er Jahre brachten eine Explosion der Medienkanäle: Privatfernsehen entstand, Zeitschriftenmärkte splitteten sich in immer speziellere Zielgruppenhefte auf, und erste digitale Kanäle kündigten sich am Horizont an. Werbetreibende standen plötzlich vor der Frage: Wie verteilt man ein Budget sinnvoll über Dutzende Kanäle? Die Antwort war die Spezialisierung – und MediaCom war einer der ersten Profiteure dieses Trends. [ungesichert]

@@ -70,7 +70,7 @@ wave: 23
 ---
 
 ## Überblick
-John Warnock war nicht nur Mitbegründer von Adobe Systems, sondern der visionäre Ingenieur, der mit [[PostScript]] die Druckerpresse neu erfand. Seine Entwicklung der Seitenbeschreibungssprache revolutionierte das [[Desktop Publishing]] und machte aus dem Computer ein Werkzeug für kreative Professionen [1][10]. Warnock verwandelte komplexe Druckertechnologie in eine universelle Sprache – und veränderte damit für immer, wie wir Gedanken zu Papier bringen.
+John Warnock war Mitbegründer von Adobe Systems und der visionäre Ingenieur, der mit [[PostScript]] die Druckerpresse neu erfand. Seine Entwicklung der Seitenbeschreibungssprache revolutionierte das [[Desktop Publishing]] und machte aus dem Computer ein Werkzeug für kreative Professionen [1][10]. Warnock verwandelte komplexe Druckertechnologie in eine universelle Sprache – und veränderte damit für immer, wie wir Gedanken zu Papier bringen.
 
 ## Historischer Kontext
 Warnocks Karriere fiel in die wilden Jahre des digitalen Aufbruchs (1970er–1990er). In [[Xerox PARC]], dem legendären Forschungslabor, wo er mit [[Charles Geschke]] arbeitete, entstanden die ersten grafischen Oberflächen und Druckertreiber – doch sie blieben gefangen in teuren Proprietärsystemen [1][2]. Wirtschaftlich trieb der rasante Aufstieg des [[Personal Computer]] (Apple, IBM) die Nachfrage nach benutzerfreundlicher Software für Designer, Setzer und Drucker voran [ungesichert]. Die Welt stand kurz davor, digital zu denken – doch es fehlte die Brücke zwischen Bildschirm und Papier.

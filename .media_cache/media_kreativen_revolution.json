@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/1955_-_Hipp_Building_History_-_24_May_MC_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/1955_-_Hipp_Building_History_-_24_May_MC_-_Allentown_PA.jpg/500px-1955_-_Hipp_Building_History_-_24_May_MC_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Hipp Building History - 24 May MC - Allentown PA",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A1955%20-%20Hipp%20Building%20History%20-%2024%20May%20MC%20-%20Allentown%20PA.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 2426,
+    "height": 1644
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jackie_Robinson%2C_Brooklyn_Dodgers%2C_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jackie_Robinson%2C_Brooklyn_Dodgers%2C_1954.jpg/500px-Jackie_Robinson%2C_Brooklyn_Dodgers%2C_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Jackie Robinson of the Brooklyn Dodgers, posed and ready to swing",
+    "license": "Public domain",
+    "artist": "Photo by Bob Sandberg, Look photographer\nRestoration by Adam Cuerden",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJackie%20Robinson%2C%20Brooklyn%20Dodgers%2C%201954.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 3234,
+    "height": 4146
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "vvXzPmGpe8M",
+    "embed_url": "https://www.youtube-nocookie.com/embed/vvXzPmGpe8M",
+    "thumb_url": "https://img.youtube.com/vi/vvXzPmGpe8M/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=vvXzPmGpe8M",
+    "caption": "The Golden Age of Advertising | History is Our Story | J.P. Morgan",
+    "duration": "3:37",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=vvXzPmGpe8M",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

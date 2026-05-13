@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2413/5819430128_a395f5df9a.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/63abfdf4-b48b-4878-a9db-1a00b5d8832e/thumb/",
+    "caption": "Smirnoff-Absolut Vodka Reversion",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "The Logo Smith",
+    "source_url": "https://www.flickr.com/photos/49734147@N00/5819430128",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 278
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/200/501492239_d493cc5c30_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/3b0edf72-27af-4d80-8cb1-86dbcb8746df/thumb/",
+    "caption": "Smirnoff at Avebury",
+    "license": "CC BY-SA 2.0",
+    "artist": "electricinca",
+    "source_url": "https://www.flickr.com/photos/44124390413@N01/501492239",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "xswnJjMIB8U",
+    "embed_url": "https://www.youtube-nocookie.com/embed/xswnJjMIB8U",
+    "thumb_url": "https://img.youtube.com/vi/xswnJjMIB8U/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=xswnJjMIB8U",
+    "caption": "Smirnoff Commercial",
+    "duration": "1:01",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=xswnJjMIB8U",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

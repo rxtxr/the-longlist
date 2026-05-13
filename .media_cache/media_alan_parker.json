@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4034/4225501043_1b11a2d95a.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/63d0ed57-e742-4b2d-b746-34e238114eaf/thumb/",
+    "caption": "Sarah Jessica Parker",
+    "license": "CC BY 2.0",
+    "artist": "Alan Light",
+    "source_url": "https://www.flickr.com/photos/42274165@N00/4225501043",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 316,
+    "height": 500
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3899/14723582239_a4b1e91b2c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/b1069c21-e358-49de-bf9d-b2772e61cf38/thumb/",
+    "caption": "Alan Parker filming a Hamlet advert at Wimbledon, April 1974",
+    "license": "CC BY 2.0",
+    "artist": "whatsthatpicture",
+    "source_url": "https://www.flickr.com/photos/24469639@N00/14723582239",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 420
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "q0FL2U-q3js",
+    "embed_url": "https://www.youtube-nocookie.com/embed/q0FL2U-q3js",
+    "thumb_url": "https://img.youtube.com/vi/q0FL2U-q3js/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=q0FL2U-q3js",
+    "caption": "Alan Parker on the actor/director dynamic | TCM Interviews | TCM",
+    "duration": "1:37",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=q0FL2U-q3js",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

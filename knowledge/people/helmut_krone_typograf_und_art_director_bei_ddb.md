@@ -66,8 +66,7 @@ wave: 20
 ---
 
 ## Überblick
-
-Helmut Krone war einer der einflussreichsten [[Art Director]]s der Werbegeschichte, der über drei Jahrzehnte bei [[Doyle Dane Bernbach]] (DDB) arbeitete und als Pionier der modernen Werbung gilt. Sein Name ist untrennbar mit der ikonischen "Think Small"-Kampagne für [[Volkswagen]] verbunden, die nicht nur den Käfer zum Kultauto machte, sondern die gesamte Branche revolutionierte. Krone brachte eine radikal neue Design-Ästhetik in die Werbung – reduziert, ehrlich und intelligent – und wurde damit zum Vorbild für Generationen von Kreativen.
+Helmut Krone war einer der einflussreichsten [[Art Director]]s der Werbegeschichte, der über drei Jahrzehnte bei [[Doyle Dane Bernbach]] (DDB) arbeitete und als Pionier der modernen Werbung gilt. Sein Name ist untrennbar mit der ikonischen "Think Small"-Kampagne für [[Volkswagen]] verbunden, die den Käfer zum Kultauto machte und die gesamte Branche revolutionierte. Krone brachte eine radikal neue Design-Ästhetik in die Werbung – reduziert, ehrlich und intelligent – und wurde damit zum Vorbild für Generationen von Kreativen.
 
 ## Historischer Kontext
 

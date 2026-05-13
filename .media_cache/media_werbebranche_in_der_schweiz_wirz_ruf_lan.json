@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7324/27236284680_60d2ec7f55_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/29a06c75-ee99-4ebd-b63e-118fcc5d573a/thumb/",
+    "caption": "Domestic Science Rural School float, Australia Day Procession, January 1953",
+    "license": "Public Domain Mark",
+    "artist": "Queensland State Archives",
+    "source_url": "https://www.flickr.com/photos/60455048@N02/27236284680",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "public_domain",
+    "width": 1024,
+    "height": 752
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3546/3847575044_6dee70111b_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a30b1c5d-9a0f-4122-a2d5-03d3bfeff7b2/thumb/",
+    "caption": "Norman Rockwell -Boy Scout,pledge -pencil",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "x-ray delta one",
+    "source_url": "https://www.flickr.com/photos/40143737@N02/3847575044",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 753
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "7d3VAYGnXjY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/7d3VAYGnXjY",
+    "thumb_url": "https://img.youtube.com/vi/7d3VAYGnXjY/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=7d3VAYGnXjY",
+    "caption": "The History of Advertising in 60 Seconds",
+    "duration": "1:10",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=7d3VAYGnXjY",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2759/4541730201_d96602109b_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/0d5c1de5-871f-4df8-8326-8d43e5994f5a/thumb/",
+    "caption": "Patrick Demarchelier Shankbone 2010 NYC",
+    "license": "CC BY 2.0",
+    "artist": "david_shankbone",
+    "source_url": "https://www.flickr.com/photos/27865228@N06/4541730201",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 792,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Patrick_Demarchelier_2010_Tribeca_Shankbone_%28cropped%29.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/eb1d830b-3a1b-48a5-8b25-95a0f2542df8/thumb/",
+    "caption": "Patrick Demarchelier 2010 Tribeca Shankbone (cropped)",
+    "license": "CC BY 3.0",
+    "artist": "David Shankbone",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=126491923",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1254,
+    "height": 1621
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "iGQbIXeH0UQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/iGQbIXeH0UQ",
+    "thumb_url": "https://img.youtube.com/vi/iGQbIXeH0UQ/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iGQbIXeH0UQ",
+    "caption": "Making of : Patrick Demarchelier, si Dior m'était conté - Madame Figaro",
+    "duration": "0:55",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=iGQbIXeH0UQ",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

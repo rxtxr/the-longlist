@@ -66,7 +66,7 @@ wave: 9
 ---
 
 ## Überblick
-Heineken ist mehr als nur eine Biermarke – es ist eine globale Kulturikone mit niederländischen Wurzeln, die seit 1864 die Welt erobert. Was als kleine Amsterdamer Brauerei begann, gehört heute zu [[Heineken N.V.]], einem Giganten mit über 170 Biermarken weltweit [2][3]. Doch hinter dem grünen Stern verbirgt sich eine Geschichte von Unternehmergeist, mutiger Werbung und einer fast schon mythischen Marketing-Legende.
+Heineken ist eine globale Kulturikone mit niederländischen Wurzeln, die seit 1864 die Welt erobert. Was als kleine Amsterdamer Brauerei begann, gehört heute zu [[Heineken N.V.]], einem Giganten mit über 170 Biermarken weltweit [2][3]. Hinter dem grünen Stern verbirgt sich eine Geschichte von Unternehmergeist, mutiger Werbung und einer fast schon mythischen Marketing-Legende.
 
 ## Historischer Kontext
 1864 kaufte der 22-jährige [[Gerard Heineken]] die Brauerei "De Hooiberg" ("Heuhaufen") in Amsterdam – ein gewagter Schritt für einen jungen Mann, der eigentlich aus einer Bankiersfamilie stammte [7]. Sein Antrieb war visionär: Er wollte nicht nur lokales Bier brauen, sondern eine internationale Marke schaffen. Schon 1889 krönte der "Diplome de Grand Prix" auf der Pariser Weltausstellung diesen Ehrgeiz [7]. Während andere Brauer regional dachten, exportierte Heineken bereits in den frühen Jahren nach Afrika – ein ungewöhnlich früher Globalisierungsdrink [7].

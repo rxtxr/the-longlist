@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/BBDO_Group.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBDO_Group.png/500px-BBDO_Group.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Логотип группы компаний BBDO Group",
+    "license": "Public domain",
+    "artist": "BBDO Group",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABBDO%20Group.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1434,
+    "height": 643
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Boris_Bernaskoni_BBDO-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Boris_Bernaskoni_BBDO-01.jpg/500px-Boris_Bernaskoni_BBDO-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Boris Bernaskoni. Office BBDO-MOSCOW.",
+    "license": "CC BY-SA 3.0",
+    "artist": "Bernaskoni Ltd.",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABoris%20Bernaskoni%20BBDO-01.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 1181,
+    "height": 848
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "znjx1ShiULw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/znjx1ShiULw",
+    "thumb_url": "https://img.youtube.com/vi/znjx1ShiULw/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=znjx1ShiULw",
+    "caption": "Generating ideas for business: BBDO Worldwide's Andrew Robertson on the secrets of creativity",
+    "duration": "9:33",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=znjx1ShiULw",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

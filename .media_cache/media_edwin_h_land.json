@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Catalogue_of_the_library_of_Edwin_Forrest_%28IA_catalogueoflibra00forrrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Catalogue_of_the_library_of_Edwin_Forrest_%28IA_catalogueoflibra00forrrich%29.pdf/page1-500px-Catalogue_of_the_library_of_Edwin_Forrest_%28IA_catalogueoflibra00forrrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Subjects:",
+    "license": "Public domain",
+    "artist": "Forrest, Edwin, 1806-1872\nSabin, Joseph, 1821-1881",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACatalogue%20of%20the%20library%20of%20Edwin%20Forrest%20%28IA%20catalogueoflibra00forrrich%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 866,
+    "height": 1439
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Edwin_Booth_and_his_contemporaries_%28IA_edwinboothhiscon00mattrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Edwin_Booth_and_his_contemporaries_%28IA_edwinboothhiscon00mattrich%29.pdf/page1-500px-Edwin_Booth_and_his_contemporaries_%28IA_edwinboothhiscon00mattrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Subjects:",
+    "license": "Public domain",
+    "artist": "Matthews, Brander, 1852-1929",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEdwin%20Booth%20and%20his%20contemporaries%20%28IA%20edwinboothhiscon00mattrich%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 714,
+    "height": 1100
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "9GHZgmyAjks",
+    "embed_url": "https://www.youtube-nocookie.com/embed/9GHZgmyAjks",
+    "thumb_url": "https://img.youtube.com/vi/9GHZgmyAjks/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=9GHZgmyAjks",
+    "caption": "Edwin Land of Polaroid discussing the idea of a folding instant camera which became the SX-70.",
+    "duration": "2:17",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=9GHZgmyAjks",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4391/37049668836_2fba851feb_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/614713fc-7538-41f6-bdcb-44456b4e4c8c/thumb/",
+    "caption": "Goodbye Yahoo",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "pxlline",
+    "source_url": "https://www.flickr.com/photos/129097355@N02/37049668836",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3268/2549557680_db04d49ebd_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/3e65482d-d265-41b7-96b5-a304177de21f/thumb/",
+    "caption": "Yahoo! 'Happy hour in a box'",
+    "license": "CC BY-NC 2.0",
+    "artist": "@superamit",
+    "source_url": "https://www.flickr.com/photos/48600091327@N01/2549557680",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "swBLc0jmM8g",
+    "embed_url": "https://www.youtube-nocookie.com/embed/swBLc0jmM8g",
+    "thumb_url": "https://img.youtube.com/vi/swBLc0jmM8g/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=swBLc0jmM8g",
+    "caption": "Yahoo! The Company That Won't Die",
+    "duration": "26:38",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=swBLc0jmM8g",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

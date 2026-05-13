@@ -37,7 +37,7 @@ wave: 7
 ---
 
 ## Überblick
-De Beers ist mehr als ein Diamantenunternehmen – es ist ein Lehrstück über die Macht der Werbung, gesellschaftliche Normen zu formen. Durch die geniale "A Diamond Is Forever"-Kampagne der Agentur [[N.W. Ayer & Son]] gelang es dem Konzern, einen simplen Kohlenstoffkristall zum unverzichtbaren Symbol ewiger Liebe zu erheben [2][3][6]. Was als Rettungsaktion für einen kriselnden Luxusmarkt begann, wurde zur vielleicht einflussreichsten Werbestrategie des 20. Jahrhunderts – ein perfektes Beispiel dafür, wie man nicht nur Produkte verkauft, sondern Mythen schafft.
+De Beers ist ein Lehrstück über die Macht der Werbung, gesellschaftliche Normen zu formen. Durch die geniale "A Diamond Is Forever"-Kampagne der Agentur [[N.W. Ayer & Son]] gelang es dem Konzern, einen simplen Kohlenstoffkristall zum unverzichtbaren Symbol ewiger Liebe zu erheben [2][3][6]. Was als Rettungsaktion für einen kriselnden Luxusmarkt begann, wurde zur einflussreichsten Werbestrategie des 20. Jahrhunderts – ein perfektes Beispiel dafür, wie man Produkte verkauft und Mythen schafft.
 
 ## Historischer Kontext
 Die Welt der späten 1930er Jahre war geprägt von den Nachwehen der Weltwirtschaftskrise. Luxusgüter wie Diamanten waren für die meisten Menschen unerreichbar geworden, der Markt lag danieder [6]. In dieser düsteren Zeit stand De Beers vor einer existenziellen Frage: Wie verkauft man Steine, die niemand braucht? Die gesellschaftliche Etablierung des Verlobungsrings als zentrales Ritual in westlichen Gesellschaften [ungesichert] war noch längst nicht gegeben – genau diese Lücke sollte die Kampagne füllen.

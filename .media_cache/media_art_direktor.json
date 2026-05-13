@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2190/1827581393_e434430cb4_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/76be5ae6-e2e5-4181-8854-395fbe1b6f72/thumb/",
+    "caption": "Dahlie / dahlia 'Gina Lombaert'",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "pittigliani2005",
+    "source_url": "https://www.flickr.com/photos/37925259@N00/1827581393",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/468/18046931814_36c74a5ba0_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/fbde979f-6352-4600-9632-c5ee908726c6/thumb/",
+    "caption": "reyes urtula-lucresia faustino",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "nccaofficial",
+    "source_url": "https://www.flickr.com/photos/98584059@N05/18046931814",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 802,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "77U0bdJgFAA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/77U0bdJgFAA",
+    "thumb_url": "https://img.youtube.com/vi/77U0bdJgFAA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=77U0bdJgFAA",
+    "caption": "CREATIVE CAREERS EXPLAINED: What's the difference between a creative director and art director?",
+    "duration": "6:14",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=77U0bdJgFAA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

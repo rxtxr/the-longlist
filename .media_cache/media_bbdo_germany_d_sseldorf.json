@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2678/4146613613_d64bb9b704_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/d7498b06-a288-4f7f-af5c-4723f8142a20/thumb/",
+    "caption": "Development",
+    "license": "CC BY 2.0",
+    "artist": "Brett Jordan",
+    "source_url": "https://www.flickr.com/photos/55497864@N00/4146613613",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 724
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2705/4188064840_6ff6fc6b8e_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/79d9e6a0-6aad-4a2a-bd1a-6e6f5f4c5b21/thumb/",
+    "caption": "Black & White",
+    "license": "CC BY 2.0",
+    "artist": "Brett Jordan",
+    "source_url": "https://www.flickr.com/photos/55497864@N00/4188064840",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 818,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "MCNOxE86LM4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/MCNOxE86LM4",
+    "thumb_url": "https://img.youtube.com/vi/MCNOxE86LM4/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MCNOxE86LM4",
+    "caption": "Wella \"Gorilla\" (Why Your Hair Looks So Bad in the Morning) Commercial 1998",
+    "duration": "1:06",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=MCNOxE86LM4",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

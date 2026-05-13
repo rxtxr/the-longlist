@@ -58,7 +58,7 @@ wave: 20
 ---
 
 ## Überblick
-Grubhub ist mehr als nur eine Essensliefer-App – es ist ein Stück digitaler Kulturgeschichte. Die Plattform revolutionierte, wie Millionen von Amerikaner Essen bestellen, und wurde zum Symbol für eine neue Ära des Komforts. Ihre Entstehung erzählt von zwei jungen Gründern in Chicago, die eine simple Idee zum Milliardenbusiness machten: die Digitalisierung der zerknitterten Papier-Speisekarte. Grubhub war nicht die erste, aber eine der einflussreichsten Plattformen, die das lokale Restaurantgewerbe für immer veränderte und den Weg für Gig-Economy-Riesen wie [[DoorDash]] ebnete.
+Grubhub ist ein Stück digitaler Kulturgeschichte. Die Plattform revolutionierte, wie Millionen von Amerikanern Essen bestellen, und wurde zum Symbol für eine neue Ära des Komforts. Ihre Entstehung erzählt von zwei jungen Gründern in Chicago, die eine simple Idee zum Milliardenbusiness machten: die Digitalisierung der zerknitterten Papier-Speisekarte. Grubhub war eine der einflussreichsten Plattformen, die das lokale Restaurantgewerbe für immer veränderte und den Weg für Gig-Economy-Riesen wie [[DoorDash]] ebnete.
 
 ## Historischer Kontext
 Die Geschichte von Grubhub beginnt in einer Zeit des technologischen Aufbruchs und gesellschaftlicher Veränderungen. Die Dotcom-Blase war gerade geplatzt, doch der Glaube an das Internet war ungebrochen. Breitbandverbindungen wurden zum Standard in Haushalten, und die ersten Smartphones – allen voran das iPhone ab 2007 – verwandelten das Mobiltelefon von einem Telefoniergerät in einen ständigen Begleiter für das digitale Leben. Eine "App-Economy" entstand, getrieben von der Vision, alles auf Knopfdruck liefern zu können – von Fahrten mit [[Uber]] bis hin zum Abendessen.

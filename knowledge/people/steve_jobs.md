@@ -63,8 +63,7 @@ wave: 6
 ---
 
 ## Überblick
-
-Steve Jobs war nicht nur Technologie-Visionär, sondern auch einer der radikalsten Markenarchitekten des 20. Jahrhunderts. Seine Marketing-Philosophie revolutionierte nicht nur Apple, sondern prägte nachhaltig, wie Unternehmen weltweit über Produktpräsentation, Markenführung und Kundenbegeisterung denken. Während andere auf Marktforschung und Fokusgruppen setzten, vertraute Jobs ausschließlich auf sein Gespür für Design, Storytelling und emotionale Resonanz – und schuf so eine der kultischsten Marken der Wirtschaftsgeschichte.
+Steve Jobs war ein Technologie-Visionär und einer der radikalsten Markenarchitekten des 20. Jahrhunderts. Seine Marketing-Philosophie revolutionierte Apple und prägte nachhaltig, wie Unternehmen weltweit über Produktpräsentation, Markenführung und Kundenbegeisterung denken. Während andere auf Marktforschung und Fokusgruppen setzten, vertraute Jobs ausschließlich auf sein Gespür für Design, Storytelling und emotionale Resonanz – und schuf so eine der kultischsten Marken der Wirtschaftsgeschichte.
 
 ## Historischer Kontext
 

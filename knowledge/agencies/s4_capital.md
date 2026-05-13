@@ -46,7 +46,7 @@ wave: 16
 ---
 
 ## Überblick
-S4Capital ist mehr als nur eine Werbeholding – es ist das persönliche Comeback von [[Sir Martin Sorrell]], dem ehemaligen Kopf von [[WPP]]. Nach seinem überraschenden Ausscheiden aus dem weltgrößten Werbekonzern gründete er im Mai 2018 diese rein digitale Marketingmaschine [3][4][5]. Während traditionelle Agenturen noch über integrierte Kommunikation sprachen, baute Sorrell hier von Anfang an eine "digital-first"-Organisation, die Content, Daten und Media nahtlos verschmelzen sollte [6][7]. Es war die Antwort eines Branchendinosauriers auf das digitale Zeitalter.
+S4Capital ist das persönliche Comeback von [[Sir Martin Sorrell]], dem ehemaligen Kopf von [[WPP]]. Nach seinem überraschenden Ausscheiden aus dem weltgrößten Werbekonzern gründete er im Mai 2018 diese rein digitale Marketingmaschine [3][4][5]. Während traditionelle Agenturen noch über integrierte Kommunikation sprachen, baute Sorrell hier von Anfang an eine "digital-first"-Organisation, die Content, Daten und Media nahtlos verschmelzen sollte [6][7]. Es war die Antwort eines Branchendinosauriers auf das digitale Zeitalter.
 
 ## Historischer Kontext
 Die Gründung im Frühjahr 2018 fiel in eine Umbruchphase der Werbebranche. Während traditionelle Werbeholdings noch mit strukturellen Anpassungen kämpften, hatten digitale Plattformen bereits die Werbemärkte erobert [ungesichert]. Sorrells plötzlicher Abgang von WPP nach 33 Jahren an der Spitze war ein Schock für die Branche – doch statt sich zur Ruhe zu setzen, startete der damals 73-Jährige innerhalb weniger Wochen sein nächstes Großprojekt [3][4][9]. Die Übernahme der Börsenmantelgesellschaft Derriston Capital im Mai 2018 war dabei ein typischer Sorrell-Move: Schnell, pragmatisch und börsenwirksam [3].

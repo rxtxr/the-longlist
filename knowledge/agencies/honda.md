@@ -56,7 +56,7 @@ wave: 22
 ---
 
 ## Überblick
-Honda zählt zu den weltweit bedeutendsten Automobil- und Motorradherstellern und ist bekannt für seine Ingenieurskunst, Innovationskraft und einzigartige Unternehmenskultur. Die Geschichte des Unternehmens ist geprägt von visionären Gründern, mutigen Entscheidungen und Werbekampagnen, die nicht nur Produkte, sondern ganze Märkte veränderten.
+Honda zählt zu den weltweit bedeutendsten Automobil- und Motorradherstellern und ist bekannt für seine Ingenieurskunst, Innovationskraft und einzigartige Unternehmenskultur. Die Geschichte des Unternehmens ist geprägt von visionären Gründern, mutigen Entscheidungen und Werbekampagnen, die Produkte und ganze Märkte veränderten.
 
 ## Historischer Kontext
 Die Wurzeln Hondas reichen zurück in das Japan der Nachkriegszeit, eine Ära des Wiederaufbaus und des technologischen Aufbruchs. [ungesichert] Der Gründer **[[Soichiro Honda]]**, ein autodidaktischer Mechaniker und leidenschaftlicher Ingenieur, hatte bereits in den 1930er Jahren einen ersten Betrieb zur Herstellung von Kolbenringen gegründet. Nachdem sein Werk im Krieg zerstört wurde, startete er 1946 mit bescheidenen Mitteln das **Honda Technical Research Institute** und montierte zunächst Motorräder aus übriggebliebenen Militärmotoren und selbstgebauten Fahrgestellen. [ungesichert] 1948 gründete er offiziell die **Honda Motor Co., Ltd.** Sein Partner **[[Takeo Fujisawa]]** übernahm die kaufmännische und strategische Leitung und bildete damit das perfekte Gegengewicht zu Hondas technischer Brillanz. [ungesichert]

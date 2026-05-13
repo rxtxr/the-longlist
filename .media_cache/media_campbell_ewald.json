@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/228/497798257_af46b3c4cc.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/05f267fa-f06b-4fb2-afce-46cfb3cc4664/thumb/",
+    "caption": "Cintron 5K Run at Campbell-Ewald",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Davezilla was taken",
+    "source_url": "https://www.flickr.com/photos/29697915@N00/497798257",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 375,
+    "height": 500
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/217/497798969_95f67903a5.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/8c324d9b-89a4-4939-a044-28e37e3e14cb/thumb/",
+    "caption": "Cintron 5K Run at Campbell-Ewald",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Davezilla was taken",
+    "source_url": "https://www.flickr.com/photos/29697915@N00/497798969",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "2a8a8xHsN2c",
+    "embed_url": "https://www.youtube-nocookie.com/embed/2a8a8xHsN2c",
+    "thumb_url": "https://img.youtube.com/vi/2a8a8xHsN2c/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=2a8a8xHsN2c",
+    "caption": "Campbell Ewald | Make History",
+    "duration": "1:03",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=2a8a8xHsN2c",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

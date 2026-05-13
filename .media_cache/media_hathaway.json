@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7084/7378172036_17684f8ccd_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2ae98f65-6b82-412e-b03c-8d921dfe0e81/thumb/",
+    "caption": "Noah Hathaway",
+    "license": "CC BY-SA 2.0",
+    "artist": "Eva Rinaldi Celebrity Photographer",
+    "source_url": "https://www.flickr.com/photos/58820009@N05/7378172036",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3139/2534613996_843e0054a6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a83e0b9f-e6cf-4831-b6d7-be0213c006cf/thumb/",
+    "caption": "Anne Hathaway",
+    "license": "CC BY-NC 2.0",
+    "artist": "David Schexnaydre",
+    "source_url": "https://www.flickr.com/photos/97961401@N00/2534613996",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 737
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "fa9NeqFwP1o",
+    "embed_url": "https://www.youtube-nocookie.com/embed/fa9NeqFwP1o",
+    "thumb_url": "https://img.youtube.com/vi/fa9NeqFwP1o/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=fa9NeqFwP1o",
+    "caption": "Anne Hathaway starring in an old Cincinnati Bell commercial",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=fa9NeqFwP1o",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

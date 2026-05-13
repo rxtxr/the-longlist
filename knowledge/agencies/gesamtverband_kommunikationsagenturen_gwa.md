@@ -20,8 +20,7 @@ wave: 20
 ---
 
 ## Überblick
-
-Der Gesamtverband Kommunikationsagenturen GWA e. V. ist mehr als nur ein Branchenverband — er ist der Architekt des deutschen Werbeethos. Als mächtige Interessenvertretung formte er über sieben Jahrzehnte nicht nur die Kommunikationsbranche, sondern auch das Vertrauen der Wirtschaft in die Werbung selbst. Sein Gütesiegel wurde zum Symbol für Qualität in einer Branche, die sich stets gegen den Vorwurf der Scharlatanerie wehren musste.
+Der Gesamtverband Kommunikationsagenturen GWA e. V. ist der Architekt des deutschen Werbeethos. Als mächtige Interessenvertretung formte er über sieben Jahrzehnte die Kommunikationsbranche und das Vertrauen der Wirtschaft in die Werbung selbst. Sein Gütesiegel wurde zum Symbol für Qualität in einer Branche, die sich stets gegen den Vorwurf der Scharlatanerie wehren musste.
 
 ## Historischer Kontext
 

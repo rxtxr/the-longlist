@@ -1,0 +1,30 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3285/2696188519_4844260dd3.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/1c7c1997-5028-411e-9f83-06dc94ba0618/thumb/",
+    "caption": "Ego Splash",
+    "license": "CC BY-NC 2.0",
+    "artist": "Mr. Ocho",
+    "source_url": "https://www.flickr.com/photos/28672605@N03/2696188519",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 335
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "5t_mP43RdFs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/5t_mP43RdFs",
+    "thumb_url": "https://img.youtube.com/vi/5t_mP43RdFs/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5t_mP43RdFs",
+    "caption": "First Customer - McDonald's - Alma DDB",
+    "duration": "1:01",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=5t_mP43RdFs",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

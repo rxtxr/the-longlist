@@ -55,7 +55,7 @@ wave: 6
 ---
 
 ## Überblick
-Adobe Photoshop ist mehr als nur Software – es ist eine kulturelle Ikone, die den kreativen Prozess neu definierte. Was als kleines Universitätsprojekt begann, wurde zum unumstrittenen Industriestandard für digitale Bildbearbeitung und Grafikdesign. Photoshop revolutionierte die Art und Weise, wie Werbeagenturen, Verlage und Künstler arbeiten, indem es mühsame analoge Techniken durch intuitive digitale Werkzeuge ersetzte und dabei ein ganzes Arsenal kreativer Möglichkeiten eröffnete.
+Adobe Photoshop ist eine kulturelle Ikone, die den kreativen Prozess neu definierte. Was als kleines Universitätsprojekt begann, wurde zum unumstrittenen Industriestandard für digitale Bildbearbeitung und Grafikdesign. Photoshop revolutionierte die Art und Weise, wie Werbeagenturen, Verlage und Künstler arbeiten, indem es mühsame analoge Techniken durch intuitive digitale Werkzeuge ersetzte und dabei ein ganzes Arsenal kreativer Möglichkeiten eröffnete.
 
 ## Historischer Kontext
 Die späten 1980er Jahre waren eine Zeit des technologischen Aufbruchs. Der Desktop-Publishing-Boom hatte begonnen, und die Werbe- und Verlagswelt befand sich im Umbruch. In den Repro-Abteilungen der Agenturen herrschte noch das analoge Chaos: Lichtboxen, Skalpelle, Klebepistolen und chemische Fotolabore bestimmten den Arbeitsalltag. Jede Änderung war ein mühsamer, oft irreversibler Prozess. Gleichzeitig eroberte der Apple Macintosh die Büros und schuf die technische Basis für eine digitale Revolution. Die Branche suchte verzweifelt nach effizienteren, flexibleren und kostengünstigeren Produktionswegen – eine Marktlücke, die nur darauf wartete, gefüllt zu werden.

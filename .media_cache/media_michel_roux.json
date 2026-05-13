@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Portrait-JMR-2018-NB.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/f871fea3-557d-44a6-8a1b-a95cdf4ac66f/thumb/",
+    "caption": "Portrait-JMR-2018-NB",
+    "license": "CC BY-SA 4.0",
+    "artist": "Denis xxx",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=69224635",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1476,
+    "height": 1928
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7159/6447544055_7fa5e6ffd2_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/68d96f64-d273-47a9-a350-253a15094ae4/thumb/",
+    "caption": "Michel Roux and his scallop shell",
+    "license": "CC BY 2.0",
+    "artist": "Ben Sutherland",
+    "source_url": "https://www.flickr.com/photos/60179301@N00/6447544055",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 576
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "eVs0uwqX-x8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/eVs0uwqX-x8",
+    "thumb_url": "https://img.youtube.com/vi/eVs0uwqX-x8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=eVs0uwqX-x8",
+    "caption": "TRAILER: The Balvenie Craftsmen’s Dinner Series 3 with Michel Roux Jr.",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=eVs0uwqX-x8",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

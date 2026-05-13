@@ -46,8 +46,7 @@ wave: 25
 ---
 
 ## Überblick
-
-John Webster war der wohl einflussreichste und beliebteste Werbekreative Großbritanniens im späten 20. Jahrhundert. Mehr als nur ein Werbemacher war er ein wahrhafter Volkskünstler, der die britische Werbung aus der Welt trockener Produktversprechen in das bunte Reich der Unterhaltung und Popkultur führte. Seine geniale Begabung lag nicht im Erfinden von Slogans, sondern im Erschaffen von Welten und Charakteren, die sich tief ins kollektive Gedächtnis der Nation brannten. Für Webster war Werbung kein notwendiges Übel, sondern eine willkommene Unterbrechung des Fernsehprogramms – und er machte sie zu eben jener.
+John Webster war der wohl einflussreichste und beliebteste Werbekreative Großbritanniens im späten 20. Jahrhundert. Er war ein wahrhafter Volkskünstler, der die britische Werbung aus der Welt trockener Produktversprechen in das bunte Reich der Unterhaltung und Popkultur führte. Seine geniale Begabung lag im Erschaffen von Welten und Charakteren, die sich tief ins kollektive Gedächtnis der Nation brannten. Für Webster war Werbung eine willkommene Unterbrechung des Fernsehprogramms – und er machte sie zu eben jener.
 
 ## Historischer Kontext
 

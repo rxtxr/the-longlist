@@ -19,8 +19,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Feminist Advertising war mehr als nur ein Marketingtrend — es war eine kulturelle Revolution, die in den Werbeagenturen der 1960er und 1970er Jahre tobte. Während Frauen auf der Straße für Gleichberechtigung kämpften, entbrannte parallel in den Konferenzräumen der Madison Avenue ein ähnlicher Kampf: Kreative, vor allem Frauen, begannen sich gegen die jahrzehntelang propagierten Klischees zu wehren. Sie nutzten die Macht der Werbung nicht mehr nur zum Verkauf, sondern als Werkzeug des sozialen Wandels. Diese Bewegung veränderte nicht nur die Bilder in unseren Zeitschriften, sondern prägte nachhaltig, wie Gesellschaft über Frauenrollen dachte.
+Feminist Advertising war eine kulturelle Revolution, die in den Werbeagenturen der 1960er und 1970er Jahre tobte. Während Frauen auf der Straße für Gleichberechtigung kämpften, entbrannte parallel in den Konferenzräumen der Madison Avenue ein ähnlicher Kampf: Kreative, vor allem Frauen, begannen sich gegen die jahrzehntelang propagierten Klischees zu wehren. Sie nutzten die Macht der Werbung als Werkzeug des sozialen Wandels. Diese Bewegung veränderte die Bilder in unseren Zeitschriften und prägte nachhaltig, wie die Gesellschaft über Frauenrollen dachte.
 
 ## Historischer Kontext
 

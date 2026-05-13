@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4087/4969041252_c3652cfe6b_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/c2e74dff-fac2-4ac5-8129-aad58c92938c/thumb/",
+    "caption": "Tchibo ecobutton PCB front",
+    "license": "CC BY-SA 2.0",
+    "artist": "Uwe Hermann",
+    "source_url": "https://www.flickr.com/photos/73628542@N00/4969041252",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/49675953927_5acb31d5c6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/db9050f3-6064-4cd6-930e-ec958193aad9/thumb/",
+    "caption": "Tchibo geschlossen",
+    "license": "CC BY-SA 2.0",
+    "artist": "herr.g",
+    "source_url": "https://www.flickr.com/photos/31190570@N06/49675953927",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "m2Ha1jswryU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/m2Ha1jswryU",
+    "thumb_url": "https://img.youtube.com/vi/m2Ha1jswryU/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=m2Ha1jswryU",
+    "caption": "The History of Tchibo",
+    "duration": "1:07",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=m2Ha1jswryU",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

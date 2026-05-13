@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/447/32145532635_5b1d8bd319_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/fa34636e-ff1a-426a-a1cf-0a4d45df22dc/thumb/",
+    "caption": "Western Europe at Night",
+    "license": "CC BY-NC 2.0",
+    "artist": "NASA's Marshall Space Flight Center",
+    "source_url": "https://www.flickr.com/photos/28634332@N05/32145532635",
+    "source_label": "OpenVerse / nasa",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 682
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/186/436671445_e6485a7cdb_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a2296770-212d-4a04-b97c-3221df45a292/thumb/",
+    "caption": "Released to Public: Cleveland Volcano by Jeff Williams (NASA)",
+    "license": "Public Domain Mark",
+    "artist": "pingnews.com",
+    "source_url": "https://www.flickr.com/photos/39735679@N00/436671445",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "public_domain",
+    "width": 1000,
+    "height": 662
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "7d3VAYGnXjY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/7d3VAYGnXjY",
+    "thumb_url": "https://img.youtube.com/vi/7d3VAYGnXjY/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=7d3VAYGnXjY",
+    "caption": "The History of Advertising in 60 Seconds",
+    "duration": "1:10",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=7d3VAYGnXjY",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

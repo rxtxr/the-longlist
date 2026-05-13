@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/53/167848115_378989eca1_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/59286f3c-4eaf-4654-9592-bbef78a7bada/thumb/",
+    "caption": "DDB Worldwide - Volvo Racing Game",
+    "license": "CC BY-NC 2.0",
+    "artist": "Galaga Gal",
+    "source_url": "https://www.flickr.com/photos/99101155@N00/167848115",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 682
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/55/167848254_1e61d0b54e_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/fa1eb236-0468-41ed-9ec7-dd7b143b8b34/thumb/",
+    "caption": "Go Kitty - Luxury Water Brand - DDB Worldwide 2",
+    "license": "CC BY-NC 2.0",
+    "artist": "Galaga Gal",
+    "source_url": "https://www.flickr.com/photos/99101155@N00/167848254",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 682
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "AON5fIOzNZY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/AON5fIOzNZY",
+    "thumb_url": "https://img.youtube.com/vi/AON5fIOzNZY/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AON5fIOzNZY",
+    "caption": "Advertising Insights on Madison Avenue",
+    "duration": "2:51",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=AON5fIOzNZY",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

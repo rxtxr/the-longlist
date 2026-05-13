@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ogilvy_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ogilvy_Logo.png/500px-Ogilvy_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Logo of Ogilvy.",
+    "license": "Public domain",
+    "artist": "Collins Studio (San Francisco, CA)",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOgilvy%20Logo.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 998,
+    "height": 401
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ogilvy_new_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ogilvy_new_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "caption": "Logotype Ogilvy",
+    "license": "CC BY-SA 4.0",
+    "artist": "Logo officiel Ogilvy depuis 2018",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOgilvy%20new%20logo.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 452,
+    "height": 178
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "C2dNnZbfghE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/C2dNnZbfghE",
+    "thumb_url": "https://img.youtube.com/vi/C2dNnZbfghE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=C2dNnZbfghE",
+    "caption": "Thomas Crowther: Understanding Ecology Helps Both Nature And The Economy",
+    "duration": "7:12",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=C2dNnZbfghE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

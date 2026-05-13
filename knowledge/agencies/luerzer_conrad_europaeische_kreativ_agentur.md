@@ -27,7 +27,7 @@ wave: 1
 ---
 
 ## Überblick
-Lürzer & Conrad war eine der prägenden deutschen Kreativagenturen der 1970er Jahre, die das Werbegeschäft nachhaltig beeinflusste. Ihre 1980 vollzogene Fusion mit [[Leo Burnett]] Deutschland markierte nicht nur das Ende einer Ära, sondern schuf eine der kreativsten Verbindungen der deutschen Werbegeschichte. Aus dieser Partnerschaft gingen zwei außergewöhnliche Karrieren hervor, die die globale Werbelandschaft bis heute prägen.
+Lürzer & Conrad war eine der prägenden deutschen Kreativagenturen der 1970er Jahre, die das Werbegeschäft nachhaltig beeinflusste. Ihre 1980 vollzogene Fusion mit [[Leo Burnett]] Deutschland markierte das Ende einer Ära und schuf eine der kreativsten Verbindungen der deutschen Werbegeschichte. Aus dieser Partnerschaft gingen zwei außergewöhnliche Karrieren hervor, die die globale Werbelandschaft bis heute prägen.
 
 ## Historischer Kontext
 Die Quellenlage hierzu ist dünn — [ungesichert] — doch die späten 1970er Jahre waren in Deutschland eine Zeit des Umbruchs in der Werbebranche. Die Wirtschaftswunderjahre waren vorbei, der Wettbewerb härter geworden. Kreativität wurde zunehmend zum entscheidenden Wettbewerbsvorteil. In dieser Atmosphäre entstanden Agenturen, die nicht nur verkaufen, sondern auch unterhalten und berühren wollten. Lürzer & Conrad gehörte zu jenen Pionieren, die Werbung als künstlerische Disziplin neu dachten — [ungesichert].

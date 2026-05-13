@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/15/22250932_f3db82cf0b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/9e070772-3a4a-4eb7-b6e2-dd525b621adc/thumb/",
+    "caption": "CEO RTL Group",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "rsepulveda",
+    "source_url": "https://www.flickr.com/photos/45631076@N00/22250932",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 375,
+    "height": 500
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/RTL_Group-Logo_2026.svg",
+    "thumb_url": "https://api.openverse.org/v1/images/d18cec0f-f549-4c95-9f02-eb1342b8caed/thumb/",
+    "caption": "RTL Group-Logo 2026",
+    "license": "CC BY-SA 4.0",
+    "artist": "Maurice Safranek",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=187691357",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 512,
+    "height": 90
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "M_hNwUtWc4U",
+    "embed_url": "https://www.youtube-nocookie.com/embed/M_hNwUtWc4U",
+    "thumb_url": "https://img.youtube.com/vi/M_hNwUtWc4U/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=M_hNwUtWc4U",
+    "caption": "The RTL Digital Hub",
+    "duration": "4:12",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=M_hNwUtWc4U",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

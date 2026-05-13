@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4356/36837350800_6ce1bae03b_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/9d49238e-b53d-43d7-be0a-31f980687076/thumb/",
+    "caption": "Cassini's Final Full Image of Saturn",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Lights In The Dark",
+    "source_url": "https://www.flickr.com/photos/51027818@N05/36837350800",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 762
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4384/37073453282_087c5fab73_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/771ed94e-e72c-4b1c-b234-78efcd234f09/thumb/",
+    "caption": "Cassini's Last View of Saturn",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Lights In The Dark",
+    "source_url": "https://www.flickr.com/photos/51027818@N05/37073453282",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1016,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "cyv6ZehQyTQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/cyv6ZehQyTQ",
+    "thumb_url": "https://img.youtube.com/vi/cyv6ZehQyTQ/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=cyv6ZehQyTQ",
+    "caption": "Sega Saturn - It's Out There (1995 Launch Commercial) [HD]",
+    "duration": "8:39",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=cyv6ZehQyTQ",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

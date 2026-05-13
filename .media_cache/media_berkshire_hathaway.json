@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Berkshire_Hathaway%27s_Dual_Class_Structure_as_of_2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Berkshire_Hathaway%27s_Dual_Class_Structure_as_of_2022.png/500px-Berkshire_Hathaway%27s_Dual_Class_Structure_as_of_2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Showcases the differences in voting rights between Class A and Class B shares",
+    "license": "CC BY-SA 4.0",
+    "artist": "Cosette Michaela Koon",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABerkshire%20Hathaway%27s%20Dual%20Class%20Structure%20as%20of%202022.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 966,
+    "height": 464
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg/500px-Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Berkshire Hathaway HomeServices and Kay &amp; Co, Unit 4, 6 Pancras Square, April 2023",
+    "license": "CC BY-SA 4.0",
+    "artist": "No Swan So Fine",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABerkshire%20Hathaway%20HomeServices%2C%206%20Pancras%20Square%2C%20April%202023%2001.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 4032,
+    "height": 3024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "HUqXgl_sfYY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/HUqXgl_sfYY",
+    "thumb_url": "https://img.youtube.com/vi/HUqXgl_sfYY/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HUqXgl_sfYY",
+    "caption": "How Berkshire Hathaway Started, Grew & Became a $618 Billion Company",
+    "duration": "11:41",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=HUqXgl_sfYY",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

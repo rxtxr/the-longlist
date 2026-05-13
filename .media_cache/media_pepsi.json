@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Pepsi_355_ml%2C_591_ml%2C_and_710_ml%2C_Canada_%28obverse%29%2C_2026-03-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pepsi_355_ml%2C_591_ml%2C_and_710_ml%2C_Canada_%28obverse%29%2C_2026-03-05.jpg/500px-Pepsi_355_ml%2C_591_ml%2C_and_710_ml%2C_Canada_%28obverse%29%2C_2026-03-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Pepsi 355 ml, 591 ml, and 710 ml, Canada (obverse), 2026-03-05",
+    "license": "Public domain",
+    "artist": "Chris Woodrich",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APepsi%20355%20ml%2C%20591%20ml%2C%20and%20710%20ml%2C%20Canada%20%28obverse%29%2C%202026-03-05.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 4454,
+    "height": 5700
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pepsi_355_ml%2C_Canada_%28reverse%29%2C_2026-03-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pepsi_355_ml%2C_Canada_%28reverse%29%2C_2026-03-05.jpg/500px-Pepsi_355_ml%2C_Canada_%28reverse%29%2C_2026-03-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Pepsi 355 ml, Canada (reverse), 2026-03-05",
+    "license": "Public domain",
+    "artist": "Chris Woodrich",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APepsi%20355%20ml%2C%20Canada%20%28reverse%29%2C%202026-03-05.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 3410,
+    "height": 5185
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "XINImbZzU7I",
+    "embed_url": "https://www.youtube-nocookie.com/embed/XINImbZzU7I",
+    "thumb_url": "https://img.youtube.com/vi/XINImbZzU7I/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=XINImbZzU7I",
+    "caption": "Pepsi Vending Machine Ad",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=XINImbZzU7I",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

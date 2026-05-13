@@ -54,7 +54,7 @@ wave: 13
 ---
 
 ## Überblick
-Gianni Versace war mehr als nur ein Modeschöpfer – er war ein kultureller Stratege, der die Sprache des Luxus neu erfand. 1978 gründete er in Mailand sein gleichnamiges Modehaus [ungesichert] und schuf damit eine Marke, die für unverhohlenen Luxus, theatralische Inszenierung und eine bis dahin ungekannte Fusion von High Fashion und Popkultur stand [ungesichert]. Sein Werk revolutionierte nicht nur die Ästhetik der Mode, sondern auch deren Vermarktung: Er verstand als Erster, dass Superstars die neuen Königsmacher der Luxusbranche waren [ungesichert].
+Gianni Versace war ein kultureller Stratege, der die Sprache des Luxus neu erfand. 1978 gründete er in Mailand sein gleichnamiges Modehaus und schuf damit eine Marke, die für unverhohlenen Luxus, theatralische Inszenierung und eine bis dahin ungekannte Fusion von High Fashion und Popkultur stand. Sein Werk revolutionierte die Ästhetik der Mode und deren Vermarktung: Er verstand als Erster, dass Superstars die neuen Königsmacher der Luxusbranche waren.
 
 ## Historischer Kontext
 Versaces Aufstieg fiel in eine Zeit des radikalen Umbruchs. Die späten 1970er bis 1990er Jahre waren geprägt von wirtschaftlichem Aufschwung, einer sich liberalisierenden Gesellschaft und dem Aufkommen einer globalen Celebrity-Kultur [ungesichert]. Während andere Designer noch zurückhaltende Eleganz propagierten, feierte Versace den Exzess der 80er Jahre – seine Entwürfe wurden zur perfekten Uniform für eine Generation, die Reichtum und Sinnesfreuden offen zur Schau stellen wollte [ungesichert]. In Mailand, dem damaligen Epizentrum der Modewelt, etablierte er einen Gegenpol zu Giorgio Armanis dezentem Minimalismus [ungesichert].

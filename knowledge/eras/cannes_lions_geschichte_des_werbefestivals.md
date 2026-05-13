@@ -52,7 +52,7 @@ wave: 20
 ---
 
 ## Überblick
-Das Cannes Lions International Festival of Creativity ist der unbestrittene Olymp der Werbe- und Kommunikationsbranche [4][8]. Mehr als nur ein Festival: Es ist der globale Branchentreffpunkt, wo Jahr für Jahr die kreativen Maßstäbe neu gesetzt werden [2][5]. Hier werden nicht einfach nur Preise vergeben – hier wird Weltgeschichte der Werbung geschrieben. Die begehrten Löwen-Statuen gelten als internationaler Ritterschlag für kreative Exzellenz [ungesichert].
+Das Cannes Lions International Festival of Creativity ist der unbestrittene Olymp der Werbe- und Kommunikationsbranche [4][8]. Es ist der globale Branchentreffpunkt, wo Jahr für Jahr die kreativen Maßstäbe neu gesetzt werden [2][5]. Hier werden nicht einfach nur Preise vergeben – hier wird Weltgeschichte der Werbung geschrieben. Die begehrten Löwen-Statuen gelten als internationaler Ritterschlag für kreative Exzellenz [ungesichert].
 
 ## Historischer Kontext
 Als das Festival 1954 seine erste Ausgabe erlebte [5][10], befand sich die Werbewelt im Wandel. Der Wirtschaftsaufschwung der Nachkriegszeit befeuerte die Konsumgesellschaft, und Kino-Werbefilme erlebten ihre Blütezeit [ungesichert]. In dieser Ära der aufstrebenden Massenmedien entstand der Bedarf nach einer Plattform, die kreative Spitzenleistungen würdigen und international vergleichbar machen konnte.

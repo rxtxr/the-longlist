@@ -55,8 +55,7 @@ wave: 22
 ---
 
 ## Überblick
-
-Tiffany & Co. ist mehr als ein amerikanischer Luxusjuwelier – es ist ein kulturhistorisches Phänomen. Seit 1837 hat das Unternehmen nicht nur Diamanten und Sterling-Silber verkauft, sondern eine Vorstellung von amerikanischem Luxus geschaffen, die weltweit Resonanz fand. Die berühmte [[Tiffany Blue®]]-Verpackung, der Flagship-Store an der Fifth Avenue und die Präsenz in der Popkultur machten Tiffany zu einer Ikone, deren Strahlkraft weit über die Schmuckbranche hinausreicht [1][4].
+Tiffany & Co. ist ein kulturhistorisches Phänomen. Seit 1837 hat das Unternehmen Diamanten und Sterling-Silber verkauft und eine Vorstellung von amerikanischem Luxus geschaffen, die weltweit Resonanz fand. Die berühmte [[Tiffany Blue®]]-Verpackung, der Flagship-Store an der Fifth Avenue und die Präsenz in der Popkultur machten Tiffany zu einer Ikone, deren Strahlkraft die Schmuckbranche hinausreicht [1][4].
 
 ## Historischer Kontext
 

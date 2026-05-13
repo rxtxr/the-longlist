@@ -32,7 +32,7 @@ wave: 5
 ---
 
 ## Überblick
-John Pearce war der Architekt einer Werberevolution. Als Mitbegründer der legendären Agentur [[Collett Dickenson Pearce]] (CDP) schuf er in den 1960er Jahren nicht nur eine Firma, sondern ein kreatives Ökosystem. Während andere Werbechefs Zahlen und Strategien regierten, baute Pearce einen Tempel der Kreativität – einen Ort, an dem künstlerische Freiheit und radikale Ideen geschützt und gefeiert wurden. Seine Agentur wurde zum Epizentrum des "kreativen Aufbruchs" in London und zur Kaderschmiede einer ganzen Generation von Werbelegenden.
+John Pearce war der Architekt einer Werberevolution. Als Mitbegründer der legendären Agentur [[Collett Dickenson Pearce]] (CDP) schuf er in den 1960er Jahren eine Firma und ein kreatives Ökosystem. Während andere Werbechefs Zahlen und Strategien regierten, baute Pearce einen Tempel der Kreativität – einen Ort, an dem künstlerische Freiheit und radikale Ideen geschützt und gefeiert wurden. Seine Agentur wurde zum Epizentrum des "kreativen Aufbruchs" in London und zur Kaderschmiede einer ganzen Generation von Werbelegenden.
 
 ## Historischer Kontext
 Pearce gründete CDP 1960 in einer Zeit des radikalen Umbruchs. Die steife Nachkriegsgesellschaft Großbritanniens begann zu bröckeln, die "Swinging Sixties" kündigten sich an. Doch die Werbebranche war damals noch eine Domäne konservativer Texter in streng hierarchischen Agenturen, die oft trockene, textlastige Anzeigen produzierten. In diese Welt platzierten Pearce und seine Mitstreiter eine kreative Bombe. Sie verstanden, dass Werbung nicht nur verkaufen, sondern unterhalten, provozieren und Kunst sein konnte – ein völlig neuer Ansatz.

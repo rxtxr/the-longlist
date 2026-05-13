@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7250/7634883334_4c3fef0db6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/4a81734e-82dd-4d19-b14b-c078f2985a24/thumb/",
+    "caption": "Turning to Get Behind",
+    "license": "CC BY-SA 2.0",
+    "artist": "Chris Hunkeler",
+    "source_url": "https://www.flickr.com/photos/14913305@N00/7634883334",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2939/14253039545_299ed34bf3_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/db5b83c8-5aff-4dba-b395-d12fe3413391/thumb/",
+    "caption": "13) Hayford Peak, NV, USA",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "barlow_james",
+    "source_url": "https://www.flickr.com/photos/32047690@N04/14253039545",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "zuROvTRIEew",
+    "embed_url": "https://www.youtube-nocookie.com/embed/zuROvTRIEew",
+    "thumb_url": "https://img.youtube.com/vi/zuROvTRIEew/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=zuROvTRIEew",
+    "caption": "Pitching in a Pandemic + Mat Baxter  #MediaSnack 168",
+    "duration": "39:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=zuROvTRIEew",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

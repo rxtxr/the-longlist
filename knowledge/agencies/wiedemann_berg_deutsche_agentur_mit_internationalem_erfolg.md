@@ -19,8 +19,7 @@ wave: 1
 ---
 
 ## Überblick
-
-Wiedemann & Berg war mehr als eine Werbeagentur — sie war der kreative Katalysator des deutschen Wirtschaftswunders. In den 1960er bis 1980er Jahren formte sie nicht nur Marken, sondern eine ganze Generation von Werbetreibenden. Mit ihrem intelligenten, oft provokativen Stil bewies sie, dass deutsche Werbung international mithalten konnte. Die Agentur wurde zur legendären Kaderschmiede, aus der später Schlüsselfiguren der deutschen Werbebranche hervorgingen.
+Wiedemann & Berg war der kreative Katalysator des deutschen Wirtschaftswunders. In den 1960er bis 1980er Jahren formte sie Marken und eine ganze Generation von Werbetreibenden. Mit ihrem intelligenten, oft provokativen Stil bewies sie, dass deutsche Werbung international mithalten konnte. Die Agentur wurde zur legendären Kaderschmiede, aus der später Schlüsselfiguren der deutschen Werbebranche hervorgingen.
 
 ## Historischer Kontext
 

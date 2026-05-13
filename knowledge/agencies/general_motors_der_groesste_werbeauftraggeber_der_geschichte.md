@@ -60,7 +60,7 @@ wave: 99
 ---
 
 ## Überblick
-General Motors war nicht nur ein Automobilriese, sondern prägte als Werbepionier die gesamte Konsumkultur des 20. Jahrhunderts. Mit Werbebudgets, die zeitweise das Bruttosozialprodukt kleinerer Nationen überstiegen, schuf GM nicht nur Autos, sondern amerikanische Träume auf Rädern. Dieser Eintrag erzählt, wie ein Konzern die Regeln der Markenführung neu schrieb und die Werbebranche für Jahrzehnte befeuerte.
+General Motors war ein Automobilriese, der die gesamte Konsumkultur des 20. Jahrhunderts prägte. Mit Werbebudgets, die zeitweise das Bruttosozialprodukt kleinerer Nationen überstiegen, schuf GM Autos, die amerikanische Träume auf Rädern verkörperten. Dieser Eintrag erzählt, wie ein Konzern die Regeln der Markenführung neu schrieb und die Werbebranche für Jahrzehnte befeuerte.
 
 ## Historischer Kontext
 1908 von dem visionären [[William C. Durant]] gegründet, wuchs General Motors nicht durch Ingenieurskunst, sondern durch geniale Akquisitionen. Durant verstand etwas, das seiner Zeit weit voraus war: Man verkauft keine Blechkarossen, sondern Identität, Status und Lebensgefühl [1][10]. In der Ära des Wirtschaftswunders nach dem Zweiten Weltkrieg explodierte der amerikanische Automarkt – und mit ihm GMs Werbebudgets. Die Straßen wurden zur Kathedrale der Mobilität, und GM war ihr größter Priester.

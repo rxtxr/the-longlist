@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Beach_sandy_shore_seamless_ground_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Beach_sandy_shore_seamless_ground_texture.jpg/500px-Beach_sandy_shore_seamless_ground_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "this is a texture of a sandy shore. photographed in a warm climate.\nIt was turned into a texture using photo editing software, \"gimp\".",
+    "license": "CC0",
+    "artist": "Sisters.seamless",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABeach%20sandy%20shore%20seamless%20ground%20texture.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 2762,
+    "height": 2762
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Grey_boulder_seamless_stone_surface_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grey_boulder_seamless_stone_surface_texture.jpg/500px-Grey_boulder_seamless_stone_surface_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "this is a texture of a grey boulder. photographed in a warm climate.\nIt was turned into a texture using photo editing software, \"gimp\".",
+    "license": "CC0",
+    "artist": "Sisters.seamless",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGrey%20boulder%20seamless%20stone%20surface%20texture.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 2335,
+    "height": 2335
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "1KJofP-Qg8U",
+    "embed_url": "https://www.youtube-nocookie.com/embed/1KJofP-Qg8U",
+    "thumb_url": "https://img.youtube.com/vi/1KJofP-Qg8U/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1KJofP-Qg8U",
+    "caption": "The History of Advertising in 60 Seconds",
+    "duration": "1:10",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=1KJofP-Qg8U",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

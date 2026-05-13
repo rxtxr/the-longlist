@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/An_Account_of_Corsica_%281769%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/An_Account_of_Corsica_%281769%29.djvu/page1-500px-An_Account_of_Corsica_%281769%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Scan of book \n'An account of Corsica, the journal of a tour to that island, and memoirs of Pascal Paoli'",
+    "license": "Public domain",
+    "artist": "James Boswell",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAn%20Account%20of%20Corsica%20%281769%29.djvu",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1919,
+    "height": 3271
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/An_account_of_Blo%27_Norton_Hall.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/An_account_of_Blo%27_Norton_Hall.pdf/page1-500px-An_account_of_Blo%27_Norton_Hall.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Singh, F. Duleep. (1913). An account of Blo' Norton Hall, otherwise the manor house of Brome Hall in Blo' Norton,. Norfolk Archaeology 18 (3). Vol 18(",
+    "license": "Public domain",
+    "artist": "Singh, F. Duleep. (1913)",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAn%20account%20of%20Blo%27%20Norton%20Hall.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 879,
+    "height": 1406
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "DNJH60AdTSo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/DNJH60AdTSo",
+    "thumb_url": "https://img.youtube.com/vi/DNJH60AdTSo/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=DNJH60AdTSo",
+    "caption": "What is ADVERTISING STRATEGY? Examples Spotify & Snickers",
+    "duration": "4:48",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=DNJH60AdTSo",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/ASUS_CD-ROM_CD-S520-A4_20080821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ASUS_CD-ROM_CD-S520-A4_20080821.jpg/500px-ASUS_CD-ROM_CD-S520-A4_20080821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Image of an ASUS CD-ROM Drive CD-S520/A4",
+    "license": "CC BY 3.0",
+    "artist": "Asim18",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AASUS%20CD-ROM%20CD-S520-A4%2020080821.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 3959,
+    "height": 2969
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Badham_Palance_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Badham_Palance_1974.jpg/500px-Badham_Palance_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Badham Palance 1974",
+    "license": "Public domain",
+    "artist": "unbekannt",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABadham%20Palance%201974.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 3884,
+    "height": 2456
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "HqvD5tcebxc",
+    "embed_url": "https://www.youtube-nocookie.com/embed/HqvD5tcebxc",
+    "thumb_url": "https://img.youtube.com/vi/HqvD5tcebxc/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HqvD5tcebxc",
+    "caption": "Becoming a Creative Director: My Path & Tips for Success",
+    "duration": "12:20",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=HqvD5tcebxc",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

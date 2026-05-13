@@ -63,7 +63,7 @@ wave: 18
 ---
 
 ## Überblick
-Bristol-Myers war mehr als nur ein Pharmaunternehmen — es war ein Pionier der modernen Markenführung im Gesundheitsbereich. Mit Produkten wie [[Ipana]] Zahnpasta schrieb das Unternehmen ab 1887 Werbegeschichte und prägte das Konsumverhalten ganzer Generationen [2][6]. Die 1989 vollzogene Fusion mit [[Squibb Corporation]] zu [[Bristol-Myers Squibb]] schuf einen der weltweit größten Pharmakonzerne [1][4].
+Bristol-Myers war ein Pionier der modernen Markenführung im Gesundheitsbereich. Mit Produkten wie [[Ipana]] Zahnpasta schrieb das Unternehmen ab 1887 Werbegeschichte und prägte das Konsumverhalten ganzer Generationen [2][6]. Die 1989 vollzogene Fusion mit [[Squibb Corporation]] zu [[Bristol-Myers Squibb]] schuf einen der weltweit größten Pharmakonzerne [1][4].
 
 ## Historischer Kontext
 Als William McLaren Bristol Sr. und John R. Myers 1887 die klapprige [[Clinton Pharmaceutical Company]] übernahmen, befand sich die Pharmaindustrie im Umbruch. Die Ära der individuell gemischten Arzneien neigte sich dem Ende zu — patentgeschützte Fertigprodukte und Massenproduktion hielten Einzug [ungesichert]. Gleichzeitig explodierte die Werbelandschaft: Zeitungen erreichten Millionenhaushalte, das Radio begann Wohnzimmer zu erobern. Bristol-Myers erkannte früh: In dieser neuen Welt würde nicht das beste Produkt gewinnen, sondern die bekannteste Marke [ungesichert].

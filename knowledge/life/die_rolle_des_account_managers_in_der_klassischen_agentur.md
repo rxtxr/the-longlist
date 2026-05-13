@@ -23,8 +23,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Der Account Manager — oft auch Account Executive genannt — war jahrzehntelang das Herzblut und die Schaltzentrale jeder klassischen Werbeagentur. Er war weit mehr als nur ein Ansprechpartner; er war Diplomat, Psychologe, Projektmanager und Brand-Experte in einer Person. Seine Hauptaufgabe bestand darin, die fragile Brücke zwischen den kreativen Künstlern im Innern der Agentur und den oft pragmatischen, zahlengetriebenen Kunden zu schlagen und zu erhalten [1][4]. Diese Rolle garantierte nicht nur den reibungslosen Ablauf der täglichen Geschäfte, sondern war maßgeblich für den langfristigen Erfolg und die Zufriedenheit der Kunden verantwortlich [1][5].
+Der Account Manager — oft auch Account Executive genannt — war jahrzehntelang das Herzblut und die Schaltzentrale jeder klassischen Werbeagentur. Er war Diplomat, Psychologe, Projektmanager und Brand-Experte in einer Person. Seine Hauptaufgabe bestand darin, die fragile Brücke zwischen den kreativen Künstlern im Innern der Agentur und den oft pragmatischen, zahlengetriebenen Kunden zu schlagen und zu erhalten [1][4]. Diese Rolle garantierte den reibungslosen Ablauf der täglichen Geschäfte und war maßgeblich für den langfristigen Erfolg und die Zufriedenheit der Kunden verantwortlich [1][5].
 
 ## Historischer Kontext
 

@@ -69,7 +69,7 @@ wave: 14
 ---
 
 ## Überblick
-Lynx, das in den meisten Märkten außerhalb Europas als Axe bekannt ist, ist mehr als nur eine Körperpflegemarke für Männer. Seit ihrer Einführung durch Unilever 1983 hat sie sich zu einem kulturellen Phänomen entwickelt, das durch provokante und humorvolle Werbekampagnen weltweit bekannt wurde[1][3]. Die Marke schuf nicht nur einen eigenen Produktmarkt, sondern wurde auch zum Gesprächsstoff über Geschlechterrollen in der Werbung.
+Lynx, das in den meisten Märkten außerhalb Europas als Axe bekannt ist, ist eine Körperpflegemarke für Männer, die sich zu einem kulturellen Phänomen entwickelt hat. Seit ihrer Einführung durch Unilever 1983 wurde sie durch provokante und humorvolle Werbekampagnen weltweit bekannt[1][3]. Die Marke schuf einen eigenen Produktmarkt und wurde zum Gesprächsstoff über Geschlechterrollen in der Werbung.
 
 ## Historischer Kontext
 Als Axe 1983 in Frankreich auf den Markt kam, betrat Unilever Neuland. Der Markt für spezifische Männerpflegeprodukte war damals im Vergleich zum Frauenmarkt noch stark unterentwickelt [ungesichert]. Während Frauen bereits eine breite Palette an Pflegeprodukten zur Verfügung standen, beschränkte sich das Angebot für Männer oft auf klassische Rasierer und einfache Deodorants. Unilever erkannte diese Marktlücke und positionierte Axe gezielt als Lifestyle-Produkt für junge Männer, das nicht nur Frische versprach, sondern auch Attraktivität und Erfolg beim anderen Geschlecht.

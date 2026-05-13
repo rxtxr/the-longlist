@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Britain%27s_heritage_of_science_%28IA_britainsheritage00schurich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Britain%27s_heritage_of_science_%28IA_britainsheritage00schurich%29.pdf/page1-500px-Britain%27s_heritage_of_science_%28IA_britainsheritage00schurich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Subjects: Science -- Great Britain History; Scientists -- Great Britain",
+    "license": "Public domain",
+    "artist": "Schuster, Arthur, Sir, 1851-1934\nShipley, A. E. (Arthur Everett), Sir, 1861-1927",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABritain%27s%20heritage%20of%20science%20%28IA%20britainsheritage00schurich%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 691,
+    "height": 1006
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Howard_Gossage_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Howard_Gossage_portrait.jpg/500px-Howard_Gossage_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Portrait infront of mirror at Howard's Firehouse office, mid 1960s",
+    "license": "CC BY-SA 4.0",
+    "artist": "Ashpollakwrites",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHoward%20Gossage%20portrait.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 1500,
+    "height": 1651
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "WsLGb42PbWA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/WsLGb42PbWA",
+    "thumb_url": "https://img.youtube.com/vi/WsLGb42PbWA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WsLGb42PbWA",
+    "caption": "Howard Gossage: The man who reinvented advertising",
+    "duration": "0:36",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=WsLGb42PbWA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

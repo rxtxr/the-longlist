@@ -64,7 +64,7 @@ wave: 19
 ---
 
 ## Überblick
-Die Unique Selling Proposition (USP) ist mehr als nur ein Werbekonzept – sie war die Waffe der Wahl im gnadenlosen Überlebenskampf der Nachkriegsmarken. In einer Zeit, in der Regale sich plötzlich mit immer gleichen Produkten füllten, gab sie Werbern das Werkzeug an die Hand, um einen einzigartigen Nutzen herauszuschälen und Konsumenten klare Kaufargumente zu liefern. Ihr Erfolgsgeheimnis? Die kompromisslose Fokussierung auf einen einzigen, nachweisbaren und relevanten Produktvorteil, der wie ein Leuchtturm im Nebelmehr der Konkurrenz strahlte.
+Die Unique Selling Proposition (USP) war die Waffe der Wahl im gnadenlosen Überlebenskampf der Nachkriegsmarken. In einer Zeit, in der Regale sich plötzlich mit immer gleichen Produkten füllten, gab sie Werbern das Werkzeug an die Hand, um einen einzigartigen Nutzen herauszuschälen und Konsumenten klare Kaufargumente zu liefern. Ihr Erfolgsgeheimnis ist die kompromisslose Fokussierung auf einen einzigen, nachweisbaren und relevanten Produktvorteil, der wie ein Leuchtturm im Nebel der Konkurrenz strahlt.
 
 ## Historischer Kontext
 Die USP wurde im wirtschaftlichen Taumel der US-Nachkriegsjahre (ca. 1945-1960) geboren – einer Ära des plötzlichen Überflusses und der explosionsartig wachsenden Konkurrenz. Wo Werbung früher oft nur Produktinformationen verbreitete, musste sie nun strategische Differenzierungsarbeit leisten. Die Märkte waren gesättigt, die Verbraucher überfordert von der Auswahl. In diesem Nährboden des "Hard Sell" und der produktfixierten Werbekultur war die USP die logische Antwort der Industrie auf eine simple Frage: "Warum soll ich genau dein Produkt kaufen?"

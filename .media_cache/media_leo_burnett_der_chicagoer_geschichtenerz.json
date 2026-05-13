@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Grave_of_Leo_Burnett_%281891%E2%80%931971%29_at_Rosehill_Cemetery%2C_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Grave_of_Leo_Burnett_%281891%E2%80%931971%29_at_Rosehill_Cemetery%2C_Chicago.jpg/500px-Grave_of_Leo_Burnett_%281891%E2%80%931971%29_at_Rosehill_Cemetery%2C_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Grave of Leo Burnett (1891–1971) at Rosehill Cemetery, Chicago",
+    "license": "CC BY 4.0",
+    "artist": "Nick Number",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGrave%20of%20Leo%20Burnett%20%281891%E2%80%931971%29%20at%20Rosehill%20Cemetery%2C%20Chicago.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 1000,
+    "height": 1224
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Leo-Burnett-logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Leo-Burnett-logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "caption": "​這是李奧貝納廣告公司的標誌",
+    "license": "Public domain",
+    "artist": "李奧貝納廣告",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALeo-Burnett-logo.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 460,
+    "height": 235
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "bo3GxudiCvA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/bo3GxudiCvA",
+    "thumb_url": "https://img.youtube.com/vi/bo3GxudiCvA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=bo3GxudiCvA",
+    "caption": "Leo Burnett, Founder of Leo Burnett Company - The Star Reacher",
+    "duration": "5:00",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=bo3GxudiCvA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

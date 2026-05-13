@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4055/4540299589_7eb77b5594_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/3d87c0fa-6582-475a-a8f0-0e2a47cb9c31/thumb/",
+    "caption": "naked communications",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "pakyouare",
+    "source_url": "https://www.flickr.com/photos/15155051@N00/4540299589",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 514,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4060/4540905364_e4d73aa689.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/300b0d8a-0919-4013-bb0c-c7c446c1b240/thumb/",
+    "caption": "naked communications",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "pakyouare",
+    "source_url": "https://www.flickr.com/photos/15155051@N00/4540905364",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 251,
+    "height": 500
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "USm2CZz9ERE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/USm2CZz9ERE",
+    "thumb_url": "https://img.youtube.com/vi/USm2CZz9ERE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=USm2CZz9ERE",
+    "caption": "Golf Punk HypnoMarketing - Case study",
+    "duration": "4:37",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=USm2CZz9ERE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lieferando_Arbeiter_Protest_NGG.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/28e77a0a-7c3f-4721-bf44-87923f3df3f7/thumb/",
+    "caption": "Lieferando Arbeiter Protest NGG",
+    "license": "CC BY-SA 4.0",
+    "artist": "HimmelUnÄäd",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=104899041",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1409,
+    "height": 1044
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lieferando_Worker_Protest_against_working_conditions.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/ee969717-5d03-46bc-8b6c-2a26033738ee/thumb/",
+    "caption": "Lieferando Worker Protest against working conditions",
+    "license": "CC BY-SA 4.0",
+    "artist": "AnonymousUnknown author",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=104818967",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1378,
+    "height": 2531
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "J714s8AVwdY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/J714s8AVwdY",
+    "thumb_url": "https://img.youtube.com/vi/J714s8AVwdY/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=J714s8AVwdY",
+    "caption": "Werbung verunstaltet | Rügenwalder Mühle, Falken-Reifen, Lieferando | YT-Kacke",
+    "duration": "0:42",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=J714s8AVwdY",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

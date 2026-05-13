@@ -17,7 +17,7 @@ wave: 1
 ---
 
 ## Überblick
-Es war das Herzstück der perfekten Illusion: das hauseigene Fotoatelier. Hier, zwischen Scheinwerfern und Stoffbahnen, wurde der visuelle Stil ganzer Marken erschaffen. Mehr als nur ein Raum mit Kameras, war es eine Hochburg der Kontrolle – Kontrolle über jedes Licht, jeden Schatten, jede Oberfläche. In einer Zeit vor digitaler Nachbearbeitung war dies der Ort, wo Werbeträume in makellose Realität verwandelt wurden.
+Es war das Herzstück der perfekten Illusion: das hauseigene Fotoatelier. Hier, zwischen Scheinwerfern und Stoffbahnen, wurde der visuelle Stil ganzer Marken erschaffen. Es war eine Hochburg der Kontrolle – Kontrolle über jedes Licht, jeden Schatten, jede Oberfläche. In einer Zeit vor digitaler Nachbearbeitung war dies der Ort, wo Werbeträume in makellose Realität verwandelt wurden.
 
 ## Historischer Kontext
 Die Geburtsstunde des internen Agenturstudios schlug in den Roaring Twenties. Die Werbung wurde professioneller, der Hunger nach Bildmaterial riesig. Es war eine logistische und wirtschaftliche Revolution: Stint teure und schwer zu koordinierende externe Fotografen zu buchen, holte man das Handwerk einfach ins Haus. Die Hochphase erlebte dieses Modell in den glorreichen Jahrzehnten der Nachkriegswerbung, den 1950ern bis 1980ern. Es war das Rückgrat der florierenden Druckwerbung – für Anzeigen, Verpackungen und die dicken Warenhauskataloge, die damals jede Wohnung erreichten.

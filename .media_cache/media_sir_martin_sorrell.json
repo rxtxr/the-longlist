@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7291/8740572169_38acd027fd_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2e719487-0c39-494b-8e7b-fc607f833497/thumb/",
+    "caption": "Sir Martin Sorrell, Ng Ser Miang",
+    "license": "CC BY 2.0",
+    "artist": "Financial Times photos",
+    "source_url": "https://www.flickr.com/photos/51005181@N05/8740572169",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 741
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8617/15951872182_3d73a63890_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/9e7508d8-eb8d-4144-b1a0-3d2a666da9fb/thumb/",
+    "caption": "Sir Martin Sorrell & Daniel Roth",
+    "license": "CC BY 2.0",
+    "artist": "linkedineditors",
+    "source_url": "https://www.flickr.com/photos/129716426@N05/15951872182",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "Hr5xOhV6SSI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Hr5xOhV6SSI",
+    "thumb_url": "https://img.youtube.com/vi/Hr5xOhV6SSI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Hr5xOhV6SSI",
+    "caption": "Agentic AI Is Rewriting Business Models for Ad Agencies: S4 Capital's Sir Martin Sorrell",
+    "duration": "14:35",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=Hr5xOhV6SSI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

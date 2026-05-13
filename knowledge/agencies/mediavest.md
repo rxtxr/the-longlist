@@ -52,7 +52,7 @@ wave: 9
 ---
 
 ## Überblick
-MediaVest war mehr als nur eine US-amerikanische Mediaagentur – sie war ein Kind der Medienrevolution der 90er Jahre und gehörte zur [[Starcom MediaVest Group]] im Imperium der [[Publicis Groupe]] [1][4]. Die Agentur stand für eine Ära, in sich die Medienplanung von der klassischen Werbeagentur abspaltete und zur eigenständigen Disziplin wurde.
+MediaVest war eine US-amerikanische Mediaagentur, ein Kind der Medienrevolution der 90er Jahre, und gehörte zur [[Starcom MediaVest Group]] im Imperium der [[Publicis Groupe]] [1][4]. Die Agentur stand für eine Ära, in der die Medienplanung von der klassischen Werbeagentur abspaltete und zur eigenständigen Disziplin wurde.
 
 ## Historischer Kontext
 Geboren wurde MediaVest im Schoß einer Werbelegende: [[D'Arcy Masius Benton & Bowles]] (DMB&B) [9]. In den 1990er Jahren, als TV-Spots König waren und Mediaplaner erstmals begriffen, dass die Platzierung von Werbung genauso wichtig war wie deren kreative Umsetzung, formte sich bei DMB&B eine eigene Medienabteilung heraus – der Ursprung von MediaVest. [ungesichert] Diese Trennung von kreativer und medialer Arbeit war damals revolutionär und spiegelt den Wandel der gesamten Branche wider.

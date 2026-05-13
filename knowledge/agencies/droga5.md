@@ -32,8 +32,7 @@ wave: 4
 ---
 
 ## Überblick
-
-Droga5 war mehr als eine Werbeagentur – sie war ein kulturelles Phänom. Gegründet 2006 in New York City von David Droga, wurde sie innerhalb weniger Jahre zur kreativen Macht, die das Establishment herausforderte. Mit Arbeiten, die an der Schnittstelle von Werbung, Aktivismus und Popkultur operierten, gewann sie fast jeden bedeutenden Werbepreis und wurde 2019 in einer der spektakulärsten Übernahmen der Branche von Accenture Interactive gekauft. Droga5 bewies, dass Kreativität mit Haltung nicht nur Preise, sondern auch echte Veränderung bewirken kann.
+Droga5 war ein kulturelles Phänomen. Gegründet 2006 in New York City von David Droga, wurde sie innerhalb weniger Jahre zur kreativen Macht, die das Establishment herausforderte. Mit Arbeiten, die an der Schnittstelle von Werbung, Aktivismus und Popkultur operierten, gewann sie fast jeden bedeutenden Werbepreis und wurde 2019 in einer der spektakulärsten Übernahmen der Branche von Accenture Interactive gekauft. Droga5 bewies, dass Kreativität mit Haltung Preise und echte Veränderung bewirken kann.
 
 ## Historischer Kontext
 

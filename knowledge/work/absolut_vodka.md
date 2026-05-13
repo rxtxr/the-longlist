@@ -64,7 +64,7 @@ wave: 6
 ---
 
 ## Überblick
-Absolut Vodka ist mehr als nur ein Getränk – es ist ein Marketingphänomen. Die ikonische Werbekampagne um die charakteristische Flasche zählt zu den längsten und einflussreichsten in der Geschichte des modernen Marketings [8]. Was als Werbestrategie begann, wurde zur Kunstform und verwandelte einen schwedischen Wodka in ein globales Kultobjekt [ungesichert].
+Absolut Vodka ist ein Marketingphänomen. Die ikonische Werbekampagne um die charakteristische Flasche zählt zu den längsten und einflussreichsten in der Geschichte des modernen Marketings [8]. Was als Werbestrategie begann, wurde zur Kunstform und verwandelte einen schwedischen Wodka in ein globales Kultobjekt [ungesichert].
 
 ## Historischer Kontext
 Als Absolut Vodka 1979 auf den US-Markt kam, betrat es eine Welt der Spirituosenwerbung, die von traditionellen, textlastigen Anzeigen dominiert wurde. Die frühen 1980er Jahre markierten den Beginn einer radikalen Neuausrichtung: Statt über Herkunft oder Reinheit zu sprechen, setzte man auf reine Visualität [6]. In einer Zeit, in der Wodka oft als geschmacklose Spirituose galt, schuf Absolut durch brillante Bildsprache eine unverwechselbare Identität [ungesichert].

@@ -21,7 +21,7 @@ wave: 0
 ---
 
 ## Überblick
-Der Zeichentisch war der heilige Ort der Werbekreativen – eine Art Altar, auf dem Ideen erstmals Gestalt annahmen [ungesichert]. Hier entstanden nicht nur Skizzen, hier wurden Legenden geboren. Mit scharfgespitzten Bleistiften, filigranen Tuschefedern und präzisen Schablonen kämpften sich Art-Directoren und Grafiker durch den kreativen Prozess, bis eine Anzeige perfekt war [ungesichert]. Der Tisch war mehr als nur Möbelstück: Er war Labor, Denkzelle und Schlachtfeld zugleich, auf dem die großen Kampagnen des 20. Jahrhunderts ihre ersten Atemzüge nahmen [ungesichert].
+Der Zeichentisch war der heilige Ort der Werbekreativen – eine Art Altar, auf dem Ideen erstmals Gestalt annahmen. Hier entstanden Skizzen und Legenden. Mit scharfgespitzten Bleistiften, filigranen Tuschefedern und präzisen Schablonen kämpften sich Art-Directoren und Grafiker durch den kreativen Prozess, bis eine Anzeige perfekt war. Der Tisch war Labor, Denkzelle und Schlachtfeld zugleich, auf dem die großen Kampagnen des 20. Jahrhunderts ihre ersten Atemzüge nahmen.
 
 ## Historischer Kontext
 Die Blütezeit des Zeichentischs fiel in jene Epoche, als Werbung zur Kunstform wurde – zwischen den 1920er und 1970er Jahren [ungesichert]. In den Agenturen an der Madison Avenue und in europäischen Werbezentren war der Zeichentisch der Dreh- und Angelpunkt jeder Kreativabteilung [ungesichert]. Während draußen die Welt industrialisierte, schufen hier begnadete Handwerker mit analogen Werkzeugen jene magischen Welten, die Konsumenten verführen sollten [ungesichert]. Jeder Kratzer in der Tischplatte, jeder Tuschefleck erzählte eine Geschichte vom Ringen um die perfekte Idee [ungesichert].

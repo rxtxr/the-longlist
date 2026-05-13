@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2045/2455853033_8f8cd52ae1_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/c11c95bf-2033-49b8-af70-24dfe4024562/thumb/",
+    "caption": "hire young people",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Will Lion",
+    "source_url": "https://www.flickr.com/photos/22498907@N02/2455853033",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 674
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2799/4274576828_dca2bb4e19_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a4192d0f-99c1-4837-81b2-48263152bae4/thumb/",
+    "caption": "img055",
+    "license": "CC BY-NC 2.0",
+    "artist": "D.Clow - Maryland",
+    "source_url": "https://www.flickr.com/photos/7791881@N04/4274576828",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1012,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "Xm4oU4QJ1Qs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Xm4oU4QJ1Qs",
+    "thumb_url": "https://img.youtube.com/vi/Xm4oU4QJ1Qs/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Xm4oU4QJ1Qs",
+    "caption": "Ideas That Stick with Advertising Legend Lee Clow | A Bit of Optimism Podcast",
+    "duration": "41:21",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=Xm4oU4QJ1Qs",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

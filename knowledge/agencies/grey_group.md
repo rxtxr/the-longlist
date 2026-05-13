@@ -53,8 +53,7 @@ wave: 7
 ---
 
 ## Überblick
-
-Grey Group ist mehr als nur eine Werbeagentur – sie ist ein Stück amerikanische Kulturgeschichte. Seit ihrer Gründung 1917 in New York hat sie nicht nur Werbung gemacht, sondern die Art und Weise geprägt, wie Marken mit Konsumenten sprechen. Was als kleines Studio mit grauen Wänden begann, wurde zu einer globalen Macht, die einige der ikonischsten Kampagnen der Werbegeschichte produzierte. Ihre Philosophie "We build brands, not just ads" wurde zum Leitsatz einer ganzen Branche.
+Grey Group ist ein Stück amerikanische Kulturgeschichte. Seit ihrer Gründung 1917 in New York hat sie die Art und Weise geprägt, wie Marken mit Konsumenten sprechen. Was als kleines Studio mit grauen Wänden begann, wurde zu einer globalen Macht, die einige der ikonischsten Kampagnen der Werbegeschichte produzierte. Ihre Philosophie "We build brands, not just ads" wurde zum Leitsatz einer ganzen Branche.
 
 ## Historischer Kontext
 

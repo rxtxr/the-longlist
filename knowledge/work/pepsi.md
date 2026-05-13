@@ -68,7 +68,7 @@ wave: 8
 ---
 
 ## Überblick
-Pepsi ist mehr als nur eine Limonade — es ist ein Jahrhundertprojekt der Markenführung, das im ewigen Wettstreit mit Coca-Cola die Werbewelt geprägt hat [2][3]. Seine Geschichte ist eine Abfolge genialer Schachzüge, gewagter Kampagnen und manchmal auch spektakulärer Fehlschläge, die zusammen das Bild einer Marke formten, die immer wieder neu erfunden werden musste [6][8].
+Pepsi ist ein Jahrhundertprojekt der Markenführung, das im ewigen Wettstreit mit Coca-Cola die Werbewelt geprägt hat [2][3]. Seine Geschichte ist eine Abfolge genialer Schachzüge, gewagter Kampagnen und manchmal auch spektakulärer Fehlschläge, die zusammen das Bild einer Marke formten, die immer wieder neu erfunden werden musste [6][8].
 
 ## Historischer Kontext
 Geboren wurde Pepsi 1898 in der Apotheke von Caleb Bradham im Städtchen New Bern, North Carolina — in einer Zeit, in der "tonische" Getränke aus der Soda-Fountain oft als Heilmittel gegen Verdauungsbeschwerden verkauft wurden [8][10]. Bradhams "Brad's Drink" sollte ursprünglich bei Dyspepsie (Verdauungsstörungen) helfen, was auch den Namen "Pepsi" (abgeleitet von "Dyspepsia") erklärt [8][10]. Doch Pepsi musste sich schnell von seinem medizinischen Image lösen und fand sich bald mitten in der aufkeimenden Konsumgesellschaft wieder, in der Werbung zur Massenkommunikation wurde und Marken um die Gunst einer wachsenden Kundschaft buhlten [8][10].

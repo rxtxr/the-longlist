@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2127/2130884030_51b816fbe2_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/13f903a6-25ee-46a7-8bb7-61b0fbec190b/thumb/",
+    "caption": "Charles Saatchi / Him",
+    "license": "CC BY 2.0",
+    "artist": "bixentro",
+    "source_url": "https://www.flickr.com/photos/82947612@N00/2130884030",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3906/15275579792_6fe9966c07_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/4360b770-4aa9-4868-98fe-c04ad92ee771/thumb/",
+    "caption": "Suspicious Charles Saatchi poster face on London Underground",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "jiggott",
+    "source_url": "https://www.flickr.com/photos/33618357@N00/15275579792",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "OeKF9rXEW-A",
+    "embed_url": "https://www.youtube-nocookie.com/embed/OeKF9rXEW-A",
+    "thumb_url": "https://img.youtube.com/vi/OeKF9rXEW-A/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=OeKF9rXEW-A",
+    "caption": "M&C Saatchi's Elspeth Lynn on women in the advertising industry",
+    "duration": "9:47",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=OeKF9rXEW-A",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Andrea_Jublin_and_Spike_Lee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Andrea_Jublin_and_Spike_Lee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "caption": "Fonte: UCLA, Los Angeles.",
+    "license": "CC BY-SA 2.0",
+    "artist": "Original uploader was Manurika at it.wikipedia",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAndrea%20Jublin%20and%20Spike%20Lee.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 250,
+    "height": 376
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Spike_Lee_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Spike_Lee_2025.jpg/500px-Spike_Lee_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Photo By: Neil Grabowsky",
+    "license": "CC BY 4.0",
+    "artist": "Montclair Film",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASpike%20Lee%202025.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 2007,
+    "height": 2575
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "8Am2Sl96Odg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/8Am2Sl96Odg",
+    "thumb_url": "https://img.youtube.com/vi/8Am2Sl96Odg/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8Am2Sl96Odg",
+    "caption": "What Filmmakers Need To Know About Financing Movies by Spike Lee",
+    "duration": "4:02",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=8Am2Sl96Odg",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

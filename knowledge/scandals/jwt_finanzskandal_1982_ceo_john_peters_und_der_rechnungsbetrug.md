@@ -20,7 +20,7 @@ wave: 3
 ---
 
 ## Überblick
-Es war ein Schock, der die Welt der "Mad Men" in ihren Grundfesten erschütterte: Im Februar 1982 platzte die Nachricht, dass bei J. Walter Thompson, einer der ältesten und angesehensten Werbeagenturen der Welt, die Bücher nicht stimmten. Was zunächst wie ein trockener Bilanzfehler klang, entpuppte sich als ein 18-Millionen-Dollar-Skandal, der direkt ins Büro des CEOs führte. Dieser Betrug traf die Agentur nicht nur finanziell, sondern rührte an ihrem Kern: der Glaubwürdigkeit.
+Es war ein Schock, der die Welt der "Mad Men" in ihren Grundfesten erschütterte: Im Februar 1982 platzte die Nachricht, dass bei J. Walter Thompson, einer der ältesten und angesehensten Werbeagenturen der Welt, die Bücher nicht stimmten. Was zunächst wie ein trockener Bilanzfehler klang, entpuppte sich als ein 18-Millionen-Dollar-Skandal, der direkt ins Büro des CEOs führte. Der Betrug traf die Agentur finanziell und rührte an ihrem Kern: der Glaubwürdigkeit.
 
 ## Historischer Kontext
 Die frühen 1980er Jahre waren eine brutale Zeit für die amerikanische Wirtschaft. Eine tiefe Rezession, gepaart mit hoher Inflation, ließ die Werbebudgets der Unternehmen schrumpfen. Für eine börsennotierte Agentur wie die JWT Group Inc. bedeutete das enormen Druck von den Wall-Street-Aktionären [ungesichert]. Stetig steigende Quartalszahlen waren nicht nur ein Ziel, sondern eine Überlebensnotwendigkeit. In diesem Klima der Angst und des Zwangs zum Erfolg geschah das Undenkbare.

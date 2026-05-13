@@ -61,7 +61,7 @@ wave: 8
 ---
 
 ## Überblick
-Ronald McDonald ist mehr als nur ein Clown – er ist ein Werbephänomen, das sich tief ins kollektive Gedächtnis eingebrannt hat. Als Hauptmaskottchen von McDonald's verkörpert er nicht nur eine Fast-Food-Kette, sondern eine ganze Ära der Konsumkultur [1][4]. Sein rotes Haar, der gelb-rote Overall und die übergroßen Schuhe wurden zur universellen Bildsprache für Familienfreundlichkeit und Fast-Food-Vergnügen [1]. Geschaffen als werblicher Archetyp, zählt er zu den ikonischsten – und zugleich umstrittensten – Werbefiguren des 20. Jahrhunderts [2][4].
+Ronald McDonald ist ein Werbephänomen, das sich tief ins kollektive Gedächtnis eingebrannt hat. Als Hauptmaskottchen von McDonald's verkörpert er eine ganze Ära der Konsumkultur [1][4]. Sein rotes Haar, der gelb-rote Overall und die übergroßen Schuhe wurden zur universellen Bildsprache für Familienfreundlichkeit und Fast-Food-Vergnügen [1]. Geschaffen als werblicher Archetyp, zählt er zu den ikonischsten – und zugleich umstrittensten – Werbefiguren des 20. Jahrhunderts [2][4].
 
 ## Historischer Kontext
 Die Geburtsstunde von Ronald McDonald schlug in den turbulenten 1960er Jahren, einer Zeit, in der Amerika im Wirtschaftsboom schwamm und die Fernsehwerbung zur dominierenden Kraft im Marketing wurde [1][10]. Fast-Food-Ketten begannen, sich nicht mehr nur über Produkte zu definieren, sondern über Erlebnisse – und vor allem über emotionale Ankerpunkte für Familien. McDonald's erkannte früh: Um Kinder zu gewinnen, brauchte es mehr als nur Burger; man brauchte eine Identifikationsfigur [ungesichert]. In dieser Ära entstanden zahlreiche Werbeikonen, aber Ronald sollte sie alle überstrahlen.

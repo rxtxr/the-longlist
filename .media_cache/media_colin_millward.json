@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Tour_of_Sewell_Group_Craven_Park_Lobby_Plaques.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/9f240765-532c-4f14-92c8-30613eab26af/thumb/",
+    "caption": "Tour of Sewell Group Craven Park Lobby Plaques",
+    "license": "CC BY-SA 4.0",
+    "artist": "Hullian111",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=137601901",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 2784,
+    "height": 4176
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tour_of_Sewell_Group_Craven_Park_West_Stand_from_North.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/b41a80ee-51dc-4a0f-b7af-3421947ddeed/thumb/",
+    "caption": "Tour of Sewell Group Craven Park West Stand from North",
+    "license": "CC BY-SA 4.0",
+    "artist": "Hullian111",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=137591282",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 4176,
+    "height": 2784
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "oGSlpCBErsA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/oGSlpCBErsA",
+    "thumb_url": "https://img.youtube.com/vi/oGSlpCBErsA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=oGSlpCBErsA",
+    "caption": "NextUp Asia: Collin Millward (The Business Evaluation Centre)",
+    "duration": "4:21",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=oGSlpCBErsA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

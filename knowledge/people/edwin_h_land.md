@@ -58,7 +58,7 @@ wave: 13
 ---
 
 ## Überblick
-Edwin H. Land war mehr als nur ein Erfinder — er war ein Visionär, der die Fotografie revolutionierte und unsere Beziehung zum Bild für immer veränderte. Als Gründer der [[Polaroid Corporation]] schuf er nicht nur eine neue Technologie, sondern eine neue Art, Momente zu erleben: unmittelbar, greifbar und magisch [1][2][3][4][10]. Sein Lebenswerk steht für den Übergang von der wissenschaftlichen Entdeckung zur kulturellen Ikone.
+Edwin H. Land war ein Visionär, der die Fotografie revolutionierte und unsere Beziehung zum Bild für immer veränderte. Als Gründer der [[Polaroid Corporation]] schuf er eine neue Technologie und eine neue Art, Momente zu erleben: unmittelbar, greifbar und magisch [1][2][3][4][10]. Sein Lebenswerk steht für den Übergang von der wissenschaftlichen Entdeckung zur kulturellen Ikone.
 
 ## Historischer Kontext
 Land wirkte in einer Zeit tiefgreifender technologischer Umwälzungen — von den 1930er Jahren, als Fotografie noch ein langwieriger Prozess war, bis in die 1980er Jahre, die den Beginn des digitalen Zeitalters ankündigten [ungesichert]. Während andere Unternehmer auf Effizienz setzten, verfolgte Land eine radikal menschliche Vision: die sofortige Befriedigung der Neugier, das unmittelbare Teilen von Erlebnissen. In einer Welt, die sich zunehmend beschleunigte, traf seine Erfindung den Nerv der Zeit.

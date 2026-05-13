@@ -35,7 +35,7 @@ wave: 18
 ---
 
 ## Überblick
-Meta Platforms, Inc. ist mehr als nur ein Technologiekonzern – es ist das Betriebssystem der globalen Vernetzung. Das Unternehmen kontrolliert nicht nur die größten sozialen Netzwerke der Welt, sondern auch einen der mächtigsten Werbemarktplätze überhaupt[1][8]. Was als Studentenprojekt in einem Harvard-Wohnheim begann, wurde zur bestimmenden Kraft des digitalen Zeitalters[1][3][4].
+Meta Platforms, Inc. ist das Betriebssystem der globalen Vernetzung. Das Unternehmen kontrolliert die größten sozialen Netzwerke der Welt und einen der mächtigsten Werbemarktplätze überhaupt[1][8]. Was als Studentenprojekt in einem Harvard-Wohnheim begann, wurde zur bestimmenden Kraft des digitalen Zeitalters[1][3][4].
 
 ## Historischer Kontext
 Als [[Mark Zuckerberg]] 2004 "TheFacebook" gründete, befand sich das Internet in einem radikalen Wandel[ungesichert]. Nach dem Platzen der Dotcom-Blase entstand eine neue Ära des "Web 2.0", in der Nutzer nicht mehr nur Konsumenten, sondern Produzenten von Inhalten wurden[ungesichert]. In dieser Zeit des aufkeimenden Nutzer-generierten Contents traf Facebook den Nerv einer Generation, die nach digitaler Selbstdarstellung und Vernetzung dürstete[ungesichert].

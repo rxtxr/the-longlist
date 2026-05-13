@@ -69,8 +69,7 @@ wave: 1
 ---
 
 ## Überblick
-
-Sexismus in der Werbung ist mehr als nur schlechter Geschmack — es ist ein Spiegel gesellschaftlicher Machtverhältnisse. Seit Jahrzehnten nutzt die Werbebranche stereotype oder abwertende Geschlechterdarstellungen, um Produkte zu verkaufen [1][9]. Was als "harmlose" Anzeige begann, entwickelte sich zu einer zentralen Debatte über Gleichberechtigung, Ethik und die Verantwortung der Kreativwirtschaft. Dieser Artikel erzählt, wie aus einer feministischen Kritik eine Bewegung wurde, die ganze Industrien zum Umdenken zwang.
+Sexismus in der Werbung ist ein Spiegel gesellschaftlicher Machtverhältnisse. Seit Jahrzehnten nutzt die Werbebranche stereotype oder abwertende Geschlechterdarstellungen, um Produkte zu verkaufen [1][9]. Was als "harmlose" Anzeige begann, entwickelte sich zu einer zentralen Debatte über Gleichberechtigung, Ethik und die Verantwortung der Kreativwirtschaft. Dieser Artikel erzählt, wie aus einer feministischen Kritik eine Bewegung wurde, die ganze Industrien zum Umdenken zwang.
 
 ## Historischer Kontext
 

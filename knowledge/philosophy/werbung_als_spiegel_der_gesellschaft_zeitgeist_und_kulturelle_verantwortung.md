@@ -52,8 +52,7 @@ wave: 3
 ---
 
 ## Überblick
-
-Werbung ist mehr als nur der Verkauf von Produkten — sie ist das vielleicht intimste Tagebuch der modernen Gesellschaft. Seit ihren Anfängen dokumentiert sie nicht nur, was wir konsumieren, sondern wer wir sind, was wir fürchten, worauf wir hoffen und welche Träume wir hegen. Sie hält der Gesellschaft den Spiegel vor, oft sogar, bevor wir uns selbst darin erkennen. Dieser Artikel erkundet, wie Werbung vom bloßen Wirtschaftsfaktor zum kulturellen Archiv wurde, das gesellschaftliche Werte, Konflikte und Transformationen festhält.
+Werbung ist das vielleicht intimste Tagebuch der modernen Gesellschaft. Seit ihren Anfängen dokumentiert sie, was wir konsumieren, wer wir sind, was wir fürchten, worauf wir hoffen und welche Träume wir hegen. Sie hält der Gesellschaft den Spiegel vor, oft sogar, bevor wir uns selbst darin erkennen. Dieser Artikel erkundet, wie Werbung vom bloßen Wirtschaftsfaktor zum kulturellen Archiv wurde, das gesellschaftliche Werte, Konflikte und Transformationen festhält.
 
 ## Historischer Kontext
 

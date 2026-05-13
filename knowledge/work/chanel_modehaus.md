@@ -34,7 +34,7 @@ wave: 14
 ---
 
 ## Überblick
-Chanel ist mehr als ein französischer Luxusmodekonzern — es ist die Verkörperung einer Revolution. Gegründet von Gabrielle "Coco" Chanel, befreite das Haus die Frau nicht nur vom Korsett, sondern schuf eine neue Sprache der Eleganz: zeitlos, modern und vor allem tragbar. Hinter dieser Marke steht die Geschichte einer Frau, die gegen alle Konventionen kämpfte und damit den Luxus für immer veränderte.
+Chanel ist die Verkörperung einer Revolution. Gegründet von Gabrielle "Coco" Chanel, befreite das Haus die Frau vom Korsett und schuf eine neue Sprache der Eleganz: zeitlos, modern und vor allem tragbar. Hinter dieser Marke steht die Geschichte einer Frau, die gegen alle Konventionen kämpfte und damit den Luxus für immer veränderte.
 
 ## Historischer Kontext
 Die Welt um 1910 war im Umbruch: Der Erste Weltkrieg stand bevor, und die Frauen begannen, sich aus den engen gesellschaftlichen Fesseln zu lösen. Sie arbeiteten, fuhren Auto, rauchten — und brauchten Kleidung, die mithielt. In diese Zeit der Rebellion platzte Coco Chanel, eine ehrgeizige Frau aus einfachen Verhältnissen, die genau spürte, was die moderne Frau wollte: Freiheit. Ihre Designs waren die Antwort auf den Wunsch nach praktischer, bewegungsfreundlicher Kleidung für ein aktives Leben.

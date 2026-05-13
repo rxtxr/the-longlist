@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5218/5384507603_f2d6bbdf0a_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/31e56b82-0650-4841-8193-b3596219ee45/thumb/",
+    "caption": "Ampex - Reading - July 1979 - Victory is So Sweet",
+    "license": "CC BY 2.0",
+    "artist": "Gareth1953 All Right Now",
+    "source_url": "https://www.flickr.com/photos/40837632@N05/5384507603",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 709
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8323/8086165599_c95f12ac37_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/c5457c7c-3bda-4e9f-8572-43a9e1290181/thumb/",
+    "caption": "Austin - Texas State Capitol: House of Representatives Chamber - Captain Audie Murphy",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "wallyg",
+    "source_url": "https://www.flickr.com/photos/70323761@N00/8086165599",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 681,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "dNLefd29UEA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/dNLefd29UEA",
+    "thumb_url": "https://img.youtube.com/vi/dNLefd29UEA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dNLefd29UEA",
+    "caption": "Stephen Allan interview: How has the media industry changed?",
+    "duration": "1:34",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=dNLefd29UEA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

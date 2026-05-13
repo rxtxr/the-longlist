@@ -21,8 +21,7 @@ wave: 1
 ---
 
 ## Überblick
-
-Werbefilm-Produktion ist weit mehr als das simple Abfilmen eines Produkts — es ist die hohe Kunst, in 30 Sekunden eine Welt zu erschaffen, die im Gedächtnis bleibt. Dieser komplexe Prozess der Erstellung audiovisueller Werbebotschaften für Kino, Fernsehen und digitale Kanäle ist ein zentrales Element der Markenkommunikation. Bewegtbild vermag es wie kein anderes Medium, emotional, eindrücklich und massenwirksam Geschichten zu erzählen. Doch hinter jedem Spot steckt eine eigene, oft dramatische Geschichte von kreativem Kampf, technischer Innovation und dem Ringen um die Aufmerksamktion einer ganzen Nation.
+Werbefilm-Produktion ist die hohe Kunst, in 30 Sekunden eine Welt zu erschaffen, die im Gedächtnis bleibt. Dieser komplexe Prozess der Erstellung audiovisueller Werbebotschaften für Kino, Fernsehen und digitale Kanäle ist ein zentrales Element der Markenkommunikation. Bewegtbild vermag es wie kein anderes Medium, emotional, eindrücklich und massenwirksam Geschichten zu erzählen. Doch hinter jedem Spot steckt eine eigene, oft dramatische Geschichte von kreativem Kampf, technischer Innovation und dem Ringen um die Aufmerksamkeit einer ganzen Nation.
 
 ## Historischer Kontext
 

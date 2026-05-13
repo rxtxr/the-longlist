@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2342/3532641976_e300996596_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/77a5874b-65f7-4239-b4dd-830165ed9f5b/thumb/",
+    "caption": "The Nesquik Bunny Strikes a Pose at the CLIO Awards",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "CLIO Awards",
+    "source_url": "https://www.flickr.com/photos/38273634@N04/3532641976",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2277/3532384990_8b860387c2_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/fae756eb-ac6e-4a18-a558-1e406d3470f7/thumb/",
+    "caption": "CLIO Awards: Innovation in Soical Media Strategies",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "CLIO Awards",
+    "source_url": "https://www.flickr.com/photos/38273634@N04/3532384990",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "GCJ_cJMPK4s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/GCJ_cJMPK4s",
+    "thumb_url": "https://img.youtube.com/vi/GCJ_cJMPK4s/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GCJ_cJMPK4s",
+    "caption": "Clio Awards 40th Anniversary Reel - 118 - Nike",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=GCJ_cJMPK4s",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

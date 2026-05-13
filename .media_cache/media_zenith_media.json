@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4099/4931337983_bbac8da061_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2e93dfdb-8b85-4402-a231-d935b86f52f5/thumb/",
+    "caption": "Disney's 'Blue - My life in the movies' starring Pinocchio",
+    "license": "CC BY-NC 2.0",
+    "artist": "id-iom",
+    "source_url": "https://www.flickr.com/photos/48119396@N00/4931337983",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 680,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7315/9365889753_590ea8c469_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/687799cd-b00c-45e5-a88d-1cec180f22a5/thumb/",
+    "caption": "sts124-s-001",
+    "license": "CC BY-NC 2.0",
+    "artist": "NASA Johnson",
+    "source_url": "https://www.flickr.com/photos/29988733@N04/9365889753",
+    "source_label": "OpenVerse / nasa",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "MQQrxiCP2Vs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/MQQrxiCP2Vs",
+    "thumb_url": "https://img.youtube.com/vi/MQQrxiCP2Vs/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MQQrxiCP2Vs",
+    "caption": "Why CREATIVE Is Media's Biggest Blind Spot",
+    "duration": "48:58",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=MQQrxiCP2Vs",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

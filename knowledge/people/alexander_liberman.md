@@ -39,7 +39,7 @@ wave: 15
 ---
 
 ## Überblick
-Alexander Liberman war mehr als nur ein Redakteur – er war ein Gestalter des modernen Blickes. Der ukrainisch-amerikanische Künstler, Verleger und visionäre [[Condé Nast]]-Kreativdirektor prägte über Jahrzehnte hinweg das visuelle Erscheinungsbild von Hochglanz-Ikonen wie [[Vogue]], [[Glamour]] und [[House & Garden]] [1][3][6][10]. Sein Name steht für eine Revolution des Magazindesigns, die das gesamte Genre nachhaltig veränderte [ungesichert].
+Alexander Liberman war ein Gestalter des modernen Blickes. Der ukrainisch-amerikanische Künstler, Verleger und visionäre [[Condé Nast]]-Kreativdirektor prägte über Jahrzehnte hinweg das visuelle Erscheinungsbild von Hochglanz-Ikonen wie [[Vogue]], [[Glamour]] und [[House & Garden]] [1][3][6][10]. Sein Name steht für eine Revolution des Magazindesigns, die das gesamte Genre nachhaltig veränderte [ungesichert].
 
 ## Historischer Kontext
 Libermans Karriere bei Condé Nast fiel in eine Zeit tiefgreifender gesellschaftlicher und ästhetischer Umbrüche – von den konservativen 1950ern bis zur experimentierfreudigen Postmoderne [1][6]. Während die Werbebranche zunehmend auf visuelle Wirkung setzte [1], erkannte Liberman früh: Ein Magazin muss nicht nur informieren, sondern als Gesamtkunstwerk begeistern. Seine Modernisierung der Condé Nast-Publikationen war eine Antwort auf das aufkommende Zeitalter der Bilder [2][6].

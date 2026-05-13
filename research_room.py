@@ -85,13 +85,19 @@ def main():
                         help="Relevanzwelle: Artikel narrativ anreichern (Geschichten, Kontext, Bedeutung)")
     parser.add_argument("--relevance-force", action="store_true",
                         help="Relevanzwelle auch für bereits bearbeitete Einträge wiederholen")
+    parser.add_argument("--style-wave", action="store_true",
+                        help="Stilwelle: 'mehr als nur / more than just'-Muster in Überblick-Abschnitten bereinigen")
     parser.add_argument("--review", action="store_true",
                         help="Review-Welle: drei Gutachter analysieren Muster, Ton und Qualität des Korpus")
     parser.add_argument("--review-seed", type=int, default=42,
                         help="Zufalls-Seed für Artikel-Stichprobe (default: 42)")
+    parser.add_argument("--review-scale", type=int, default=1,
+                        help="Stichprobengröße: 1=~13, 2=~25, 3=~35 Artikel")
+    parser.add_argument("--review-only", type=str, default=None,
+                        help="Nur bestimmte Gutachter: z.B. '2,3' für Copywriter+Journalist")
     args = parser.parse_args()
 
-    if not any([args.wave, args.topic, args.wiki, args.status, args.visual, args.graph, args.enrich, args.verify, args.strict_verify, args.image_wave, args.relevance_wave, args.review]):
+    if not any([args.wave, args.topic, args.wiki, args.status, args.visual, args.graph, args.enrich, args.verify, args.strict_verify, args.image_wave, args.relevance_wave, args.review, args.style_wave]):
         parser.print_help()
         print("\nBeispiel: python research_room.py --status")
         return
@@ -160,9 +166,22 @@ def main():
         print(f"\n✓ Bildwelle abgeschlossen: {enriched} Artikel angereichert")
         return
 
+    if args.style_wave:
+        header("Stilwelle: 'mehr als nur'-Bereinigung")
+        results = runner.run_style_wave(dry_run=args.dry_run)
+        print(f"\n✓ Stilwelle: {results['fixed']} Artikel überarbeitet")
+        return
+
     if args.review:
-        header("Review-Welle: drei Gutachter")
-        results = runner.run_review_wave(seed=getattr(args, "review_seed", 42))
+        header("Review-Welle: Gutachter")
+        only = None
+        if getattr(args, "review_only", None):
+            only = [int(x.strip()) for x in args.review_only.split(",")]
+        results = runner.run_review_wave(
+            seed=getattr(args, "review_seed", 42),
+            scale=getattr(args, "review_scale", 1),
+            only=only,
+        )
         print(f"\n✓ Review abgeschlossen → {results['report_path']}")
         return
 

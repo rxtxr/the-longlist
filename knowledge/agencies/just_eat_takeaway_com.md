@@ -38,7 +38,7 @@ wave: 22
 ---
 
 ## Überblick
-Just Eat Takeaway.com ist mehr als nur ein Essenslieferdienst – es ist das Ergebnis einer der spektakulärsten Konsolidierungsgeschichten der europäischen Digitalwirtschaft. Aus zwei regionalen Startups wurde durch mutige Fusionen und Übernahmen ein Gigant geschmiedet, der zeitweise den globalen Food-Delivery-Markt mitprägte [ungesichert]. Die Geschichte dieses Unternehmens erzählt vom Aufstieg der Plattformökonomie, von milliardenschweren Wetten und den harten Realitäten eines umkämpften Marktes.
+Just Eat Takeaway.com ist das Ergebnis einer der spektakulärsten Konsolidierungsgeschichten der europäischen Digitalwirtschaft. Aus zwei regionalen Startups wurde durch mutige Fusionen und Übernahmen ein Gigant geschmiedet, der zeitweise den globalen Food-Delivery-Markt mitprägte. Die Geschichte dieses Unternehmens erzählt vom Aufstieg der Plattformökonomie, von milliardenschweren Wetten und den harten Realitäten eines umkämpften Marktes.
 
 ## Historischer Kontext
 Geboren wurde Just Eat Takeaway.com im perfekten Sturm mehrerer Entwicklungen: Dem Aufstieg des Smartphones als ständiger Begleiter, der Plattformökonomie als neuem Geschäftsmodell und der COVID-19-Pandemie als unerwartetem Beschleuniger [ungesichert]. Während traditionelle Restaurantbesuche zeitweise unmöglich wurden, erlebten digitale Essensbestellungen ihren endgültigen Durchbruch [ungesichert]. Wirtschaftlich fand diese Entwicklung in einem gnadenlosen Verdrängungswettbewerb statt, bei dem nur die Größten und Kapitalstärksten überleben sollten [ungesichert].

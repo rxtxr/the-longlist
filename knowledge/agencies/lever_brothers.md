@@ -49,8 +49,7 @@ wave: 11
 ---
 
 ## Überblick
-
-Lever Brothers war nicht einfach eine Seifenfabrik — es war eine der ersten modernen Marketingmaschinen der Welt. Gegründet 1885 von [[William Hesketh Lever]] und seinem Bruder [[James Darcy Lever]], revolutionierte das Unternehmen nicht nur die Hygienegewohnheiten der Viktorianer, sondern erfand praktisch das Konzept der Markenwerbung neu. [ungesichert] Hier entstand zum ersten Mal die Idee, dass eine Seife nicht einfach ein Stück Seife ist, sondern "Sunlight" — eine Marke mit Versprechen, Werten und einer eigenen Persönlichkeit.
+Lever Brothers war eine der ersten modernen Marketingmaschinen der Welt. Gegründet 1885 von [[William Hesketh Lever]] und seinem Bruder [[James Darcy Lever]], revolutionierte das Unternehmen die Hygienegewohnheiten der Viktorianer und erfand das Konzept der Markenwerbung neu. Hier entstand die Idee, dass eine Seife "Sunlight" ist — eine Marke mit Versprechen, Werten und einer eigenen Persönlichkeit.
 
 Aus dieser visionären Unternehmung entstand später der Konsumgüterriese [[Unilever]], und die Werbeabteilung von Lever Brothers wurde zur legendären Agentur [[Lintas]], die Jahrzehnte lang die Maßstäbe in der Branche setzte.
 

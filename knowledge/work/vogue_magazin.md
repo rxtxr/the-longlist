@@ -55,8 +55,7 @@ wave: 14
 ---
 
 ## Überblick
-
-Vogue ist nicht einfach nur eine Modezeitschrift – es ist die Institution, die über ein Jahrhundert lang definiert hat, was Schönheit, Stil und kulturelle Relevanz bedeuten. Als einflussreichstes Mode- und Lifestyle-Magazin der Welt prägte es nicht nur den Modejournalismus, sondern fungierte stets als stilbildende Instanz, die kulturelle und gesellschaftliche Trends setzte und reflektierte. Es war stets mehr als Papier und Druckerschwärze; es war ein Barometer der Zeit.
+Vogue ist die Institution, die über ein Jahrhundert lang definiert hat, was Schönheit, Stil und kulturelle Relevanz bedeuten. Als einflussreichstes Mode- und Lifestyle-Magazin der Welt prägte es den Modejournalismus und fungierte stets als stilbildende Instanz, die kulturelle und gesellschaftliche Trends setzte und reflektierte. Es war ein Barometer der Zeit.
 
 ## Historischer Kontext
 

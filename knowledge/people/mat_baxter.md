@@ -41,7 +41,7 @@ wave: 19
 ---
 
 ## Überblick
-Mat Baxter ist eine der schillerndsten Figuren der modernen Werbebranche – ein australischer Stratege, der sich vom Mediaplaner zum Global CEO hocharbeitete und dabei stets den digitalen Wandel vorantrieb[ungesichert]. Seine Karriere bei Agenturen wie [[Initiative]] und [[Huge]] steht exemplarisch für die radikale Transformation, die die Werbebranche seit den 2010er Jahren durchläuft[ungesichert]. Baxter verkörperte den Typus des modernen Agenturchefs, der nicht nur Budgets verwaltet, sondern Agenturen neu erfindet[ungesichert].
+Mat Baxter ist eine der schillerndsten Figuren der modernen Werbebranche – ein australischer Stratege, der sich vom Mediaplaner zum Global CEO hocharbeitete und dabei stets den digitalen Wandel vorantrieb. Seine Karriere bei Agenturen wie [[Initiative]] und [[Huge]] steht exemplarisch für die radikale Transformation, die die Werbebranche seit den 2010er Jahren durchläuft. Baxter verkörpert den Typus des modernen Agenturchefs, der Agenturen neu erfindet.
 
 ## Historischer Kontext
 Baxters Aufstieg fiel in eine Epoche des Umbruchs: Die digitale Revolution zersetzte traditionelle Werbeformate, während Kunden zunehmend integrierte, datengetriebene Lösungen forderten[ungesichert]. Die einst starre Trennung zwischen kreativen [[Full-Service-Agentur|Full-Service-Agenturen]] und spezialisierten [[Mediaagentur]]en begann zu verschwimmen[ungesichert]. In dieser Zeit des Experimentierens wurde Baxter zur Schlüsselfigur – erst als Mitgründer der innovativen [[Naked Communications]] im asiatisch-pazifischen Raum, später als Transformator etablierter Netzwerke[ungesichert].

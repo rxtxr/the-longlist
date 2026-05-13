@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2033/2263937412_b29d440c07_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/8771c192-5ee5-4fc8-8ee5-2b0b49822a41/thumb/",
+    "caption": "[wee planets] Bird Eye test 2",
+    "license": "CC BY-SA 2.0",
+    "artist": "Latente 囧 www.latente.it",
+    "source_url": "https://www.flickr.com/photos/33423611@N00/2263937412",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3336/3173439502_0dfa5ce912_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/551cb888-b6f4-439f-84a7-d65914750989/thumb/",
+    "caption": "Grace Cathedral - A Birds Eye View",
+    "license": "CC BY-ND 2.0",
+    "artist": "SF Brit",
+    "source_url": "https://www.flickr.com/photos/86135961@N00/3173439502",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "B7wDtJelc14",
+    "embed_url": "https://www.youtube-nocookie.com/embed/B7wDtJelc14",
+    "thumb_url": "https://img.youtube.com/vi/B7wDtJelc14/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=B7wDtJelc14",
+    "caption": "Jon Danzig directs: 'The Birds Eye Walls Story' - how we made our staff world class",
+    "duration": "2:33",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=B7wDtJelc14",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

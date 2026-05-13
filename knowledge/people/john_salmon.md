@@ -34,7 +34,7 @@ wave: 15
 ---
 
 ## Überblick
-John Salmon war mehr als nur ein Werbeagentur-Geschäftsführer – er war der Mann, der den Mut hatte, den mächtigsten Automobilkunden Großbritanniens zu feuern. Seine legendäre Entscheidung, [[Ford Motor Company]] 1976 zu kündigen, wurde zum Symbol für kreative Unabhängigkeit und veränderte das Machtgefüge zwischen Agenturen und Kunden nachhaltig. Der Mann, den alle "Smokey" nannten, bewies, dass kreative Prinzipien mehr wert sind als jedes noch so lukrative Konto.
+John Salmon war der Mann, der den Mut hatte, den mächtigsten Automobilkunden Großbritanniens zu feuern. Seine legendäre Entscheidung, [[Ford Motor Company]] 1976 zu kündigen, wurde zum Symbol für kreative Unabhängigkeit und veränderte das Machtgefüge zwischen Agenturen und Kunden nachhaltig. Der Mann, den alle "Smokey" nannten, bewies, dass kreative Prinzipien wertvoller sind als jedes noch so lukrative Konto.
 
 ## Historischer Kontext
 Die 1960er und 1970er Jahre waren die goldene Ära der britischen [[Kreativ-Revolution]]. Agenturen wie [[Collett Dickenson Pearce]] (CDP) regierten die Werbewelt nicht mit Marketing-Studien, sondern mit genialen Ideen. Doch genau in diesem kreativen Höhenflug begannen Großkunden zunehmend, sich in die Arbeit einzumischen. Es war der Beginn eines Machtkampfes zwischen kaufmännischer Kontrolle und kreativer Freiheit – ein Konflikt, der in Salmons Entscheidung gipfeln sollte.

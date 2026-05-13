@@ -37,7 +37,7 @@ wave: 16
 ---
 
 ## Überblick
-Rudolf Augstein war mehr als nur der Gründer des [[DER SPIEGEL]] – er war eine der prägenden publizistischen Figuren der Bundesrepublik. Sein Name steht für einen kompromisslosen, investigativen Journalismus, der die junge deutsche Demokratie nach der NS-Diktatur mitprägte. Augstein führte das Magazin von der ersten Ausgabe 1947 bis zu seinem Tod 2002 und machte es zur mächtigsten Enthüllungsinstanz des Landes.
+Rudolf Augstein war der Gründer des [[DER SPIEGEL]] und eine der prägenden publizistischen Figuren der Bundesrepublik. Sein Name steht für einen kompromisslosen, investigativen Journalismus, der die junge deutsche Demokratie nach der NS-Diktatur mitprägte. Augstein führte das Magazin von der ersten Ausgabe 1947 bis zu seinem Tod 2002 und machte es zur mächtigsten Enthüllungsinstanz des Landes.
 
 ## Historischer Kontext
 Augsteins Karriere begann im zertrümmerten Nachkriegsdeutschland, einer Zeit des moralischen und physischen Wiederaufbaus [ungesichert]. Die junge Bundesrepublik brauchte unabhängige Stimmen, die Macht kontrollierten – eine Rolle, die der SPIEGEL unter Augstein radikal für sich beanspruchte. In dieser Ära des Kalten Krieges und der restaurativen Tendenzen wurde sein Magazin zur kritischen Gegenstimme.

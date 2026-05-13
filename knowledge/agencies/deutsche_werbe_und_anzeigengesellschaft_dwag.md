@@ -20,7 +20,7 @@ wave: 18
 ---
 
 ## Überblick
-Die Deutsche Werbe- und Anzeigengesellschaft (DEWAG) war mehr als nur eine Werbeagentur – sie war das staatliche Monopolinstrument für öffentliche Information und Werbung in der DDR. Als verlängerter Arm der SED steuerte sie nicht nur das Bild der Warenwelt, sondern prägte vier Jahrzehnte lang das visuelle Erscheinungsbild des sozialistischen Staates [ungesichert]. Hier wurde nicht für Konzerne geworben, sondern für das System selbst.
+Die Deutsche Werbe- und Anzeigengesellschaft (DEWAG) war das staatliche Monopolinstrument für öffentliche Information und Werbung in der DDR. Als verlängerter Arm der SED steuerte sie das Bild der Warenwelt und prägte vier Jahrzehnte lang das visuelle Erscheinungsbild des sozialistischen Staates. Hier wurde für das System selbst geworben, nicht für Konzerne.
 
 ## Historischer Kontext
 In den frühen Jahren der DDR vollzog sich eine radikale Umgestaltung von Wirtschaft und Gesellschaft nach sowjetischem Vorbild. Die DEWAG entstand in dieser Phase der Verstaatlichung und Zentralisierung, als private Werbeagenturen als Relikte des kapitalistischen Systems galten [ungesichert]. In der Planwirtschaft erhielt Werbung eine paradoxe Doppelfunktion: Einerseits sollte sie knappe Konsumgüter verteilen helfen, andererseits diente sie als Werkzeug zur politischen Erziehung und Disziplinierung der Bevölkerung [ungesichert]. Jede Anzeige, jedes Plakat war auch eine Lektion in Staatsbürgerkunde.

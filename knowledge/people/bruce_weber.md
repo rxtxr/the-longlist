@@ -56,7 +56,7 @@ wave: 14
 ---
 
 ## Überblick
-Bruce Weber ist einer der einflussreichsten amerikanischen Mode- und Werbefotografen des späten 20. Jahrhunderts, dessen ikonische Bilder das visuelle Erbe großer Modemarken prägten. Mehr als nur ein Fotograf war er ein Geschichtenerzähler, der mit seiner Kamera einen unverwechselbaren amerikanischen Traum einfing – sonnendurchflutete Idylle, lässige Eleganz und eine sinnliche, oft homoerotische Ästhetik, die die Werbebranche revolutionierte [1][9].
+Bruce Weber ist einer der einflussreichsten amerikanischen Mode- und Werbefotografen des späten 20. Jahrhunderts, dessen ikonische Bilder das visuelle Erbe großer Modemarken prägten. Er war ein Geschichtenerzähler, der mit seiner Kamera einen unverwechselbaren amerikanischen Traum einfing – sonnendurchflutete Idylle, lässige Eleganz und eine sinnliche, oft homoerotische Ästhetik, die die Werbebranche revolutionierte [1][9].
 
 ## Historischer Kontext
 [ungesichert]  

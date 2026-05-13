@@ -38,7 +38,7 @@ wave: 19
 ---
 
 ## Überblick
-Der Art-Direktor (auch Art Director, Abkürzung AD) ist mehr als nur ein erfahrener Grafikdesigner — er ist der visuelle Architekt der Werbung, der Gestalter von Markenwelten und oft der heimliche Held großer Kampagnen. Die Bezeichnung ist zwar weder geschützt noch einheitlich definiert, setzt aber normalerweise eine fundierte Ausbildung und mehrjährige Berufserfahrung voraus [1]. Was ihn wirklich ausmacht: die Fähigkeit, komplexe Botschaften in eindrückliche Bilder zu übersetzen, die im Gedächtnis bleiben.
+Der Art-Direktor (auch Art Director, Abkürzung AD) ist der visuelle Architekt der Werbung, der Gestalter von Markenwelten und oft der heimliche Held großer Kampagnen. Die Bezeichnung ist zwar weder geschützt noch einheitlich definiert, setzt aber normalerweise eine fundierte Ausbildung und mehrjährige Berufserfahrung voraus [1]. Was ihn wirklich ausmacht: die Fähigkeit, komplexe Botschaften in eindrückliche Bilder zu übersetzen, die im Gedächtnis bleiben.
 
 ## Historischer Kontext
 Die Entstehung der Rolle lässt sich nicht eindeutig aus den vorhandenen Quellen belegen [ungesichert]. Die Quellenlage hierzu ist dünn — [ungesichert] vermutlich entwickelte sich die Position im frühen 20. Jahrhundert parallel zur Professionalisierung der Werbebranche, als sich die Aufgaben von reinen Gestaltern zu kreativen Leitfiguren wandelten. In einer Zeit, in der Werbung zunehmend wissenschaftlich und strategisch betrieben wurde, brauchte man kreative Köpfe, die sowohl künstlerische Vision als auch Marktverständnis vereinten.

@@ -33,8 +33,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Das Fotoatelier in der Werbeagentur war mehr als nur ein Raum mit Scheinwerfern – es war der Ort, wo abstrakte Werbeideen zu greifbaren Bildwelten wurden. Hier traf künstlerische Kreativität auf technische Präzision und kommerzielles Kalkül. Während externe Fotostudios oft für Porträts oder Kunstfotografie genutzt wurden, entstand in Agentur-eigenen Studios eine spezielle Disziplin: die inszenierte Wahrheit. Produkte wurden hier nicht einfach abgelichtet, sie wurden in Szene gesetzt, emotional aufgeladen und zu mythischen Objekten transformiert. Diese Entwicklung war eng mit dem Aufstieg der Markenwerbung verbunden – denn was nützte die beste Copywriting-Strategie, wenn das Bild nicht mitspielte?
+Das Fotoatelier in der Werbeagentur war der Ort, wo abstrakte Werbeideen zu greifbaren Bildwelten wurden. Hier traf künstlerische Kreativität auf technische Präzision und kommerzielles Kalkül. Während externe Fotostudios oft für Porträts oder Kunstfotografie genutzt wurden, entstand in Agentur-eigenen Studios die inszenierte Wahrheit. Produkte wurden hier in Szene gesetzt, emotional aufgeladen und zu mythischen Objekten transformiert. Diese Entwicklung war eng mit dem Aufstieg der Markenwerbung verbunden – denn was nützte die beste Copywriting-Strategie, wenn das Bild nicht mitspielte?
 
 ## Historischer Kontext
 

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "image",
+    "url": "https://yksa.disec.fi/Yksa4/download/168146699929200/file/5fb6dd10-0418-4ddf-8295-560d96b0183c",
+    "thumb_url": "https://api.openverse.org/v1/images/42827751-0236-4e5a-a0b2-c35154bb18f5/thumb/",
+    "caption": "Adolf Niska (1884-1960) som Storfurst Konstantin ...",
+    "license": "CC BY 4.0",
+    "artist": "Svenska Teaterns arkiv",
+    "source_url": "https://sls.finna.fi/Record/sls.SLSA+1270_SLSA+1270_34_foto_1412?lng=en-gb",
+    "source_label": "OpenVerse / europeana",
+    "copyright_status": "clear_cc",
+    "width": 2667,
+    "height": 4000
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "777R2gMeryI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/777R2gMeryI",
+    "thumb_url": "https://img.youtube.com/vi/777R2gMeryI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=777R2gMeryI",
+    "caption": "PODCAST with Proud@Work  - aka. Advertising legends Reinhard Springer & Konstantin Jacoby",
+    "duration": "3:14",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=777R2gMeryI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

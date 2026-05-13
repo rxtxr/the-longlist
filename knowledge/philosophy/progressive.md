@@ -33,7 +33,7 @@ wave: 15
 ---
 
 ## Überblick
-Progressive Werbung war mehr als nur ein Werbestil – sie war eine kulturelle Rebellion. In den 1960er bis 1980er Jahren verwandelte eine Handbuch visionärer Werber die verhasste Reklame in ein Werkzeug für gesellschaftlichen Dialog. Statt plumpe Verkaufsappelle boten sie intellektuelle Herausforderung, statt glatter Lügen ehrliche Selbstironie. Diese Bewegung humanisierte die Werbung und schuf die Grundlage für alles, was heute als "Purpose-Kommunikation" gilt. Sie bewies: Wahrheit verkauft sich besser als Schönfärberei.
+Progressive Werbung war eine kulturelle Rebellion. In den 1960er bis 1980er Jahren verwandelte eine Gruppe visionärer Werber die verhasste Reklame in ein Werkzeug für gesellschaftlichen Dialog. Statt plumpe Verkaufsappelle boten sie intellektuelle Herausforderung, statt glatter Lügen ehrliche Selbstironie. Diese Bewegung humanisierte die Werbung und schuf die Grundlage für alles, was heute als "Purpose-Kommunikation" gilt. Sie bewies: Wahrheit verkauft sich besser als Schönfärberei.
 
 ## Historischer Kontext
 Die Welt war im Umbruch. Während die Werbebranche noch mit hyperbolischen Slogans und aufdringlichen Jingles arbeitete, protestierte draußen eine Generation gegen Vietnamkrieg und Establishment. Vance Packards "Die geheimen Verführer" entlarvte 1957 die manipulativen Techniken der Werbung, der Club of Rome warnte 1972 vor den "Grenzen des Wachsstums". Die Konsumgesellschaft geriet unter Beschuss – und kluge Werber erkannten: Um diese neue, kritische Generation zu erreichen, musste man anders kommunizieren. In einer Ära der Stagflation und wirtschaftlichen Verunsicherung [ungesichert] wirkte der traditionelle Hard-Sell zunehmend deplatziert.

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4098/4821836069_65c530655c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/acba1eb8-7275-44aa-8e9a-a7404974d012/thumb/",
+    "caption": "TBWA \\ Chiat \\ Day \\ OMD building",
+    "license": "CC BY-SA 2.0",
+    "artist": "jm3",
+    "source_url": "https://www.flickr.com/photos/37996588780@N01/4821836069",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4114/4822454162_8021d3e780_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/75848685-88c4-42b3-9311-fc6894ca951c/thumb/",
+    "caption": "TBWA Chiat Day OMD Infiniti sign",
+    "license": "CC BY-SA 2.0",
+    "artist": "jm3",
+    "source_url": "https://www.flickr.com/photos/37996588780@N01/4822454162",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "E-yHmfFL1vU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/E-yHmfFL1vU",
+    "thumb_url": "https://img.youtube.com/vi/E-yHmfFL1vU/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=E-yHmfFL1vU",
+    "caption": "How Data Informs Creative, Changes Lives: TBWA\\Chiat\\Day's Reyes",
+    "duration": "4:44",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=E-yHmfFL1vU",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

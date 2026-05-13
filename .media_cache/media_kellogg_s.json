@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5292/5406614389_b3c1cb0230_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/196b55ed-869a-49ed-a69a-c3828b1cd7fa/thumb/",
+    "caption": "Kellogg's Crunchy Nut Cereal",
+    "license": "CC BY-SA 2.0",
+    "artist": "theimpulsivebuy",
+    "source_url": "https://www.flickr.com/photos/27410581@N07/5406614389",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 673
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8155/7703468148_a390b0a3a3_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2e6ab1cd-df1c-47fa-b4a5-bebbfb7bbee0/thumb/",
+    "caption": "Michael Phelps Kellogg's Corn Flakes Box",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "MarkGregory007",
+    "source_url": "https://www.flickr.com/photos/97699482@N00/7703468148",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 786
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "MmHzq5HSllQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/MmHzq5HSllQ",
+    "thumb_url": "https://img.youtube.com/vi/MmHzq5HSllQ/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MmHzq5HSllQ",
+    "caption": "Kellogg's Commercial 1 (1953)",
+    "duration": "0:59",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=MmHzq5HSllQ",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Advertising_bike_on_Grey_Street_-_geograph.org.uk_-_5438614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Advertising_bike_on_Grey_Street_-_geograph.org.uk_-_5438614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "caption": "Advertising bike on Grey Street",
+    "license": "CC BY-SA 2.0",
+    "artist": "Oliver Dixon",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAdvertising%20bike%20on%20Grey%20Street%20-%20geograph.org.uk%20-%205438614.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bus%2C_advertising_Fifty_Shades_of_Grey%2C_Omagh_-_geograph.org.uk_-_4331615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bus%2C_advertising_Fifty_Shades_of_Grey%2C_Omagh_-_geograph.org.uk_-_4331615.jpg/500px-Bus%2C_advertising_Fifty_Shades_of_Grey%2C_Omagh_-_geograph.org.uk_-_4331615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Bus, advertising Fifty Shades of Grey, Omagh",
+    "license": "CC BY-SA 2.0",
+    "artist": "Kenneth  Allen",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABus%2C%20advertising%20Fifty%20Shades%20of%20Grey%2C%20Omagh%20-%20geograph.org.uk%20-%204331615.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "AH4VX0yxPx0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/AH4VX0yxPx0",
+    "thumb_url": "https://img.youtube.com/vi/AH4VX0yxPx0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AH4VX0yxPx0",
+    "caption": "A 100 Years of Grey",
+    "duration": "1:13",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=AH4VX0yxPx0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

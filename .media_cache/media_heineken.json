@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4129/4833239485_d204e602f9_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a287b603-8724-41b2-b6e0-9e0cd896ac57/thumb/",
+    "caption": "Campings FIB Heineken 2010",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "fiberfib",
+    "source_url": "https://www.flickr.com/photos/25698131@N03/4833239485",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2784/4448729664_948121ba0f.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/228d9411-caee-47c1-82cb-95aa8754e041/thumb/",
+    "caption": "Heineken X-Ray",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Reintji",
+    "source_url": "https://www.flickr.com/photos/89262323@N00/4448729664",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 397,
+    "height": 500
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "FOJ3gFH9puI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/FOJ3gFH9puI",
+    "thumb_url": "https://img.youtube.com/vi/FOJ3gFH9puI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=FOJ3gFH9puI",
+    "caption": "Heineken Beer Advertisement",
+    "duration": "1:53",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=FOJ3gFH9puI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

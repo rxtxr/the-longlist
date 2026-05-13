@@ -40,7 +40,7 @@ wave: 10
 ---
 
 ## Überblick
-Lowe Howard-Spink war mehr als nur eine britische Werbeagentur – sie war ein Statement. Gegründet 1981 von zwei schillernden Persönlichkeiten, [[Frank Lowe]] und [[Geoff Howard-Spink]], wurde sie zur kreativen Machtzentrale für einige der ikonischsten Kampagnen der britischen Werbelandschaft [1][8]. Mit Arbeiten für [[Stella Artois]] [1] und der Entwicklung des genial einfachen [[Tesco]]-Slogans "Every Little Helps" [9] schrieb sie Werbegeschichte.
+Lowe Howard-Spink war eine britische Werbeagentur und ein Statement. Gegründet 1981 von zwei schillernden Persönlichkeiten, [[Frank Lowe]] und [[Geoff Howard-Spink]], wurde sie zur kreativen Machtzentrale für einige der ikonischsten Kampagnen der britischen Werbelandschaft [1][8]. Mit Arbeiten für [[Stella Artois]] [1] und der Entwicklung des genial einfachen [[Tesco]]-Slogans "Every Little Helps" [9] schrieb sie Werbegeschichte.
 
 ## Historischer Kontext
 Die Agentur entstand in einer Zeit des radikalen Umbruchs. Die konservative Ära Thatcher brachte nicht nur wirtschaftliche Deregulierung, sondern auch eine neue Konsumkultur mit sich [ungesichert]. Werbung wurde zunehmend zur Kunstform, und Agenturen wurden zu Stars. In diesem Klima wagten Lowe und Howard-Spink den Aufbruch – kein kleines Startup, sondern ein sofortiger Major Player, der gleich mehrere Großkunden von [[Collett Dickenson Pearce]] abwarb [6]. [Die Quellenlage hierzu ist dünn — ungesichert], aber es war typisch für die Zeit: Talentierte Kreative machten sich selbstständig und nahmen ihre Kunden gleich mit.

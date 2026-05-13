@@ -46,8 +46,7 @@ wave: 0
 ---
 
 ## Überblick
-
-David Ogilvys Brand Image-Philosophie war nicht einfach eine Werbestrategie — sie war eine kulturelle Revolution. In einer Zeit, als Werbung oft laut, übertrieben und faktenfern war, führte der britische Quereinsteiger ein Konzept ein, das auf Eleganz, Respekt und intellektueller Redlichkeit basierte. Sein Ansatz: Eine Marke sollte nicht nur Produkte verkaufen, sondern eine Persönlichkeit entwickeln, die Verbraucher lieben und der sie vertrauen. Diese Philosophie veränderte nicht nur die Werbebranche, sondern prägte unser modernes Verständnis davon, was Marken überhaupt sind.
+David Ogilvys Brand Image-Philosophie war eine kulturelle Revolution. In einer Zeit, als Werbung oft laut, übertrieben und faktenfern war, führte der britische Quereinsteiger ein Konzept ein, das auf Eleganz, Respekt und intellektueller Redlichkeit basierte. Sein Ansatz: Eine Marke sollte eine Persönlichkeit entwickeln, die Verbraucher lieben und der sie vertrauen. Diese Philosophie veränderte die Werbebranche und prägte unser modernes Verständnis davon, was Marken sind.
 
 ## Historischer Kontext
 

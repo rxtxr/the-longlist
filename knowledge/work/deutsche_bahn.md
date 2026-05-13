@@ -51,7 +51,7 @@ wave: 11
 ---
 
 ## Überblick
-Die Deutsche Bahn AG ist mehr als nur ein Verkehrskonzern – sie ist ein Stück deutscher Zeitgeschichte auf Schienen. Als bundeseigener Mobilitäts- und Transportgigant entstand sie 1994 aus der historischen Fusion zweier getrennter deutscher Eisenbahnen: der Deutschen Bundesbahn (West) und Deutschen Reichsbahn (Ost) [4]. Diese Vereinigung war nicht nur betriebswirtschaftlich, sondern auch symbolisch – das rollende Wiedervereinigungsprojekt. Als einer der größten Werbekunden Deutschlands [ungesichert] hat sie die deutsche Kommunikationslandschaft nachhaltig geprägt.
+Die Deutsche Bahn AG ist ein Stück deutscher Zeitgeschichte auf Schienen. Als bundeseigener Mobilitäts- und Transportgigant entstand sie 1994 aus der historischen Fusion zweier getrennter deutscher Eisenbahnen: der Deutschen Bundesbahn (West) und Deutschen Reichsbahn (Ost) [4]. Diese Vereinigung war betriebswirtschaftlich und symbolisch – das rollende Wiedervereinigungsprojekt. Als einer der größten Werbekunden Deutschlands [ungesichert] hat sie die deutsche Kommunikationslandschaft nachhaltig geprägt.
 
 ## Historischer Kontext
 Die Geburtsstunde der Deutschen Bahn fiel in eine Zeit des Umbruchs: Kurz nach dem Fall der Mauer stand Deutschland vor der monumentalen Aufgabe, nicht nur politisch, sondern auch infrastrukturell zusammenzuwachsen. Während die Europäische Union die Liberalisierung des Schienenverkehrs vorantrieb [ungesichert], musste die Bahn zwei komplett unterschiedliche Systeme vereinen – von unterschiedlichen Stromsystemen bis zu konträren Unternehmenskulturen. Es war die größte Bahnreform der deutschen Geschichte, festgehalten im "Eisenbahnneuordnungsgesetz" [ungesichert].

@@ -57,7 +57,7 @@ wave: 13
 ---
 
 ## Überblick
-Steven Meisel ist nicht einfach nur ein Modefotograf – er ist der Architekt einiger der ikonischsten Bilder unserer Zeit. Als stiller, aber enorm einflussreicher Strippenzieher hinter den Kulissen der Hochglanzwelt prägte er über Jahrzehnte hinweg nicht nur das Gesicht der [[Vogue]], sondern erfand es immer wieder neu. Sein Name ist untrennbar verbunden mit der [[Supermodel]]-Ära, mit provokativen Kunstprojekten wie [[Madonna]]s "Sex"-Buch und einem unvergleichlichen Blick für neue Gesichter, die über Nacht zu Stars wurden.
+Steven Meisel ist der Architekt einiger der ikonischsten Bilder unserer Zeit. Als stiller, aber enorm einflussreicher Strippenzieher hinter den Kulissen der Hochglanzwelt prägte er über Jahrzehnte hinweg das Gesicht der [[Vogue]] und erfand es immer wieder neu. Sein Name ist untrennbar verbunden mit der [[Supermodel]]-Ära, mit provokativen Kunstprojekten wie [[Madonna]]s "Sex"-Buch und einem unvergleichlichen Blick für neue Gesichter, die über Nacht zu Stars wurden.
 
 ## Historischer Kontext
 Meisels Aufstieg fiel in eine Zeit radikalen Wandels. Die 1980er und 1990er Jahre waren eine Epoche, in der Modefotografie sich von der bloßen Darstellung von Kleidung zur erzählerischen Kunstform emanzipierte [ungesichert]. Es war die Geburtsstunde der Supermodels – und Meisel war einer ihrer wichtigsten Geburtshelfer [ungesichert]. In einer Branche, die zunehmend von Extravaganz und Exzess geprägt war, blieb er selbst merkwürdig unsichtbar, ein Phantom, das umso mächtiger war, weil es kaum jemand zu Gesicht bekam.

@@ -60,8 +60,7 @@ wave: 8
 ---
 
 ## Überblick
-
-Hathaway steht für eines der größten Wunder der Werbegeschichte: Aus einer kleinen Hemdenmanufaktur wurde durch eine einzige geniale Idee eine weltbekannte Marke. Die Geschichte beginnt 1951, als das Unternehmen [[David Ogilvy]] engagierte, der mit seiner Agentur [[Ogilvy & Mather]] gerade neu am Markt war. Sein Konzept war ebenso einfach wie revolutionär – ein aristokratisch wirkender Mann mit einer Augenklappe, der fortan als "The Man in the Hathaway Shirt" bekannt wurde. Diese Kampagne katapultierte nicht nur Hathaway in eine neue Liga, sondern wurde zur Legende der [[Werbebranche]].
+Hathaway steht für eines der größten Wunder der Werbegeschichte: Aus einer kleinen Hemdenmanufaktur wurde durch eine einzige geniale Idee eine weltbekannte Marke. Die Geschichte beginnt 1951, als das Unternehmen [[David Ogilvy]] engagierte, der mit seiner Agentur [[Ogilvy & Mather]] gerade neu am Markt war. Sein Konzept war einfach und revolutionär – ein aristokratisch wirkender Mann mit einer Augenklappe, der fortan als "The Man in the Hathaway Shirt" bekannt wurde. Diese Kampagne katapultierte Hathaway in eine neue Liga und wurde zur Legende der [[Werbebranche]].
 
 ## Historischer Kontext
 

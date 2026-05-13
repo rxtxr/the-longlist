@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/57/172072019_fe73f22359.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/86e3b513-41eb-42b6-bc52-7f03fc7957da/thumb/",
+    "caption": "Lynx Australia",
+    "license": "CC BY-SA 2.0",
+    "artist": "Arturo de Albornoz",
+    "source_url": "https://www.flickr.com/photos/21244417@N00/172072019",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 354
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8230/8474468461_680f48d8b4_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/d687f8fb-e5c9-4d26-b4c7-81d93793ab1b/thumb/",
+    "caption": "XCOR Aerospace Lynx Rocketplane",
+    "license": "CC BY 2.0",
+    "artist": "jurvetson",
+    "source_url": "https://www.flickr.com/photos/44124348109@N01/8474468461",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 717
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "hFvQqTBFe48",
+    "embed_url": "https://www.youtube-nocookie.com/embed/hFvQqTBFe48",
+    "thumb_url": "https://img.youtube.com/vi/hFvQqTBFe48/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=hFvQqTBFe48",
+    "caption": "LYNX Body Buffer and Shower Gel Cleans Your Balls",
+    "duration": "3:00",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=hFvQqTBFe48",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

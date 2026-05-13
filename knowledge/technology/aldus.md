@@ -56,7 +56,7 @@ wave: 24
 ---
 
 ## Überblick
-Aldus Corporation war mehr als nur ein Softwareunternehmen — es war eine Revolution in Druckerschwärze verpackt. 1984 in Seattle gegründet, schrieb diese Firma mit PageMaker die Geburtsurkunde des Desktop-Publishing. Plötzlich konnte jeder mit einem Apple Macintosh professionelle Layouts gestalten, was bisher nur teuren Fachstudios vorbehalten war. Aldus machte aus dem Computer eine Druckerei und veränderte damit ganze Branchen.
+Aldus Corporation war eine Revolution in Druckerschwärze verpackt. 1984 in Seattle gegründet, schrieb diese Firma mit PageMaker die Geburtsurkunde des Desktop-Publishing. Plötzlich konnte jeder mit einem Apple Macintosh professionelle Layouts gestalten, was bisher nur teuren Fachstudios vorbehalten war. Aldus machte aus dem Computer eine Druckerei und veränderte damit ganze Branchen.
 
 ## Historischer Kontext
 Die 1980er Jahre waren eine Zeit des technologischen Aufbruchs. Während Apple mit dem Macintosh grafische Benutzeroberflächen salonfähig machte, arbeiteten Druckereien noch mit archaischen Methoden: [[Linotype]]-Setzmaschinen, Scheren, Klebstoff und unendlich viel Geduld. Die Druckvorstufe war eine Welt für Spezialisten, langsam und teuer. Gleichzeitig entstand ein Hunger nach effizienteren Methoden — kleine Werbeagenturen, Verlage und sogar Privatpersonen drängten darauf, professionelle Druckerzeugnisse selbst herstellen zu können. In diese Lücke stieß Aldus mit einer visionären Idee.

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Marketing-Mix-ar.svg",
+    "thumb_url": "https://api.openverse.org/v1/images/7c3169ae-f406-453c-9d1a-92324f39a31d/thumb/",
+    "caption": "Marketing-Mix-ar",
+    "license": "CC BY-SA 4.0",
+    "artist": "Michel Bakni",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=137966593",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 328,
+    "height": 328
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8820/28208489145_7cbebd18e3_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e30b495f-783e-40ec-b183-d95f202325ed/thumb/",
+    "caption": "Social Media Marketing Mix",
+    "license": "CC BY 2.0",
+    "artist": "Visual Content",
+    "source_url": "https://www.flickr.com/photos/143601516@N03/28208489145",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 467
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "Mco8vBAwOmA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Mco8vBAwOmA",
+    "thumb_url": "https://img.youtube.com/vi/Mco8vBAwOmA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Mco8vBAwOmA",
+    "caption": "The 4 Ps of The Marketing Mix Simplified",
+    "duration": "2:47",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=Mco8vBAwOmA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

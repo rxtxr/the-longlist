@@ -56,7 +56,7 @@ wave: 15
 ---
 
 ## Überblick
-State Farm Insurance entwickelte sich von einer regionalen Autoversicherung für Farmer zu einem der bekanntesten Versicherungsmarken Amerikas – nicht nur durch Versicherungsleistungen, sondern durch ikonische Werbung, die sich tief ins kulturelle Gedächtnis brannte. Die "Like a good neighbor"-Kampagne mit ihrem unverwechselbaren Jingle und später die "Jake from State Farm"-Figur wurden zu popkulturellen Phänomenen.
+State Farm Insurance entwickelte sich von einer regionalen Autoversicherung für Farmer zu einem der bekanntesten Versicherungsmarken Amerikas durch Versicherungsleistungen und ikonische Werbung, die sich tief ins kulturelle Gedächtnis brannte. Die "Like a good neighbor"-Kampagne mit ihrem unverwechselbaren Jingle und später die "Jake from State Farm"-Figur wurden zu popkulturellen Phänomenen.
 
 ## Historischer Kontext
 State Farm wurde 1922 als "Farmers Mutual Automobile Insurance Company" gegründet – eine Zeit, in der Automobile zunehmend erschwinglich wurden, aber Versicherungen noch stark lokal und persönlich geprägt waren. [ungesichert] Die Agentur Needham, Harper & Steers entwickelte 1971 den berühmten Slogan "Like a good neighbor, State Farm is there", als Versicherungen begannen, sich stärker über emotionale Bindungen statt rein rationaler Argumente zu differenzieren.

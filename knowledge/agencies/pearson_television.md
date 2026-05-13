@@ -38,7 +38,7 @@ wave: 17
 ---
 
 ## Überblick
-Pearson Television war mehr als nur eine Produktionsfirma – es war das internationale Fernseh-Imperium, das die globale Unterhaltungslandschaft der 1990er Jahre prägte und später in [[Fremantle]] umgewandert wurde [1]. Entstanden 1993 durch die Übernahme des legendären [[Thames Television]] durch den britischen Mischkonzern [[Pearson plc]], vereinte es unter einem Dach, was bis dahin verstreut war: Produktionskapazität, Formatentwicklung und weltweiten Vertrieb [1][3][4].
+Pearson Television war das internationale Fernseh-Imperium, das die globale Unterhaltungslandschaft der 1990er Jahre prägte und später in [[Fremantle]] umgewandert wurde [1]. Entstanden 1993 durch die Übernahme des legendären [[Thames Television]] durch den britischen Mischkonzern [[Pearson plc]], vereinte es unter einem Dach, was bis dahin verstreut war: Produktionskapazität, Formatentwicklung und weltweiten Vertrieb [1][3][4].
 
 ## Historischer Kontext
 Die Gründung von Pearson Television fiel in eine Zeit der radikalen Umwälzung. Die 1990er Jahre waren das Jahrzehnt der Medienkonglomerate – überall fusionierten Unternehmen, kauften sich gegenseitig auf und schufen globale Player [ungesichert]. [[Pearson plc]], bis dahin bekannt als Verlagshaus und Bildungsanbieter, erkannte das Potenzial des expandierenden Fernsehmarktes und stieg mit dem Kauf von [[Thames Television]] voll ein [3]. Es war der typische Move eines diversifizierten Konzerns, der sein Portfolio um lukrative Unterhaltungsinhalte erweitern wollte.

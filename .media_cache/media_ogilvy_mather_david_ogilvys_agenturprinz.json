@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/30/54579470_3fcf29f6f4_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/6000e08a-4aaf-4184-b1b7-891e06741d89/thumb/",
+    "caption": "Khai Meng Tham of Ogilvy & Mather",
+    "license": "CC BY-NC 2.0",
+    "artist": "Esthr",
+    "source_url": "https://www.flickr.com/photos/30866445@N00/54579470",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 771
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8361/8449591121_45a3869646_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/f610a64c-4957-4d64-aea0-b7721b6bbb7d/thumb/",
+    "caption": "Η ομάδα των συντελεστών του Love in the end, από την ODEON, την διαφημιστική εταιρία Ogilvy & Mather, Greece, την Kraft Foods, μαζί με τους ηθοποιούς ",
+    "license": "CC BY-ND 2.0",
+    "artist": "Lacta.gr",
+    "source_url": "https://www.flickr.com/photos/43039028@N05/8449591121",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 706
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "py1wwFEXW3o",
+    "embed_url": "https://www.youtube-nocookie.com/embed/py1wwFEXW3o",
+    "thumb_url": "https://img.youtube.com/vi/py1wwFEXW3o/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=py1wwFEXW3o",
+    "caption": "The Man Who Changed Advertising Forever",
+    "duration": "6:43",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=py1wwFEXW3o",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

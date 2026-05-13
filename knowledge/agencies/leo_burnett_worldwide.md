@@ -54,7 +54,7 @@ wave: 9
 ---
 
 ## Überblick
-Leo Burnett Worldwide ist mehr als nur eine Werbeagentur – sie ist eine der prägenden Erzählwerkstätten des 20. Jahrhunderts. Am 5. August 1935 in Chicago von [[Leo Burnett]] gegründet [1], schuf die Agentur nicht nur Werbung, sondern kollektive Symbole, die sich tief ins kulturelle Gedächtnis eingebrannt haben. Von der grimmigen Entschlossenheit des [[Marlboro Man]] bis zur fröhlichen Energie von [[Tony the Tiger]] – Burnetts Kreationen wurden zu Archetypen, die Marken menschliche Gesichter gaben [2].
+Leo Burnett Worldwide ist eine der prägenden Erzählwerkstätten des 20. Jahrhunderts. Am 5. August 1935 in Chicago von [[Leo Burnett]] gegründet [1], schuf die Agentur kollektive Symbole, die sich tief ins kulturelle Gedächtnis eingebrannt haben. Von der grimmigen Entschlossenheit des [[Marlboro Man]] bis zur fröhlichen Energie von [[Tony the Tiger]] – Burnetts Kreationen wurden zu Archetypen, die Marken menschliche Gesichter gaben [2].
 
 ## Historischer Kontext
 Die Agentur entstand in der Tiefe der Großen Depression [ungesichert], einer Zeit, in der Werbung nicht nur verkaufen, sondern auch Hoffnung vermitteln musste. Während die Branche kreative Entwicklungen durchlief [ungesichert], etablierte Burnett einen Stil, der auf emotionaler Ehrlichkeit statt auf harter Verkaufsrhetorik basierte. In einer Ära, die später durch Serien wie [[Mad Men]] mythisch verklärt wurde [3], praktizierte Burnett bereits jenen "HumanKind"-Ansatz, für den die Agentur heute noch steht [7].

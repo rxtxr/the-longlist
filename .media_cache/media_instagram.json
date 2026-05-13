@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Instagram_screenshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Instagram_screenshot.png/500px-Instagram_screenshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Instagram screenshot",
+    "license": "Public domain",
+    "artist": "Instagram",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AInstagram%20screenshot.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1127,
+    "height": 742
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Instagram_verifed.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Instagram_verifed.png/500px-Instagram_verifed.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Instagram verifed",
+    "license": "CC BY-SA 4.0",
+    "artist": "Ahmedmustafa 74",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AInstagram%20verifed.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "caUVnq-O1Z8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/caUVnq-O1Z8",
+    "thumb_url": "https://img.youtube.com/vi/caUVnq-O1Z8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=caUVnq-O1Z8",
+    "caption": "POP CULTURE: The Clever Tricks of Advertising",
+    "duration": "6:29",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=caUVnq-O1Z8",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

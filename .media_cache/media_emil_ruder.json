@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Emil_Ruder.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/76403572-bac5-4663-8b3b-5e060be6d5e8/thumb/",
+    "caption": "File:Emil Ruder.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Manuel Schmalstieg",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=67103757",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1689,
+    "height": 2386
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3562/3814159695_5c2fa71051.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/92731a81-f0ad-4ba3-bd97-24aca585a10b/thumb/",
+    "caption": "emil ruder. armin hofmann",
+    "license": "CC BY 2.0",
+    "artist": "80magazine",
+    "source_url": "https://www.flickr.com/photos/81135242@N00/3814159695",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 361
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "lvme7us8sYU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/lvme7us8sYU",
+    "thumb_url": "https://img.youtube.com/vi/lvme7us8sYU/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=lvme7us8sYU",
+    "caption": "Mission-Driven Show Development | Podcast Perspectives with Emily Rudder of Wonder Media Network",
+    "duration": "25:38",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=lvme7us8sYU",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

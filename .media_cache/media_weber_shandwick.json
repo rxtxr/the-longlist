@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8313/7896920300_33c7fd725f_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/3c608023-7395-4875-8fe2-fb1e4fc6f583/thumb/",
+    "caption": "Working from the Weber Shandwick boardroom",
+    "license": "CC BY 2.0",
+    "artist": "CarlosPacheco",
+    "source_url": "https://www.flickr.com/photos/48678427@N06/7896920300",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8445/7896943328_311a4b3fe6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/41e93a0c-67b8-4b46-9845-01212cab1982/thumb/",
+    "caption": "Emmy Award - Weber Shandwick",
+    "license": "CC BY 2.0",
+    "artist": "CarlosPacheco",
+    "source_url": "https://www.flickr.com/photos/48678427@N06/7896943328",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "tw0gQwpXHVI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/tw0gQwpXHVI",
+    "thumb_url": "https://img.youtube.com/vi/tw0gQwpXHVI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=tw0gQwpXHVI",
+    "caption": "Weber Shandwick: The In-Culture Communications Agency",
+    "duration": "1:27",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=tw0gQwpXHVI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

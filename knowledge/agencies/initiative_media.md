@@ -42,8 +42,7 @@ wave: 22
 ---
 
 ## Überblick
-
-Initiative Media war mehr als nur eine weitere Mediaagentur — sie war eine Revolution in Anzug und Krawatte. Als 1986 in den USA gegründetes Unternehmen gehörte sie zu den ersten, die Mediaplanung als eigenständige, strategische Disziplin von der klassischen Werbeagentur trennte. In einer Zeit, in der „Media“ oft nur ein Anhängsel der kreativen Abteilung war, positionierte sich Initiative als strategischer Kopf, der den Ton angab. Sie war nicht nur Dienstleister, sondern Architekt der modernen Medienlandschaft und prägte eine ganze Branche nachhaltig.
+Initiative Media war eine Revolution in Anzug und Krawatte. Als 1986 in den USA gegründetes Unternehmen gehörte sie zu den ersten, die Mediaplanung als eigenständige, strategische Disziplin von der klassischen Werbeagentur trennte. In einer Zeit, in der „Media“ oft nur ein Anhängsel der kreativen Abteilung war, positionierte sich Initiative als strategischer Kopf, der den Ton angab. Sie war Architekt der modernen Medienlandschaft und prägte eine ganze Branche nachhaltig.
 
 ## Historischer Kontext
 

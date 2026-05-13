@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2531/5722032716_4bfd2bce7a_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/da71c0f5-6240-4326-8379-2217144a8a54/thumb/",
+    "caption": "Stephen King Caricature",
+    "license": "CC BY 2.0",
+    "artist": "AZRainman",
+    "source_url": "https://www.flickr.com/photos/10646468@N02/5722032716",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 891,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/47/135556525_0af95d14fc_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2802b988-bc55-400d-a5c7-012fc7cacb11/thumb/",
+    "caption": "Jesus on the wall of the senior Home",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "freestone",
+    "source_url": "https://www.flickr.com/photos/22361957@N00/135556525",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "U8wxjIecmD4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/U8wxjIecmD4",
+    "thumb_url": "https://img.youtube.com/vi/U8wxjIecmD4/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=U8wxjIecmD4",
+    "caption": "Stephen King's Honest Opinion About \"The Shining\" Film | Letterman",
+    "duration": "8:56",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=U8wxjIecmD4",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

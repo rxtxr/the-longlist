@@ -1,0 +1,30 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2884/33653936490_496282c588_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/66b62a40-a30a-4622-acfd-86f4389c1bc3/thumb/",
+    "caption": "Service Persons Area C, Row 1, Plot 35",
+    "license": "CC BY-NC 2.0",
+    "artist": "Discover Waikumete Cemetery",
+    "source_url": "https://www.flickr.com/photos/144851895@N03/33653936490",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 757,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "IW2jsbWfetk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/IW2jsbWfetk",
+    "thumb_url": "https://img.youtube.com/vi/IW2jsbWfetk/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=IW2jsbWfetk",
+    "caption": "4 Ps Marketing Mix by E. Jerome McCarthy | The Man & His Revolutionary Framework 👍🎬🌎 (Video Update)",
+    "duration": "10:17",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=IW2jsbWfetk",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4086/5056137884_1ef432476c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/97ee3e7f-fd9a-48d0-acbc-0edc9c209c64/thumb/",
+    "caption": "2010 Dean's Distinguished Scholar Lecture",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Mays Business School",
+    "source_url": "https://www.flickr.com/photos/74814994@N00/5056137884",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4086/5055520445_61deeed15c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/4b267b55-c968-4aea-a494-02d500f94605/thumb/",
+    "caption": "2010 Dean's Distinguished Scholar Lecture",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Mays Business School",
+    "source_url": "https://www.flickr.com/photos/74814994@N00/5055520445",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "pOq9fo9-V14",
+    "embed_url": "https://www.youtube-nocookie.com/embed/pOq9fo9-V14",
+    "thumb_url": "https://img.youtube.com/vi/pOq9fo9-V14/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=pOq9fo9-V14",
+    "caption": "Philip Kotler: The ‘Father of Modern Marketing’ Returns",
+    "duration": "40:23",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=pOq9fo9-V14",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

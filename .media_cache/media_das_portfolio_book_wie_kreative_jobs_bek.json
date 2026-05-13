@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2794/4135304219_140150cd2f.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/7ee68aa4-1b59-48a9-9fd1-41d794c27d6a/thumb/",
+    "caption": "Book Cover Page",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Chaval Brasil",
+    "source_url": "https://www.flickr.com/photos/14425592@N07/4135304219",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 475,
+    "height": 255
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4044/4638029850_91abb49672_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/be2944fd-9bc3-427b-99ed-bf808f6d5fc6/thumb/",
+    "caption": "200X Blueprint : DLN 001",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "LZ Creations",
+    "source_url": "https://www.flickr.com/photos/11019850@N05/4638029850",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 745,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "cpBXtS4HpIw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/cpBXtS4HpIw",
+    "thumb_url": "https://img.youtube.com/vi/cpBXtS4HpIw/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=cpBXtS4HpIw",
+    "caption": "DD | REEL 2017 | 4K UltraHD",
+    "duration": "1:34",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=cpBXtS4HpIw",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

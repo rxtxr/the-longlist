@@ -19,8 +19,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Stell dir vor: Es ist 1962 in Manhattan. In einem kargen Konferenzraum sitzen drei Männer von [[Doyle Dane Bernbach]] einem potenziellen Kunden gegenüber. Auf dem Tisch liegen nicht etwa akribisch gebundene Präsentationsmappen, sondern nur ein paar lockere Skizzen und ein kerniger Satz auf einem Zettel: "Think small." Was folgt, ist nicht nur eine der berühmtesten Kampagnen der Werbegeschichte, sondern auch die Geburtsstunde einer neuen Ästhetik des Pitchens. Die Art und Weise, *wie* Werbeagenturen ihre Ideen verkaufen, wurde fortan genauso wichtig *wie* die Ideen selbst. Der Präsentationsraum wurde zur Bühne, das Pitch-Material zum Drehbuch – und beides zusammen zum entscheidenden Moment der Wahrheit in einer Branche, die von Vorstellungskraft lebt.
+Stell dir vor: Es ist 1962 in Manhattan. In einem kargen Konferenzraum sitzen drei Männer von [[Doyle Dane Bernbach]] einem potenziellen Kunden gegenüber. Auf dem Tisch liegen akribisch gebundene Präsentationsmappen, aber auch nur ein paar lockere Skizzen und ein kerniger Satz auf einem Zettel: "Think small." Was folgt, ist eine der berühmtesten Kampagnen der Werbegeschichte und die Geburtsstunde einer neuen Ästhetik des Pitchens. Die Art und Weise, wie Werbeagenturen ihre Ideen verkaufen, wurde genauso wichtig wie die Ideen selbst. Der Präsentationsraum wurde zur Bühne, das Pitch-Material zum Drehbuch – und beides zusammen zum entscheidenden Moment der Wahrheit in einer Branche, die von Vorstellungskraft lebt.
 
 ## Historischer Kontext
 

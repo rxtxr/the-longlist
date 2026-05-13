@@ -54,7 +54,7 @@ wave: 19
 ---
 
 ## Überblick
-Der Marketing-Mix ist mehr als nur ein trockenes Konzept aus den Lehrbüchern der Betriebswirtschaft — es ist die Blaupause der modernen Markenführung. In seinem klassischen Kern vereint er die vier Ps: Product (Produkt), Price (Preis), Place (Vertrieb) und Promotion (Kommunikation). Diese Systematik machte Marketing erstmals planbar, messbar und strategisch steuerbar. Sie übersetzte kreative Ideen in handfeste Geschäftslogik und wurde zur gemeinsamen Sprache von Werbeagenturen und ihren Kunden. [ungesichert]
+Der Marketing-Mix ist die Blaupause der modernen Markenführung. In seinem klassischen Kern vereint er die vier Ps: Product (Produkt), Price (Preis), Place (Vertrieb) und Promotion (Kommunikation). Diese Systematik machte Marketing planbar, messbar und strategisch steuerbar. Sie übersetzte kreative Ideen in handfeste Geschäftslogik und wurde zur gemeinsamen Sprache von Werbeagenturen und ihren Kunden.
 
 ## Historischer Kontext
 Die Geburtsstunde des Marketing-Mix schlug im pulsierenden Wirtschaftsboom der Nachkriegs-USA. Während in den 1950er und 1960er Jahren die Konsumgesellschaft explodierte, Supermärkte aus dem Boden schossen und die Werbeindustrie florierte, standen Unternehmen vor einer neuen Herausforderung: Wie steuert man komplexe Märkte systematisch? In dieser Ära des Massenkonsums und intensiven Wettbewerbs suchten Unternehmen und [[J. Walter Thompson|Werbeagenturen]] nach einem Werkzeug, um das Marketingchaos zu bändigen. [ungesichert] Es war die Zeit, in der Marketing vom Bauchgefühl zur Wissenschaft wurde.

@@ -28,15 +28,35 @@ SAMPLE_PLAN = [
     ("work",        "high",   1),
     ("work",        "low",    1),
     ("eras",        "medium", 1),
-    ("philosophy",  None,     1),  # any confidence
+    ("philosophy",  None,     1),
     ("scandals",    None,     1),
+    # Extra rows activated at scale >= 2
+    ("agencies",    "high",   2),
+    ("agencies",    "low",    2),
+    ("people",      "high",   2),
+    ("people",      "medium", 2),
+    ("work",        "medium", 2),
+    ("eras",        "low",    1),
+    ("technology",  None,     1),
+    ("life",        None,     1),
+    # Extra rows activated at scale >= 3
+    ("agencies",    "medium", 2),
+    ("people",      "low",    2),
+    ("work",        "high",   2),
+    ("scandals",    None,     2),
+    ("philosophy",  None,     2),
+    ("eras",        "high",   1),
 ]
+
+# How many plan rows to use per scale level
+_PLAN_ROWS_PER_SCALE = {1: 11, 2: 19, 3: 25}
 
 
 class ReviewSampler:
-    def __init__(self, kb: KnowledgeBase, seed: int = 42):
+    def __init__(self, kb: KnowledgeBase, seed: int = 42, scale: int = 1):
         self.kb = kb
         self.seed = seed
+        self.scale = max(1, min(scale, 3))
 
     def prepare(self) -> Dict:
         """Return dict: {corpus_stats: str, articles: [dict]}"""
@@ -80,7 +100,8 @@ class ReviewSampler:
         selected = []
         seen_paths = set()
 
-        for cat, conf, count in SAMPLE_PLAN:
+        n_rows = _PLAN_ROWS_PER_SCALE.get(self.scale, 11)
+        for cat, conf, count in SAMPLE_PLAN[:n_rows]:
             # Build candidate list
             if conf:
                 candidates = pool.get((cat, conf), [])

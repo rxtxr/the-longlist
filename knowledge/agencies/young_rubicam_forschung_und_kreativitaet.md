@@ -43,8 +43,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Young & Rubicam war mehr als nur eine Werbeagentur – es war eine der prägenden Kräfte, die die moderne Werbebranche im 20. Jahrhundert überhaupt erst erschuf. Gegründet 1923 in Philadelphia von [[John Orr Young]] und [[Raymond Rubicam]], entwickelte sich die Agentur von einem kleinen Büro für Flugblätter und Plakate zur zweitgrößten Werbeagentur der Welt. Ihr Vermächtnis ist bis heute spürbar, nicht nur in den unzähligen ikonischen Kampagnen, die sie produziert hat, sondern in der Art und Weise, wie sie Werbung als eine Disziplin verstand, die gleichzeitig wissenschaftlich fundiert und zutiefst kreativ sein muss.
+Young & Rubicam war eine der prägenden Kräfte, die die moderne Werbebranche im 20. Jahrhundert erschuf. Gegründet 1923 in Philadelphia von [[John Orr Young]] und [[Raymond Rubicam]], entwickelte sich die Agentur von einem kleinen Büro für Flugblätter und Plakate zur zweitgrößten Werbeagentur der Welt. Ihr Vermächtnis ist bis heute spürbar, in den unzähligen ikonischen Kampagnen, die sie produziert hat, und in der Art und Weise, wie sie Werbung als eine Disziplin verstand, die gleichzeitig wissenschaftlich fundiert und zutiefst kreativ sein muss.
 
 ## Historischer Kontext
 

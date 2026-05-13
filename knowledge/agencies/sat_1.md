@@ -48,7 +48,7 @@ wave: 9
 ---
 
 ## Überblick
-Sat.1 war mehr als nur ein Fernsehsender – es war eine Medienrevolution in bunten Farben. Als am 1. Januar 1984 der Sendebetrieb offiziell begann, brach in deutschen Wohnzimmern eine neue Ära an [1][2]. Plötzlich gab es neben den etablierten öffentlich-rechtlichen Sendern [[ARD]] und [[ZDF]] eine Alternative, die komplett werbefinanziert und kommerziell ausgerichtet war. Sat.1, heute Teil der ProSiebenSat.1 Media SE, wurde zum Wegbereiter des dualen Rundfunksystems in Deutschland und veränderte die Medienlandschaft nachhaltig [2][3].
+Sat.1 war eine Medienrevolution in bunten Farben. Als am 1. Januar 1984 der Sendebetrieb offiziell begann, brach in deutschen Wohnzimmern eine neue Ära an [1][2]. Plötzlich gab es neben den etablierten öffentlich-rechtlichen Sendern [[ARD]] und [[ZDF]] eine Alternative, die komplett werbefinanziert und kommerziell ausgerichtet war. Sat.1, heute Teil der ProSiebenSat.1 Media SE, wurde zum Wegbereiter des dualen Rundfunksystems in Deutschland und veränderte die Medienlandschaft nachhaltig [2][3].
 
 ## Historischer Kontext
 Die 1980er Jahre waren eine Zeit des technologischen Aufbruchs und der deregulierten Märkte. Während [[RTL]] noch mit Sendern aus Luxemburg experimentierte, entstand in Deutschland eine Bewegung, die das staatlich dominierte Rundfunksystem herausfordern wollte [ungesichert]. Der damalige Medienmogul [[Leo Kirch]] erkannte früh das Potenzial des neuen Kabel- und Satellitenfernsehens und trieb die Gründung privater Sender voran [2][3]. Es war eine Zeit, in der Werbetreibende nach neuen Wegen suchten, um Konsumenten zu erreichen – und Sat.1 bot ihnen dafür eine noch nie dagewesene Plattform [ungesichert].

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7413/13905686424_8f5d59d986_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/9a616859-762c-44c0-9143-db6d7aa5fa1f/thumb/",
+    "caption": "bald man (front)",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "jcbear2",
+    "source_url": "https://www.flickr.com/photos/30800694@N04/13905686424",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "2U9APyF2LCI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/2U9APyF2LCI",
+    "thumb_url": "https://img.youtube.com/vi/2U9APyF2LCI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=2U9APyF2LCI",
+    "caption": "Jakob Trollbäck understanding complexity in design",
+    "duration": "2:17",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=2U9APyF2LCI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

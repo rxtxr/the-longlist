@@ -38,7 +38,7 @@ wave: 24
 ---
 
 ## Überblick
-Bates Worldwide war eines der einflussreichsten Werbeagentur-Netzwerke des 20. Jahrhunderts, dessen Geschichte exemplarisch den Aufstieg und Fall eines Werbeimperiums zeigt. Was diese Agentur besonders machte: Sie entwickelte nicht nur bahnbrechende Werbekonzepte, sondern wurde selbst zum Lehrstück für die Turbulenzen der globalen Werbebranche.
+Bates Worldwide war eines der einflussreichsten Werbeagentur-Netzwerke des 20. Jahrhunderts, dessen Geschichte exemplarisch den Aufstieg und Fall eines Werbeimperiums zeigt. Diese Agentur entwickelte bahnbrechende Werbekonzepte und wurde selbst zum Lehrstück für die Turbulenzen der globalen Werbebranche.
 
 ## Historischer Kontext
 In der Hochzeit des klassischen Werbezeitalters gründete [[Ted Bates]] 1940 in New York seine Agentur Ted Bates, Inc. [Quelle 4]. Die Nachkriegsära war geprägt von massenhafter Produktion und dem Bedürfnis nach klaren Produktdifferenzierungen — der perfekte Nährboden für Bates' wissenschaftlichen Ansatz zur Werbung. Als in den 1980er Jahren globale Werbenetzwerke entstanden und Agenturen zu Spielbällen finanzstarker Konzerne wurden, begann das Zeitalter der Konsolidierung, das Bates letztlich zum Opfer fallen sollte [ungesichert].

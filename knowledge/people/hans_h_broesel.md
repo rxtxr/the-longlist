@@ -20,7 +20,7 @@ wave: 15
 ---
 
 ## Überblick
-Hans H. Brösel war mehr als nur ein Werbemann — er war ein kultureller Übersetzer der deutschen Nachkriegsgesellschaft. In einer Zeit, als Deutschland sich wirtschaftlich und moralisch neu erfand, formte er aus Werbung eine Erzählkunst, die Tradition und Modene verband. Seine Agentur Hanns W. Brose KG wurde zur kreativen Schmiede für einige der ikonischsten Markengeschichten der Wirtschaftswunderjahre.
+Hans H. Brösel war ein kultureller Übersetzer der deutschen Nachkriegsgesellschaft. In einer Zeit, als Deutschland sich wirtschaftlich und moralisch neu erfand, formte er aus Werbung eine Erzählkunst, die Tradition und Moderne verband. Seine Agentur Hanns W. Brose KG wurde zur kreativen Schmiede für einige der ikonischsten Markengeschichten der Wirtschaftswunderjahre.
 
 ## Historischer Kontext
 Brösels Karriere spannte sich über drei politische Systeme: Weimarer Republik, Nationalsozialismus und Bundesrepublik. Als er 1933 in Berlin gründete, war Werbung oft plakative Propaganda oder schlichter Produktverkauf. Nach 1945 stand die Branche vor einer Zerreißprobe: Wie konnte deutsche Werbung demokratisch werden, nachhaltig wirken, Vertrauen zurückgewinnen? In dieser Umbruchphase wurde Brösel zum Architekten eines neuen Werbeverständnisses — werthaltig, geschichtsbewusst, erzählerisch [ungesichert].

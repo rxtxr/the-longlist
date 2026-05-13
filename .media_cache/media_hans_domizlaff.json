@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Hans-Domizlaff-Wanderweg_Wilseder_Berg.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/7011c382-3552-42b0-aace-124e140d385b/thumb/",
+    "caption": "Hans-Domizlaff-Wanderweg Wilseder Berg",
+    "license": "CC0 1.0",
+    "artist": "Knase",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=174389110",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "public_domain",
+    "width": 3000,
+    "height": 4000
+  },
+  {
+    "type": "image",
+    "url": "https://mm.dimu.org/image/022wY1AHgmfn?dimension=1200x1200",
+    "thumb_url": "https://api.openverse.org/v1/images/3ed531c1-7da9-446c-9d4d-01c14d544fdf/thumb/",
+    "caption": "'Hans Domizlaff, Visby, Gotland Runt'; '1937'",
+    "license": "Public Domain Mark",
+    "artist": "unbekannt",
+    "source_url": "https://digitaltmuseum.se/021016102368",
+    "source_label": "OpenVerse / europeana",
+    "copyright_status": "public_domain",
+    "width": null,
+    "height": null
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "i3luWrgnc78",
+    "embed_url": "https://www.youtube-nocookie.com/embed/i3luWrgnc78",
+    "thumb_url": "https://img.youtube.com/vi/i3luWrgnc78/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=i3luWrgnc78",
+    "caption": "Wie Boris Thomas ein erfolgreiches mittelständisches Unternehmen aufgebaut hat",
+    "duration": "47:25",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=i3luWrgnc78",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

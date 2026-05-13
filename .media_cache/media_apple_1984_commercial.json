@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/10/11487556_e99bd49fb9_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/cd212d99-93ac-4240-99aa-96629d888a32/thumb/",
+    "caption": "Doc in the Apple 1984 commercial tube at CDG",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "mary hodder",
+    "source_url": "https://www.flickr.com/photos/73288032@N00/11487556",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3368/5815466739_789b2844b6.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/9665c837-1b29-48a8-b374-76cf2424d708/thumb/",
+    "caption": "True Cases of WOMEN IN CRIME Magazine (July 1954) - THE BLONDE TIGRESS ... 'We're going to make sure we examine the death certificate,' said Sheriff R",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "marsmet462",
+    "source_url": "https://www.flickr.com/photos/63870278@N03/5815466739",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 385,
+    "height": 500
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "ErwS24cBZPc",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ErwS24cBZPc",
+    "thumb_url": "https://img.youtube.com/vi/ErwS24cBZPc/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ErwS24cBZPc",
+    "caption": "4K Restoration: 1984 Super Bowl APPLE MACINTOSH Ad by Ridley Scott",
+    "duration": "1:01",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=ErwS24cBZPc",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

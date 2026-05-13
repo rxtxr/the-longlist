@@ -56,7 +56,7 @@ wave: 9
 ---
 
 ## Überblick
-Michael Jackson war nicht nur der "King of Pop", sondern auch eine der einflussreichsten Marketing-Ikonen des 20. Jahrhunderts. Seine strategischen Partnerschaften mit Großkonzernen revolutionierten Celebrity-Endorsements und demonstrierten eindrücklich, wie sich Popkultur und Markenidentität symbiotisch verbinden lassen. Die Pepsi-Kampagne wurde zum Lehrstück für die Macht der Celebrity-Vermarktung – und deren unkalkulierbare Risiken.
+Michael Jackson war der "King of Pop" und eine der einflussreichsten Marketing-Ikonen des 20. Jahrhunderts. Seine strategischen Partnerschaften mit Großkonzernen revolutionierten Celebrity-Endorsements und demonstrierten eindrücklich, wie sich Popkultur und Markenidentität symbiotisch verbinden lassen. Die Pepsi-Kampagne wurde zum Lehrstück für die Macht der Celebrity-Vermarktung – und deren unkalkulierbare Risiken.
 
 ## Historischer Kontext
 Die 1980er Jahre waren geprägt von den erbitterten "Cola Wars" zwischen [[Coca-Cola]] und [[Pepsi]]Co, einem milliardenschweren Konflikt um Marktanteile und kulturelle Relevanz. In dieser Hochphase des Marketingwettkampfs setzte die Branche zunehmend auf hochbudgetierte Celebrity-Kampagnen mit globaler Reichweite. Parallel erreichte Jackson mit "Thriller" (1982) den [[Zenith]] seines Ruhms und wurde zur ersten wirklichen globalen Superstar-Ikone im Zeitalter des MTV – der perfekte Kandidat für eine Kampagne, die Generationen übergreifen sollte.

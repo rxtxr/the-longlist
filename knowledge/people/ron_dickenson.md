@@ -19,7 +19,7 @@ wave: 24
 ---
 
 ## Überblick
-Ronnie Dickenson war mehr als nur ein Mitgründer — er war der geschäftliche Architekt hinter [[Collett Dickenson Pearce]] (CDP), einer der legendärsten Werbeagenturen Großbritanniens. Von 1960 bis 2000 schrieb die Agentur nicht nur Werbegeschichte, sondern prägte eine ganze Ära. Zusammen mit seinem kreativen Partner [[John Pearce]] formte Dickenson einen Ort, an dem brillante Ideen, literarischer Anspruch und visuelle Eleganz den Ton angaben. CDP wurde zur kreativen Heimat für einige der größten Talente der Branche und bewies, dass britischer Humor und intelligente Konzepte die Werbewelt erobern konnten.
+Ronnie Dickenson war der geschäftliche Architekt hinter [[Collett Dickenson Pearce]] (CDP), einer der legendärsten Werbeagenturen Großbritanniens. Von 1960 bis 2000 schrieb die Agentur Werbegeschichte und prägte eine ganze Ära. Zusammen mit seinem kreativen Partner [[John Pearce]] formte Dickenson einen Ort, an dem brillante Ideen, literarischer Anspruch und visuelle Eleganz den Ton angaben. CDP wurde zur kreativen Heimat für einige der größten Talente der Branche und bewies, dass britischer Humor und intelligente Konzepte die Werbewelt erobern konnten.
 
 ## Historischer Kontext
 Die frühen 1960er Jahre in Großbritannien waren eine Zeit des Aufbruchs. Die Nachkriegs-Trägheit wich einem neuen Selbstbewusstsein und wirtschaftlichen Optimismus. In diese Stimmung hinein traf die "Creative Revolution" aus den USA, angeführt von Agenturen wie [[Doyle Dane Bernbach]], die auf kluge Konzepte und minimalistische Eleganz setzten. Die britische Werbebranche war damals noch von textlastigen, oft schwerfälligen Anzeigen geprägt — ein Zustand, den Dickenson, Pearce und ihre Mitstreiter radikal ändern wollten.

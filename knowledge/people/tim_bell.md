@@ -40,7 +40,7 @@ wave: 6
 ---
 
 ## Überblick
-Lord Timothy "Tim" Bell (1941–2019) war mehr als nur ein Werbestratege – er war der Architekt einer neuen politischen Kommunikationsära. Als Mitbegründer von [[Saatchi & Saatchi]] und enger Vertrauter von [[Margaret Thatcher]] verschmolz er erstmals professionelle Werbetechniken mit politischem Marketing [ungesichert]. Sein Lebensweg spiegelt den Aufstieg der neoliberalen Ideale in Großbritannien wider und zeigt, wie politische Überzeugungen zur marktgerechten Ware wurden.
+Lord Timothy "Tim" Bell (1941–2019) war der Architekt einer neuen politischen Kommunikationsära. Als Mitbegründer von [[Saatchi & Saatchi]] und enger Vertrauter von [[Margaret Thatcher]] verschmolz er professionelle Werbetechniken mit politischem Marketing [ungesichert]. Sein Lebensweg spiegelt den Aufstieg der neoliberalen Ideale in Großbritannien wider und zeigt, wie politische Überzeugungen zur marktgerechten Ware wurden.
 
 ## Historischer Kontext
 Bells Karriere erreichte ihren Höhepunkt in den turbulenten 1980er Jahren, als Großbritannien unter Thatchers Führung einen radikalen wirtschaftlichen Wandel durchlief. Die Zeit war geprägt von Deindustrialisierung, Privatisierung und einem neuen Glauben an marktwirtschaftliche Lösungen [ungesichert]. In dieser Ära des Umbruchs erkannte Bell früh, dass politische Botschaften nicht anders behandelt werden sollten als Waschmittel oder Automarken – beide benötigten klare Positionierung, emotionale Ansprache und konsistente Wiederholung.

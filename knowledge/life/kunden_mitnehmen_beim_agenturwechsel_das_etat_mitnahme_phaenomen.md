@@ -18,7 +18,7 @@ wave: 3
 ---
 
 ## Überblick
-Wenn ein Top-Talent die Agentur verlässt und die wichtigsten Kunden einfach mitnimmt, nennt man das im Branchenjargon "Ethical Client Poaching" oder "Account Following". Dieses Phänomen ist mehr als nur ein Personalwechsel – es verschiebt Machtverhältnisse, verändert Agenturlandschaften und zeigt schmerzlich deutlich: In der Werbung zählt oft das persönliche Vertrauen mehr als der Corporate Identity der Agentur. [ungesichert] Es ist der ultimative Beweis dafür, dass Menschen Geschäfte machen – nicht Unternehmen.
+Wenn ein Top-Talent die Agentur verlässt und die wichtigsten Kunden einfach mitnimmt, nennt man das im Branchenjargon "Ethical Client Poaching" oder "Account Following". Dieses Phänomen verschiebt Machtverhältnisse, verändert Agenturlandschaften und zeigt deutlich: In der Werbung zählt oft das persönliche Vertrauen mehr als der Corporate Identity der Agentur. Es ist der ultimative Beweis dafür, dass Menschen Geschäfte machen – nicht Unternehmen.
 
 ## Historischer Kontext
 Schon in den Gründerzeiten der Werbung gab es vereinzelte Fälle, doch richtig Fahrt auf nahm die Bewegung in den 1960er Jahren mit der "Creative Revolution". Plötzlich waren nicht mehr die Agenturnamen die Stars, sondern die kreativen Köpfe dahinter. Visionäre wie [[Bill Bernbach]] oder [[David Ogilvy]] verkörperten eine neue Art von Werbung – und Kunden folgten ihrem Genius, nicht ihrem Briefkopf. Die wirtschaftliche Liberalisierung der 1980er Jahre und die Gründung unzähliger "[[Boutique-Agenturen]]" machten den Wechsel dann zur regelrechten Strategie. [ungesichert]

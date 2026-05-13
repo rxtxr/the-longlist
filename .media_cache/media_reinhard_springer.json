@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Peter_Kemna.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/c92fa8bb-3077-4aec-a427-10863b3da424/thumb/",
+    "caption": "Peter Kemna",
+    "license": "CC BY-SA 4.0",
+    "artist": "987798798Q",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=110005338",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1288,
+    "height": 1920
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3790/9565474887_1d6ce46870_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/4320d511-ea34-4883-a0b2-54e4211bd3f1/thumb/",
+    "caption": "FLGZ v.399 no.5, headpiece cropped",
+    "license": "CC BY 2.0",
+    "artist": "Yale Law Library",
+    "source_url": "https://www.flickr.com/photos/29570076@N06/9565474887",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 353
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "777R2gMeryI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/777R2gMeryI",
+    "thumb_url": "https://img.youtube.com/vi/777R2gMeryI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=777R2gMeryI",
+    "caption": "PODCAST with Proud@Work  - aka. Advertising legends Reinhard Springer & Konstantin Jacoby",
+    "duration": "3:14",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=777R2gMeryI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

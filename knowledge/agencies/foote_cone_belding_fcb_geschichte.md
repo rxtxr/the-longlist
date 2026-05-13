@@ -44,7 +44,7 @@ wave: 1
 ---
 
 ## Überblick
-Foote Cone & Belding (FCB) ist mehr als nur ein Name an der Agenturtür – es ist ein Stück amerikanischer Werbegeschichte, das direkt aus dem Herzen der Chicagoer Werbeschmiede Lord & Thomas entsprang. Die 1943 vollzogene Umbenennung markierte nicht nur einen Generationenwechsel, sondern den Beginn einer neuen Ära, die von drei legendären Werbern geprägt wurde: Emerson Foote, Fairfax Cone und Don Belding [3][6][9]. Was als lokale Agentur begann, sollte sich zu einem globalen Netzwerk entwickeln, das die Branche nachhaltig prägte.
+Foote Cone & Belding (FCB) ist ein Stück amerikanischer Werbegeschichte, das direkt aus dem Herzen der Chicagoer Werbeschmiede Lord & Thomas entsprang. Die 1943 vollzogene Umbenennung markierte den Beginn einer neuen Ära, die von drei legendären Werbern geprägt wurde: Emerson Foote, Fairfax Cone und Don Belding [3][6][9]. Was als lokale Agentur begann, entwickelte sich zu einem globalen Netzwerk, das die Branche nachhaltig prägte.
 
 ## Historischer Kontext
 Die Wurzeln von FCB reichen zurück in eine Zeit, als Werbung noch in den Kinderschuhen steckte und Albert Lasker – oft als "Vater des modernen Werbetexters" bezeichnet – Lord & Thomas zu einer der einflussreichsten Agenturen Amerikas machte [3][5][6]. Lasker revolutionierte die Branche mit wissenschaftlicher Werbeforschung und psychologischen Ansätzen. Sein Rückzug 1942 öffnete die Tür für drei seiner engsten Vertrauten, die Agentur in ihrem Sinne weiterzuführen – in einer Welt, die vom Zweiten Weltkrieg geprägt war und in der Werbung zunehmend zur Massenkommunikation wurde.

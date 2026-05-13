@@ -19,8 +19,7 @@ wave: 24
 ---
 
 ## Überblick
-
-SSC&B war mehr als nur eine Werbeagentur – es war ein Labor für die angewandte Psychologie der Massenüberzeugung. In den goldenen Jahrzehnten der Werbung, als die Branche von der reinen Anzeigenvermittlung zur strategischen Markenführung fand, stand SSC&B für einen radikal neuen Ansatz: Die systematische Erforschung der tiefen, oft unbewussten Motive der Konsumenten und deren Übersetzung in messbar erfolgreiche Kampagnen. Ihre legendäre Fusion mit [[Lintas]] zur damals siebtgrößten Agentur der Welt markierte einen Wendepunkt in der Globalisierung der Branche und zeigte, wie sehr Werbung nun von Großkundenbeziehungen und psychologischer Tiefe abhing.
+SSC&B war ein Labor für die angewandte Psychologie der Massenüberzeugung. In den goldenen Jahrzehnten der Werbung, als die Branche von der reinen Anzeigenvermittlung zur strategischen Markenführung fand, stand SSC&B für einen radikal neuen Ansatz: Die systematische Erforschung der tiefen, oft unbewussten Motive der Konsumenten und deren Übersetzung in messbar erfolgreiche Kampagnen. Ihre legendäre Fusion mit [[Lintas]] zur damals siebtgrößten Agentur der Welt markierte einen Wendepunkt in der Globalisierung der Branche und zeigte, wie sehr Werbung nun von Großkundenbeziehungen und psychologischer Tiefe abhing.
 
 ## Historischer Kontext
 

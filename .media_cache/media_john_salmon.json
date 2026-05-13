@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3001/2287771291_3364ed69d7_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/048c3ff2-a29a-44e0-a06a-27df0f3b183b/thumb/",
+    "caption": "Northern Constabulary - Fallen Hero Centenary - PC Thomas King of Inverness-shire Constabulary",
+    "license": "CC BY 2.0",
+    "artist": "conner395",
+    "source_url": "https://www.flickr.com/photos/91779914@N00/2287771291",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 722
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2063/2288560096_def7c0f7a1_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/6f664852-185f-4ea6-93f1-e012b12b16b8/thumb/",
+    "caption": "Northern Constabulary - Fallen Hero - Centenary - PC Thomas King of Inverness-shire Constabulary",
+    "license": "CC BY 2.0",
+    "artist": "conner395",
+    "source_url": "https://www.flickr.com/photos/91779914@N00/2288560096",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 759
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "G65-u6oPeFA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/G65-u6oPeFA",
+    "thumb_url": "https://img.youtube.com/vi/G65-u6oPeFA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=G65-u6oPeFA",
+    "caption": "John Salmon - FT Banking Summit 2014",
+    "duration": "2:00",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=G65-u6oPeFA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

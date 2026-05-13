@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4240/35061428451_257a2385d3_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/126b72c5-2101-4690-9ec8-b7dab92df29c/thumb/",
+    "caption": "Peacock Razorfish, juvenile - Iniistius pavo",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "zsispeo",
+    "source_url": "https://www.flickr.com/photos/14486836@N06/35061428451",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1000,
+    "height": 668
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/51632362259_0baa2077ef_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/94ef5e59-b405-411f-a82d-9da437404184/thumb/",
+    "caption": "Rainbow razorfish?",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Gérard Cachon",
+    "source_url": "https://www.flickr.com/photos/96671573@N04/51632362259",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 576
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "rFz3ecWoLQ0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/rFz3ecWoLQ0",
+    "thumb_url": "https://img.youtube.com/vi/rFz3ecWoLQ0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=rFz3ecWoLQ0",
+    "caption": "Razorfish | Behind the Brand",
+    "duration": "19:26",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=rFz3ecWoLQ0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

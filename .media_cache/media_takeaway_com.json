@@ -1,0 +1,30 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jitse_Groen_-_2023.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/26d511da-1f2e-4492-ae3a-e02dfd15bf9d/thumb/",
+    "caption": "Jitse Groen - 2023",
+    "license": "CC BY 4.0",
+    "artist": "Jennifer Jacquemart / European Union, 2023 / EC - Audiovisual Service",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=141835795",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 2667,
+    "height": 4000
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "iBsGC5DOQWY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/iBsGC5DOQWY",
+    "thumb_url": "https://img.youtube.com/vi/iBsGC5DOQWY/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iBsGC5DOQWY",
+    "caption": "Takeaway.com boss has no plans to increase £4.3m Just Eat bid",
+    "duration": "1:49",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=iBsGC5DOQWY",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

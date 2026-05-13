@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Peter_Lindbergh_by_Stefan_Rappo_2015_%28cropped%29.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/5cfef7b9-342d-44ba-8e30-2335f3f3d98a/thumb/",
+    "caption": "Peter Lindbergh by Stefan Rappo 2015 (cropped)",
+    "license": "CC BY-SA 4.0",
+    "artist": "Fanzineredwiki",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=82779532",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1051,
+    "height": 1317
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/35983804960_9276ff7c95_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/05b03412-42bc-4a7d-99cf-cd54f2fd28cf/thumb/",
+    "caption": "Jeanne Moreau at Peter Lindbergh photo exhibition in Munich, Bavaria, Germany",
+    "license": "CC BY 2.0",
+    "artist": "www.ralfsteinberger.com",
+    "source_url": "https://www.flickr.com/photos/145472109@N04/35983804960",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "u4WNpdRpnFg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/u4WNpdRpnFg",
+    "thumb_url": "https://img.youtube.com/vi/u4WNpdRpnFg/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=u4WNpdRpnFg",
+    "caption": "Douglas New Logo Peter Lindbergh Film",
+    "duration": "0:58",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=u4WNpdRpnFg",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -51,7 +51,7 @@ wave: 8
 ---
 
 ## Überblick
-"Think Small" war nicht nur eine Werbekampagne – sie war eine Revolution in Reinstform. Entwickelt von der New Yorker Agentur [[Doyle Dane Bernbach]] (DDB) für den [[Volkswagen Käfer]], stellte diese Kampagne alles auf den Kopf, was die Werbebranche bis dahin für richtig hielt. Mit minimalistischen Anzeigen, die den damaligen Gigantismus der US-Autowerbung konterkarierten, schrieb sie nicht nur Markengeschichte, sondern wurde vom Fachmagazin AdAge zur besten Werbekampagne des 20. Jahrhunderts gewählt.
+"Think Small" war eine Revolution in Reinstform. Entwickelt von der New Yorker Agentur [[Doyle Dane Bernbach]] (DDB) für den [[Volkswagen Käfer]], stellte diese Kampagne alles auf den Kopf, was die Werbebranche bis dahin für richtig hielt. Mit minimalistischen Anzeigen, die den damaligen Gigantismus der US-Autowerbung konterkarierten, schrieb sie Markengeschichte und wurde vom Fachmagazin AdAge zur besten Werbekampagne des 20. Jahrhunderts gewählt.
 
 ## Historischer Kontext
 Die Kampagne entstand in den frühen 1960er Jahren in den USA – einer Zeit, in der Größe alles bedeutete. Amerikanische Autos waren riesige, chromblitzende Straßenkreuzer, die den Wohlstand der Nachkriegsära symbolisierten. Der kleine, unscheinbare VW Käfer aus Deutschland war in dieser Welt ein Fremdkörper. Er war das genaue Gegenteil des amerikanischen Traums auf vier Rädern. [ungesichert] In dieser Ära der Übertreibung wagte DDB das Undenkbare: Statt die Schwäche des Käfers – seine Größe – zu vertuschen, machten sie sie zur zentralen Tugend.

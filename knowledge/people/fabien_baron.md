@@ -61,7 +61,7 @@ wave: 23
 ---
 
 ## Überblick
-Fabien Baron ist mehr als nur ein französischer Art Director – er ist der Architekt des modernen Modebildes. Sein mit Provokation gewürzter Minimalismus prägte eine ganze Ära der Wahrnehmung von Luxus und Schönheit. Als Gründer der New Yorker Agentur Baron & Baron und künstlerischer Leiter von Andy Warhols [[Interview Magazine]] formte er nicht nur Marken, sondern definierte den visuellen Geschmack einer Generation neu.
+Fabien Baron ist der Architekt des modernen Modebildes. Sein mit Provokation gewürzter Minimalismus prägte eine ganze Ära der Wahrnehmung von Luxus und Schönheit. Als Gründer der New Yorker Agentur Baron & Baron und künstlerischer Leiter von Andy Warhols [[Interview Magazine]] definierte er den visuellen Geschmack einer Generation neu und formte Marken.
 
 ## Historischer Kontext
 Die 1980er Jahre in New York waren ein Schmelztiegel aus Downtown-Artistik und Uptown-Glanz. In diese explosive Mischung aus Kunst, Mode und Kommerz platzte der junge Franzose Fabien Baron 1982 hinein [ungesichert]. Während die Werbebranche noch opulent und erzählerisch arbeitete, brachte Baron einen radikal anderen Blick mit: klar, reduziert, unverstellt. Sein Pariser Hintergrund – geprägt von der École des Arts Appliqués und ersten Erfahrungen bei der Tageszeitung L'Équipe – traf auf den amerikanischen Pragmatismus und schuf etwas gänzlich Neues.

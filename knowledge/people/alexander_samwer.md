@@ -26,7 +26,7 @@ wave: 16
 ---
 
 ## Überblick
-Alexander Samwer ist einer der drei deutschen Unternehmer-Brüder, die wie ein Meteorit die europäische Startup-Landschaft trafen. Zusammen mit Marc und Oliver baute er nicht nur Unternehmen, sondern schuf mit [[Rocket Internet]] eine regelrechte Startup-Fabrik, die das deutsche Gründertum nachhaltig prägte – und polarisierte [1][6]. Während seine Brüder oft im Rampenlicht standen, agierte Alexander häufig im Hintergrund als strategischer Kopf [ungesichert].
+Alexander Samwer ist einer der drei deutschen Unternehmer-Brüder, die wie ein Meteorit die europäische Startup-Landschaft trafen. Zusammen mit Marc und Oliver baute er Unternehmen und schuf mit [[Rocket Internet]] eine regelrechte Startup-Fabrik, die das deutsche Gründertum nachhaltig prägte – und polarisierte [1][6]. Während seine Brüder oft im Rampenlicht standen, agierte Alexander häufig im Hintergrund als strategischer Kopf [ungesichert].
 
 ## Historischer Kontext
 Ihre Karriere startete im Epizentrum des Dotcom-Fiebers der späten 1990er Jahre – einer Zeit, in der das Internet neu, unreguliert und voller Goldgräberstimmung war [ungesichert]. Während in Silicon Valley die ersten Tech-Milliardäre geschaffen wurden, erkannten die Samwers: Was dort funktioniert, lässt sich kopieren – und in Europa neu aufbauen. Aus dieser Erkenntnis entstand ihr Geschäftsmodell [ungesichert].

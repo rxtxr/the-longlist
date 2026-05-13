@@ -56,7 +56,7 @@ wave: 22
 ---
 
 ## Überblick
-Corinne Day war eine britische Fotografin, die in den frühen 1990er Jahren mit einem radikal naturalistischen Stil die Modefotografie erschütterte [ungesichert]. Ihre Aufnahmen wirkten wie ein Schock – statt polierter Hochglanzwelten zeigte sie junge Menschen in intimen, ungeschönten Momenten [ungesichert]. Mit ihrem Blick für das Rohe und Authentische schuf sie nicht nur einen neuen ästhetischen Kodex, sondern entdeckte auch [[Kate Moss]], die Ikone einer ganzen Generation [ungesichert].
+Corinne Day war eine britische Fotografin, die in den frühen 1990er Jahren mit einem radikal naturalistischen Stil die Modefotografie erschütterte. Ihre Aufnahmen wirkten wie ein Schock – statt polierter Hochglanzwelten zeigte sie junge Menschen in intimen, ungeschönten Momenten. Mit ihrem Blick für das Rohe und Authentische schuf sie einen neuen ästhetischen Kodex und entdeckte [[Kate Moss]], die Ikone einer ganzen Generation.
 
 ## Historischer Kontext
 Die frühen 1990er Jahre waren eine Zeit des Umbruchs. Nach der Wirtschaftsrezession und dem Ende der opulenten 1980er Jahre suchte die Kultur nach neuen Ausdrucksformen [ungesichert]. Die Modebranche reagierte müde auf den überinszenierten Glamour – man sehnte sich nach Wahrhaftigkeit, vielleicht sogar nach einer Portier Rebellion [ungesichert]. In diese Lücke stieß Day mit ihrer Kamera: Sie fotografierte nicht in Studios, sondern in muffigen Londoner Wohnungen, an Stränden und auf Straßen [ungesichert]. Ihr Werk erschien wie ein dokumentarischer Gegenentwurf zur Hochglanzwelt der etablierten Modemagazine.

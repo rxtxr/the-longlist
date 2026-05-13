@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/78/178822462_a70c2b27f5_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/45da2abe-5e33-48f3-8a93-bc793252e711/thumb/",
+    "caption": "Arthur Ashe Jr.",
+    "license": "CC BY 2.0",
+    "artist": "dbking",
+    "source_url": "https://www.flickr.com/photos/65193799@N00/178822462",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 566,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7375/27833990270_49d09ac5da_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/25ecb995-b814-4ab3-b690-044c7d7d31db/thumb/",
+    "caption": "20160628-OSEC-LSC-0457",
+    "license": "Public Domain Mark",
+    "artist": "USDAgov",
+    "source_url": "https://www.flickr.com/photos/41284017@N08/27833990270",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "public_domain",
+    "width": 770,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "9b1QFyFrYY4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/9b1QFyFrYY4",
+    "thumb_url": "https://img.youtube.com/vi/9b1QFyFrYY4/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=9b1QFyFrYY4",
+    "caption": "What does an Ad Agency do?",
+    "duration": "3:22",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=9b1QFyFrYY4",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

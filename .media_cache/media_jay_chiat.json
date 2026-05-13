@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2699/4019542561_17fee81868_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/5407a24e-a7b9-4e29-96ef-371a6850c8e8/thumb/",
+    "caption": "Jay Chiat",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Gustavo Zilles",
+    "source_url": "https://www.flickr.com/photos/17278339@N05/4019542561",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2679/4326804796_12e1120274_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/1f8f253c-6c5e-49be-b2ba-1c72acb69a0e/thumb/",
+    "caption": "Anúncio Jay Chiat",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Gustavo Zilles",
+    "source_url": "https://www.flickr.com/photos/17278339@N05/4326804796",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "p6djV0dX5AE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/p6djV0dX5AE",
+    "thumb_url": "https://img.youtube.com/vi/p6djV0dX5AE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=p6djV0dX5AE",
+    "caption": "TBWA\\Chiat\\Day talks on making of Apple's Think Different campaign",
+    "duration": "4:00",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=p6djV0dX5AE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

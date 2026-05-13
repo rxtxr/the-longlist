@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/500px-A_small_cup_of_coffee.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "A photo of a cup of coffee.",
+    "license": "CC BY-SA 2.0",
+    "artist": "Julius Schorzman",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AA%20small%20cup%20of%20coffee.JPG",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Austin_Small_Business_Think_Tank_-_SmallBizATX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Austin_Small_Business_Think_Tank_-_SmallBizATX.jpg/500px-Austin_Small_Business_Think_Tank_-_SmallBizATX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Austin Small Business Think Tank - #SmallBizATX",
+    "license": "CC BY 2.0",
+    "artist": "Dell Inc.",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAustin%20Small%20Business%20Think%20Tank%20-%20SmallBizATX.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 2000,
+    "height": 1331
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "UUlZmZ_sd_E",
+    "embed_url": "https://www.youtube-nocookie.com/embed/UUlZmZ_sd_E",
+    "thumb_url": "https://img.youtube.com/vi/UUlZmZ_sd_E/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=UUlZmZ_sd_E",
+    "caption": "TV commercial film for Volkswagen \"Think Small\"",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=UUlZmZ_sd_E",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

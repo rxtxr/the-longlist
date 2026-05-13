@@ -57,8 +57,7 @@ wave: 6
 ---
 
 ## Überblick
-
-Lucky Strike ist mehr als nur eine Zigarettenmarke — es ist ein Stück amerikanischer Kulturgeschichte. Was 1871 als kleines Familienunternehmen in Virginia begann, wurde unter der Führung von [[George Washington Hill]] zu einer der aggressivsten und einflussreichsten Werbekampagnen des 20. Jahrhunderts. Die Marke revolutionierte nicht nur das Marketing, sondern prägte auch gesellschaftliche Normen und hinterließ einen bleibenden Einfluss auf Konsumverhalten und Popkultur.
+Lucky Strike ist ein Stück amerikanischer Kulturgeschichte. Was 1871 als kleines Familienunternehmen in Virginia begann, wurde unter der Führung von [[George Washington Hill]] zu einer der aggressivsten und einflussreichsten Werbekampagnen des 20. Jahrhunderts. Die Marke revolutionierte das Marketing, prägte gesellschaftliche Normen und hinterließ einen bleibenden Einfluss auf Konsumverhalten und Popkultur.
 
 ## Historischer Kontext
 

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Essence_Authors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Essence_Authors.jpg/500px-Essence_Authors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Essence Festival of Culture 2025; New Orleans, Louisiana",
+    "license": "CC BY-SA 4.0",
+    "artist": "Adjoajo",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEssence%20Authors.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 3060,
+    "height": 4080
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Essence_Authors_at_Essence_Festival_of_Culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Essence_Authors_at_Essence_Festival_of_Culture.jpg/500px-Essence_Authors_at_Essence_Festival_of_Culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "2025 - in New Orleans, Louisiana",
+    "license": "CC BY-SA 4.0",
+    "artist": "Adjoajo",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEssence%20Authors%20at%20Essence%20Festival%20of%20Culture.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 2833,
+    "height": 4000
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "gsk9svBmySM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/gsk9svBmySM",
+    "thumb_url": "https://img.youtube.com/vi/gsk9svBmySM/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=gsk9svBmySM",
+    "caption": "The Essence of Advertising",
+    "duration": "6:54",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=gsk9svBmySM",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

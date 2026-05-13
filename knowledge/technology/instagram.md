@@ -44,7 +44,7 @@ wave: 20
 ---
 
 ## Überblick
-Instagram ist mehr als nur eine Social-Media-Plattform – es ist das digitale Zuhause einer globalen Gemeinschaft, die sich durch Bilder erzählt. Was 2010 als schlichter Foto-Sharing-Dienst begann, entwickelte sich zu einem der mächtigsten Werbekanäle des 21. Jahrhunderts und zum Inkubator einer komplett neuen Berufsklasse: der Content Creator [ungesichert]. Instagram veränderte nicht nur, wie wir Erinnerungen teilen, sondern auch wie Marken mit Konsumenten kommunizieren.
+Instagram ist das digitale Zuhause einer globalen Gemeinschaft, die sich durch Bilder erzählt. Was 2010 als schlichter Foto-Sharing-Dienst begann, entwickelte sich zu einem der mächtigsten Werbekanäle des 21. Jahrhunderts und zum Inkubator einer komplett neuen Berufsklasse: der Content Creator. Instagram veränderte, wie wir Erinnerungen teilen und wie Marken mit Konsumenten kommunizieren.
 
 ## Historischer Kontext
 Instagram entstand in einer Zeit, in der das iPhone die Fotografie demokratisierte [ungesichert]. Plötzlich hatte jeder eine hochwertige Kamera in der Tasche – doch es fehlte eine Plattform, die diese Bilder würdigte. Gleichzeitig suchten Marken verzweifelt nach Wegen, jüngere, visuell affine Zielgruppen zu erreichen, die sich von traditioneller Werbung abwandten [ungesichert]. Instagram traf diesen Nerv genau: Es war mobil, visuell und sozial – die perfekte Kombination für das aufkommende Zeitalter der Smartphone-Ästhetik.

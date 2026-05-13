@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Accenture%2C_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Accenture%2C_Warsaw.jpg/500px-Accenture%2C_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Accenture, Warsaw",
+    "license": "CC BY-SA 4.0",
+    "artist": "Wistula",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAccenture%2C%20Warsaw.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 1473,
+    "height": 1870
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Accenture-logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Accenture-logo.png/500px-Accenture-logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Accenture logo.",
+    "license": "Public domain",
+    "artist": "Accenture PLC",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAccenture-logo.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 701,
+    "height": 412
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "9nw0zm_sHVA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/9nw0zm_sHVA",
+    "thumb_url": "https://img.youtube.com/vi/9nw0zm_sHVA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=9nw0zm_sHVA",
+    "caption": "Accenture's Brand Consulting 'Rips Up The Rule Book: Mendonça",
+    "duration": "8:18",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=9nw0zm_sHVA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

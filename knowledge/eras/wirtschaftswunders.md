@@ -21,7 +21,7 @@ wave: 24
 ---
 
 ## Überblick
-Das **Wirtschaftswunder** war mehr als nur eine ökonomische Erfolgsgeschichte – es war die Geburtsstunde der modernen deutschen Konsumgesellschaft [ungesichert]. Für die Werbebranche markierte diese Phase von Ende der 1940er bis Mitte der 1960er Jahre eine Zeitenwende: Aus dem Schutt der Nachkriegszeit entstand ein neuer Markt, der dringend nach Werbung verlangte, um den Menschen die neu verfügbaren Produkte nicht nur zu zeigen, sondern auch ihren Nutzen im modernen Leben zu erklären [ungesichert].
+Das **Wirtschaftswunder** war die Geburtsstunde der modernen deutschen Konsumgesellschaft. Für die Werbebranche markierte diese Phase von Ende der 1940er bis Mitte der 1960er Jahre eine Zeitenwende: Aus dem Schutt der Nachkriegszeit entstand ein neuer Markt, der nach Werbung verlangte, um den Menschen die neu verfügbaren Produkte zu zeigen und ihren Nutzen im modernen Leben zu erklären.
 
 ## Historischer Kontext
 Die Währungsreform von 1948 war der dramatische Startschuss: Über Nacht verwandelte sich die Deutsche Mark von einer wertlosen Besatzungswährung in ein stabiles Zahlungsmittel [ungesichert]. Kombiniert mit Marshall-Plan-Hilfen, einem Reservoir an billigen Arbeitskräften durch Flüchtlinge und Vertriebene sowie einem enormen Nachholbedarf der Bevölkerung entstand eine explosive Mischung [ungesichert]. Plötzlich gab es wieder Waren zu kaufen – aber niemand wusste so recht, was man mit diesen neuen Produkten eigentlich anfangen sollte. Die Werbung wurde zur Lehrmeisterin des Konsums [ungesichert].

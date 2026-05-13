@@ -64,7 +64,7 @@ wave: 14
 ---
 
 ## Überblick
-Henri Nannen war mehr als nur ein Verleger – er war eine schillernde Figur des deutschen Journalismus, der mit seinem "stern" nicht nur ein Magazin schuf, sondern eine Institution. Der Mann aus einfachen Verhältnissen baute nach 1945 ein Medienimperium auf, das die Bundesrepublik mitprägte [1][3][10]. Doch hinter der strahlenden Fassade des "stern"-Gründers verbarg sich eine zwiespältige Vergangenheit, die erst Jahrzehnte später vollends ans Licht kam [6][7][8].
+Henri Nannen war eine schillernde Figur des deutschen Journalismus, der mit seinem "stern" eine Institution schuf. Der Mann aus einfachen Verhältnissen baute nach 1945 ein Medienimperium auf, das die Bundesrepublik mitprägte [1][3][10]. Hinter der strahlenden Fassade des "stern"-Gründers verbarg sich eine zwiespältige Vergangenheit, die erst Jahrzehnte später vollends ans Licht kam [6][7][8].
 
 ## Historischer Kontext
 Nannens Aufstieg fiel in die Stunde Null der deutschen Medienlandschaft. In einer Zeit, als das Land nicht nur physisch in Trümmern lag, sondern auch moralisch [ungesichert], bot der Journalismus eine Chance für Neuanfänge – und für neue Geschichten. Während [[Rudolf Augstein]] den [[Der Spiegel|SPIEGEL]] zur kritischen Instanz formte, setzte Nannen auf einen anderen Ansatz: den bildgestützten, erzählenden Journalismus [ungesichert]. In dieser Ära des Wirtschaftswunders hungerte das Publikum nach Geschichten, die nicht nur informierten, sondern auch unterhielten [ungesichert].

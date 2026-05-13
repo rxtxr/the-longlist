@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Atelier_Versace_Store_Plate_in_Milan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Atelier_Versace_Store_Plate_in_Milan.JPG/500px-Atelier_Versace_Store_Plate_in_Milan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Photo of the plate outside Atelier Versace in Via Gesu, Milan",
+    "license": "CC BY-SA 4.0",
+    "artist": "Oamsgo",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAtelier%20Versace%20Store%20Plate%20in%20Milan.JPG",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 4320,
+    "height": 3240
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Berlin_-_Kurf%C3%BCrstendamm_193-194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Berlin_-_Kurf%C3%BCrstendamm_193-194.jpg/500px-Berlin_-_Kurf%C3%BCrstendamm_193-194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "VERSACE Boutique",
+    "license": "CC BY-SA 4.0",
+    "artist": "Marek Śliwecki",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABerlin%20-%20Kurf%C3%BCrstendamm%20193-194.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 4611,
+    "height": 3078
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "vM8z-E_MTJs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/vM8z-E_MTJs",
+    "thumb_url": "https://img.youtube.com/vi/vM8z-E_MTJs/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=vM8z-E_MTJs",
+    "caption": "Versace Flash 2021 | Advertising Campaign | Featuring AJ Tracey and Anok Yai",
+    "duration": "3:24",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=vM8z-E_MTJs",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -60,7 +60,7 @@ wave: 15
 ---
 
 ## Überblick
-The Martin Agency ist mehr als nur eine Werbeagentur aus Richmond, Virginia — sie ist der lebende Beweis, dass große Kreativität nicht aus Manhattan kommen muss. Seit ihrer Gründung 1965 hat sie sich zu einer der einflussreichsten kreativen Werkstätten der USA entwickelt, bekannt für ikonische Kampagnen, die Branchen revolutionierten. Ihr größter Coup: Sie verwandelte den vermeintlich langweiligsten Produktbereich — Versicherungen — in unterhaltsame Popkultur.
+The Martin Agency ist der lebende Beweis, dass große Kreativität nicht aus Manhattan kommen muss. Seit ihrer Gründung 1965 hat sie sich zu einer der einflussreichsten kreativen Werkstätten der USA entwickelt, bekannt für ikonische Kampagnen, die Branchen revolutionierten. Ihr größter Coup: Sie verwandelte den vermeintlich langweiligsten Produktbereich — Versicherungen — in unterhaltsame Popkultur.
 
 ## Historischer Kontext
 Als David N. Martin und George Woltz 1965 ihre Agentur in Richmond gründeten, befand sich die Werbewelt im Umbruch. Die "Kreativ-Revolution" der 1960er Jahre, angeführt von Legenden wie [[Bill Bernbach]] und [[Doyle Dane Bernbach]], hatte den Boden bereitet: Weg von harten Verkaufsargumenten, hin zu psychologisch cleverer, unterhaltsamer Werbung. Die Wirtschaft boomte, und Werbung wurde zunehmend konzeptioneller. Richmond selbst war damals ein ungewöhnlicher Standort — weit entfernt von den etablierten Werbezentren New York und Chicago, was die Agentur von Anfang zu einem kreativen Underdog machte.

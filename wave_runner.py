@@ -711,29 +711,36 @@ class WaveRunner:
               f"{len(results['skipped'])} übersprungen, {len(results['errors'])} Fehler")
         return results
 
-    def run_review_wave(self, seed: int = 42) -> Dict:
-        """Run all three review agents and save a combined report."""
+    def run_review_wave(self, seed: int = 42, scale: int = 1,
+                        only: list = None) -> Dict:
+        """Run review agents and save a combined report.
+        scale: 1=13 articles, 2=~25, 3=~35
+        only: list of reviewer indices (1,2,3) to run; default=all
+        """
         from agents.reviewers import ReviewerArchivar, ReviewerCopywriter, ReviewerJournalist
         from tools.review_sampler import ReviewSampler
 
         wave = self._current_wave() + 1
-        print(f"\n[Review-Welle {wave}] Drei Gutachter analysieren den Korpus …\n")
+        label = f"scale={scale}" + (f", nur {only}" if only else "")
+        print(f"\n[Review-Welle {wave}] Gutachter analysieren den Korpus ({label}) …\n")
 
-        sample = ReviewSampler(self.kb, seed=seed).prepare()
+        sample = ReviewSampler(self.kb, seed=seed, scale=scale).prepare()
         sample_titles = [a["title"] for a in sample["articles"]]
         print(f"  Stichprobe ({len(sample_titles)} Artikel):")
         for t in sample_titles:
             print(f"    · {t}")
         print()
 
-        reviewers = [
-            ("Archivar & Lexikograf",         ReviewerArchivar()),
-            ("Copywriter & Agentur-Historiker", ReviewerCopywriter()),
-            ("Fachbuchkritiker & Journalist",   ReviewerJournalist()),
+        all_reviewers = [
+            (1, "Archivar & Lexikograf",          ReviewerArchivar()),
+            (2, "Copywriter & Agentur-Historiker", ReviewerCopywriter()),
+            (3, "Fachbuchkritiker & Journalist",   ReviewerJournalist()),
         ]
+        reviewers = [(i, lbl, r) for i, lbl, r in all_reviewers
+                     if only is None or i in only]
 
         reports = {}
-        for label, reviewer in reviewers:
+        for _, label, reviewer in reviewers:
             print(f"  ─── {label} ───")
             report = reviewer.review(sample)
             reports[label] = report
@@ -766,6 +773,12 @@ class WaveRunner:
         print(f"  [Review] Letztes Review: {latest}\n")
 
         return {"report_path": str(report_path), "reviewers": list(reports.keys())}
+
+    def run_style_wave(self, dry_run: bool = False) -> Dict:
+        """Fix 'mehr als nur / more than just' tic across all Überblick sections."""
+        from agents.style_fixer import StyleFixer
+        fixer = StyleFixer(self.kb)
+        return fixer.run_wave(dry_run=dry_run)
 
     def _collect_wikilink_gaps(self, max_gaps: int = 20, min_mentions: int = 2) -> list:
         """Scan all KB content for [[wikilinks]] that have no matching KB entry. Returns (name, count) pairs."""

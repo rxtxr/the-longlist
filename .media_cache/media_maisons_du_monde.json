@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4040/5169168032_b859be0608_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2aecc451-81e8-484f-83c2-d550005df3b2/thumb/",
+    "caption": "Maisons Du Monde",
+    "license": "CC BY-NC 2.0",
+    "artist": "thinkretail",
+    "source_url": "https://www.flickr.com/photos/28964535@N08/5169168032",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 733
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/6116/6285599609_81da985095.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/242eba09-7c32-468d-873e-23ecfc792659/thumb/",
+    "caption": "A La Place Clichy La Premiere Maison du Monde Pour Ces Importations Orientales 86X151,5 Chaix",
+    "license": "CC BY-ND 2.0",
+    "artist": "estampemoderne.fr",
+    "source_url": "https://www.flickr.com/photos/24721982@N08/6285599609",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 291,
+    "height": 500
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "WS7fD-hdeYE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/WS7fD-hdeYE",
+    "thumb_url": "https://img.youtube.com/vi/WS7fD-hdeYE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WS7fD-hdeYE",
+    "caption": "The History of Cartier | The heritage and legacy of the luxury brand | Luxury Marketing",
+    "duration": "2:49",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=WS7fD-hdeYE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

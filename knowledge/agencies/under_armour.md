@@ -68,7 +68,7 @@ wave: 6
 ---
 
 ## Überblick
-Under Armour ist mehr als nur ein weiterer Sportartikelhersteller – es ist die Geschichte eines ehemaligen College-Footballspielers, der sich gegen alle Wahrscheinlichkeiten durchsetzte. Gegründet 1996 von [[Kevin Plank]] im Keller seiner Großmutter in Washington D.C., revolutionierte die Marke mit ihrer feuchtigkeitsabsorbierenden Kompressionsbekleidung den Sportartikelmarkt [1][7][8]. Was als Nischenprodukt begann, entwickelte sich zu einer ernsthaften Konkurrenz für Branchenriesen wie [[Nike]] und [[Adidas]] [1][3][6].
+Under Armour ist die Geschichte eines ehemaligen College-Footballspielers, der sich gegen alle Wahrscheinlichkeiten durchsetzte. Gegründet 1996 von [[Kevin Plank]] im Keller seiner Großmutter in Washington D.C., revolutionierte die Marke mit ihrer feuchtigkeitsabsorbierenden Kompressionsbekleidung den Sportartikelmarkt [1][7][8]. Was als Nischenprodukt begann, entwickelte sich zu einer ernsthaften Konkurrenz für Branchenriesen wie [[Nike]] und [[Adidas]] [1][3][6].
 
 ## Historischer Kontext
 Die 1990er Jahre waren vom unangefochtenen Dominanz großer Sportartikelkonzerne geprägt. In dieser scheinbar gesättigten Landschaft erkannte Plank als ehemaliger Football-Spieler der University of Maryland etwas Entscheidendes: Leistungssportler kämpften noch immer mit Baumwollshirts, die sich bei Schweiß vollsaugten und schwer wurden [2][8]. Diese schmerzhaft eigene Erfahrung wurde zur Geburtsstunde einer neuen Produktkategorie – Hochleistungs-Funktionsbekleidung, die nicht nur Komfort bot, sondern einen echten Leistungsvorteil versprach [3][8][10].

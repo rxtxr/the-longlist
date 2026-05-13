@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3108/2329507744_be7127f70c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/aeb0f036-0453-4dc6-af64-d290d0d2f2d2/thumb/",
+    "caption": "MICHAEL JACKSON MOONWALKER DANCE",
+    "license": "CC BY 2.0",
+    "artist": "tipoyock",
+    "source_url": "https://www.flickr.com/photos/21462523@N07/2329507744",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 629
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2596/3678966687_6664e501d9_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/ec21643d-55f2-4a52-9697-c594383e9fb0/thumb/",
+    "caption": "Michael Jackson 1988",
+    "license": "CC BY 2.0",
+    "artist": "Alan Light",
+    "source_url": "https://www.flickr.com/photos/42274165@N00/3678966687",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 881,
+    "height": 925
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "ZMLMWbn1mpg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ZMLMWbn1mpg",
+    "thumb_url": "https://img.youtube.com/vi/ZMLMWbn1mpg/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ZMLMWbn1mpg",
+    "caption": "ORIGINAL, Michael Jackson, Thriller Record Advertisement - Very Rare",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=ZMLMWbn1mpg",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

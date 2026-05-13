@@ -31,7 +31,7 @@ wave: 3
 ---
 
 ## Überblick
-Das Portfolio – in der Branche schlicht "Book" genannt – ist mehr als nur eine Mappe: Es ist die Seele jedes Kreativen. Diese sorgfältig kuratierte Sammlung der besten Arbeiten erzählt nicht nur von vergangenen Erfolgen, sondern offenbart das Denken, den Stil und die Haltung seines Schöpfers. In einer Branche, in der Ideen Währung sind, dient es als Türöffner für Jobinterviews und entscheidet oft mehr über Karrieren als jedes Diplom. [ungesichert]
+Das Portfolio – in der Branche schlicht "Book" genannt – ist die Seele jedes Kreativen. Diese sorgfältig kuratierte Sammlung der besten Arbeiten erzählt von vergangenen Erfolgen und offenbart das Denken, den Stil und die Haltung seines Schöpfers. In einer Branche, in der Ideen Währung sind, dient es als Türöffner für Jobinterviews und entscheidet oft über Karrieren, wichtiger als jedes Diplom.
 
 ## Historischer Kontext
 Die wahre Blütezeit des Portfolios begann mit der "[[Kreativen Revolution]]" ab den 1960er Jahren. Als Werbung sich von trockener Produktinformation zur kunstvollen, konzeptionellen Disziplin wandelte, suchten Agenturen nicht mehr nach Handwerkern, sondern nach Visionären. Plötzlich zählten nicht formale Qualifikationen, sondern die Qualität der Ideen – und die zeigte man am besten im eigenen "Book". Die Branche entwickelte eine neue Art der Talentbewertung: Nicht wo jemand studiert hatte war wichtig, sondern was er erschaffen konnte.

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2119/2380829674_220cc3f59e_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/3d7bd7b4-11ad-4fd2-acdd-0fb1d31306cc/thumb/",
+    "caption": "Pablo Glaser, vicepresidente de Publicis Group en Latinoamérica",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "sitemarca",
+    "source_url": "https://www.flickr.com/photos/20911561@N07/2380829674",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4172/34437642995_dcf84dfe02_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2e4f5bd0-850d-44c2-810a-283e07ce13d4/thumb/",
+    "caption": "DG1_0484",
+    "license": "CC BY 2.0",
+    "artist": "collision.conf",
+    "source_url": "https://www.flickr.com/photos/126482574@N02/34437642995",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 682
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "V2eS0OpTDl4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/V2eS0OpTDl4",
+    "thumb_url": "https://img.youtube.com/vi/V2eS0OpTDl4/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=V2eS0OpTDl4",
+    "caption": "🚀 The Big Six Ad Agencies: How WPP, Publicis & More Dominate Advertising! 💡- WPP, Dentsu & Publicis",
+    "duration": "23:25",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=V2eS0OpTDl4",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

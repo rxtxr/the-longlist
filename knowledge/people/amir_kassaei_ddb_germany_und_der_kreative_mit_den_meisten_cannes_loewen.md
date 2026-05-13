@@ -67,7 +67,7 @@ wave: 3
 ---
 
 ## Überblick
-Amir Kassaei war mehr als nur ein Chief Creative Officer – er war eine polarisierende Kraft in der deutschen Werbelandschaft. Als einer der meistausgezeichneten Kreativdirektoren seiner Zeit [ungesichert] prägte er nicht nur die Arbeit von DDB Germany, sondern wurde zur internationalen Symbolfigur für kompromisslose Kreativität. Seine Karriere liest sich wie ein Roman: Vom jugendlichen Minensucher im Irankrieg zum gefeierten Werbestar, der die Branche erst revolutionierte und dann öffentlichkeitswirksam verließ.
+Amir Kassaei war eine polarisierende Kraft in der deutschen Werbelandschaft. Als einer der meistausgezeichneten Kreativdirektoren seiner Zeit prägte er die Arbeit von DDB Germany und wurde zur internationalen Symbolfigur für kompromisslose Kreativität. Seine Karriere liest sich wie ein Roman: Vom jugendlichen Minensucher im Irankrieg zum gefeierten Werbestar, der die Branche erst revolutionierte und dann öffentlichkeitswirksam verließ.
 
 ## Historischer Kontext
 In den 2000er Jahren erreichte der Wettbewerb um kreative Preise bei Festivals wie den Cannes Lions einen neuen Höhepunkt. Agenturen investierten Millionen in "Award-Architektur" – die strategische Einreichung von Arbeiten bei internationalen Festivals. Gleichzeitig veränderte die Digitalisierung die Branche fundamental. In diese Zeit fiel Kassaeis Aufstieg: Ein kreativer Hardliner, der traditionelle Werbung mit digitalem Denken verband [ungesichert] und DDB Germany zur internationalen Top-Adresse machte.

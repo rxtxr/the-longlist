@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2492/3735619056_a46abee7ba_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/33052b16-8f89-462f-9bd4-5306c17af3e0/thumb/",
+    "caption": "British Airways BA First Class Seat Beoing 747",
+    "license": "CC BY 2.0",
+    "artist": "Tips For Travellers",
+    "source_url": "https://www.flickr.com/photos/8327374@N02/3735619056",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4068/4350369441_56620e6fe0.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/dc00c334-a3e9-43a6-8cc0-5d00440aa79e/thumb/",
+    "caption": "BA British Airways New First Class (Business Traveller magazine pictures)",
+    "license": "CC BY 2.0",
+    "artist": "Tips For Travellers",
+    "source_url": "https://www.flickr.com/photos/8327374@N02/4350369441",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 470,
+    "height": 353
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "PX4K_ln-xKg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/PX4K_ln-xKg",
+    "thumb_url": "https://img.youtube.com/vi/PX4K_ln-xKg/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=PX4K_ln-xKg",
+    "caption": "British Airways | A British Original",
+    "duration": "0:34",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=PX4K_ln-xKg",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

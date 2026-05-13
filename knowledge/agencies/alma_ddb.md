@@ -33,7 +33,7 @@ wave: 10
 ---
 
 ## Überblick
-Alma DDB war nicht einfach eine Werbeagentur — sie war der deutsche Tempel der "Creative Revolution". Als Teil des internationalen Netzwerks [[DDB Worldwide]] brachte sie die radikal neue Philosophie von [[Bill Bernbach]] in den deutschsprachigen Raum und bewies, dass kreative, respektvolle Werbung auch hierzulande funktionieren konnte. Mit ikonischen Kampagnen für [[Volkswagen]] ("Wenn Sie Ihren VW mal wieder nicht anlassen können...") oder [[Aral]] prägte sie nicht nur Marken, sondern veränderte die gesamte deutsche Werbelandschaft.
+Alma DDB war der deutsche Tempel der "Creative Revolution". Als Teil des internationalen Netzwerks [[DDB Worldwide]] brachte sie die radikal neue Philosophie von [[Bill Bernbach]] in den deutschsprachigen Raum und bewies, dass kreative, respektvolle Werbung auch hierzulande funktionieren konnte. Mit ikonischen Kampagnen für [[Volkswagen]] ("Wenn Sie Ihren VW mal wieder nicht anlassen können...") oder [[Aral]] prägte sie Marken und veränderte die gesamte deutsche Werbelandschaft.
 
 ## Historischer Kontext
 In den 1950er Jahren herrschte in der deutschen Werbung noch der "Dampfhammer-Ansatz": laute, produktzentrierte Anzeigen, die den Verbraucher mit Features bombardierten. Die 1949 in New York gegründete Agentur [[Doyle Dane Bernbach]] (DDB) stellte alles auf den Kopf — sie setzte auf Intelligenz, Humor und Respekt gegenüber dem Konsumenten. In Deutschland traf diese Philosophie auf eine Gesellschaft im Wirtschaftswunder, die langsam müde wurde von plumpen Verkaufsversprechen. Die Zeit war reif für eine neue Art der Kommunikation.

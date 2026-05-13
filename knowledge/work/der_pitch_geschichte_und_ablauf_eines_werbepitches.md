@@ -44,8 +44,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Der Pitch ist das Herzblut der Werbebranche — ein spektakuläres Showdown-Ritual, bei dem Agenturen um die Gunst von Kunden kämpfen. Mehr als nur Präsentationen geht es hier um die Inszenierung von Leidenschaft, Strategie und kreativer Verführungskunst. Dieser oft wochenlange Prozess entscheidet über Millionenbudgets und Karrieren, während er gleichzeitig die kreative DNA zukünftiger Kampagnen prägt. Der Pitch ist kein bloßer Verkaufsvortrag, sondern ein hochritualisiertes Theater, bei dem beide Seiten mehr als nur Marketingleistungen austauschen: Es geht um Vertrauen, Vision und die Chemie zwischen Mensch und Marke.
+Der Pitch ist das Herzblut der Werbebranche — ein spektakuläres Showdown-Ritual, bei dem Agenturen um die Gunst von Kunden kämpfen. Es geht hier um die Inszenierung von Leidenschaft, Strategie und kreativer Verführungskunst. Dieser oft wochenlange Prozess entscheidet über Millionenbudgets und Karrieren, während er gleichzeitig die kreative DNA zukünftiger Kampagnen prägt. Der Pitch ist ein hochritualisiertes Theater, bei dem beide Seiten Vertrauen, Vision und die Chemie zwischen Mensch und Marke austauschen.
 
 ## Historischer Kontext
 

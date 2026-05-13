@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4150/5043806138_a11e6beff9_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/28bea6c1-ce83-49a1-84ae-45841c878cdf/thumb/",
+    "caption": "#SMW - Social media for Business",
+    "license": "CC BY 2.0",
+    "artist": "BTO - Official",
+    "source_url": "https://www.flickr.com/photos/44601004@N04/5043806138",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 685
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4128/5152748402_810bf460a2_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/282d4d88-2280-4c84-9a1d-0678ce515e2d/thumb/",
+    "caption": "UMD miniMBA Social Media Panel",
+    "license": "CC BY 2.0",
+    "artist": "ShashiBellamkonda",
+    "source_url": "https://www.flickr.com/photos/35899785@N00/5152748402",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "yj9rokSeack",
+    "embed_url": "https://www.youtube-nocookie.com/embed/yj9rokSeack",
+    "thumb_url": "https://img.youtube.com/vi/yj9rokSeack/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=yj9rokSeack",
+    "caption": "David Ogilvy: Essentials",
+    "duration": "4:04",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=yj9rokSeack",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

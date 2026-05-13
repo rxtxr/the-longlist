@@ -42,7 +42,7 @@ wave: 8
 ---
 
 ## Überblick
-Heinz war eine der einflussreichsten deutschen Werbeagenturen der Nachkriegszeit. Sie prägte ab den 1950er Jahren mit ihrer einzigartigen Mischung aus kreativer Kunst und strategischer Disziplin die deutsche Werbelandschaft und war eine der letzten großen, unabhängigen Agenturen vor der Welle internationaler Übernahmen. Die Agentur galt als kreatives Kraftzentrum, das den Begriff der "Werkstatt" wieder mit Leben füllte – ein Ort, an dem Ideen nicht nur produziert, sondern kunstvoll geformt wurden.
+Heinz war eine der einflussreichsten deutschen Werbeagenturen der Nachkriegszeit. Sie prägte ab den 1950er Jahren mit ihrer einzigartigen Mischung aus kreativer Kunst und strategischer Disziplin die deutsche Werbelandschaft und war eine der letzten großen, unabhängigen Agenturen vor der Welle internationaler Übernahmen. Die Agentur galt als kreatives Kraftzentrum, das den Begriff der "Werkstatt" wieder mit Leben füllte – ein Ort, an dem Ideen kunstvoll geformt wurden.
 
 ## Historischer Kontext
 Gegründet im Wirtschaftswunder-Deutschland der 1950er Jahre, war Heinz ein Kind seiner Zeit: Eine Ära des Aufbruchs, in der plötzlich alles möglich schien. Während die Fabriken rauchten und die Regale sich füllten, entstand ein nie gekannter Bedarf an Werbung, die mehr konnte als nur Produkte anpreisen – sie musste Sehnsüchte bedienen und Träume verkaufen. Heinz etablierte sich genau in diesem Spannungsfeld: Zwischen der zunehmenden Internationalisierung, besonders durch US-amerikanische Einflüsse, und dem spezifisch deutschen, oft literarisch-künstlerischen Werbeverständnis. Hier, in den Räumen an der Düsseldorfer Königsallee, trafen kaufmännischer Pragmatismus und künstlerische Avantgarde aufeinander.

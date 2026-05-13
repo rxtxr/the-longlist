@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fremantle_Police_station_complex_gnangarra-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fremantle_Police_station_complex_gnangarra-1.jpg/500px-Fremantle_Police_station_complex_gnangarra-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Object location32° 03′ 16.75″ S, 115° 45′ 00.47″ E View this and other nearby images on: OpenStreetMap-32.054653;  115.750131\n\nFremantle Police comple",
+    "license": "CC BY 2.5 au",
+    "artist": "User:Gnangarra",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFremantle%20Police%20station%20complex%20gnangarra-1.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 4928,
+    "height": 3264
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Fremantle_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fremantle_Town_Hall.jpg/500px-Fremantle_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "The Town Hall in Fremantle, Western Australia.",
+    "license": "CC BY 2.0",
+    "artist": "Rob",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFremantle%20Town%20Hall.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 1944,
+    "height": 2592
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "S0oXHsyq-IM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/S0oXHsyq-IM",
+    "thumb_url": "https://img.youtube.com/vi/S0oXHsyq-IM/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=S0oXHsyq-IM",
+    "caption": "The future of Pearson | Marketing Media Money",
+    "duration": "1:49",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=S0oXHsyq-IM",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

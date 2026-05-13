@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Maurice_Saatchi_20221130.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Maurice_Saatchi_20221130.jpg/500px-Maurice_Saatchi_20221130.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Maurice Saatchi Hatchards Piccadilly London 30 November 2022",
+    "license": "CC BY-SA 4.0",
+    "artist": "Edwardx",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMaurice%20Saatchi%2020221130.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 3456,
+    "height": 4608
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Maurice_Saatchi_20221130.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/70846f81-f739-4091-a243-f27ae591bc77/thumb/",
+    "caption": "Maurice Saatchi 20221130",
+    "license": "CC BY-SA 4.0",
+    "artist": "Edwardx",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=126313652",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 3456,
+    "height": 4608
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "uZYpdOPgZ1E",
+    "embed_url": "https://www.youtube-nocookie.com/embed/uZYpdOPgZ1E",
+    "thumb_url": "https://img.youtube.com/vi/uZYpdOPgZ1E/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=uZYpdOPgZ1E",
+    "caption": "Maurice Saatchi & Gilles Masson invités du \"Buzz Média Orange-Le Figaro\"",
+    "duration": "8:20",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=uZYpdOPgZ1E",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

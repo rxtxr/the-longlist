@@ -23,7 +23,7 @@ wave: 3
 ---
 
 ## Überblick
-Testmarketing und Fokusgruppen sind die Detektive der Werbebranche — Methoden, die Werbung noch vor ihrem großen Auftritt einem strengen Verhör unterziehen. Sie entstanden aus der Notwendigkeit heraus, teure Marketingkampagnen nicht dem bloßen Bauchgefühl zu überlassen, sondern auf Basis von echten Konsumentenreaktionen zu optimieren [ungesichert]. Was heute wie eine Selbstverständlichkeit klingt, war einst eine revolutionäre Idee: Werbung nicht nur zu machen, sondern sie vorher systematisch zu testen [2][3].
+Testmarketing und Fokusgruppen sind die Detektive der Werbebranche — Methoden, die Werbung noch vor ihrem großen Auftritt einem strengen Verhör unterziehen. Sie entstanden aus der Notwendigkeit heraus, teure Marketingkampagnen auf Basis von echten Konsumentenreaktionen zu optimieren. Was heute wie eine Selbstverständlichkeit klingt, war einst eine revolutionäre Idee: Werbung systematisch zu testen, bevor sie veröffentlicht wird [2][3].
 
 ## Historischer Kontext
 Die Geburtsstunde dieser Testmethoden schlug in der Hochphase der modernen Werbeindustrie des 20. Jahrhunderts. In einer Zeit, in der Unternehmen immer mehr Geld in Werbung investierten und der Wettbewerb schärfer wurde, konnten sich teure Fehlentscheidungen kein Unternehmen mehr leisten [7][8]. Parallel zum Wirtschaftsboom nach dem Zweiten Weltkrieg entstand ein neues Bedürfnis: Marketingbudgets nicht zu versenken, sondern wissenschaftlich abzusichern [ungesichert]. Die Werbung wurde erwachsen — und holte sich Methoden aus der Sozialforschung in die Agenturen.

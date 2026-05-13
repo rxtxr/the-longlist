@@ -44,7 +44,7 @@ wave: 13
 ---
 
 ## Überblick
-Der Stern ist nicht nur eine deutsche Illustrierte, sondern ein Stück Mediengeschichte. Seit seiner Gründung hat sich das Magazin zu einer breit linksliberalen Wochenzeitschrift für aktuelle Angelegenheiten entwickelt, die in Hamburg von [[Gruner + Jahr]], einer Tochtergesellschaft des Medienriesen [[Bertelsmann]], veröffentlicht wird[3]. Doch seine Bedeutung geht weit über politische Reportagen hinaus – der Stern war über Jahrzehnte ein zentraler Werbeträger, der die Konsumkultur in Deutschland mitprägte[ungesichert].
+Der Stern ist ein Stück Mediengeschichte. Seit seiner Gründung hat sich das Magazin zu einer breit linksliberalen Wochenzeitschrift für aktuelle Angelegenheiten entwickelt, die in Hamburg von [[Gruner + Jahr]], einer Tochtergesellschaft des Medienriesen [[Bertelsmann]], veröffentlicht wird[3]. Der Stern war über Jahrzehnte ein zentraler Werbeträger, der die Konsumkultur in Deutschland mitprägte[ungesichert].
 
 ## Historischer Kontext
 In der Trümmerlandschaft des Nachkriegsdeutschlands entstand ein fast unstillbarer Hunger nach Information, Unterhaltung und neuen Orientierungspunkten[ungesichert]. Illustrierte Zeitschriften wie der Stern füllten diese Lücke perfekt: Sie boten nicht nur redaktionelle Inhalte, sondern wurden zur wichtigen Plattform für Werbebotschaften einer im Entstehen begriffenen Konsumgesellschaft[ungesichert]. Während das Wirtschaftswunder langsam an Fahrt aufnahm, sahen Unternehmen im Stern das ideale Medium, um eine breite Bevölkerungsschicht zu erreichen.

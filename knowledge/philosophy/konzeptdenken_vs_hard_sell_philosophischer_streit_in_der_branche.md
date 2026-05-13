@@ -22,7 +22,7 @@ wave: 1
 ---
 
 ## Überblick
-Konzeptdenken vs. Hard Sell – dieser philosophische Grundkonflikt durchzieht die Werbebranche wie ein roter Faden [ungesichert]. Es ist der Kampf zwischen zwei Welten: Hier die rationale, direkte Verkaufsaufforderung mit harten Fakten, dort die emotionale, indirekte Ansprache, die Bilder und Gefühle weckt [1]. Mehr als nur Methodenstreit – es ging um die Seele der Werbung selbst.
+Konzeptdenken vs. Hard Sell – dieser philosophische Grundkonflikt durchzieht die Werbebranche wie ein roter Faden. Es ist der Kampf zwischen zwei Welten: Hier die rationale, direkte Verkaufsaufforderung mit harten Fakten, dort die emotionale, indirekte Ansprache, die Bilder und Gefühle weckt [1]. Es ging um die Seele der Werbung selbst.
 
 ## Historischer Kontext
 Die Auseinandersetzung entflammte im Amerika der 1950er Jahre, einer Zeit des wirtschaftlichen Aufschwungs und des radikalen gesellschaftlichen Wandels [ungesichert]. Die Kriegsjahre waren vorbei, der Wohlstand breiter Schichten wuchs, und mit ihm das Angebot an Konsumgütern. Plötzlich reichte es nicht mehr, einfach nur zu informieren – Produkte mussten sich differenzieren, Marken mussten Persönlichkeit entwickeln [ungesichert]. In dieser neuen Konsumlandschaft traf der traditionelle Hard Sell auf das aufstrebende Konzeptdenken [ungesichert].

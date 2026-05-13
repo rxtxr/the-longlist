@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bilaba_giyorgis%2C_interno%2C_sacerdote_con_croce_processionale_in_stile_axum_del_tempo_di_haile_selassie%2C_e_contenitore_del_miele_sacro_00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilaba_giyorgis%2C_interno%2C_sacerdote_con_croce_processionale_in_stile_axum_del_tempo_di_haile_selassie%2C_e_contenitore_del_miele_sacro_00.jpg/500px-Bilaba_giyorgis%2C_interno%2C_sacerdote_con_croce_processionale_in_stile_axum_del_tempo_di_haile_selassie%2C_e_contenitore_del_miele_sacro_00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Priests from Ethiopia",
+    "license": "CC BY-SA 4.0",
+    "artist": "Sailko",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABilaba%20giyorgis%2C%20interno%2C%20sacerdote%20con%20croce%20processionale%20in%20stile%20axum%20del%20tempo%20di%20haile%20selassie%2C%20e%20contenitore%20del%20miele%20sacro%2000.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 3208,
+    "height": 5064
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bilaba_giyorgis%2C_interno%2C_sacerdote_con_croce_processionale_in_stile_axum_del_tempo_di_haile_selassie%2C_e_contenitore_del_miele_sacro_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bilaba_giyorgis%2C_interno%2C_sacerdote_con_croce_processionale_in_stile_axum_del_tempo_di_haile_selassie%2C_e_contenitore_del_miele_sacro_03.jpg/500px-Bilaba_giyorgis%2C_interno%2C_sacerdote_con_croce_processionale_in_stile_axum_del_tempo_di_haile_selassie%2C_e_contenitore_del_miele_sacro_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Priests from Ethiopia",
+    "license": "CC BY-SA 4.0",
+    "artist": "Sailko",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABilaba%20giyorgis%2C%20interno%2C%20sacerdote%20con%20croce%20processionale%20in%20stile%20axum%20del%20tempo%20di%20haile%20selassie%2C%20e%20contenitore%20del%20miele%20sacro%2003.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 3648,
+    "height": 5472
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "PTrmJcP8ZWE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/PTrmJcP8ZWE",
+    "thumb_url": "https://img.youtube.com/vi/PTrmJcP8ZWE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=PTrmJcP8ZWE",
+    "caption": "Miele appliances: Rumoured for a Reason",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=PTrmJcP8ZWE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

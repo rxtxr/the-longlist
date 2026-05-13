@@ -43,8 +43,7 @@ wave: 24
 ---
 
 ## Überblick
-
-Stell dir vor, es ist 2005. Zwei Studenten der University of Virginia, Steve Huffman und Alexis Ohanian, tippen in einer Wohnung in Medford, Massachusetts, Code. Ihre Idee: eine Website, auf der Nutzer Links einreichen und bewerten können. "Die Titelseite des Internets" sollte sie werden. Was sie schufen, war weit mehr als das – es war die Geburt einer der eigenwilligsten, einflussreichsten und oft unberechenbarsten Kräfte im digitalen Raum. Reddit wurde zum digitalen Dorfplatz, zur Meme-Schmiede, zum PR-Instrument und zum Seismographen der Jugendkultur. Für die Werbebranche wurde es ein Lehrstück darüber, wie man nicht mit einer Community spricht – und wie man es doch tun könnte.
+Stell dir vor, es ist 2005. Zwei Studenten der University of Virginia, Steve Huffman und Alexis Ohanian, tippen in einer Wohnung in Medford, Massachusetts, Code. Ihre Idee: eine Website, auf der Nutzer Links einreichen und bewerten können. "Die Titelseite des Internets" sollte sie werden. Was sie schufen, war die Geburt einer der eigenwilligsten, einflussreichsten und oft unberechenbarsten Kräfte im digitalen Raum. Reddit wurde zum digitalen Dorfplatz, zur Meme-Schmiede, zum PR-Instrument und zum Seismographen der Jugendkultur. Für die Werbebranche wurde es ein Lehrstück darüber, wie man nicht mit einer Community spricht – und wie man es doch tun könnte.
 
 ## Historischer Kontext
 

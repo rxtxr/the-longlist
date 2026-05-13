@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/California_Digital_Library_%28IA_playsofmrwilliam02shak%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/California_Digital_Library_%28IA_playsofmrwilliam02shak%29.pdf/page1-500px-California_Digital_Library_%28IA_playsofmrwilliam02shak%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "v.1. The life of Timon of Athens.--v.2. Hamlet and the Ur-Hamlet.--v.3. The Tempest.--v.4. Anthony and Cleopatra.--v.5. Measure for measure\n\nSubjects:",
+    "license": "Public domain",
+    "artist": "Shakespeare, William, 1564-1616\nMorgan, Appleton, 1845-1928\nVickery, Willis, 1857-1932",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACalifornia%20Digital%20Library%20%28IA%20playsofmrwilliam02shak%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 802,
+    "height": 1247
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Cornell_University_Library_digitization_%28IA_cu31924064955366%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cornell_University_Library_digitization_%28IA_cu31924064955366%29.pdf/page1-500px-Cornell_University_Library_digitization_%28IA_cu31924064955366%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that con",
+    "license": "Public domain",
+    "artist": "Shakespeare, William, 1564-1616\nMorgan, Appleton, 1845-1928\nVickery, Willis, 1857-1932",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACornell%20University%20Library%20digitization%20%28IA%20cu31924064955366%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 829,
+    "height": 1220
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "hVijesyOKf0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/hVijesyOKf0",
+    "thumb_url": "https://img.youtube.com/vi/hVijesyOKf0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=hVijesyOKf0",
+    "caption": "Marke Schwerin - Marketingexperte Holger Jung teilt sein Wissen",
+    "duration": "2:58",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=hVijesyOKf0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

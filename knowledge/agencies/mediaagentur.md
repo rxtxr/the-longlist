@@ -3,12 +3,16 @@ confidence: low
 era: 1966-2020
 id: mediaagentur
 images: []
-last_updated: '2026-05-11'
+last_updated: '2026-05-13'
 related: []
 sources:
 - Wikipedia-Artikel Mediaagentur
 - Wikipedia-Artikel Mediaplus Group
 - WiWo-Artikel 'Die Werbebranche ist arm geworden'
+- 'Wikipedia: Mediaagentur'
+- 'Wikipedia: Mediaplus Group'
+- 'LinkedIn: ZipMedia AG'
+- 'Duden: Mediaagentur'
 tags:
 - media
 - mediaplanung
@@ -46,4 +50,4 @@ Die Geschichte der Mediaagenturen ist untrennbar mit den großen Werbeholdings v
 *   Historische Fotos von "Media Trading Floors" aus den 1980/90er Jahren: Große, lärmende Räume voller Planer mit Papierordnern, überquellenden Medienplänen und Telefonen an jedem Schreibtisch – die Hochzeit des analogen Mediaeinkaufs.
 *   Screenshots früher Mediaplanungs-Software auf grün leuchtenden DOS-Monitoren oder klobigen Windows-3.1-Systemen, die mühsame manuelle Eingaben erforderten.
 *   Anzeigen von Mediaagenturen in Fachzeitschriften wie "AdAge" oder "Horizont", die stolz ihre Reichweitenstärke und neue, vermeintlich revolutionäre Analysetools bewerben.
-*   Porträts von Schlüsselfiguren wie [[Marcel Bleustein-Blanchet]] (Publicis/Carat), dem französischen Visionär, oder [[David Reich]] (Gründer von ID Media, später Teil von [[Interpublic]]), einem der Pioniere des modernen Mediahandels.
+*   Porträts von Schlüsselfiguren wie [[Marcel Bleustein-Blanchet]] (Publicis/Carat), dem französischen Visionär, oder [[David Reich]] (Gründer von ID Media, später Teil von IPG)

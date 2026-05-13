@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Annual_exhibition_of_contemporary_American_painting%2C_1965.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Annual_exhibition_of_contemporary_American_painting%2C_1965.pdf/page1-500px-Annual_exhibition_of_contemporary_American_painting%2C_1965.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Annual exhibition of contemporary American painting, 1965.",
+    "license": "Public domain",
+    "artist": "Whitney Museum of American Art",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAnnual%20exhibition%20of%20contemporary%20American%20painting%2C%201965.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1181,
+    "height": 1185
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Annual_exhibition_of_contemporary_American_painting%2C_1967.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Annual_exhibition_of_contemporary_American_painting%2C_1967.pdf/page1-500px-Annual_exhibition_of_contemporary_American_painting%2C_1967.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Annual exhibition of contemporary American painting, 1967.",
+    "license": "Public domain",
+    "artist": "Whitney Museum of American Art",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAnnual%20exhibition%20of%20contemporary%20American%20painting%2C%201967.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1181,
+    "height": 1193
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "imzRpDYTI6w",
+    "embed_url": "https://www.youtube-nocookie.com/embed/imzRpDYTI6w",
+    "thumb_url": "https://img.youtube.com/vi/imzRpDYTI6w/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=imzRpDYTI6w",
+    "caption": "About the Arts: Alexander Liberman, 1977",
+    "duration": "28:41",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=imzRpDYTI6w",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

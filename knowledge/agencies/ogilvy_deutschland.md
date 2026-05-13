@@ -21,7 +21,7 @@ wave: 20
 ---
 
 ## Überblick
-Ogilvy Deutschland ist mehr als nur eine Niederlassung — es ist die deutsche Inkarnation einer Werbelegende. Als Teil des globalen Ogilvy-Netzwerks verkörpert die Agentur die zeitlose Philosophie ihres Gründers [[David Ogilvy]]: Werbung als handwerkliche Disziplin, die auf strategischer Tiefe, kreativer Brillanz und dem Glauben an die "Big Idea" basiert. Hier wurde nicht einfach Werbung gemacht, sondern Markenführung als Kunstform praktiziert.
+Ogilvy Deutschland ist die deutsche Inkarnation einer Werbelegende. Als Teil des globalen Ogilvy-Netzwerks verkörpert die Agentur die zeitlose Philosophie ihres Gründers [[David Ogilvy]]: Werbung als handwerkliche Disziplin, die auf strategischer Tiefe, kreativer Brillanz und dem Glauben an die "Big Idea" basiert. Hier wurde Markenführung als Kunstform praktiziert.
 
 ## Historischer Kontext
 Die Geschichte von Ogilvy in Deutschland beginnt im Wirtschaftswunder — doch der wahre Siegeszug startete später. Während internationale Konzerne in den 1960ern den wiedererstarkten deutschen Markt entdeckten, brauchte es Zeit, bis der typisch [[Ogilvy]]'sche Stil hier Fuß fasste. Deutschland war damals geprägt von nüchterner Sachwerbung, während Ogilvy auf emotionale Markenführung setzte. Als die deutsche Wirtschaft globaler wurde, fand auch die researchbasierte, elegante Werbephilosophie aus New York ihren Platz. Die Entwicklung der Agentur von der klassischen Werbung zur digitalen Transformation spiegelt die gesamte Evolution der Branche wider.

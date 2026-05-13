@@ -31,7 +31,7 @@ wave: 11
 ---
 
 ## Überblick
-Andrew Feldmann war mehr als nur ein Werbefachmann – er war der Architekt eines Imperiums. In den 1980er und 1990er Jahren formte dieser scharfsinnige Stratege aus [[FCB]] (Foote, Cone & Belding) einen globalen Werberiesen und verkörperte damit den radikalen Wandel einer ganzen Branche. Während die "Mad Men"-Ära der kreativen Genies zu Ende ging, stand Feldmann für eine neue Zeitrechnung: die der Manager, Finanzstrategen und globalen Netzwerker. Seine Karriere ist die Geschichte der Kommerzialisierung der Kreativbranche.
+Andrew Feldmann war der Architekt eines Imperiums. In den 1980er und 1990er Jahren formte dieser scharfsinnige Stratege aus [[FCB]] (Foote, Cone & Belding) einen globalen Werberiesen und verkörperte damit den radikalen Wandel einer ganzen Branche. Während die "Mad Men"-Ära der kreativen Genies zu Ende ging, stand Feldmann für eine neue Zeitrechnung: die der Manager, Finanzstrategen und globalen Netzwerker. Seine Karriere ist die Geschichte der Kommerzialisierung der Kreativbranche.
 
 ## Historischer Kontext
 Die 1980er Jahre waren das Jahrzehnt der Big Bangs in der Werbebranche. Multinationale Konzerne verlangten nach weltweit einheitlicher Markenkommunikation, und Agenturen reagierten mit einer beispiellosen Konsolidierungswelle. Holdinggesellschaften wie [[Interpublic]] (IPG) und [[Omnicom]] schluckten kleinere Agenturen und bauten globale Netzwerke auf. In dieser Ära des "Merger-Madness" stieg Feldmann auf – ein Zahlenmensch zur rechten Zeit am rechten Ort. [ungesichert] Die Branche wandelte sich von einer Kunst zu einer Wissenschaft, in der Bilanzzahlen oft wichtiger waren als kreative Awards.

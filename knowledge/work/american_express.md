@@ -60,7 +60,7 @@ wave: 9
 ---
 
 ## Überblick
-American Express ist mehr als nur ein Zahlungsdienstleister – es ist eine kulturelle Ikone, deren Werbekampagnen die Sprache der Markenführung neu erfunden haben [1]. Während das Unternehmen heute als Finanzriese bekannt ist, schrieb es Werbegeschichte mit Kampagnen, die nicht Produkte, sondern Lebensgefühle verkauften [2][3]. Die legendären "Do you know me?"-Anzeigen und der berühmte Slogan "Don't Leave Home Without It" wurden zu Teilen des kollektiven Gedächtnisses und demonstrierten Macht der emotionalen Markenbindung [2][8].
+American Express ist eine kulturelle Ikone, deren Werbekampagnen die Sprache der Markenführung neu erfunden haben [1]. Während das Unternehmen heute als Finanzriese bekannt ist, schrieb es Werbegeschichte mit Kampagnen, die Lebensgefühle verkauften [2][3]. Die legendären "Do you know me?"-Anzeigen und der berühmte Slogan "Don't Leave Home Without It" wurden zu Teilen des kollektiven Gedächtnisses und demonstrierten die Macht der emotionalen Markenbindung [2][8].
 
 ## Historischer Kontext
 Die goldene Ära der American Express-Werbung fiel in die 1970er und 1980er Jahre – eine Zeit des gesellschaftlichen Umbruchs und wirtschaftlichen Wandels [ungesichert]. Während die Werbebranche noch überwiegend Produkteigenschaften anpries, erkannte American Express früh, dass Luxus nicht im Besitz, sondern im Erleben liegt [3]. In einer Ära, in der Status zunehmend durch Lebensstil und nicht nur durch Vermögen definiert wurde, traf die Marke den Nerv der Zeit [ungesichert]. Die Kampagnen entstanden in New York, dem Epizentrum der Werbeindustrie, wo Kreative wie [[David Ogilvy]] neue Maßstäbe setzten [2][3].

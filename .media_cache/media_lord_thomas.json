@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3033/2798518065_179d09b3ac_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/8800d0e7-cea6-4bd9-b1c2-69f02e574253/thumb/",
+    "caption": "Lord Thomas, at his ease",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "DanR",
+    "source_url": "https://www.flickr.com/photos/24638567@N00/2798518065",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 660,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Official_portrait_of_Lord_Thomas_of_Gresford_crop_2.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/3321d007-c431-4937-9bd0-739b75976d27/thumb/",
+    "caption": "Official portrait of Lord Thomas of Gresford crop 2",
+    "license": "CC BY 3.0",
+    "artist": "Roger Harris",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=119345978",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "OE-QtLb_zNI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/OE-QtLb_zNI",
+    "thumb_url": "https://img.youtube.com/vi/OE-QtLb_zNI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=OE-QtLb_zNI",
+    "caption": "Albert Lasker, Owner of Lord & Thomas - Father of Modern Advertising",
+    "duration": "5:27",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=OE-QtLb_zNI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/52685476190_1ba7661e49_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/11b445aa-2d19-4add-82dd-75dd5546463e/thumb/",
+    "caption": "Group of men from the Australian Army Medical Corp C Section 7th Field Ambulance - pre June 1917",
+    "license": "Public Domain Mark",
+    "artist": "Aussie~mobs",
+    "source_url": "https://www.flickr.com/photos/70994841@N07/52685476190",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "public_domain",
+    "width": 1024,
+    "height": 643
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "EyRv_BjnTlY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/EyRv_BjnTlY",
+    "thumb_url": "https://img.youtube.com/vi/EyRv_BjnTlY/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=EyRv_BjnTlY",
+    "caption": "Scientific Advertising",
+    "duration": "22:15",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=EyRv_BjnTlY",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -22,8 +22,7 @@ wave: 3
 ---
 
 ## Überblick
-
-Der schwarze Rollkragenpullover mit Nickelbrille war in den 1980er und 1990er Jahren weit mehr als nur Kleidung – er war das ikonische Uniformstück einer ganzen Branche. In Werbeagenturen weltweit wurde dieser Look zur nonverbalen Manifestation eines neuen Selbstverständnisses: Man war nicht mehr der dienstbare Geschäftsmann im grauen Anzug, sondern kreativer Intellektueller, künstlerischer Avantgardist. Dieser Dresscode markierte eine bewusste Abgrenzung von der konservativen Geschäftswelt der Kunden und wurde zum Symbol einer Branche im radikalen Wandel.
+Der schwarze Rollkragenpullover mit Nickelbrille war in den 1980er und 1990er Jahren das ikonische Uniformstück einer ganzen Branche. In Werbeagenturen weltweit wurde dieser Look zur nonverbalen Manifestation eines neuen Selbstverständnisses: Man war nicht mehr der dienstbare Geschäftsmann im grauen Anzug, sondern kreativer Intellektueller, künstlerischer Avantgardist. Dieser Dresscode markierte eine bewusste Abgrenzung von der konservativen Geschäftswelt der Kunden und wurde zum Symbol einer Branche im radikalen Wandel.
 
 ## Historischer Kontext
 

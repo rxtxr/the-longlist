@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2859/9007266187_4d6867ee23_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/1ed0ec8b-b870-47c1-8a3f-ec9ae4ad31eb/thumb/",
+    "caption": "Post cereals-1968",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "DukeUnivLibraries",
+    "source_url": "https://www.flickr.com/photos/35853260@N04/9007266187",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4022/4361012638_5a5926199c.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/ee2654f5-a169-4402-8e96-f2f93e84d154/thumb/",
+    "caption": "Cool Toys pics of the day: AdViews",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "rosefirerising",
+    "source_url": "https://www.flickr.com/photos/69145729@N00/4361012638",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 493,
+    "height": 500
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "z03lK7m0W28",
+    "embed_url": "https://www.youtube-nocookie.com/embed/z03lK7m0W28",
+    "thumb_url": "https://img.youtube.com/vi/z03lK7m0W28/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=z03lK7m0W28",
+    "caption": "Masius (D'Arcy Masius Benton & Bowles)",
+    "duration": "3:13",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=z03lK7m0W28",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

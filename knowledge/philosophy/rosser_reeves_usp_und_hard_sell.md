@@ -45,8 +45,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Rosser Reeves (1910–1984) war mehr als nur ein Werbemanager – er war ein fundamentaler Denker, der die Sprache der Werbung neu erfand. Als Chairman der Ted Bates Agency prägte er die Ära des Wirtschaftswunders und des aufkommenden Fernsehens mit einer radikalen Idee: Jedes Produkt braucht einen einzigen, unwiderstehlichen Grund, warum es gekauft werden muss. Diese "Unique Selling Proposition" (USP) und sein kompromissloser "Hard-Sell"-Ansatz machten ihn zur prägenden Figur der Werbung der 1950er und 60er Jahre und zum Architekten einiger der ikonischsten Kampagnen der Werbegeschichte[1][2][4][5].
+Rosser Reeves (1910–1984) war ein fundamentaler Denker, der die Sprache der Werbung neu erfand. Als Chairman der Ted Bates Agency prägte er die Ära des Wirtschaftswunders und des aufkommenden Fernsehens mit einer radikalen Idee: Jedes Produkt braucht einen einzigen, unwiderstehlichen Grund, warum es gekauft werden muss. Diese "Unique Selling Proposition" (USP) und sein kompromissloser "Hard-Sell"-Ansatz machten ihn zur prägenden Figur der Werbung der 1950er und 60er Jahre und zum Architekten einiger der ikonischsten Kampagnen der Werbegeschichte[1][2][4][5].
 
 ## Historischer Kontext
 

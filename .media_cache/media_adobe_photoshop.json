@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4100/5409609893_5bef29a27b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/f7a6e82e-24f9-41e8-be40-71c382620feb/thumb/",
+    "caption": "Tutorial Photoshop - Lista dei migliori Tutorial di Fotoritocco, Fotomontaggio e Adobe Photoshop",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Marco Crupi Visual Artist",
+    "source_url": "https://www.flickr.com/photos/54731278@N03/5409609893",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3321/4566074182_837802458a_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/45fe6de4-654d-409d-9465-2eb9eb866dc4/thumb/",
+    "caption": "Adobe Photoshop CS5 Available for Trial And Purchase",
+    "license": "CC BY-NC 2.0",
+    "artist": "Thomas Hawk",
+    "source_url": "https://www.flickr.com/photos/51035555243@N01/4566074182",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 611
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "EWmsnWUnXVQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/EWmsnWUnXVQ",
+    "thumb_url": "https://img.youtube.com/vi/EWmsnWUnXVQ/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=EWmsnWUnXVQ",
+    "caption": "Photoshop Hidden Gem: The History Log | Adobe Photoshop",
+    "duration": "1:35",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=EWmsnWUnXVQ",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

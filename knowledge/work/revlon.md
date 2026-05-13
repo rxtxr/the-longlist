@@ -68,7 +68,7 @@ wave: 7
 ---
 
 ## Überblick
-Revlon ist mehr als nur ein Kosmetikkonzern – es ist ein Stück amerikanischer Kulturgeschichte. 1932 in einem New Yorker Loft gegründet, stieg die Marke zum prägenden Player der Schönheitsindustrie auf [1][9]. Ihre eigentliche Revolution fand jedoch nicht im Labor, sondern in der Werbung statt: Revlon erfand die moderne Kosmetikwerbung neu, verknüpfte Lippenstifte mit Lebensentwürfen und prägte über Jahrzehnte hinweg kollektive Schönheitsideale [ungesichert].
+Revlon ist ein Stück amerikanischer Kulturgeschichte. 1932 in einem New Yorker Loft gegründet, stieg die Marke zum prägenden Player der Schönheitsindustrie auf [1][9]. Ihre eigentliche Revolution fand jedoch nicht im Labor, sondern in der Werbung statt: Revlon erfand die moderne Kosmetikwerbung neu, verknüpfte Lippenstifte mit Lebensentwürfen und prägte über Jahrzehnte hinweg kollektive Schönheitsideale [ungesichert].
 
 ## Historischer Kontext
 Revlon entstand in einer paradoxen Zeit: Mitten in der Weltwirtschaftskrise, als Geld knapp war, aber der Wunsch nach glamouröser Flucht größer denn je [ungesichert]. Die wahre Blüte erlebte die Marke dann in der Nachkriegsära der 1950er Jahre – einer Zeit des Wirtschaftswunders, des aufkeimenden Teenagemarkts und des Fernsehbooms, die perfekte Bühne für Revlons theatralische Werbestrategien [ungesichert].

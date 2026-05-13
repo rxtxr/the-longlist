@@ -1,0 +1,28 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5328/9566257302_91ca47d066.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e351689d-5bad-415c-b00d-80aa4b6ee568/thumb/",
+    "caption": "Luz from Argentina Mentored by Joan at Saatchi & Saatchi",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Bureau of Educational & Cultural Affairs",
+    "source_url": "https://www.flickr.com/photos/45717276@N08/9566257302",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 333
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5502/9401940377_b101fe91b9_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/b0d6f7fb-1033-4823-8208-45cc386719cb/thumb/",
+    "caption": "Saatchi & Saatchi",
+    "license": "CC BY 2.0",
+    "artist": "morebyless",
+    "source_url": "https://www.flickr.com/photos/27121172@N00/9401940377",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 845
+  }
+]

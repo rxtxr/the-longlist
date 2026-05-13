@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Annual_register_of_the_United_States_Naval_Academy_%28IA_annualregisterof1021unit%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Annual_register_of_the_United_States_Naval_Academy_%28IA_annualregisterof1021unit%29.pdf/page1-500px-Annual_register_of_the_United_States_Naval_Academy_%28IA_annualregisterof1021unit%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "&lt;a rel=\"nofollow\"&gt;Click here to view the University of Florida catalog record.&lt;/a&gt;\n\nSubjects: United States Naval Academy",
+    "license": "Public domain",
+    "artist": "United States Naval Academy",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAnnual%20register%20of%20the%20United%20States%20Naval%20Academy%20%28IA%20annualregisterof1021unit%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 800,
+    "height": 1316
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cases_on_measure_of_damages_%28IA_casesonmeasureof00russ%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cases_on_measure_of_damages_%28IA_casesonmeasureof00russ%29.pdf/page1-500px-Cases_on_measure_of_damages_%28IA_casesonmeasureof00russ%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Subjects: Damages -- United States",
+    "license": "Public domain",
+    "artist": "Russell, Isaac Franklin, 1857-1931",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACases%20on%20measure%20of%20damages%20%28IA%20casesonmeasureof00russ%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 866,
+    "height": 1375
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "r6tVw6Wu9Dk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/r6tVw6Wu9Dk",
+    "thumb_url": "https://img.youtube.com/vi/r6tVw6Wu9Dk/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=r6tVw6Wu9Dk",
+    "caption": "BMW 540i 90's Commercial \"Canals of New York\"",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=r6tVw6Wu9Dk",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -41,7 +41,7 @@ wave: 7
 ---
 
 ## Überblick
-Reinhard Springer (* 22. Mai 1948 in Bernburg (Saale)) war mehr als nur ein deutscher Werbekaufmann — er war einer der Väter einer neuen Werbeära. Gemeinsam mit [[Konstantin Jacoby]] gründete er 1979 in Hamburg eine Agentur, die als **Springer & Jacoby** (1979–2010) Werbegeschichte schreiben sollte[1][2]. Sein 2006 vollzogener Ausstieg markierte das Ende einer Ära, doch sein Einfluss auf die deutsche Markenkommunikation blieb[1][2].
+Reinhard Springer (* 22. Mai 1948 in Bernburg (Saale)) war ein deutscher Werbekaufmann und einer der Väter einer neuen Werbeära. Gemeinsam mit [[Konstantin Jacoby]] gründete er 1979 in Hamburg eine Agentur, die als **Springer & Jacoby** (1979–2010) Werbegeschichte schreiben sollte[1][2]. Sein 2006 vollzogener Ausstieg markierte das Ende einer Ära, doch sein Einfluss auf die deutsche Markenkommunikation blieb[1][2].
 
 ## Historischer Kontext
 Die deutsche Werbebranche der späten 1970er Jahre steckte noch in konservativen Strukturen fest — bis junge Wilden wie Springer und Jacoby auftauchten. [Die Quellenlage hierzu ist dünn — ungesichert] Während internationale Agenturen bereits kreative Revolutionen feierten, herrschte in Deutschland oft noch der brave, erklärende Werbeton vor. In diese Lücke stieß Springer mit seiner visionären Gründung.

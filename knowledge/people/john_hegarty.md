@@ -63,7 +63,7 @@ wave: 6
 ---
 
 ## Überblick
-Sir John Hegarty (geboren 1944) ist eine der prägenden Figuren der modernen Werbegeschichte. Als Mitgründer der legendären Agentur [[Bartle Bogle Hegarty]] (BBH) prägte er nicht nur ikonische Marken wie [[Levi's]] und [[Audi]], sondern revolutionierte die Art und Weise, wie die Kreativbranche über Ideen, Markenführung und Agenturstrukturen denkt. Sein Mantra "Wenn die Welt nach links geht, geh nach rechts" wurde zum Leitmotiv einer ganzen Generation von Kreativen.
+Sir John Hegarty (geboren 1944) ist eine der prägenden Figuren der modernen Werbegeschichte. Als Mitgründer der legendären Agentur [[Bartle Bogle Hegarty]] (BBH) prägte er ikonische Marken wie [[Levi's]] und [[Audi]] und revolutionierte die Art und Weise, wie die Kreativbranche über Ideen, Markenführung und Agenturstrukturen denkt. Sein Mantra "Wenn die Welt nach links geht, geh nach rechts" wurde zum Leitmotiv einer ganzen Generation von Kreativen.
 
 ## Historischer Kontext
 Hegartys Karriere begann 1965 – in einer Ära, in der Werbung zunehmend von kreativer Kühnheit und konzeptioneller Klarheit geprägt wurde, sich aber noch stark an traditionellen Hierarchien und Prozessen orientierte. [ungesichert] Die Branche befand sich im Umbruch: Während die [[Mad Men]]-Ära langsam ausklang, entstanden neue, radikalere Denkansätze. Hegarty war Teil dieser Bewegung, die Werbung weniger als reinen Verkaufsdienst, sondern als kulturelle Kraft begriff.

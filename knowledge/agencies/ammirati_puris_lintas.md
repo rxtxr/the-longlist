@@ -53,7 +53,7 @@ wave: 23
 ---
 
 ## Überblick
-Ammirati Puris Lintas (APL) war mehr als nur eine weitere Fusion im Werbegeschäft – sie war die dramatische Zusammenführung zweier Welten: Der kreativen New Yorker Kultagentur [[Ammirati Puris AvRutick]] mit der globalen Marketing-Maschinerie von [[Lintas]], der traditionsreichen Werbeabteilung von [[Unilever]]. Entstanden 1996, wurde APL zum Sinnbild einer Ära, in der Kreativität und globale Reichweite eine explosive, wenn auch kurzlebige Verbindung eingingen [1][4][7].
+Ammirati Puris Lintas (APL) war die dramatische Zusammenführung zweier Welten: Der kreativen New Yorker Kultagentur [[Ammirati Puris AvRutick]] mit der globalen Marketing-Maschinerie von [[Lintas]], der traditionsreichen Werbeabteilung von [[Unilever]]. Entstanden 1996, wurde APL zum Sinnbild einer Ära, in der Kreativität und globale Reichweite eine explosive, wenn auch kurzlebige Verbindung eingingen [1][4][7].
 
 ## Historischer Kontext
 Die 1990er Jahre waren das goldene Zeitalter der Werbeholdinggesellschaften. Giganten wie [[Interpublic]] (IPG) und [[WPP]] gingen auf Einkaufstour und schluckten unabhängige Agenturen in einem bis dahin unbekannten Tempo [ungesichert]. In dieser Zeit des "Bigger is better" war die Fusion kein Zeichen der Schwäche, sondern eine strategische Notwendigkeit. Kunden verlangten globale Kampagnen, und nur Agenturen mit weltweiter Präsenz konnten die großen Budgets abschöpfen. APL war ein Kind dieses Zeitgeistes – der ambitionierte Versuch, kreatives Flair mit multinationaler Schlagkraft zu vereinen.

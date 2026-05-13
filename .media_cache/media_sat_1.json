@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Neues_Sat._1_Logo_transparent.png",
+    "thumb_url": "https://api.openverse.org/v1/images/d327614e-35f8-4c50-903b-6bbad0758036/thumb/",
+    "caption": "Neues Sat. 1 Logo transparent",
+    "license": "CC BY-SA 4.0",
+    "artist": "ProSiebenSat.1 Media SE",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=60985114",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1772,
+    "height": 1772
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/6064/6137693073_776961dc3e_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/edc7edd2-a407-462f-84f1-aec38faa81cb/thumb/",
+    "caption": "Love Green und SAT.1 beim Streetlife Festival in München 2011",
+    "license": "CC BY 2.0",
+    "artist": "LoveGreenPhotos",
+    "source_url": "https://www.flickr.com/photos/52299011@N03/6137693073",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 575
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "j8RvQBRH6Lc",
+    "embed_url": "https://www.youtube-nocookie.com/embed/j8RvQBRH6Lc",
+    "thumb_url": "https://img.youtube.com/vi/j8RvQBRH6Lc/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=j8RvQBRH6Lc",
+    "caption": "Lectures in History Preview: Emergence of Modern Advertising",
+    "duration": "1:18",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=j8RvQBRH6Lc",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -33,8 +33,7 @@ wave: 99
 ---
 
 ## Überblick
-
-Die Geschichte von Philip Morris und seiner Tabakwerbung ist ein Lehrstück über Macht, Marketinggenie und moralische Grenzüberschreitungen. [ungesichert] Sie handelt von einem Unternehmen, das nicht nur Zigaretten verkaufte, sondern einen ganzen Lebensstil – und das mit einer Werbemaschinerie, die weltweit Maßstäbe setzte und schließlich an ihren eigenen, tödlichen Folgen scheiterte. [ungesichert] Dieser Artikel zeichnet den Weg vom glamourösen Image-Marketing bis zur erzwungenen Zurückhaltung nach.
+Die Geschichte von Philip Morris und seiner Tabakwerbung ist ein Lehrstück über Macht, Marketinggenie und moralische Grenzüberschreitungen. Sie handelt von einem Unternehmen, das einen ganzen Lebensstil verkaufte, und das mit einer Werbemaschinerie, die weltweit Maßstäbe setzte und schließlich an ihren eigenen, tödlichen Folgen scheiterte. Dieser Artikel zeichnet den Weg vom glamourösen Image-Marketing bis zur erzwungenen Zurückhaltung nach.
 
 ## Historischer Kontext
 

@@ -42,7 +42,7 @@ wave: 3
 ---
 
 ## Überblick
-Jean-Marie Dru ist mehr als nur ein französischer Werbestratege – er ist der Architekt eines der einflussreichsten Denkmodelle der modernen Werbebranche. Sein Disruption-Konzept revolutionierte nicht nur die [[Werbung|Werbestrategie]], sondern wurde zum systematischen Werkzeug für Markenführung und Innovation weltweit [1][2]. Was als "saut créatif" (kreativer Sprung) begann, entwickelte sich zu einer Methode, die Konventionen einer Branche bewusst bricht und radikale Neuerungen vorantreibt [1][2].
+Jean-Marie Dru ist der Architekt eines der einflussreichsten Denkmodelle der modernen Werbebranche. Sein Disruption-Konzept revolutionierte die Werbestrategie und wurde zum systematischen Werkzeug für Markenführung und Innovation weltweit [1][2]. Was als "saut créatif" (kreativer Sprung) begann, entwickelte sich zu einer Methode, die Konventionen einer Branche bewusst bricht und radikale Neuerungen vorantreibt [1][2].
 
 ## Historischer Kontext
 Die 1990er Jahre bilden den perfekten Nährboden für Drus Disruption-Gedanken. Während die [[Wirtschaft|Wirtschaftswelt]] vom [[Dotcom-Blase|Dotcom-Hype]] und globaler Vernetzung geprägt war, steckte die Werbebranche oft noch in traditionellen Mustern fest. In dieser Zeit des Umbruchs traf Dru den Nerv der Epoche: Nicht Evolution, sondern Revolution war gefragt [ungesichert]. Sein Konzept traf auf eine Welt, die bereit war für radikale Veränderungen – sowohl in der Kommunikation als auch in der Geschäftswelt.

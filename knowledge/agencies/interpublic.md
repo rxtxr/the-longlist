@@ -61,7 +61,7 @@ wave: 4
 ---
 
 ## Überblick
-Die [[Interpublic Group of Companies]] (IPG) ist nicht einfach nur ein Werbekonzern – sie ist die Blaupause des modernen Marketing-Imperiums [3][5]. Als erster seiner Art ging dieser Gigant an die Börse und revolutionierte damit nicht nur die Finanzierung, sondern die gesamte Struktur der Werbebranche [7]. Heute steht IPG im S&P 500 [ungesichert] und lenkt mit Netzwerken wie [[McCann Worldgroup]] und [[FCB]] die Wahrnehmung von Marken weltweit.
+Die [[Interpublic Group of Companies]] (IPG) ist die Blaupause des modernen Marketing-Imperiums [3][5]. Als erster seiner Art ging dieser Gigant an die Börse und revolutionierte die Finanzierung und die gesamte Struktur der Werbebranche [7]. Heute steht IPG im S&P 500 [ungesichert] und lenkt mit Netzwerken wie [[McCann Worldgroup]] und [[FCB]] die Wahrnehmung von Marken weltweit.
 
 ## Historischer Kontext
 Die frühen 1960er Jahre waren das goldene Zeitalter der Werbung – Mad Men war nicht nur Fiktion, sondern Geschäftsrealität. In dieser Ära explodierender Marken und Massenmedien [ungesichert] sah [[Marion Harper Jr.]] weiter als alle anderen. Während Konkurrenten noch einzelne Agenturen führten, erkannte er: Die Zukunft gehört dem Konglomerat. 1961 schuf er aus [[McCann Erickson]] und weiteren erworbenen Agenturen ein neues Gebilde – die "Interpublic Group of Companies" [7][8]. Es war der Startschuss für das Holding-Zeitalter.

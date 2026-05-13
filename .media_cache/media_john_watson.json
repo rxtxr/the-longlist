@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/1/886566_d7a1253e51.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/bd63c5ea-e49f-45fc-84ec-b2e035b4ef08/thumb/",
+    "caption": "Playing with DNA",
+    "license": "CC BY 2.0",
+    "artist": "jurvetson",
+    "source_url": "https://www.flickr.com/photos/44124348109@N01/886566",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 333
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3148/3111387425_1d8d91c720_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2bd53a10-4599-44a2-b1ed-b75b97473104/thumb/",
+    "caption": "Sir Henry Parkes with Ministry, 1880",
+    "license": "CC BY-SA 2.0",
+    "artist": "Blue Mountains Library, Local Studies",
+    "source_url": "https://www.flickr.com/photos/26602074@N06/3111387425",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 946
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "sYArxtxNEcw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/sYArxtxNEcw",
+    "thumb_url": "https://img.youtube.com/vi/sYArxtxNEcw/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=sYArxtxNEcw",
+    "caption": "Phoenix Bonds & Jack Russell Estates - an Interview with John Watson",
+    "duration": "6:18",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=sYArxtxNEcw",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

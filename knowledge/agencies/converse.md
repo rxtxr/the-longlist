@@ -55,7 +55,7 @@ wave: 16
 ---
 
 ## Überblick
-Converse war eine der großen Pionieragenturen der amerikanischen Werbebranche, die in den Gründerjahren der modernen Kommunikation entscheidende Akzente setzte. Ihre Geschichte ist ein klassisches New-Yorker-Boomtown-Narrativ: gegründet in einer Ära des industriellen Aufbruchs, geprägt von klugen Köpfen und strategischen Fusionen, und schließlich aufgegangen in einem der größten Werbeimperien des 20. Jahrhunderts. Ihr Vermächtnis ist nicht nur in den Archiven von [[BBDO]] zu finden, sondern in der DNA der gesamten Branche.
+Converse war eine der großen Pionieragenturen der amerikanischen Werbebranche, die in den Gründerjahren der modernen Kommunikation entscheidende Akzente setzte. Ihre Geschichte ist ein klassisches New-Yorker-Boomtown-Narrativ: gegründet in einer Ära des industriellen Aufbruchs, geprägt von klugen Köpfen und strategischen Fusionen, und schließlich aufgegangen in einem der größten Werbeimperien des 20. Jahrhunderts. Ihr Vermächtnis ist in den Archiven von [[BBDO]] und in der DNA der gesamten Branche zu finden.
 
 ## Historischer Kontext
 Die Agentur entstand in einem Amerika, das im frühen 20. Jahrhundert seinen industriellen und kommerziellen Triumphzug antrat. Es war die Epoche der Fließbänder, der aufstrebenden Marken und der Entstehung eines nationalen Massenmarktes. Werbung war damals noch kein strategisch geführtes Geschäft, sondern oftmals bloße Anzeigenverwaltung. Doch die Zeit war reif für Agenturen, die mehr konnten: die Märkte verstanden, Marken erzählen konnten und wissenschaftlich an die Kundenansprache herangingen. In dieser Arena war [[J. Walter Thompson]] der unangefochtene Champion – doch Converse sollte sich als kreativer und schlagkräftiger Herausforderer etablieren.

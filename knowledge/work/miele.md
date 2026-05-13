@@ -38,7 +38,7 @@ wave: 24
 ---
 
 ## Überblick
-Miele ist mehr als nur ein deutscher Haushaltsgerätehersteller – es ist eine Jahrhundertgeschichte deutscher Ingenieurskunst und Werbebeständigkeit. Seit der Gründung 1899 durch Carl Miele und Reinhard Zinkann im westfälischen Gütersloh steht die Marke für ein Versprechen: Qualität, die Generationen überdauert [1][2][3]. Während andere Marken kamen und gingen, blieb Miele seinem Credo treu und schrieb damit nicht nur Produktgeschichte, sondern auch Werbegeschichte.
+Miele ist eine Jahrhundertgeschichte deutscher Ingenieurskunst und Werbebeständigkeit. Seit der Gründung 1899 durch Carl Miele und Reinhard Zinkann im westfälischen Gütersloh steht die Marke für ein Versprechen: Qualität, die Generationen überdauert [1][2][3]. Während andere Marken kamen und gingen, blieb Miele seinem Credo treu und schrieb damit Produktgeschichte und Werbegeschichte.
 
 ## Historischer Kontext
 Gegründet im Deutschen Kaiserreich, erlebte Miele alle Höhen und Tiefen des 20. Jahrhunderts mit [ungesichert]. Die Elektrifizierung der deutschen Haushalte ab den 1920er Jahren wurde zur Wachstumsgrundlage [ungesichert]. Nach dem Zweiten Weltkrieg traf Miele genau den Nerv der Zeit: Im Wirtschaftswunder der 1950er bis 1970er Jahre verkörperte die Marke das neue bürgerliche Selbstbewusstsein und den Glauben an technischen Fortschritt [ungesichert]. Während Deutschland sich neu erfand, stand Miele für Stabilität und Verlässlichkeit in einer sich rasch verändernden Welt.

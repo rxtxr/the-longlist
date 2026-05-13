@@ -32,7 +32,7 @@ wave: 3
 ---
 
 ## Überblick
-Die Fachpresse mit Titeln wie [[Horizont]] und [[Werben & Verkaufen]] (W&V) war das eigentliche Machtzentrum der deutschsprachigen Werbebranche. Sie waren nicht nur Informationsorgane, sondern die Architekten von Reputation, die Richter über Erfolg und Misserfolg und die Chronisten einer ganzen Industrie. In einer Welt vor digitaler Vernetzung bestimmten sie, wer gehört wurde und wer nicht. Ihre Titelseiten waren die Trophäenwand der Branche, ihre Erwähnung die Währung der Macht.
+Die Fachpresse mit Titeln wie [[Horizont]] und [[Werben & Verkaufen]] (W&V) war das eigentliche Machtzentrum der deutschsprachigen Werbebranche. Sie waren die Architekten von Reputation, die Richter über Erfolg und Misserfolg und die Chronisten einer ganzen Industrie. In einer Welt vor digitaler Vernetzung bestimmten sie, wer gehört wurde und wer nicht. Ihre Titelseiten waren die Trophäenwand der Branche, ihre Erwähnung die Währung der Macht.
 
 ## Historischer Kontext
 Die Blütezeit der Fachpresse als unangefochtener Branchenrichter erstreckte sich von den Wirtschaftswunderjahren der 1960er bis in die frühen 2000er. In einer Ära, die geprägt war durch [[Wirtschaftswunder]] und die zunehmende Professionalisierung der Werbung, bildeten diese Magazine das zentrale Nervensystem. Sie waren die Schaltstellen, in denen sich alles traf: Nachrichten, Gerüchte, Personalwechsel und die große Selbstinszenierung einer Branche, die sich selbst neu erfand. In einer Zeit ohne Social Media und Echtzeit-Updates waren sie die einzige Instanz, die den Puls der Branche fühlbar machte.

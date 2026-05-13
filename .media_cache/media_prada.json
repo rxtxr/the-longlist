@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/1320/852120668_f52a7c9340_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/913d68e6-5426-4642-8b03-1d74c98f3587/thumb/",
+    "caption": "PRADA Japan Tokyo Omotesando:night ver.",
+    "license": "CC BY-SA 2.0",
+    "artist": "ivva",
+    "source_url": "https://www.flickr.com/photos/92842970@N00/852120668",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3329/3523617890_5d53663dd0_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/cfa00104-9498-4885-a425-c2a776455cee/thumb/",
+    "caption": "Galleria Vittorio Emanuele II, Milano, Italy outside the Prada and Louis Vuitton stores.",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "FromTheNorth",
+    "source_url": "https://www.flickr.com/photos/22719916@N03/3523617890",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "dzOqyG73KuE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/dzOqyG73KuE",
+    "thumb_url": "https://img.youtube.com/vi/dzOqyG73KuE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dzOqyG73KuE",
+    "caption": "Prada Paradoxe | The Film",
+    "duration": "0:30",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=dzOqyG73KuE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

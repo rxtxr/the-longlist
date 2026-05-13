@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/4224419645_582952cd8e_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/c57df63b-d7bb-4ef0-baf0-9f993de71f8d/thumb/",
+    "caption": "Lever Brothers Company, Hammond Plant, 1955 - Hammond, Indiana",
+    "license": "CC BY 2.0",
+    "artist": "Shook Photos",
+    "source_url": "https://www.flickr.com/photos/24724221@N07/4224419645",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 646
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3142/2445747304_7336fd1493_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/97d428b6-8487-4c04-be70-b938957f7114/thumb/",
+    "caption": "Lever Brothers and Crossfield Chemicals - Warrington",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Jon Whitton",
+    "source_url": "https://www.flickr.com/photos/24872736@N03/2445747304",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "2MLvmPtrEeo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/2MLvmPtrEeo",
+    "thumb_url": "https://img.youtube.com/vi/2MLvmPtrEeo/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=2MLvmPtrEeo",
+    "caption": "Unilever's Rise to Power: The Untold Story That Will Blow Your Mind",
+    "duration": "11:41",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=2MLvmPtrEeo",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

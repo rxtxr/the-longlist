@@ -20,7 +20,7 @@ wave: 19
 ---
 
 ## Überblick
-Günther Sachse war mehr als nur ein Werbetexter – er war ein Sprachalchimist, der in den 1960er bis 1980er Jahren die deutsche Werbelandschaft neu erfand. Während andere Produkte anpriesen, erzählte er Geschichten. Wo Konkurrenz auf technische Daten setzte, vertraute er auf Poesie. Seine Bedeutung liegt in der Erschaffung eines unverwechselbaren, hintersinnigen Stils, der die deutsche Werbung aus ihrem sachlichen Korsett befreite und zur emotionalen Kunstform erhob. [ungesichert] Er bewies, dass Werbung nicht nur verkaufen, sondern auch verzaubern konnte.
+Günther Sachse war ein Sprachalchimist, der in den 1960er bis 1980er Jahren die deutsche Werbelandschaft neu erfand. Während andere Produkte anpriesen, erzählte er Geschichten. Wo Konkurrenz auf technische Daten setzte, vertraute er auf Poesie. Seine Bedeutung liegt in der Erschaffung eines unverwechselbaren, hintersinnigen Stils, der die deutsche Werbung aus ihrem sachlichen Korsett befreite und zur emotionalen Kunstform erhob. Er bewies, dass Werbung verkaufen und verzaubern konnte.
 
 ## Historischer Kontext
 Sachses Karriere fiel in die Hochzeit des deutschen Wirtschaftswunders – eine Ära des Überflusses, in der Werbung zum Schlachtfeld der Marken wurde. Während [[Rosser Reeves]] in den USA mit seiner USP-Theorie ("Unique Selling Proposition") die Werbung vermarktlichte, brachte die [[Doyle Dane Bernbach|DDB]]-Revolution aus New York eine neue Kreativität nach Europa. In diesem Spannungsfeld zwischen Commerce und Kunst fand Sachse seine Stimme: Er adaptierte die kreativen Ansätze von [[Ogilvy & Mather|Ogilvy]] und DDB für den deutschen Sprachraum und schuf etwas gänzlich Eigenständiges. [ungesichert]

@@ -59,7 +59,7 @@ wave: 20
 ---
 
 ## Überblick
-Goodby, Silverstein & Partners (GS&P) ist eine der einflussreichsten und kreativsten Werbeagenturen der USA, bekannt für ihre kulturschaffenden Kampagnen und literarische Herangehensweise an Werbung. Die Agentur mit Hauptsitz in San Francisco gehört heute zum Omnicom-Konzem und hat mit Arbeiten wie "Got milk?" und "Truth" nicht nur Produkte beworben, sondern popkulturelle Ikonen geschaffen [1][3].
+Goodby, Silverstein & Partners (GS&P) ist eine der einflussreichsten und kreativsten Werbeagenturen der USA, bekannt für ihre kulturschaffenden Kampagnen und literarische Herangehensweise an Werbung. Die Agentur mit Hauptsitz in San Francisco gehört heute zum Omnicom-Konzem und hat mit Arbeiten wie "Got milk?" und "Truth" Produkte beworben und popkulturelle Ikonen geschaffen [1][3].
 
 ## Historischer Kontext
 Die Agentur entstand in den frühen 1980er Jahren, einer Zeit, als Werbung zunehmend kreativer und unterhaltsamer wurde. Die "Creative Revolution" der 1960er Jahre hatte bereits bewiesen, dass Werbung Kunst sein konnte, doch San Francisco entwickelte seinen eigenen, entspannteren Stil – weniger hart und zynisch als New Yorker Werbung, dafür intelligenter und literarischer. In diese Szene stießen Jeff Goodby, Andy Berlin und Rich Silverstein vor, die alle bereits bei renommierten Agenturen Erfahrungen gesammelt hatten [1][10].

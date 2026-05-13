@@ -36,8 +36,7 @@ wave: 19
 ---
 
 ## Überblick
-
-Takeaway.com (heute Teil von Just Eat Takeaway.com) war mehr als nur eine niederländische Online-Lebensmittelbestellplattform – es war der Pionier, der das digitale Essenbestellen in Europa salonfähig machte. 2000 von einem jungen Unternehmer gegründet, verwandelte es das stille Klingeln an der Wohnungstür in ein systematisiertes, globales Milliardenbusiness. Das Unternehmen erschloss für traditionelle Lieferrestaurants einen skalierbaren Online-Vertriebsweg und machte die Bestellung von Sushi, Pizza oder Curry per Mausklick oder App-Tap zur Selbstverständlichkeit.
+Takeaway.com (heute Teil von Just Eat Takeaway.com) war der Pionier, der das digitale Essenbestellen in Europa salonfähig machte. 2000 von einem jungen Unternehmer gegründet, verwandelte es das stille Klingeln an der Wohnungstür in ein systematisiertes, globales Milliardenbusiness. Das Unternehmen erschloss für traditionelle Lieferrestaurants einen skalierbaren Online-Vertriebsweg und machte die Bestellung von Sushi, Pizza oder Curry per Mausklick oder App-Tap zur Selbstverständlichkeit.
 
 ## Historischer Kontext
 

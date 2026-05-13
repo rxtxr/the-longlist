@@ -43,8 +43,7 @@ wave: 17
 ---
 
 ## Überblick
-
-Zalando ist mehr als nur ein Onlineshop – es ist eine der prägenden Erfolgsgeschichten des europäischen E-Commerce. 2008 in einer Berliner Wohnung gegründet, revolutionierte das Unternehmen den Online-Modehandel mit einem radikalen Versprechen: kostenlose Lieferung und Rückgabe. Was als reiner Schuhversand begann, entwickelte sich in wenigen Jahren zum führenden Mode- und Lifestyle-Destination Europas und wurde zu einem der wertvollsten Internetkonzerne des Kontinents. Zalando veränderte nicht nur, wie Millionen Europäer Mode kaufen, sondern wurde auch zum Symbol der aufstrebenden Berliner "Silicon Allee"-Startup-Szene.
+Zalando ist eine der prägenden Erfolgsgeschichten des europäischen E-Commerce. 2008 in einer Berliner Wohnung gegründet, revolutionierte das Unternehmen den Online-Modehandel mit einem radikalen Versprechen: kostenlose Lieferung und Rückgabe. Was als reiner Schuhversand begann, entwickelte sich in wenigen Jahren zum führenden Mode- und Lifestyle-Destination Europas und wurde zu einem der wertvollsten Internetkonzerne des Kontinents. Zalando veränderte, wie Millionen Europäer Mode kaufen, und wurde zum Symbol der aufstrebenden Berliner "Silicon Allee"-Startup-Szene.
 
 ## Historischer Kontext
 

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8491/8382247159_ed8177caff_m.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/0a37edbc-4cc9-4826-ad30-f6f0bf983c31/thumb/",
+    "caption": "GroupMe",
+    "license": "CC BY 2.0",
+    "artist": "jagrs",
+    "source_url": "https://www.flickr.com/photos/23975847@N08/8382247159",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 240,
+    "height": 240
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5018/5489187541_466ba8cb1f.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/c0ea2d5d-7ce9-4ed0-8d6d-b175301efd91/thumb/",
+    "caption": "Wow, have you guys seen @GroupMe's new @foursquare integration? Very hot:",
+    "license": "CC BY 2.0",
+    "artist": "dpstyles™",
+    "source_url": "https://www.flickr.com/photos/77725780@N00/5489187541",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 320,
+    "height": 480
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "1Op6UI6DoIw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/1Op6UI6DoIw",
+    "thumb_url": "https://img.youtube.com/vi/1Op6UI6DoIw/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1Op6UI6DoIw",
+    "caption": "How the ad industry is working to move away from the 'Mad Men' era",
+    "duration": "2:50",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=1Op6UI6DoIw",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

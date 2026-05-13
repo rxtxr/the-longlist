@@ -53,7 +53,7 @@ wave: 13
 ---
 
 ## Überblick
-Chanel ist mehr als eine Modemarke — es ist eine kulturelle Revolution, die in einem kleinen Pariser Hutladen begann. 1910 eröffnete Gabrielle "Coco" Chanel ihren ersten Laden und schuf damit nicht nur ein Modeimperium, sondern befreite Frauen buchstäblich aus ihren Korsetts. Die Marke steht für eine radikale Neuinterpretation weiblicher Eleganz: nicht opulent und einschränkend, sondern praktisch, selbstbewusst und zeitlos [ungesichert]. Chanels Genie lag darin, Mode als Werkzeug der Emanzipation zu begreifen — eine Haltung, die bis heute das DNA der Marke prägt.
+Chanel ist eine kulturelle Revolution, die in einem kleinen Pariser Hutladen begann. 1910 eröffnete Gabrielle "Coco" Chanel ihren ersten Laden und schuf damit ein Modeimperium, das Frauen buchstäblich aus ihren Korsetts befreite. Die Marke steht für eine radikale Neuinterpretation weiblicher Eleganz: praktisch, selbstbewusst und zeitlos. Chanels Genie lag darin, Mode als Werkzeug der Emanzipation zu begreifen — eine Haltung, die bis heute das DNA der Marke prägt.
 
 ## Historischer Kontext
 Coco Chanels Aufstieg fiel in eine Epoche des radikalen Umbruchs. Im frühen 20. Jahrhundert kämpften Frauen um politische Gleichberechtigung, der Erste Weltkrieg (1914–1918) riss sie aus traditionellen Rollen und zwang sie in Fabriken und Büros. Plötzlich waren die unpraktischen, korsettverschnürten Roben der Belle Époque nicht nur unmodern, sondern schlichtweg untauglich. Chanels Vision traf genau diesen Nerv der Zeit: Sie entwarf Kleidung für Frauen, die atmen, arbeiten und leben wollten — nicht nur repräsentieren [9]. Die 1920er Jahre, mit ihrer Aufbruchsstimmung und der Suche nach neuer Freiheit, wurden zum perfekten Nährboden für ihre Revolution.

@@ -64,7 +64,7 @@ wave: 7
 ---
 
 ## Überblick
-Andy Warhol war mehr als nur ein Künstler – er war ein kulturelles Erdbeben. Der Sohn slowakischer Einwanderer aus Pittsburgh revolutionierte als führende Figur der Pop-Art-Bewegung der 1960er Jahre nicht nur die Kunstwelt, sondern sprengte die Grenzen zwischen kommerzieller Werbung und Hochkultur[1][5][10]. Mit seiner "Fabrik" in New York machte er die Ästhetik der Massenproduktion und des Konsums zum Gegenstand der Kunst[1][5]. Sein Werk und seine Philosophie veränderten nicht nur Galerien, sondern hatten einen tiefgreifenden Einfluss auf die Werbe- und Marketingbranche[ungesichert].
+Andy Warhol war ein kulturelles Erdbeben. Der Sohn slowakischer Einwanderer aus Pittsburgh revolutionierte als führende Figur der Pop-Art-Bewegung der 1960er Jahre die Kunstwelt und sprengte die Grenzen zwischen kommerzieller Werbung und Hochkultur[1][5][10]. Mit seiner "Fabrik" in New York machte er die Ästhetik der Massenproduktion und des Konsums zum Gegenstand der Kunst[1][5]. Sein Werk und seine Philosophie veränderten Galerien und hatten einen tiefgreifenden Einfluss auf die Werbe- und Marketingbranche[ungesichert].
 
 ## Historischer Kontext
 In den konsumorientierten 1950er Jahren, als Amerika im Wirtschaftsboom schwamm, legte Warhol das Fundament für seine spätere Revolution. Als erfolgreicher Werbe- und Modeillustrator für Marken wie I. Miller Shoes perfektionierte er nicht nur seinen charakteristischen "blotted line"-Zeichenstil, sondern lernte die Gesetze der Markenkommunikation von der Pike auf[2][4][8]. Diese Zeit in der Werbebranche prägte sein Verständnis davon, wie Bilder wirken und wie Produkte zu Ikonen werden[ungesichert].

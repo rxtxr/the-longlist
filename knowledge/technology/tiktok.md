@@ -60,8 +60,7 @@ wave: 23
 ---
 
 ## Überblick
-
-TikTok ist mehr als nur eine Social-Media-Plattform — es ist das Produkt eines perfekten Sturms aus technologischem Wandel, kultureller Verschiebung und unternehmerischem Weitblick. Entwickelt vom chinesischen Unternehmen [[ByteDance]], revolutionierte die App mit ihren kurzen, vertikal ausgerichteten Videos nicht nur die Art, wie wir Inhalte konsumieren, sondern schuf eine völlig neue Aufmerksamtkeitsökonomie. Ihr algorithmisch gesteuerter "For You"-Feed wurde zur mächtigsten Kulturmaschine seit dem Fernsehen und demokratisierte die Inhaltsproduktion für Millionen[1][8].
+TikTok ist das Produkt eines perfekten Sturms aus technologischem Wandel, kultureller Verschiebung und unternehmerischem Weitblick. Entwickelt vom chinesischen Unternehmen [[ByteDance]], revolutionierte die App mit ihren kurzen, vertikal ausgerichteten Videos die Art, wie wir Inhalte konsumieren, und schuf eine völlig neue Aufmerksamtsökonomie. Ihr algorithmisch gesteuerter "For You"-Feed wurde zur mächtigsten Kulturmaschine seit dem Fernsehen und demokratisierte die Inhaltsproduktion für Millionen[1][8].
 
 ## Historischer Kontext
 

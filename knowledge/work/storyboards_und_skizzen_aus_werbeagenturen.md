@@ -19,8 +19,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Storyboards und Skizzen sind die heimlichen Helden der Werbebranche — die ersten sichtbaren Atemzüge einer Idee, bevor sie zur weltweiten Kampagne wird. Sie sind mehr als nur Werkzeuge; sie sind die visuelle Sprache, in der Kreative denken, streiten und träumen. In Agenturen rund um den Globus entstehen auf Papier, Tablets oder Whiteboards diese rohen, oft skizzenhaften Entwürfe, die später Millionen von Menschen erreichen. Sie dienen nicht nur der internen Kommunikation, sondern auch der Überzeugung von Kunden — denn wer könnte einer fertigen Vision schon widerstehen, wenn er sie schon vor seinem geistigen Auge sieht?
+Storyboards und Skizzen sind die heimlichen Helden der Werbebranche — die ersten sichtbaren Atemzüge einer Idee, bevor sie zur weltweiten Kampagne wird. Sie sind die visuelle Sprache, in der Kreative denken, streiten und träumen. In Agenturen rund um den Globus entstehen auf Papier, Tablets oder Whiteboards diese rohen, oft skizzenhaften Entwürfe, die später Millionen von Menschen erreichen. Sie dienen der internen Kommunikation und der Überzeugung von Kunden — denn wer könnte einer fertigen Vision schon widerstehen, wenn er sie schon vor seinem geistigen Auge sieht?
 
 ## Historischer Kontext
 

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/49047575163_42a417c9bc_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/47626c9b-dcfd-4042-a76f-2e91388e0162/thumb/",
+    "caption": "IMG_4009JC Jan de Beer 1474-1528 Anvers Triptych with adoration of the kings, birth of Jesus and escape to Egypt Triptychon mit anbetung der Könige, G",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "jean louis mazieres",
+    "source_url": "https://www.flickr.com/photos/79505738@N03/49047575163",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3832/8865584540_b5307795be_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/37ca0f72-1d7a-4cfb-9a13-b7689d874cb0/thumb/",
+    "caption": "Workshop Serge de Beer",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Waag | technology & society",
+    "source_url": "https://www.flickr.com/photos/8411599@N05/8865584540",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 678
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "8pU6WQXkiOU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/8pU6WQXkiOU",
+    "thumb_url": "https://img.youtube.com/vi/8pU6WQXkiOU/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8pU6WQXkiOU",
+    "caption": "De Beers A Diamond is Forever Commercial (1997)",
+    "duration": "0:30",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=8pU6WQXkiOU",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

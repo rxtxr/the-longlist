@@ -19,7 +19,7 @@ wave: 20
 ---
 
 ## Überblick
-Letraset war mehr als nur ein Hersteller von Trockentransferbuchstaben – es war eine Revolution in der Handwerkskiste der Grafiker [ungesichert]. In den 1960er und 70er Jahren verwandelte es die Schreibtische von Werbeagenturen und Studios in kleine Druckereien [ungesichert]. Plötzlich konnte man Buchstaben, Schriften und grafische Elemente einfach durch Darüberreiben aufs Papier übertragen, ohne auf aufwändige Bleisatz- oder Handlettering-Techniken angewiesen zu sein [ungesichert]. Es war Demokratisierung von Typografie – schnell, billig und für alle.
+Letraset war eine Revolution in der Handwerkskiste der Grafiker. In den 1960er und 70er Jahren verwandelte es die Schreibtische von Werbeagenturen und Studios in kleine Druckereien. Plötzlich konnte man Buchstaben, Schriften und grafische Elemente einfach durch Darüberreiben aufs Papier übertragen, ohne auf aufwändige Bleisatz- oder Handlettering-Techniken angewiesen zu sein. Es war Demokratisierung von Typografie – schnell, billig und für alle.
 
 ## Historischer Kontext
 Die Wurzeln von Letraset liegen im London der Nachkriegszeit, als die Werbebranche explodierte und neue, schnellere Wege suchte, um mit Text und Bildern zu arbeiten [ungesichert]. Es traf perfekt den Zeitgeist der 1960er Jahre: Agenturen wurden experimentierfreudiger, die Popkultur feierte bunte, laute Optik, und eine neue Generation von Designern wollte nicht länger auf die Setzereien warten [ungesichert]. Letraset wurde zum Werkzeug einer kreativen Rebellion – es ermöglichte schnelle Skizzen, spontane Layouts und den Look der Unabhängigen [ungesichert].

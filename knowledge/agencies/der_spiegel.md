@@ -56,7 +56,7 @@ wave: 16
 ---
 
 ## Überblick
-Der Spiegel ist mehr als nur ein deutsches Nachrichtenmagazin – es ist eine Institution, die seit 1947 die politische Kultur der Bundesrepublik maßgeblich prägte [1][3]. Mit seiner Gründung in Hamburg schuf es einen neuen Typus des investigativen Journalismus in Deutschland [ungesichert] und wurde zur moralischen Instanz in einer Zeit des demokratischen Neuanfangs.
+Der Spiegel ist eine Institution, die seit 1947 die politische Kultur der Bundesrepublik maßgeblich prägte [1][3]. Mit seiner Gründung in Hamburg schuf es einen neuen Typus des investigativen Journalismus in Deutschland [ungesichert] und wurde zur moralischen Instanz in einer Zeit des demokratischen Neuanfangs.
 
 ## Historischer Kontext
 Entstanden im Nachkriegsdeutschland unter britischer Lizenz [1][3], füllte Der Spiegel eine Lücke für kritische Berichterstattung in einer Zeit, die von Wiederaufbau, Verdrängung der NS-Vergangenheit und dem beginnenden Kalten Krieg geprägt war [ungesichert]. Die Briten wollten mit "Diese Woche" ein demokratisches Gegenmodell zur gleichgeschalteten Nazipresse schaffen – daraus entstand unter [[Rudolf Augstein]] der Spiegel [1][3].

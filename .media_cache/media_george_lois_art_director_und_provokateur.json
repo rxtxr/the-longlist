@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7166/6425773743_27b168d00a_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2b371847-fb6d-4920-b694-e353beb7c204/thumb/",
+    "caption": "Argonne’s Barry Smith and Lois Curfman McInnes Win E.O. Lawrence Award",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Argonne National Laboratory",
+    "source_url": "https://www.flickr.com/photos/35734278@N05/6425773743",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 680
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8533/8695675165_d569c03126_m.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/9e0145b5-d671-4b3e-8eee-da0f133206a1/thumb/",
+    "caption": "Annie McNamara",
+    "license": "CC BY 2.0",
+    "artist": "Huntington Theatre Company",
+    "source_url": "https://www.flickr.com/photos/59832923@N02/8695675165",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 209,
+    "height": 240
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "9D04P0hBlpI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/9D04P0hBlpI",
+    "thumb_url": "https://img.youtube.com/vi/9D04P0hBlpI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=9D04P0hBlpI",
+    "caption": "George Lois and Lee Clow - Their Best Ever Work Interview",
+    "duration": "8:36",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=9D04P0hBlpI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

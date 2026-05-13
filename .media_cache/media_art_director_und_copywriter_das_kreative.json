@@ -1,0 +1,30 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3179/2861805699_d25c7f8faa_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/b9bf8481-6981-42a6-8d12-cec1ee91b05c/thumb/",
+    "caption": "Waggish",
+    "license": "CC BY 2.0",
+    "artist": "Brett Jordan",
+    "source_url": "https://www.flickr.com/photos/55497864@N00/2861805699",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 724
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "oTbmPpSOVuA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/oTbmPpSOVuA",
+    "thumb_url": "https://img.youtube.com/vi/oTbmPpSOVuA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=oTbmPpSOVuA",
+    "caption": "Intro - Become an Art Director or Copywriter In Advertising",
+    "duration": "1:05",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=oTbmPpSOVuA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

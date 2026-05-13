@@ -60,7 +60,7 @@ wave: 15
 ---
 
 ## Überblick
-Allstate ist mehr als nur eine Versicherungsgesellschaft – es ist ein Stück amerikanischer Kulturgeschichte. 1931 als Tochterunternehmen des Einzelhandelsriesen [[Sears, Roebuck & Co.]] gegründet, schrieb das Unternehmen Geschichte, indem es Versicherungen aus dem Elfenbeinturm holte und direkt zu den Menschen in die Kaufhäuser brachte. Weltbekannt wurde die Marke durch ihre ikonische "Mayhem"-Kampagne mit [[Dean Winters]], die das abstrakte Risiko Versicherung auf unvergessliche Weise personifizierte.
+Allstate ist ein Stück amerikanischer Kulturgeschichte. 1931 als Tochterunternehmen des Einzelhandelsriesen [[Sears, Roebuck & Co.]] gegründet, schrieb das Unternehmen Geschichte, indem es Versicherungen aus dem Elfenbeinturm holte und direkt zu den Menschen in die Kaufhäuser brachte. Weltbekannt wurde die Marke durch ihre ikonische "Mayhem"-Kampagne mit [[Dean Winters]], die das abstrakte Risiko Versicherung auf unvergessliche Weise personifizierte.
 
 ## Historischer Kontext
 Die Gründung fiel in die tiefste Phase der Großen Depression [ungesichert]. Während Millionen Amerikaner um ihre Existenz kämpften, erkannte Sears-Chef [[Robert E. Wood]] eine Chance: Er sah, dass der durchschnittliche Amerikaner zwar ein Auto besaß, aber keine Kfz-Versicherung. Sears, bereits ein Vertrauensname in Millionen Haushalten, bot die perfekte Plattform, um dieses neue Produkt zu vertreiben. Der erste Allstate-Agent nahm 1933 an einem simplen Kartentisch im Sears-Stand auf der Weltausstellung "Century of Progress" in Chicago seine Arbeit auf – ein symbolträchtiger Ort des Fortschritts und der Innovation inmitten der Wirtschaftskrise.

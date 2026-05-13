@@ -56,7 +56,7 @@ wave: 1
 ---
 
 ## Überblick
-Dan Wieden war mehr als nur ein Werbemann — er war ein Geschichtenerzähler, der zufällig in der Werbung landete. Der Mitgründer der Agentur [[Wieden+Kennedy]] prägte nicht nur den vielleicht bekanntesten Slogan der Werbegeschichte ("Just Do It" für [[Nike]]), sondern schuf eine Agenturkultur, die Kreativität über Konvention stellte [1][3][8]. Sein Werk veränderte nicht nur die Sportwerbung, sondern die gesamte Branche [3][7].
+Dan Wieden war ein Geschichtenerzähler, der zufällig in der Werbung landete. Der Mitgründer der Agentur [[Wieden+Kennedy]] prägte den vielleicht bekanntesten Slogan der Werbegeschichte ("Just Do It" für [[Nike]]), und schuf eine Agenturkultur, die Kreativität über Konvention stellte [1][3][8]. Sein Werk veränderte die Sportwerbung und die gesamte Branche [3][7].
 
 ## Historischer Kontext
 In den frühen 1980er Jahren war [[Nike]] noch ein aufstrebender Underdog aus [[Oregon]], der gegen den Giganten [[Adidas]] kämpfte [8][10]. Die Werbebranche befand sich in einer Übergangsphase — während viele Agenturen noch auf technische Produktversprechen setzten, begann sich langsam eine emotionalere, menschenzentrierte Werbesprache durchzusetzen [ungesichert]. In diese Lücke stießen Wieden und sein Partner [[David Kennedy]] mit ihrer frischen, unkonventionellen Herangehensweise.

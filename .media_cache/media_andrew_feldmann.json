@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8107/29075003714_0407fb0edb_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/7f81484a-f3ad-4db8-8076-f4b6b7567e68/thumb/",
+    "caption": "Excellence Award",
+    "license": "CC BY-ND 2.0",
+    "artist": "USACE Buffalo",
+    "source_url": "https://www.flickr.com/photos/60845280@N07/29075003714",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 585
+  },
+  {
+    "type": "image",
+    "url": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3cc59a9767966473fabd02c201997321d",
+    "thumb_url": "https://api.openverse.org/v1/images/f3585a77-fbcc-4218-bd80-6637ffd02eb5/thumb/",
+    "caption": "Gelidiella acerosa (Forssk.) Feldmann & G. Hamel",
+    "license": "CC0 1.0",
+    "artist": "Charles F. Rhyne",
+    "source_url": "https://n2t.net/ark:/65665/38bf76cd7-2487-4480-af17-f13493637556",
+    "source_label": "OpenVerse / smithsonian_national_museum_of_natural_history",
+    "copyright_status": "public_domain",
+    "width": null,
+    "height": null
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "qu4YNgQnUp8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/qu4YNgQnUp8",
+    "thumb_url": "https://img.youtube.com/vi/qu4YNgQnUp8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=qu4YNgQnUp8",
+    "caption": "Thementag Gesundheit - Dipl. Psych. Klaus Henner Spierling & Dr. Heinrich Hahn - ADHS - Diakoniekran",
+    "duration": "6:06",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=qu4YNgQnUp8",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

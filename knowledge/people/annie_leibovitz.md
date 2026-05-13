@@ -70,7 +70,7 @@ wave: 15
 ---
 
 ## Überblick
-Annie Leibovitz ist eine der einflussreichsten Porträtfotografinnen unserer Zeit [1][4][7]. Ihre Arbeit, die sich zwischen künstlerischem Anspruch und kommerziellem Auftrag geschickt bewegt, umfasst nicht nur ikonische Promi-Porträts, sondern auch bedeutende Werbekampagnen für Marken wie [[Hyundai]], [[Lincoln]] und [[Prada]] [3][4][9]. Sie schuf Bilder, die sich ins kollektive Gedächtnis brannten und die Art und Weise, wie wir Prominente sehen, nachhaltig veränderten.
+Annie Leibovitz ist eine der einflussreichsten Porträtfotografinnen unserer Zeit [1][4][7]. Ihre Arbeit bewegt sich geschickt zwischen künstlerischem Anspruch und kommerziellem Auftrag und umfasst ikonische Promi-Porträts sowie bedeutende Werbekampagnen für Marken wie [[Hyundai]], [[Lincoln]] und [[Prada]] [3][4][9]. Sie schuf Bilder, die sich ins kollektive Gedächtnis brannten und die Art und Weise, wie wir Prominente sehen, nachhaltig veränderten.
 
 ## Historischer Kontext
 Leibovitz' Karriere ist untrennbar mit dem Amerika der 1970er und 80er Jahre verbunden. In einer Zeit, als die Grenzen zwischen Hochkultur, Popkultur und Journalismus zunehmend verschwammen, begann sie ihre Laufbahn beim Musikmagazin *Rolling Stone* [1][5]. Die Zeitschrift war das Epizentrum der Gegenkultur, und Leibovitz hatte einen Frontsitzplatz. Sie dokumentierte nicht einfach nur Stars – sie lebte mit ihnen, reiste mit Bands wie [[The Rolling Stones]] auf Tour und schuf eine neue, intime und oft auch schonungslose Form der Berichterstattung. Ihre Kamera wurde zum Werkzeug, um hinter die öffentliche Fassade zu blicken.

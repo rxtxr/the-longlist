@@ -45,7 +45,7 @@ wave: 8
 ---
 
 ## Überblick
-Wolfgang Weingart (6. Februar 1941 – 12. Juli 2021) war mehr als nur ein deutsch-schweizerischer Typograf – er war der Rebell, der die sterile Welt der Schweizer Typografie aufbrach und ihr neues Leben einhauchte [1][9]. Als "Vater" der New Wave oder Swiss Punk Typografie bezeichnet, führte er eine Ästhetik des Experiments, der Kollision und der gebrochenen Regeln ein [9]. Seine legendäre Lehrtätigkeit an der [[Kunstgewerbeschule Basel]] prägte Generationen internationaler Designer und veränderte das Gesicht des Grafikdesigns nachhaltig [ungesichert].
+Wolfgang Weingart (6. Februar 1941 – 12. Juli 2021) war ein deutsch-schweizerischer Typograf und der Rebell, der die sterile Welt der Schweizer Typografie aufbrach und ihr neues Leben einhauchte [1][9]. Als "Vater" der New Wave oder Swiss Punk Typografie bezeichnet, führte er eine Ästhetik des Experiments, der Kollision und der gebrochenen Regeln ein [9]. Seine legendäre Lehrtätigkeit an der [[Kunstgewerbeschule Basel]] prägte Generationen internationaler Designer und veränderte das Gesicht des Grafikdesigns nachhaltig [ungesichert].
 
 ## Historischer Kontext
 In den 1960er Jahren herrschte der Internationale Typografische Stil – auch bekannt als "Swiss Style" – mit eiserner Disziplin: strenge Raster, klare Hierarchien und absolute Sachlichkeit. Diese dogmatische Strenge, perfektioniert von Größen wie [[Emil Ruder]] und [[Armin Hofmann]], war das Establishment. Weingart rebellierte gegen diese "tyrannische Rationalität" [7][8]. Er suchte nicht nach Chaos, sondern nach einer neuen, emotionaleren Sprache des Visuellen – einer Typografie, die atmet, vibriert und überrascht.

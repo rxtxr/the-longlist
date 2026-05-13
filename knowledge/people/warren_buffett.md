@@ -57,7 +57,7 @@ wave: 15
 ---
 
 ## Überblick
-Warren Buffett ist mehr als nur der "Oracle of Omaha" — er ist eine kulturelle Ikone des Kapitalismus. Als Chairman und CEO von [[Berkshire Hathaway]] schrieb der Investor, Unternehmer und Philanthrop Finanzgeschichte, indem er Wertinvestitionen zur Volkskunst erhob. Sein Einfluss reicht weit über Börsenkurse hinaus: Er prägte Unternehmenskultur, philanthropische Maßstäbe und wurde zur lebenden Referenz für Integrität in der Geschäftswelt.
+Warren Buffett ist der "Oracle of Omaha" und eine kulturelle Ikone des Kapitalismus. Als Chairman und CEO von [[Berkshire Hathaway]] schrieb der Investor, Unternehmer und Philanthrop Finanzgeschichte, indem er Wertinvestitionen zur Volkskunst erhob. Sein Einfluss reicht über Börsenkurse hinaus: Er prägte Unternehmenskultur, philanthropische Maßstäbe und wurde zur lebenden Referenz für Integrität in der Geschäftswelt.
 
 ## Historischer Kontext
 Buffetts Aufstieg begann im wirtschaftlichen Nachkriegsboom der 1950er Jahre, als Amerika seinen Glauben an den Aktienmarkt entdeckte. Während die akademische Welt zunehmend die Theorie effizienter Märkte propagierte, setzte Buffett auf das Gegenteil: gründliche Analyse, langfristiges Denken und den festen Glauben, dass Märkte irrational sein können — eine Haltung, die ihn zum Gegenpol der aufkommenden Hightech-Spekulationskultur machte. [ungesichert] Sein Image als bodenständiger "Weiser" aus dem Mittleren Westen traf genau den Nerv einer Zeit, die nach verlässlichen Werten in einer zunehmend komplexen Finanzwelt suchte.

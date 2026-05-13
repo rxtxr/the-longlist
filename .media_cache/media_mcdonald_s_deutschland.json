@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/McDonald%27s_Deutschland_%E2%80%94_McCroissant%C2%AE_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/McDonald%27s_Deutschland_%E2%80%94_McCroissant%C2%AE_%282017%29.jpg/500px-McDonald%27s_Deutschland_%E2%80%94_McCroissant%C2%AE_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "McCroissant®, neuerdings sehr viel kleiner als zuvor",
+    "license": "CC BY 2.0 de",
+    "artist": "User:Mattes",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMcDonald%27s%20Deutschland%20%E2%80%94%20McCroissant%C2%AE%20%282017%29.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 4069,
+    "height": 2288
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/McDonalds_M%C3%BCnchen_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/McDonalds_M%C3%BCnchen_1.jpg/500px-McDonalds_M%C3%BCnchen_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Hauptverwaltung McDonald's Deutschland LLC,  Zweigniederlassung München",
+    "license": "CC BY-SA 3.0",
+    "artist": "Cholo Aleman",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMcDonalds%20M%C3%BCnchen%201.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 2736,
+    "height": 3648
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "pMLrVP_E-jA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/pMLrVP_E-jA",
+    "thumb_url": "https://img.youtube.com/vi/pMLrVP_E-jA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=pMLrVP_E-jA",
+    "caption": "McDonald’s ADS different countries",
+    "duration": "3:41",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=pMLrVP_E-jA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -34,7 +34,7 @@ wave: 3
 ---
 
 ## Überblick
-Jingles sind die heimlichen Herrscher der Werbewelt – kleine, perfekt konstruierte Musikstücke, die sich in unser kollektives Gedächtnis einbrennen. Mehr als nur Werbung sind sie Zeitkapseln, die den Sound einer Ära einfangen und Marken zu musikalischen Begleitern unseres Lebens machen. Ihre Macht liegt in der Verbindung von Melodie, Text und Wiederholung, die direkt die emotionale Schaltzentrale der Konsumenten umgeht.
+Jingles sind die heimlichen Herrscher der Werbewelt – kleine, perfekt konstruierte Musikstücke, die sich in unser kollektives Gedächtnis einbrennen. Sie sind Zeitkapseln, die den Sound einer Ära einfangen und Marken zu musikalischen Begleitern unseres Lebens machen. Ihre Macht liegt in der Verbindung von Melodie, Text und Wiederholung, die direkt die emotionale Schaltzentrale der Konsumenten umgeht.
 
 ## Historischer Kontext
 Die Geburtsstunde des kommerziellen Radios in den 1920er Jahren war die Initialzündung. Plötzlich war Werbung nicht mehr nur Text in der Zeitung, sondern bekam eine Stimme – und vor allem eine Melodie. In den prosperierenden 1950er und 1960er Jahren traf der optimistische Zeitgeist des Wirtschaftswunders auf die flächendeckende Verbreitung von Radios und Fernsehgeräten. Die Gesellschaft war hungrig nach eingängigen, positiven Klängen, die den neuen Wohlstand besangen. Der Jingle wurde zum Soundtrack des Konsums.

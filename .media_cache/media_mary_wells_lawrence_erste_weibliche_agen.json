@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3608/3370903639_85fc1828ef_m.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/97e703ef-904a-4280-a4a0-3c5ba9f8fa71/thumb/",
+    "caption": "Henrt Fitzroy, Duke of Richmond, illegitmate son of Henry VIII, brother of Mary I, Elizabeth I, and Edward VI",
+    "license": "Public Domain Mark",
+    "artist": "lisby1",
+    "source_url": "https://www.flickr.com/photos/60861613@N00/3370903639",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "public_domain",
+    "width": 240,
+    "height": 240
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/53125035437_8e03097da8_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/7dae0e24-ea93-4779-ae7b-a7f40ed4fbf9/thumb/",
+    "caption": "Portrait of King George III - Herbert Art Gallery & Museum",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "ell brown",
+    "source_url": "https://www.flickr.com/photos/39415781@N06/53125035437",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "C3FdTz5V6JA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/C3FdTz5V6JA",
+    "thumb_url": "https://img.youtube.com/vi/C3FdTz5V6JA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=C3FdTz5V6JA",
+    "caption": "Women's History Month | Mary Wells Lawrence",
+    "duration": "1:01",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=C3FdTz5V6JA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/91/219764768_9217c1c80c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a122acc3-c2cc-4e20-ba66-d9a7255725e1/thumb/",
+    "caption": "We try harder",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Mike Gilbert Photography",
+    "source_url": "https://www.flickr.com/photos/12563377@N00/219764768",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 681,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3088/4559666832_d1bbd278e4_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/5dc82340-03f0-43b7-a218-e1132a209375/thumb/",
+    "caption": "we try harder...",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "feck_aRt_post",
+    "source_url": "https://www.flickr.com/photos/82689476@N00/4559666832",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "O4AkkWy4fhQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/O4AkkWy4fhQ",
+    "thumb_url": "https://img.youtube.com/vi/O4AkkWy4fhQ/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=O4AkkWy4fhQ",
+    "caption": "Avis We Try Harder",
+    "duration": "0:50",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=O4AkkWy4fhQ",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -56,8 +56,7 @@ wave: 10
 ---
 
 ## Überblick
-
-Aldi Nord ist mehr als nur die eine Hälfte eines weltweit agierenden Discounter-Imperiums. Er repräsentiert eine der radikalsten und erfolgreichsten Geschäftsideen des 20. Jahrhunderts: die konsequente Reduktion auf das Wesentliche. Während sein südliches Pendant [[Aldi Süd]] oft im Rampenlicht steht, agiert Aldi Nord stets etwas zurückhaltender, fast schon mysteriös – getreu dem Motto der Gründerfamilie Albrecht, die Öffentlichkeit zu meiden. [ungesichert] Seine Geschichte ist eine Lehre in Disziplin, Effizienz und dem unerschütterlichen Glauben daran, dass niedrige Preise die mächtigste Werbung sind.
+Aldi Nord ist die eine Hälfte eines weltweit agierenden Discounter-Imperiums. Er repräsentiert eine der radikalsten und erfolgreichsten Geschäftsideen des 20. Jahrhunderts: die konsequente Reduktion auf das Wesentliche. Während sein südliches Pendant [[Aldi Süd]] oft im Rampenlicht steht, agiert Aldi Nord stets etwas zurückhaltender, fast schon mysteriös – getreu dem Motto der Gründerfamilie Albrecht, die Öffentlichkeit zu meiden. Seine Geschichte ist eine Lehre in Disziplin, Effizienz und dem unerschütterlichen Glauben daran, dass niedrige Preise die mächtigste Werbung sind.
 
 ## Historischer Kontext
 

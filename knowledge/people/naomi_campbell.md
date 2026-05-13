@@ -45,7 +45,7 @@ wave: 12
 ---
 
 ## Überblick
-Naomi Campbell ist mehr als nur ein Supermodel – sie ist eine Kulturikone, die in den späten 1980er und 1990er Jahren die Mode- und Werbebranche revolutionierte. Als eines der ersten schwarzen Topmodels durchbrach sie systematisch Barrieren in einer von Weißdominierten Industrie und verkörperte wie keine Zweite die globale Strahlkraft des Supermodel-Phänomens. Ihre Karriere ist eine Geschichte von Talent, Durchsetzungsvermögen und historischen Premieren, die das Schönheitsideal der kommerziellen Kommunikation nachhaltig diversifizierte.
+Naomi Campbell ist eine Kulturikone, die in den späten 1980er und 1990er Jahren die Mode- und Werbebranche revolutionierte. Als eines der ersten schwarzen Topmodels durchbrach sie systematisch Barrieren in einer von Weißdominierten Industrie und verkörperte die globale Strahlkraft des Supermodel-Phänomens. Ihre Karriere ist eine Geschichte von Talent, Durchsetzungsvermögen und historischen Premieren, die das Schönheitsideal der kommerziellen Kommunikation nachhaltig diversifizierte.
 
 ## Historischer Kontext
 Campbell betrat die Bühne in der wirtschaftlich boomenden Ära der "Greed is Good"-Jahre, als Mode- und Luxusmarken ihre Werbebudgets massiv erhöhten. Die Branche war jedoch noch stark von homogenen Schönheitsstandards geprägt – schwarze Models wurden oft auf exotisierende Rollen reduziert oder ganz ausgeschlossen. Gesellschaftlich fiel ihr Aufstieg in eine Zeit, in der die Debatten über Repräsentation und Diversität in den Medien langsam an Fahrt gewannen, aber noch kaum konkrete Veränderungen zeigten. [ungesichert] Campbell trat in diese Lücke und wurde zur lebenden Widerlegung aller Argumente gegen die Buchbarkeit schwarzer Models.

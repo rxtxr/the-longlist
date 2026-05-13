@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4006/4531090801_ec02cff0d8.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/aef7b990-dc42-4546-b654-78c53ec90048/thumb/",
+    "caption": "Mobile and Web Content for Mediacom",
+    "license": "CC BY-NC 2.0",
+    "artist": "mansikka",
+    "source_url": "https://www.flickr.com/photos/14822830@N00/4531090801",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3207/3098201219_ffd6e99ba2_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/c904ba1c-d0e6-4149-83df-82274d8e93fb/thumb/",
+    "caption": "Mediacom",
+    "license": "CC BY-NC 2.0",
+    "artist": "Chapendra",
+    "source_url": "https://www.flickr.com/photos/63614902@N00/3098201219",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "5_38m0B90rc",
+    "embed_url": "https://www.youtube-nocookie.com/embed/5_38m0B90rc",
+    "thumb_url": "https://img.youtube.com/vi/5_38m0B90rc/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5_38m0B90rc",
+    "caption": "History of Cable (Cable Company Commercial)",
+    "duration": "3:48",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=5_38m0B90rc",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

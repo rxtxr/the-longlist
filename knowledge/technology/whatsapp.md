@@ -61,7 +61,7 @@ wave: 19
 ---
 
 ## Überblick
-WhatsApp ist mehr als nur ein Messenger-Dienst – es ist eine der disruptivsten Kommunikationsrevolutionen des 21. Jahrhunderts. Die App, die 2014 für sagenhafte 19 Milliarden US-Dollar von Facebook (heute [[Meta Platforms]]) übernommen wurde, verwandelte Textnachrichten, Sprachnachrichten, Anrufe und Dateiübertragungen in eine kostenlose, internetbasierte Dienstleistung [1][3]. Doch hinter der technischen Beschreibung verbirgt sich eine der faszinierendsten Aufstiegsgeschichten des Silicon Valley.
+WhatsApp ist eine der disruptivsten Kommunikationsrevolutionen des 21. Jahrhunderts. Die App, die 2014 für sagenhafte 19 Milliarden US-Dollar von Facebook (heute [[Meta Platforms]]) übernommen wurde, verwandelte Textnachrichten, Sprachnachrichten, Anrufe und Dateiübertragungen in eine kostenlose, internetbasierte Dienstleistung [1][3]. Hinter der technischen Beschreibung verbirgt sich eine der faszinierendsten Aufstiegsgeschichten des Silicon Valley.
 
 ## Historischer Kontext
 WhatsApp entstand in einer Zeit des radikalen Umbruchs: Smartphones wurden zum Massenphänomen, Mobilfunk-Flatrates lösten die minutengenaue Abrechnung ab, und WLAN-Netze breiteten sich explosionsartig aus [ungesichert]. In dieser Ära teurer SMS-Gebühren und klobiger Mobilfunkverträge erkannten [[Jan Koum]] und [[Brian Acton]] eine historische Chance: Sie wollten die Art und Weise, wie die Welt kommuniziert, fundamental verändern [ungesichert]. Ihre App wurde zur perfekten Antwort auf ein Bedürfnis, das Millionen von Menschen noch nicht einmal artikulieren konnten.

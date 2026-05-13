@@ -55,7 +55,7 @@ wave: 1
 ---
 
 ## Überblick
-Die [[Publicis Groupe]] ist mehr als nur ein französischer Werbekonzern – sie ist ein globales Kommunikationsimperium mit tiefen historischen Wurzeln. Unter der Führung von [[Arthur Sadoun]] vereint das Unternehmen digitale und traditionelle Werbung, Media und Beratung zu einem einzigartigen Ökosystem [1][2][9]. Seit 2024 führt Publicis die Rangliste der weltweit größten Werbeunternehmen nach Umsatz an – ein Beweis für ihre anhaltende Dominanz in einer sich radikal wandelnden Branche [1].
+Die [[Publicis Groupe]] ist ein globales Kommunikationsimperium mit tiefen historischen Wurzeln. Unter der Führung von [[Arthur Sadoun]] vereint das Unternehmen digitale und traditionelle Werbung, Media und Beratung zu einem einzigartigen Ökosystem [1][2][9]. Seit 2024 führt Publicis die Rangliste der weltweit größten Werbeunternehmen nach Umsatz an – ein Beweis für ihre anhaltende Dominanz in einer sich radikal wandelnden Branche [1].
 
 ## Historischer Kontext
 Als [[Marcel Bleustein-Blanchet]] 1926 in Paris sein "Publicis" gründete, war Werbung in Frankreich noch ein bescheidenes Handwerk. Doch der junge Unternehmer, selbst Sohn eines Möbelhändlers, erkannte das Potenzial der modernen Massenkommunikation. In einer Zeit, in der sich Frankreichs Werbelandschaft gerade erst formierte, wurde Bleustein-Blanchet zum Pionier: Ihm wird zugeschrieben, die Radiowerbung in Frankreich eingeführt und damit eine völlig neue Ära der Kundenansprache eröffnet zu haben [2][3]. Sein Antrieb war nicht nur kommerziell, sondern auch kulturell – er wollte französische Unternehmen auf die Höhe der internationalen Konkurrenz bringen [ungesichert].

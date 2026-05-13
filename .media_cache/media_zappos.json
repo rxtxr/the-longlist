@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3599/3468217595_b3322bc5b3_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/addece00-bd54-4b1d-a6c7-e51cf147340e/thumb/",
+    "caption": "Zappos core values",
+    "license": "CC BY 2.0",
+    "artist": "Robert Scoble",
+    "source_url": "https://www.flickr.com/photos/35034363287@N01/3468217595",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2005/2506449383_cdf682603a_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/37d2d90e-3744-48c9-8c40-b05a016cdc62/thumb/",
+    "caption": "Zappos Ad in Airport Security Tub",
+    "license": "CC BY 2.0",
+    "artist": "edkohler",
+    "source_url": "https://www.flickr.com/photos/45078337@N00/2506449383",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 819
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "IZbAD2ANZN4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/IZbAD2ANZN4",
+    "thumb_url": "https://img.youtube.com/vi/IZbAD2ANZN4/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=IZbAD2ANZN4",
+    "caption": "How Tony Hsieh Grew Zappos to $1.2 billion value In Just 10 Years - The History of Zappos",
+    "duration": "6:48",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=IZbAD2ANZN4",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

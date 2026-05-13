@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3137/3385959880_57e4ffcf98_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/08da028c-15a7-4722-a8dc-f2515a9c0fc4/thumb/",
+    "caption": "An. Absolut Vodka _ Molotov",
+    "license": "CC BY 2.0",
+    "artist": "DINOCOMM - dinocomm@gmail.com",
+    "source_url": "https://www.flickr.com/photos/34340177@N07/3385959880",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 754,
+    "height": 992
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5001/5360774642_8538f3e956_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/8e15dc46-a5a7-4e8f-8fd7-4aedc43effff/thumb/",
+    "caption": "Absolut Vodka",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "DerHerzog2009",
+    "source_url": "https://www.flickr.com/photos/44527916@N04/5360774642",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 794
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "5UCwOTR_dHo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/5UCwOTR_dHo",
+    "thumb_url": "https://img.youtube.com/vi/5UCwOTR_dHo/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5UCwOTR_dHo",
+    "caption": "Swedish House Mafia & Absolut Vodka Commercial - 'Absolut GreyHound'  Official Full Version",
+    "duration": "3:39",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=5UCwOTR_dHo",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

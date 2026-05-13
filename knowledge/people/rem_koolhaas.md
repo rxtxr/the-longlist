@@ -56,8 +56,7 @@ wave: 15
 ---
 
 ## Überblick
-
-Rem Koolhaas ist einer der einflussreichsten und zugleich umstrittensten Architekten unserer Zeit. Der Niederländer, geboren am 17. November 1944 in Rotterdam, hat nicht nur ikonische Gebäude geschaffen, sondern auch die Art und Weise revolutioniert, wie wir über Architektur, Städtebau und letztlich über die moderne Gesellschaft denken. Was ihn besonders macht: Er ist nicht nur Baumeister, sondern auch scharfer Beobachter, Journalist und Theoretiker, der sich selbst eher als "Journalist" denn als Theoretiker bezeichnet. Seine Arbeit durchbricht konsequent Grenzen – zwischen Disziplinen, zwischen Theorie und Praxis, zwischen Konvention und Provokation.
+Rem Koolhaas ist einer der einflussreichsten und zugleich umstrittensten Architekten unserer Zeit. Der Niederländer, geboren am 17. November 1944 in Rotterdam, hat ikonische Gebäude geschaffen und die Art und Weise revolutioniert, wie wir über Architektur, Städtebau und letztlich über die moderne Gesellschaft denken. Er ist Baumeister, scharfer Beobachter, Journalist und Theoretiker, der sich selbst eher als "Journalist" denn als Theoretiker bezeichnet. Seine Arbeit durchbricht konsequent Grenzen – zwischen Disziplinen, zwischen Theorie und Praxis, zwischen Konvention und Provokation.
 
 ## Historischer Kontext
 

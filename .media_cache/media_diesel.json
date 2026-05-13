@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Diesel_in_mason_jar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Diesel_in_mason_jar.JPG/500px-Diesel_in_mason_jar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Loco diesel in mason jar",
+    "license": "Public domain",
+    "artist": "Burger",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ADiesel%20in%20mason%20jar.JPG",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1312,
+    "height": 1720
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Diesel_oil_on_a_transparent_container.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Diesel_oil_on_a_transparent_container.jpg/500px-Diesel_oil_on_a_transparent_container.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "I photographed this Diesel Oil sample on a tank/pump, it looks beautiful in the sunlight.",
+    "license": "CC BY-SA 4.0",
+    "artist": "Saimouns",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ADiesel%20oil%20on%20a%20transparent%20container.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 3120,
+    "height": 4160
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "xPu_fbfEPSU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/xPu_fbfEPSU",
+    "thumb_url": "https://img.youtube.com/vi/xPu_fbfEPSU/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=xPu_fbfEPSU",
+    "caption": "DIESEL - KEEP THE WORLD FLAWED",
+    "duration": "1:00",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=xPu_fbfEPSU",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

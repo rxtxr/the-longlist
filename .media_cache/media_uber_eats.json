@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4252/34719224782_a637a2f755_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/461ac829-a0fe-413c-a962-8235527a7cc6/thumb/",
+    "caption": "UBER Eats Delivery Cyclist Riding Through a Busy Oxford Road in Manchester",
+    "license": "CC BY 2.0",
+    "artist": "shopblocks",
+    "source_url": "https://www.flickr.com/photos/155237687@N06/34719224782",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4849/31915235638_c9d7c2772b_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/3856776a-fae9-42ba-b885-4039a8a25d59/thumb/",
+    "caption": "Uber Eats",
+    "license": "CC BY-SA 2.0",
+    "artist": "hernanpba",
+    "source_url": "https://www.flickr.com/photos/67430875@N03/31915235638",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "HZcCnU0VznA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/HZcCnU0VznA",
+    "thumb_url": "https://img.youtube.com/vi/HZcCnU0VznA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HZcCnU0VznA",
+    "caption": "Food Theory: The Uber Eats Conspiracy...",
+    "duration": "10:46",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=HZcCnU0VznA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

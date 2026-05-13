@@ -42,7 +42,7 @@ wave: 11
 ---
 
 ## Überblick
-John O'Leary war der heimliche Architekt einer stilistischen Revolution, die britische Werbung für immer verändern sollte. Als Mitbegründer von [[Collett Dickenson Pearce]] (CDP) entwickelte er einen intellektuell-literarischen Werbestil, der die plumpe Verkaufsrhetorik der Nachkriegszeit durch scharfsinnigen Humor und künstlerischen Anspruch ersetzte. [ungesichert] Sein Credo: Werbung sollte nicht nur verkaufen, sondern unterhalten, provozieren und im kulturellen Gedächtnis bleiben.
+John O'Leary war der heimliche Architekt einer stilistischen Revolution, die britische Werbung für immer verändern sollte. Als Mitbegründer von [[Collett Dickenson Pearce]] (CDP) entwickelte er einen intellektuell-literarischen Werbestil, der die plumpe Verkaufsrhetorik der Nachkriegszeit durch scharfsinnigen Humor und künstlerischen Anspruch ersetzte. Sein Credo: Werbung sollte verkaufen, unterhalten, provozieren und im kulturellen Gedächtnis bleiben.
 
 ## Historischer Kontext
 In den wirtschaftlich optimistischen 1960er Jahren erlebte Großbritannien einen kulturellen Aufbruch, der auch die Werbebranche erfasste. Während traditionsreiche Agenturen wie [[J. Walter Thompson]] noch schwerfällige Produktversprechen formulierten, formierte sich eine neue Generation von Kreativen, die Werbung als Kunstform begriffen. Dieser Umbruch – parallel zu [[Bill Bernbach]]s Revolution in den USA – fand in CDP seinen radikalsten britischen Ausdruck. London wurde zum Labor eines neuen ästhetischen und intellektuellen Ansatzes, der den Geist der "Swinging Sixties" perfekt einfing.

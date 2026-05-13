@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/53/165625000_0c95547e2f.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/0136b998-bd4b-40cb-aa17-8b6f28a2c3ec/thumb/",
+    "caption": "piet in action beim Gig in Zweibrücken / Stadtfest / Rockbühne",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "# - * - + P A T T Y + - * - #",
+    "source_url": "https://www.flickr.com/photos/63052323@N00/165625000",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 375,
+    "height": 500
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/67/165625001_9cb6781228.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/6f7141d7-2ac9-45f2-acc6-7e718b76aff9/thumb/",
+    "caption": "peter close up",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "# - * - + P A T T Y + - * - #",
+    "source_url": "https://www.flickr.com/photos/63052323@N00/165625001",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "leiyBLGGMmE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/leiyBLGGMmE",
+    "thumb_url": "https://img.youtube.com/vi/leiyBLGGMmE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=leiyBLGGMmE",
+    "caption": "Was macht ein Texter? // Why Agencies?",
+    "duration": "6:50",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=leiyBLGGMmE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

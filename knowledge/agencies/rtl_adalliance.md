@@ -29,8 +29,7 @@ wave: 17
 ---
 
 ## Überblick
-
-Die RTL AdAlliance ist mehr als nur ein Werbevermarkter – sie ist das strategische Bollwerk der [[RTL Group]] im Kampf um die Aufmerksamkeit europäischer Zuschauer. Als Dachorganisation bündelt sie seit ihrer Gründung die Vertriebsaktivitäten für TV-Sender, digitale Plattformen und Audio-Angebote des Medienkonglomerats [ungesichert]. Ihr Versprechen: Werbetreibende sollen über einen "One-Stop-Shop" Zugang zu hochwertigen Inhalten und premium Publishern in ganz Europa erhalten [9]. Es ist der Versuch, europäische Medienmacht gegen die Tech-Giganten aus dem Silicon Valley zu positionieren.
+Die RTL AdAlliance ist das strategische Bollwerk der [[RTL Group]] im Kampf um die Aufmerksamkeit europäischer Zuschauer. Als Dachorganisation bündelt sie seit ihrer Gründung die Vertriebsaktivitäten für TV-Sender, digitale Plattformen und Audio-Angebote des Medienkonglomerats. Ihr Versprechen: Werbetreibende sollen über einen "One-Stop-Shop" Zugang zu hochwertigen Inhalten und premium Publishern in ganz Europa erhalten. Es ist der Versuch, europäische Medienmacht gegen die Tech-Giganten aus dem Silicon Valley zu positionieren.
 
 ## Historischer Kontext
 

@@ -20,8 +20,7 @@ wave: 3
 ---
 
 ## Überblick
-
-Die Idee der Werbeagentur als Gesamtkunstwerk war mehr als nur ein Marketingkonzept — es war eine kulturelle Revolution. Sie transformierte die Werbebranche vom Handwerk zur Kunstform und erhob die Markenführung zur strategischen Disziplin. Plötzlich ging es nicht mehr darum, einzelne Anzeigen zu schalten, sondern ganze Markenpersönlichkeiten zu erschaffen. Diese Idee machte die Agentur zum Architekten der Unternehmensseele und legte den Grundstein für das moderne Branding, wie wir es heute kennen.
+Die Idee der Werbeagentur als Gesamtkunstwerk war eine kulturelle Revolution. Sie transformierte die Werbebranche vom Handwerk zur Kunstform und erhob die Markenführung zur strategischen Disziplin. Plötzlich ging es darum, ganze Markenpersönlichkeiten zu erschaffen, anstatt einzelne Anzeigen zu schalten. Diese Idee machte die Agentur zum Architekten der Unternehmensseele und legte den Grundstein für das moderne Branding, wie wir es heute kennen.
 
 ## Historischer Kontext
 

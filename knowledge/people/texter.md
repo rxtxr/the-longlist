@@ -32,7 +32,7 @@ wave: 7
 ---
 
 ## Überblick
-Der Texter ist mehr als nur ein Wortlieferant – er ist der Architekt der modernen Werbeseele. In einer Welt voller Produkte schaffen Texter die emotionalen Brücken, die Marken unvergesslich machen. Ihre prägnanten Slogans, berührenden Geschichten und scharfzüngigen Headlines prägen nicht nur Kaufentscheidungen, sondern formten die Popkultur des 20. Jahrhunderts. [ungesichert] Von der Schreibmaschine bis zum Social-Media-Post blieb ihre Kernaufgabe dieselbe: Menschen zu bewegen, nicht nur zu überzeugen.
+Der Texter ist der Architekt der modernen Werbeseele. In einer Welt voller Produkte schaffen Texter die emotionalen Brücken, die Marken unvergesslich machen. Ihre prägnanten Slogans, berührenden Geschichten und scharfzüngigen Headlines prägen Kaufentscheidungen und formten die Popkultur des 20. Jahrhunderts. Von der Schreibmaschine bis zum Social-Media-Post blieb ihre Kernaufgabe dieselbe: Menschen zu bewegen, zu überzeugen.
 
 ## Historischer Kontext
 Die Geburtsstunde des professionellen Texters schlug mit der industriellen Revolution. Als Waren nicht mehr nur lokal gehandelt wurden, brauchten Hersteller eine Sprache, die ihre Produkte in Zeitungen und Zeitschriften von der Konkurrenz abhob. Ab den 1880er Jahren wurde Werbung zur Disziplin – doch erst mit dem Aufkommen von Radio und später Fernsehen entstand der Bedarf nach spezialisierten Wortakrobaten, die mehr konnten als trockene Produktbeschreibungen. Die kreative Revolution der 1960er Jahre katapultierte den Texter endgültig vom anonymen Schreiberling zum gefeierten Creative Head. [ungesichert]

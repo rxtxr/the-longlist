@@ -47,7 +47,7 @@ wave: 16
 ---
 
 ## Überblick
-Bertelsmann ist mehr als nur ein Medienkonzern — es ist ein deutscher Jahrhundertcoup. Aus einem kleinen Verlagshaus in Gütersloh wurde eines der mächtigsten Medienimperien der Welt, das durch geschickte Akquisitionen und den Aufbau eigener Werbe- und Marketingdienstleistungen die Kommunikationslandschaft Europas prägte [ungesichert]. Seine eigentliche Meisterleistung: die vertikale Integration von Inhalten und deren Vermarktung unter einem Dach. Dieses Modell machte Bertelsmann zum Blaupausen-Erfinder für integrierte Kommunikationsdienstleister weltweit [ungesichert].
+Bertelsmann ist ein deutscher Jahrhundertcoup. Aus einem kleinen Verlagshaus in Gütersloh wurde eines der mächtigsten Medienimperien der Welt, das durch geschickte Akquisitionen und den Aufbau eigener Werbe- und Marketingdienstleistungen die Kommunikationslandschaft Europas prägte. Seine eigentliche Meisterleistung ist die vertikale Integration von Inhalten und deren Vermarktung unter einem Dach. Dieses Modell machte Bertelsmann zum Blaupausen-Erfinder für integrierte Kommunikationsdienstleister weltweit.
 
 ## Historischer Kontext
 1835, als [[Carl Bertelsmann]] seinen Verlag in Gütersloh gründete, war Deutschland ein Flickenteppich aus Fürstentümern. Der Verlag produzierte zunächst fromme Literatur und Schulbücher — bodenständig, katholisch, provinziell. Die eigentliche Erfolgsgeschichte begann jedoch nach dem Zweiten Weltkrieg, als [[Reinhard Mohn]], ein Nachfahre des Gründers, aus amerikanischer Kriegsgefangenschaft zurückkehrte. In den Trümmern des zerbombten Deutschlands sah er nicht nur Not, sondern auch eine Chance: ein Land, das nach Bildung, Unterhaltung und neuer Identität hungerte.

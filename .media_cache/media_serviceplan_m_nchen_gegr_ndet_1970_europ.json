@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Hoffmann_Mineral_Logo_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hoffmann_Mineral_Logo_R.jpg/500px-Hoffmann_Mineral_Logo_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Firmenlogo der deutschen Firma Hoffmann Mineral GmbH",
+    "license": "CC BY-SA 4.0",
+    "artist": "Serviceplan München",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHoffmann%20Mineral%20Logo%20R.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 10986,
+    "height": 3701
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/KAS-M%C3%BCnchen-Bild-36531-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/KAS-M%C3%BCnchen-Bild-36531-1.jpg/500px-KAS-M%C3%BCnchen-Bild-36531-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Mit unserem Service immer gut unterwegs! ... Den aktuellen Fahrplan findet Ihr unter: www.rcds-bayern.de ... RCDS Hochschulpolitik aktiv gestalten.Abb",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "CDU",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKAS-M%C3%BCnchen-Bild-36531-1.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 789,
+    "height": 1116
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "WP7_jzurgs0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/WP7_jzurgs0",
+    "thumb_url": "https://img.youtube.com/vi/WP7_jzurgs0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WP7_jzurgs0",
+    "caption": "Video | 50 Years of Serviceplan | Logo",
+    "duration": "0:31",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=WP7_jzurgs0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

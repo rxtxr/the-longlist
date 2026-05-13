@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/52115976070_bbdc2f1af4_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/7c979c93-9dea-4af2-a772-5b7a22cc8591/thumb/",
+    "caption": "A Visit to the Space Telescope Science Institute",
+    "license": "CC BY 2.0",
+    "artist": "James Webb Space Telescope",
+    "source_url": "https://www.flickr.com/photos/50785054@N03/52115976070",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/52115972465_0b19fe6ff5_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e4f908cf-aae2-4e42-b034-e002f5224928/thumb/",
+    "caption": "A Visit to the Space Telescope Science Institute",
+    "license": "CC BY 2.0",
+    "artist": "James Webb Space Telescope",
+    "source_url": "https://www.flickr.com/photos/50785054@N03/52115972465",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "A1gsaVoEuGI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/A1gsaVoEuGI",
+    "thumb_url": "https://img.youtube.com/vi/A1gsaVoEuGI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=A1gsaVoEuGI",
+    "caption": "Judy Shapiro, CEO and Founder of Engage Simply, at Ad:Tech NY",
+    "duration": "6:22",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=A1gsaVoEuGI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -58,8 +58,7 @@ wave: 10
 ---
 
 ## Überblick
-
-Die Werbekampagnen von [[The Economist]] in den 1980er und 1990er Jahren gelten als Meilenstein der Markenkommunikation. In einer Zeit, als Wirtschaftspublikationen oft trocken und elitär wirkten, schuf das Magazin eine unverwechselbare Werbesprache: scharfzüngig, intellektuell provokant und stets mit einem Augenzwinkern. Diese Kampagnen waren mehr als nur Anzeigen – sie waren eine kluge Positionierungsstrategie, die das Blatt von einem Fachmedium für Ökonomen zu einem Muss für eine globale, gebildete Elite transformierte.
+Die Werbekampagnen von [[The Economist]] in den 1980er und 1990er Jahren gelten als Meilenstein der Markenkommunikation. In einer Zeit, als Wirtschaftspublikationen oft trocken und elitär wirkten, schuf das Magazin eine unverwechselbare Werbesprache: scharfzüngig, intellektuell provokant und stets mit einem Augenzwinkern. Diese Kampagnen waren eine kluge Positionierungsstrategie, die das Blatt von einem Fachmedium für Ökonomen zu einem Muss für eine globale, gebildete Elite transformierte.
 
 ## Historischer Kontext
 

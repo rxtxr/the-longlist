@@ -48,7 +48,7 @@ wave: 17
 ---
 
 ## Überblick
-Konstantin Jacoby war mehr als nur ein Werbetexter — er war einer der Architekten der modernen deutschen Werbesprache. Zusammen mit [[Reinhard Springer]] baute er [[Springer & Jacoby]] zu einer der kreativsten und wirtschaftlich erfolgreichsten Agenturen Deutschlands auf, die sich auf Augenhöhe mit internationalen Netzwerken behaupten konnte [ungesichert]. Seine Arbeit für Marken wie [[Jägermeister]] und [[Opel]] prägte nicht nur deren Image, sondern veränderte die Art und Weise, wie in Deutschland Werbung gemacht wurde [ungesichert].
+Konstantin Jacoby war einer der Architekten der modernen deutschen Werbesprache. Zusammen mit [[Reinhard Springer]] baute er [[Springer & Jacoby]] zu einer der kreativsten und wirtschaftlich erfolgreichsten Agenturen Deutschlands auf, die sich auf Augenhöhe mit internationalen Netzwerken behaupten konnte [ungesichert]. Seine Arbeit für Marken wie [[Jägermeister]] und [[Opel]] prägte deren Image und veränderte die Art und Weise, wie in Deutschland Werbung gemacht wurde [ungesichert].
 
 ## Historischer Kontext
 Jacoby startete seine Karriere in den wilden 1970er Jahren — einer Zeit, in der deutsche Werbung sich von steifen Verkaufsversprechen löste und begann, mit Humor, Intelligenz und manchmal auch Provokation zu arbeiten. Die Wirtschaft boomte nach dem Wiederaufbau, deutsche Marken drängten auf den Weltmarkt und brauchten eine neue, selbstbewusste Sprache [ungesichert]. In diese Lücke stießen junge Kreative wie Jacoby, die an Kunsthochschulen wie der [[Hochschule für bildende Künste Berlin]] (heute [[UdK Berlin]]) gelernt hatten, dass Werbung auch Kunst sein kann.

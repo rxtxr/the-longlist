@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2638/4205309597_03df76468d_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/7cd13efd-345a-4e87-8f54-a8c7f77806ab/thumb/",
+    "caption": "Trays of poster type",
+    "license": "CC BY 2.0",
+    "artist": "edinburghcityofprint",
+    "source_url": "https://www.flickr.com/photos/30239838@N04/4205309597",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 685
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3821/12072759523_6f6b80a026_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/5d74769c-b1b5-4878-963d-e2244a60cb53/thumb/",
+    "caption": "Long Duration Exposure Facility (Archive: NASA, Marshall, 01/90)",
+    "license": "CC BY-NC 2.0",
+    "artist": "NASA's Marshall Space Flight Center",
+    "source_url": "https://www.flickr.com/photos/28634332@N05/12072759523",
+    "source_label": "OpenVerse / nasa",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 1003
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "7DK7RsSt1Q0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/7DK7RsSt1Q0",
+    "thumb_url": "https://img.youtube.com/vi/7DK7RsSt1Q0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=7DK7RsSt1Q0",
+    "caption": "Levi's commercial compilation (1980s & 1990s)",
+    "duration": "13:57",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=7DK7RsSt1Q0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

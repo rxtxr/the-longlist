@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8395/8693161284_d0e507b42b_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/d2b39606-63b4-412f-a89a-522a9bfa8533/thumb/",
+    "caption": "Archive: Apollo Saturn S-IC Rocket Stage on Test Stand, 1968 (NASA, Space Launch System, 04/29/13)",
+    "license": "CC BY-NC 2.0",
+    "artist": "NASA's Marshall Space Flight Center",
+    "source_url": "https://www.flickr.com/photos/28634332@N05/8693161284",
+    "source_label": "OpenVerse / nasa",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 772
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8114/8693157458_c32cf0a08a_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/93dec6c7-4e53-42a6-9205-0b41ac5641d2/thumb/",
+    "caption": "Archive: Test Stands at Stennis Space Center, 1960s (NASA, Space Launch System, 04/29/13)",
+    "license": "CC BY-NC 2.0",
+    "artist": "NASA's Marshall Space Flight Center",
+    "source_url": "https://www.flickr.com/photos/28634332@N05/8693157458",
+    "source_label": "OpenVerse / nasa",
+    "copyright_status": "clear_cc",
+    "width": 672,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "tD9cML2iH08",
+    "embed_url": "https://www.youtube-nocookie.com/embed/tD9cML2iH08",
+    "thumb_url": "https://img.youtube.com/vi/tD9cML2iH08/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=tD9cML2iH08",
+    "caption": "55 Saves Lives",
+    "duration": "0:30",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=tD9cML2iH08",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

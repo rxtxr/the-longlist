@@ -61,7 +61,7 @@ wave: 6
 ---
 
 ## Überblick
-Smash war mehr als nur eine Werbekampagne – es war ein kulturelles Phänomen. In den 1970er Jahren revolutionierte die von der Londoner Agentur [[Boase Massimi Pollitt]] für [[Mars Incorporated]] entwickelte Kampagne nicht nur den Markt für Instant-Kartoffelpüree, sondern prägte nachhaltig die britische Werbelandschaft [9]. Mit roboterhaften Marsmännchen und ihrem unverwechselbaren Lachen schuf sie eines der ikonischsten Werbeformate des Jahrhunderts [1][3][9].
+Smash war ein kulturelles Phänomen. In den 1970er Jahren revolutionierte die von der Londoner Agentur [[Boase Massimi Pollitt]] für [[Mars Incorporated]] entwickelte Kampagne den Markt für Instant-Kartoffelpüree und prägte nachhaltig die britische Werbelandschaft [9]. Mit roboterhaften Marsmännchen und ihrem unverwechselbaren Lachen schuf sie eines der ikonischsten Werbeformate des Jahrhunderts [1][3][9].
 
 ## Historischer Kontext
 Die Kampagne entstand in einer Zeit des gesellschaftlichen Umbruchs: Großbritannien der 1970er Jahre war geprägt von Wirtschaftskrisen, aber auch von technologischem Optimismus und einer wachsenden Begeisterung für Weltraumthemen [ungesichert]. Haushalte suchten nach Zeitsparern in der Küche, während Werbeagenturen begannen, auf humorvolle und surrealistische Ansätze zu setzen. Vor diesem Hintergrund traf Smash den Nerv der Zeit [ungesichert].

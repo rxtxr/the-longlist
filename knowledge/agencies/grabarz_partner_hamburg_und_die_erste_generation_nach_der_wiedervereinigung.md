@@ -31,7 +31,7 @@ wave: 3
 ---
 
 ## Überblick
-Grabarz & Partner ist mehr als nur eine Werbeagentur – sie ist ein Stück deutscher Werbegeschichte. 1990, im Jahr der Wiedervereinigung, in Hamburg gegründet, wurde sie schnell zur kreativen Speerspitze einer neuen Generation. Während andere noch rationale Argumente verkauften, setzten sie auf pure Emotion und visuelle Wucht. Ihre Arbeit war ein Befreiungsschlag für die gesamte Branche und bewies, dass auch deutsche Werbung glamourös, mutig und international konkurrenzfähig sein konnte.
+Grabarz & Partner ist ein Stück deutscher Werbegeschichte. 1990, im Jahr der Wiedervereinigung, in Hamburg gegründet, wurde sie schnell zur kreativen Speerspitze einer neuen Generation. Während andere noch rationale Argumente verkauften, setzten sie auf pure Emotion und visuelle Wucht. Ihre Arbeit war ein Befreiungsschlag für die gesamte Branche und bewies, dass auch deutsche Werbung glamourös, mutig und international konkurrenzfähig sein konnte.
 
 ## Historischer Kontext
 Deutschland stand 1990 Kopf. Die Mauer war gefallen, die Wiedervereinigung lag in der Luft, und ein Gefühl des Aufbruchs erfasste das Land. In der Werbebranche herrschte jedoch noch das, was manche spöttisch den "German Style" nannten: textlastig, vernünftig, oft etwas bieder. Große Agenturen wie [[Springer & Jacoby]] dominierten mit ihrem copybetonten Ansatz. Gleichzeitig schwappte eine Welle neuer Kreativität aus den USA und Großbritannien nach Deutschland über. Agenturen wie [[Wieden+Kennedy]] (berühmt für [[Nike - Just Do It]]) oder [[Chiat/Day]] zeigten, wie Werbung mit Haltung, Humor und cineastischer Qualität funktionieren konnte. In diese Lücke stießen Grabarz & Partner – jung, hungrig und mit dem festen Willen, die Regeln neu zu schreiben.

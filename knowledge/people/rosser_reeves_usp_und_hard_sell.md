@@ -42,8 +42,7 @@ wave: 6
 ---
 
 ## Überblick
-
-Rosser Reeves war einer der einflussreichsten Werbestrategen des 20. Jahrhunderts, dessen Konzept des "Unique Selling Proposition" (USP) die moderne Werbung grundlegend veränderte. Als kreativer Kopf der Agentur [[Ted Bates & Company]] entwickelte er eine rationale, produktzentrierte Werbephilosophie, die in krassem Gegensatz zur kreativen Revolution der 1960er Jahre stand. Seine Methoden prägten nicht nur die Konsumgüterwerbung, sondern revolutionierten auch die politische Kampagnenführung.
+Rosser Reeves war einer der einflussreichsten Werbestrategen des 20. Jahrhunderts, dessen Konzept des "Unique Selling Proposition" (USP) die moderne Werbung grundlegend veränderte. Als kreativer Kopf der Agentur [[Ted Bates & Company]] entwickelte er eine rationale, produktzentrierte Werbephilosophie, die in krassem Gegensatz zur kreativen Revolution der 1960er Jahre stand. Seine Methoden prägten die Konsumgüterwerbung und revolutionierten die politische Kampagnenführung.
 
 ## Historischer Kontext
 

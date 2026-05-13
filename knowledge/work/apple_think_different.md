@@ -32,8 +32,7 @@ wave: 4
 ---
 
 ## Überblick
-
-Die "Think Different"-Kampagne gilt als eine der ikonischsten Markenkampagnen der Werbegeschichte, auch wenn die konkreten Details in den verfügbaren Quellen nicht vollständig belegt sind. [ungesichert] Sie markierte 1997 den dramatischen Wendepunkt eines damals schwer angeschlagenen Unternehmens und wurde zur Blaupause für emotionale Markenführung in der Tech-Branche. [ungesichert] Die Kampagne stand nicht nur für Produkte, sondern verkörperte eine Philosophie – eine Einladung an alle, die "die Welt anders sehen" wollten. [ungesichert]
+Die "Think Different"-Kampagne gilt als eine der ikonischsten Markenkampagnen der Werbegeschichte, auch wenn die konkreten Details in den verfügbaren Quellen nicht vollständig belegt sind. Sie markierte 1997 den dramatischen Wendepunkt eines damals schwer angeschlagenen Unternehmens und wurde zur Blaupause für emotionale Markenführung in der Tech-Branche. Die Kampagne verkörperte eine Philosophie – eine Einladung an alle, die "die Welt anders sehen" wollten.
 
 ## Historischer Kontext
 

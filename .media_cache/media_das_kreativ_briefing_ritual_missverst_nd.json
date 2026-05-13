@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/OJ_C_119A_of_2018_-_DE_German.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/OJ_C_119A_of_2018_-_DE_German.pdf/page1-500px-OJ_C_119A_of_2018_-_DE_German.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Official Journal of the European Union - C 119 of 5 April 2018 - German edition",
+    "license": "Public domain",
+    "artist": "Publications Office of the European Union",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOJ%20C%20119A%20of%202018%20-%20DE%20German.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1239,
+    "height": 1752
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/OJ_C_185A_of_2018_-_DE_German.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OJ_C_185A_of_2018_-_DE_German.pdf/page1-500px-OJ_C_185A_of_2018_-_DE_German.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Official Journal of the European Union - C 185 of 30 May 2018 - German edition",
+    "license": "Public domain",
+    "artist": "Publications Office of the European Union",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOJ%20C%20185A%20of%202018%20-%20DE%20German.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1239,
+    "height": 1752
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "4IOAbfXuv9s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/4IOAbfXuv9s",
+    "thumb_url": "https://img.youtube.com/vi/4IOAbfXuv9s/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=4IOAbfXuv9s",
+    "caption": "Tour a Creative Agency - A look inside The Futur HQ w/ Chris Do",
+    "duration": "7:15",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=4IOAbfXuv9s",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

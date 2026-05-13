@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5094/5544847378_0d296c6635_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/f346cb50-b9f9-42c3-8d8a-26b4fc6a0f15/thumb/",
+    "caption": "rolls royce",
+    "license": "CC BY 2.0",
+    "artist": "n4i.es",
+    "source_url": "https://www.flickr.com/photos/50952553@N06/5544847378",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 681
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8310/7899624656_4cd377530e_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/6a4fb74b-f7d0-4c19-802c-6d7e4fe5c27c/thumb/",
+    "caption": "ROLLS ROYCE GHOST MANSORY",
+    "license": "CC BY-ND 2.0",
+    "artist": "Eddy Clio",
+    "source_url": "https://www.flickr.com/photos/69370038@N04/7899624656",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 682
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "I5zCUfAUlUQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/I5zCUfAUlUQ",
+    "thumb_url": "https://img.youtube.com/vi/I5zCUfAUlUQ/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=I5zCUfAUlUQ",
+    "caption": "Rolls Royce Wraith | Ad",
+    "duration": "2:06",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=I5zCUfAUlUQ",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

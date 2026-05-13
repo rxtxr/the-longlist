@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/14_rue_Royale_%C3%A0_Paris.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/14_rue_Royale_%C3%A0_Paris.JPG/500px-14_rue_Royale_%C3%A0_Paris.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "14 rue Royale à Paris (Classé)",
+    "license": "CC BY-SA 3.0",
+    "artist": "Erwmat",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A14%20rue%20Royale%20%C3%A0%20Paris.JPG",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 2573,
+    "height": 2796
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/L%27Or%C3%A9al_Taiwan_delivery_order_506658356.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/L%27Or%C3%A9al_Taiwan_delivery_order_506658356.jpg/500px-L%27Or%C3%A9al_Taiwan_delivery_order_506658356.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "​台灣萊雅送貨單，序號506658356。",
+    "license": "CC BY-SA 4.0",
+    "artist": "Solomon203",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AL%27Or%C3%A9al%20Taiwan%20delivery%20order%20506658356.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 1654,
+    "height": 2340
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "Ix93B1URCMc",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Ix93B1URCMc",
+    "thumb_url": "https://img.youtube.com/vi/Ix93B1URCMc/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Ix93B1URCMc",
+    "caption": "The Poor Pastry Boy Who Invented L’Oréal Paris",
+    "duration": "12:52",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=Ix93B1URCMc",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

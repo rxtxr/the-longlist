@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Frans_Hals_046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Frans_Hals_046.jpg/500px-Frans_Hals_046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Pendant of File:Frans Hals 054.jpg",
+    "license": "Public domain",
+    "artist": "Frans Hals",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFrans%20Hals%20046.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1576,
+    "height": 2156
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Frans_Hals_054.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Frans_Hals_054.jpg/500px-Frans_Hals_054.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Pendant of File:Frans Hals 046.jpg",
+    "license": "Public domain",
+    "artist": "Frans Hals",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFrans%20Hals%20054.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1576,
+    "height": 1887
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "Z9Z_CZJhjro",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Z9Z_CZJhjro",
+    "thumb_url": "https://img.youtube.com/vi/Z9Z_CZJhjro/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Z9Z_CZJhjro",
+    "caption": "Seller to Seller Podcast: Paul Cramer, Veritone, Inc.",
+    "duration": "23:47",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=Z9Z_CZJhjro",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

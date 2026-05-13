@@ -49,8 +49,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Cigarette Advertising war mehr als nur Werbung — es war ein kulturelles Phänomen, das über ein Jahrhundert lang die Wahrnehmung des Rauchens prägte. Tabakfirmen entwickelten Werbestrategien, die Zigaretten nicht einfach als Genussmittel verkauften, sondern als Symbol für Freiheit, Eleganz und Modernität [ungesichert]. Diese Kampagnen wurden zu einem zentralen Bestandteil der Werbebranche [ungesichert] und hinterließen tiefe Spuren in Gesellschaft, Politik und Gesundheitswesen. Die Geschichte der Tabakwerbung ist eine Erzählung von kreativer Brillanz, wirtschaftlicher Macht und letztlich von zunehmender Regulierung angesichts wachsender Gesundheitsbedenken.
+Cigarette Advertising war ein kulturelles Phänomen, das über ein Jahrhundert lang die Wahrnehmung des Rauchens prägte. Tabakfirmen entwickelten Werbestrategien, die Zigaretten als Symbol für Freiheit, Eleganz und Modernität verkauften. Diese Kampagnen wurden zu einem zentralen Bestandteil der Werbebranche und hinterließen tiefe Spuren in Gesellschaft, Politik und Gesundheitswesen. Die Geschichte der Tabakwerbung ist eine Erzählung von kreativer Brillanz, wirtschaftlicher Macht und letztlich von zunehmender Regulierung angesichts wachsender Gesundheitsbedenken.
 
 ## Historischer Kontext
 

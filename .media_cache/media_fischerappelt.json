@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4012/5163222729_e74d8f4743_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/622e3897-396d-4562-a7a6-1cbe81e69107/thumb/",
+    "caption": "Heute eingetroffen: Post von fischerAppelt München",
+    "license": "CC BY 2.0",
+    "artist": "pppspics",
+    "source_url": "https://www.flickr.com/photos/35637563@N00/5163222729",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4066/5163222595_4b2afb04b0_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2a4cd515-f3f0-4a6c-99c2-41debd00c5d9/thumb/",
+    "caption": "Heute eingetroffen: Post von fischerAppelt München",
+    "license": "CC BY 2.0",
+    "artist": "pppspics",
+    "source_url": "https://www.flickr.com/photos/35637563@N00/5163222595",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "ZShYTKqe3eE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ZShYTKqe3eE",
+    "thumb_url": "https://img.youtube.com/vi/ZShYTKqe3eE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ZShYTKqe3eE",
+    "caption": "Mercedes-Benz | True story - Bart Hickey",
+    "duration": "1:46",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=ZShYTKqe3eE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

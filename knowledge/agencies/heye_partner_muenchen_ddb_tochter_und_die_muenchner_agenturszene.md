@@ -30,8 +30,7 @@ wave: 3
 ---
 
 ## Überblick
-
-Heye & Partner München war mehr als nur eine Werbeagentur — sie war eine prägende Kraft im Werbezeitalter des späten 20. Jahrhunderts, in dem deutsche Marken neu erfunden wurden und US-Konzerne den lokalen Markt eroberten. Als Teil des globalen Netzwerks von [[DDB]] stand die Agentur im Spannungsfeld zwischen kreativer Unabhängigkeit und internationaler Strategie. Ihre vielleicht bekannteste Leistung: Sie machte [[McDonald's]] in Deutschland nicht nur bekannt, sondern kultig [ungesichert]. Hier schuf man nicht einfach Werbung, man schrieb deutsche Popkulturgeschichte [ungesichert].
+Heye & Partner München war eine prägende Kraft im Werbezeitalter des späten 20. Jahrhunderts, in dem deutsche Marken neu erfunden wurden und US-Konzerne den lokalen Markt eroberten. Als Teil des globalen Netzwerks von [[DDB]] stand die Agentur im Spannungsfeld zwischen kreativer Unabhängigkeit und internationaler Strategie. Ihre vielleicht bekannteste Leistung: Sie machte [[McDonald's]] in Deutschland kultig [ungesichert]. Hier schuf man deutsche Popkulturgeschichte [ungesichert].
 
 ## Historischer Kontext
 

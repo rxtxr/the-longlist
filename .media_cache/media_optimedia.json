@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/52442079608_b29250f4f6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/af8573ee-6fd0-46a6-a967-3a7734a140ff/thumb/",
+    "caption": "NASA’s Webb Takes Star-Filled Portrait of Pillars of Creation",
+    "license": "CC BY-NC 2.0",
+    "artist": "NASA's Marshall Space Flight Center",
+    "source_url": "https://www.flickr.com/photos/28634332@N05/52442079608",
+    "source_label": "OpenVerse / nasa",
+    "copyright_status": "clear_cc",
+    "width": 591,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/932/41903104600_64d3ab225d_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/45341ab9-5e7c-4e07-8c71-32d5461ba657/thumb/",
+    "caption": "Hubble Takes Portrait of Opulent Ring World",
+    "license": "CC BY-NC 2.0",
+    "artist": "NASA's Marshall Space Flight Center",
+    "source_url": "https://www.flickr.com/photos/28634332@N05/41903104600",
+    "source_label": "OpenVerse / nasa",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 630
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "1pFQB58iPG4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/1pFQB58iPG4",
+    "thumb_url": "https://img.youtube.com/vi/1pFQB58iPG4/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1pFQB58iPG4",
+    "caption": "Zenith Optimedia Three Pillars",
+    "duration": "2:54",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=1pFQB58iPG4",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

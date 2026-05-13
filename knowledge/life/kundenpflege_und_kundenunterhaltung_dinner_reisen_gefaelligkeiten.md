@@ -20,8 +20,7 @@ wave: 3
 ---
 
 ## Überblick
-
-Kundenpflege und Kundenunterhaltung waren weit mehr als nur geschäftliche Notwendigkeiten – sie waren das schillernde Herzstück der Agenturökonomie im 20. Jahrhundert. Hier wurde nicht einfach nur "gepflegt"; hier wurden Beziehungen zelebriert, Vertrauen zelebriert und Geschäfte bei Martini-Lunches und Jagdausflügen besiegelt. Diese Praxis war ein hochritualisierter Tanz zwischen Agentur und Kunde, bei dem persönliche Loyalitäten oft schwerer wogen als Vertragsparagrafen. Sie prägte das Image einer ganzen Branche – glamourös, undurchsichtig und ungemein einflussreich.
+Kundenpflege und Kundenunterhaltung waren das schillernde Herzstück der Agenturökonomie im 20. Jahrhundert. Hier wurden Beziehungen zelebriert, Vertrauen zelebriert und Geschäfte bei Martini-Lunches und Jagdausflügen besiegelt. Diese Praxis war ein hochritualisierter Tanz zwischen Agentur und Kunde, bei dem persönliche Loyalitäten oft schwerer wogen als Vertragsparagrafen. Sie prägte das Image einer ganzen Branche – glamourös, undurchsichtig und ungemein einflussreich.
 
 ## Historischer Kontext
 

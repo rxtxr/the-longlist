@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7728/27343584761_5e7f0f5a72_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/183237f5-d70d-4741-94dc-9521ca3910d8/thumb/",
+    "caption": "Initiation media briefing, 2 Jun 2016",
+    "license": "CC BY-ND 2.0",
+    "artist": "GovernmentZA",
+    "source_url": "https://www.flickr.com/photos/90122870@N03/27343584761",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 682
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/511/31127107644_62f0eb7cb4_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/f0e5f22f-897d-4f34-b470-c84791f4d903/thumb/",
+    "caption": "GA71 - Executive Director speaks at the African Leadership Initiative Media Fellows Event",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "UN Women Gallery",
+    "source_url": "https://www.flickr.com/photos/51431730@N04/31127107644",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "hUhJ3f72PRc",
+    "embed_url": "https://www.youtube-nocookie.com/embed/hUhJ3f72PRc",
+    "thumb_url": "https://img.youtube.com/vi/hUhJ3f72PRc/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=hUhJ3f72PRc",
+    "caption": "The Unexpected Death Of The Ad Jingle - Cheddar Explains",
+    "duration": "11:58",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=hUhJ3f72PRc",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

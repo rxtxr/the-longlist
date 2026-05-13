@@ -38,7 +38,7 @@ wave: 3
 ---
 
 ## Überblick
-Die D&AD Yellow und Black Pencils sind nicht einfach Auszeichnungen — sie sind die Währung des kreativen Prestiges. Seit über sechzig Jahren verkörpern diese Trophäen die höchste Anerkennung für Design- und Werbegrößen weltweit [ungesichert]. Wer einen Pencil gewinnt, schreibt sich nicht nur in die Annalen der Kreativbranche ein, sondern erhält einen Karriere-Turbo [ungesichert].
+Die D&AD Yellow und Black Pencils sind die Währung des kreativen Prestiges. Seit über sechzig Jahren verkörpern diese Trophäen die höchste Anerkennung für Design- und Werbegrößen weltweit. Wer einen Pencil gewinnt, schreibt sich in die Annalen der Kreativbranche ein und erhält einen Karriere-Turbo.
 
 ## Historischer Kontext
 London, 1962: Die Werbebranche steht im Umbruch. In einer Zeit, in der Werbung zunehmend als Kunstform verstanden wird, gründen Designer und Art Directors D&AD als Bildungsorganisation. Ihr Ziel: Exzellenz in Design und Werbung zu fördern und zu zelebrieren [1]. Die Medienlandschaft wird zunehmend von Werbeeinnahmen dominiert — eine Entwicklung, die die Unabhängigkeit der Berichterstattung bedroht [1]. In diesem Spannungsfeld zwischen kommerziellem Druck und kreativem Anspruch entsteht eine Auszeichnung, die beide Pole vereinen soll.

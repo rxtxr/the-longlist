@@ -57,7 +57,7 @@ wave: 4
 ---
 
 ## Überblick
-Jean-Remy von Matt ist mehr als nur ein Werber – er ist ein Stück deutscher Popkulturgeschichte. Als Mitbegründer der legendären Agentur [[Jung von Matt]] prägte er nicht nur Marken, sondern schrieb sich mit Slogans wie "Geiz ist geil" tief ins kollektive Gedächtnis einer Nation ein [2][5][6]. Der Schweizer mit deutschen Wurzeln wurde zur Ikone einer Branche, die er selbst immer wieder provozierte und herausforderte.
+Jean-Remy von Matt ist ein Stück deutscher Popkulturgeschichte. Als Mitbegründer der legendären Agentur [[Jung von Matt]] prägte er Marken und schrieb sich mit Slogans wie "Geiz ist geil" tief ins kollektive Gedächtnis einer Nation ein [2][5][6]. Der Schweizer mit deutschen Wurzeln wurde zur Ikone einer Branche, die er selbst immer wieder provozierte und herausforderte.
 
 ## Historischer Kontext
 Als von Matt und [[Holger Jung]] 1991 in Hamburg ihre Agentur gründeten, herrschte Aufbruchsstimmung [2][8]. Die deutsche Werbebranche war noch stark von konservativen Strukturen geprägt, während gleichzeitig die Grenzen zwischen Werbung, Kunst und Gesellschaft immer mehr verschwammen. Jung von Matt positionierte sich genau in diesem Spannungsfeld – mit provokanten Ideen, die nicht nur Produkte verkaufen, sondern kulturelle Debatten anstoßen sollten.

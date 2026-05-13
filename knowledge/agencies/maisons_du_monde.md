@@ -55,7 +55,7 @@ wave: 18
 ---
 
 ## Überblick
-Maisons du Monde ist mehr als nur ein französischer Möbelhändler – es ist eine Erfolgsgeschichte, die den europäischen Einrichtungsmarkt revolutionierte. 1996 von [[Xavier Marie]] in Brest gegründet, schuf das Unternehmen einen einzigartigen Stilmix aus globalen Einflüssen, der das Konzept "Weltreise fürs Wohnzimmer" kommerzialisierte [1][4][7][9]. Was als kleiner Laden begann, wuchs zu einem multinationalen Konzern mit fast 250 Filialen in sieben europäischen Ländern [4][7].
+Maisons du Monde ist eine Erfolgsgeschichte, die den europäischen Einrichtungsmarkt revolutionierte. 1996 von [[Xavier Marie]] in Brest gegründet, schuf das Unternehmen einen einzigartigen Stilmix aus globalen Einflüssen, der das Konzept "Weltreise fürs Wohnzimmer" kommerzialisierte [1][4][7][9]. Was als kleiner Laden begann, wuchs zu einem multinationalen Konzern mit fast 250 Filialen in sieben europäischen Ländern [4][7].
 
 ## Historischer Kontext
 Die Quellenlage hierzu ist dünn – [ungesichert] – doch die Gründung 1996 fiel in eine Zeit, als Frankreichs Einzelhandel sich neu erfand. Während traditionelle Möbelhäuser oft regional und konservativ blieben, erkannte Marie die Sehnsucht nach exotischer, bezahlbarer Wohnkultur. Die Globalisierung erreichte die Wohnzimmer, und Maisons du Monde wurde ihr geschickter Kurator. [ungesichert] Das Unternehmen surfte auf der Welle eines neuen kosmopolitischen Lebensgefühls, das Authentizität suchte – auch wenn sie sorgfältig inszeniert war.

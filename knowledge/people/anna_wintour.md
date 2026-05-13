@@ -63,7 +63,7 @@ wave: 14
 ---
 
 ## Überblick
-Anna Wintour ist mehr als nur eine Medienmanagerin – sie ist eine kulturelle Institution. Die britisch-amerikanische Publizistin prägte von 1988 bis 2025 als Chefredakteurin der US-[[Vogue]] nicht nur eine Zeitschrift, sondern die gesamte Mode- und Medienlandschaft [1][2][7]. Mit ihrem unverwechselbaren Stil und eisernem Willen formte sie das Magazin zur einflussreichsten Modepublikation der Welt und wurde selbst zur Ikone.
+Anna Wintour ist eine kulturelle Institution. Die britisch-amerikanische Publizistin prägte von 1988 bis 2025 als Chefredakteurin der US-[[Vogue]] die gesamte Mode- und Medienlandschaft [1][2][7]. Mit ihrem unverwechselbaren Stil und eisernem Willen formte sie das Magazin zur einflussreichsten Modepublikation der Welt und wurde selbst zur Ikone.
 
 ## Historischer Kontext
 Ihr Einstieg in den Modejournalismus fiel in eine Zeit tiefgreifender Veränderungen. Die konservative Eleganz der 1970er Jahre wurde von der aufbrechenden Punk- und New-Wave-Bewegung herausgefordert [ungesichert]. Wintour begann ihre Karriere 1970 als Redaktionsassistentin bei [[Harper’s Bazaar UK]], gerade als das Magazin mit [[Queen]] fusionierte – eine erste Begegnung mit Verlagsumbrüchen, die ihr späteres Leben prägen sollten [2]. Die Modebranche war damals noch eine weitgehend geschlossene Gesellschaft, in der Außenseiter wie Wintour sich ihren Platz erkämpfen mussten [3][ungesichert].

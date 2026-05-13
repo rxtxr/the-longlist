@@ -37,8 +37,7 @@ wave: 23
 ---
 
 ## Überblick
-
-Collett Dickenson Pearce & Partners (CDP) war eine britische Werbeagentur, die von 1960 bis 2000 bestand. Gegründet von John Pearce und Ronnie Dickenson durch den Kauf der bestehenden Agentur Pictorial Publicity von John Collett, wurde CDP zu einem der kreativen Epizentren des "Swinging London" der 1960er Jahre. Die Agentur war nicht nur für ikonische Werbekampagnen verantwortlich, sondern fungierte auch als Sprungbrett für zahlreiche kreative Talente, die später die britische Kulturlandschaft prägten.
+Collett Dickenson Pearce & Partners (CDP) war eine britische Werbeagentur, die von 1960 bis 2000 bestand. Gegründet von John Pearce und Ronnie Dickenson durch den Kauf der bestehenden Agentur Pictorial Publicity von John Collett, wurde CDP zu einem der kreativen Epizentren des "Swinging London" der 1960er Jahre. Die Agentur war für ikonische Werbekampagnen verantwortlich und fungierte als Sprungbrett für zahlreiche kreative Talente, die später die britische Kulturlandschaft prägten.
 
 ## Historischer Kontext
 

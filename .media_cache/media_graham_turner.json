@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Portrait_Miniatures_%281910%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Portrait_Miniatures_%281910%29.djvu/page1-500px-Portrait_Miniatures_%281910%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Family of Dr. Ben Kanee",
+    "license": "Public domain",
+    "artist": "George Charles Williamson",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APortrait%20Miniatures%20%281910%29.djvu",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1086,
+    "height": 1500
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_National_portrait_gallery_%28IA_nationalportrait00nati_0%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_National_portrait_gallery_%28IA_nationalportrait00nati_0%29.pdf/page1-500px-The_National_portrait_gallery_%28IA_nationalportrait00nati_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "\"Issued under the sanction and with the authority of the trustees of the National portrait gallery.\"\n\"This edition is limited to 750 copies.\" v. 1: no",
+    "license": "Public domain",
+    "artist": "National Portrait Gallery (Great Britain)",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe%20National%20portrait%20gallery%20%28IA%20nationalportrait00nati%200%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1285,
+    "height": 1827
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "DJ2rgpZyfbU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/DJ2rgpZyfbU",
+    "thumb_url": "https://img.youtube.com/vi/DJ2rgpZyfbU/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=DJ2rgpZyfbU",
+    "caption": "KGB interview with Graham Turner, CEO Flight Centre",
+    "duration": "23:04",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=DJ2rgpZyfbU",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

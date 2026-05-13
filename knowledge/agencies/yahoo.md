@@ -56,7 +56,7 @@ wave: 20
 ---
 
 ## Überblick
-Yahoo! war nicht einfach ein Unternehmen – es war das Tor zum Internet für eine ganze Generation. In den Pionierjahren des World Wide Web, als jeder Klick eine Entdeckungsreise war, stand Yahoo! als leuchtender Wegweiser im digitalen Chaos. Es war die erste Adresse für E-Mails, die Suchmaschine der Wahl und das Nachrichtenportal für Millionen. Yahoo! bewies, dass sich das kommerzielle Web nicht nur finanzieren ließ, sondern zu einem milliardenschweren Geschäft entwickeln konnte – bevor es selbst zum Lehrstück darüber wurde, wie man eine dominante Position verspielen kann.
+Yahoo! war das Tor zum Internet für eine ganze Generation. In den Pionierjahren des World Wide Web, als jeder Klick eine Entdeckungsreise war, stand Yahoo! als leuchtender Wegweiser im digitalen Chaos. Es war die erste Adresse für E-Mails, die Suchmaschine der Wahl und das Nachrichtenportal für Millionen. Yahoo! bewies, dass sich das kommerzielle Web finanzieren ließ und zu einem milliardenschweren Geschäft entwickeln konnte – bevor es selbst zum Lehrstück darüber wurde, wie man eine dominante Position verspielen kann.
 
 ## Historischer Kontext
 Stellen Sie sich das Jahr 1994 vor: Das Internet war ein unkartiertes Territorium, bevölkert von Tech-Enthusiasten und Akademikern. Browser waren neu, Webseiten waren selten – und wenn man etwas finden wollte, musste man oft raten oder komplexe Befehle eingeben. In diese Welt hinein starteten zwei Doktoranden der Stanford University ihr Projekt: Ein menschlich kuratiertes Verzeichnis, das Ordnung ins Chaos bringen sollte. Die Dot-Com-Euphorie stand gerade erst in den Startlöchern, und Yahoo! wurde zum perfekten Reiseführer für die erste Welle neugieriger Internetnutzer. [ungesichert]

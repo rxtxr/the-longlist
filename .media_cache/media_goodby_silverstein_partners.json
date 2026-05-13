@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/GS%26P.logo.with.name.1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GS%26P.logo.with.name.1.png/500px-GS%26P.logo.with.name.1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Goodby Silverstein &amp; Partners logo",
+    "license": "Public domain",
+    "artist": "Chris Welsby",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGS%26P.logo.with.name.1.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 4167,
+    "height": 4167
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/GS%26P.logo.with.name.1_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/GS%26P.logo.with.name.1_%28cropped%29.png/500px-GS%26P.logo.with.name.1_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Goodby Silverstein &amp; Partners logo",
+    "license": "Public domain",
+    "artist": "Chris Welsby",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGS%26P.logo.with.name.1%20%28cropped%29.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 3264,
+    "height": 1804
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "KpNL8DoHE8A",
+    "embed_url": "https://www.youtube-nocookie.com/embed/KpNL8DoHE8A",
+    "thumb_url": "https://img.youtube.com/vi/KpNL8DoHE8A/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=KpNL8DoHE8A",
+    "caption": "Goodby Silverstein & Partners Celebrates 150 Years",
+    "duration": "2:53",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=KpNL8DoHE8A",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

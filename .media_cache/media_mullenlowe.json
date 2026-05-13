@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2222/32666507131_fdb73e786c.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/ff0c26fb-23b6-402b-8eb4-d66762c88694/thumb/",
+    "caption": "Taller de Arquitectura de Marca para la PUCE",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Pontificia Universidad Católica del Ecuador",
+    "source_url": "https://www.flickr.com/photos/26045370@N08/32666507131",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mullenlowe_Lockup_Proferov2.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/dcd2f87b-3513-4a8d-9563-177ae5299002/thumb/",
+    "caption": "File:Mullenlowe Lockup Proferov2.jpg",
+    "license": "CC0 1.0",
+    "artist": "MullenLowe Profero",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=47003304",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "public_domain",
+    "width": 1542,
+    "height": 1271
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "wyXyGvyFroU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/wyXyGvyFroU",
+    "thumb_url": "https://img.youtube.com/vi/wyXyGvyFroU/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=wyXyGvyFroU",
+    "caption": "MullenLowe Profero :: Deploying Digital Marketing with Rackspace Managed Hosting",
+    "duration": "1:38",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=wyXyGvyFroU",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

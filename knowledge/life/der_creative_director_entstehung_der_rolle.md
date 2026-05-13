@@ -31,8 +31,7 @@ wave: 0
 ---
 
 ## Überblick
-
-Der Creative Director – heute eine der einflussreichsten Positionen in der Werbebranche – war ursprünglich eine radikale Neuerung. Es war die Antwort auf eine Industrie, die zunehmend von kreativer Führung und konsistenten Markenpersönlichkeiten lebte, statt nur von reinem Verkaufsdruck [ungesichert]. In deutschen Agenturen hieß diese Schlüsselposition zunächst „Kreativ-Direktor“ und vereinte alle schöpferischen Tätigkeiten unter einem Dach [1]. Es war die Geburtsstunde des kreativen Kopfes, der nicht nur Anzeigen entwarf, sondern eine ganze Vision für Marken verantwortete [ungesichert].
+Der Creative Director – heute eine der einflussreichsten Positionen in der Werbebranche – war ursprünglich eine radikale Neuerung. Es war die Antwort auf eine Industrie, die von kreativer Führung und konsistenten Markenpersönlichkeiten lebte, statt von reinem Verkaufsdruck. In deutschen Agenturen hieß diese Schlüsselposition zunächst „Kreativ-Direktor“ und vereinte alle schöpferischen Tätigkeiten unter einem Dach [1]. Es war die Geburtsstunde des kreativen Kopfes, der eine ganze Vision für Marken verantwortete.
 
 ## Historischer Kontext
 

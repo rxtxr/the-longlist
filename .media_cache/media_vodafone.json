@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Newbury%2C_New_Vodafone_Headquarters_-_geograph.org.uk_-_5590.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Newbury%2C_New_Vodafone_Headquarters_-_geograph.org.uk_-_5590.jpg/500px-Newbury%2C_New_Vodafone_Headquarters_-_geograph.org.uk_-_5590.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Newbury: New Vodafone Headquarters. This HQ is situated in the north western section of the grid square and the picture was taken from the west side o",
+    "license": "CC BY-SA 2.0",
+    "artist": "Pam Brophy",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ANewbury%2C%20New%20Vodafone%20Headquarters%20-%20geograph.org.uk%20-%205590.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Three_and_Vodafone%2C_Cambridge_Street%2C_Harrogate_%2811th_June_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Three_and_Vodafone%2C_Cambridge_Street%2C_Harrogate_%2811th_June_2023%29.jpg/500px-Three_and_Vodafone%2C_Cambridge_Street%2C_Harrogate_%2811th_June_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Three and Vodafone, Cambridge Street, Harrogate, North Yorkshire.  Taken on the afternoon of Sunday the 11th June 2023.",
+    "license": "CC BY-SA 4.0",
+    "artist": "Mtaylor848",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThree%20and%20Vodafone%2C%20Cambridge%20Street%2C%20Harrogate%20%2811th%20June%202023%29.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 5152,
+    "height": 3864
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "AOyAFKrUATI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/AOyAFKrUATI",
+    "thumb_url": "https://img.youtube.com/vi/AOyAFKrUATI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AOyAFKrUATI",
+    "caption": "Vodafone Global Enterprise: A timeline of our history",
+    "duration": "4:24",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=AOyAFKrUATI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

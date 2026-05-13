@@ -33,7 +33,7 @@ wave: 11
 ---
 
 ## Überblick
-Paul Cramer war mehr als nur ein Werbetexter — er war ein Sprachkünstler, der der deutschen Werbung ihre Schwere nahm und sie mit Leichtigkeit, Witz und literarischer Eleganz auflud. In den 1960er bis 1980er Jahren prägte er als kreativer Kopf bei [[Team/BBDO]] ikonische Kampagnen für Marken wie [[Henkel]], [[Siemens]] und [[Mercedes-Benz]]. Sein Werk markiert den Übergang von sachlicher Produktwerbung hin zu einer erzählerischen, markenbildenden Kommunikation, die den Konsumenten nicht nur informierte, sondern auch unterhielt und emotional berührte.
+Paul Cramer war ein Sprachkünstler, der der deutschen Werbung ihre Schwere nahm und sie mit Leichtigkeit, Witz und literarischer Eleganz auflud. In den 1960er bis 1980er Jahren prägte er als kreativer Kopf bei [[Team/BBDO]] ikonische Kampagnen für Marken wie [[Henkel]], [[Siemens]] und [[Mercedes-Benz]]. Sein Werk markiert den Übergang von sachlicher Produktwerbung hin zu einer erzählerischen, markenbildenden Kommunikation, die den Konsumenten informierte, unterhielt und emotional berührte.
 
 ## Historischer Kontext
 Cramers Karriere fiel in eine Zeit des radikalen Umbruchs. Das deutsche [[Wirtschaftswunder]] hatte eine konsumfreudige Mittelschicht geschaffen, die nicht mehr nur das Nötigste kaufte, sondern Marken erlebte. Die Werbebranche stand unter Druck: Mit der Einführung des Privatfernsehens in den 1980er Jahren wurde die Konkurrenz lauter, bunter und schneller. Werbung musste sich vom reinen Verkaufsgespräch zur unterhaltsamen Kurzgeschichte entwickeln. In dieser Ära wurde Cramer Teil einer kreativen Avantgarde, die Werbung als Kulturform begriff — ähnlich wie [[Charles Wilp]] oder [[Günter Rohrbach]], die ebenfalls die Grenzen des Möglichen austesteten.

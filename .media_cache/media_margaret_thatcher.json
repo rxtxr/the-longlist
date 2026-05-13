@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2308/2057046248_dcbe85ed2a_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/38bd7a6e-cf64-4993-b0b7-0770baa65861/thumb/",
+    "caption": "Belgian Eurostar Ad",
+    "license": "CC BY 2.0",
+    "artist": "antony_mayfield",
+    "source_url": "https://www.flickr.com/photos/31433424@N00/2057046248",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7306/14104177365_1c26783932.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/b4da3ee4-efdf-4a7a-ab96-8a4de60db0ea/thumb/",
+    "caption": "may the 4th be with you",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Demetrios Georgalas aka brexians",
+    "source_url": "https://www.flickr.com/photos/74307819@N00/14104177365",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "xo18b-9aWkw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/xo18b-9aWkw",
+    "thumb_url": "https://img.youtube.com/vi/xo18b-9aWkw/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=xo18b-9aWkw",
+    "caption": "Half an Hour of VINTAGE Commercials From the 1970s!",
+    "duration": "30:30",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=xo18b-9aWkw",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

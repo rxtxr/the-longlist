@@ -63,7 +63,7 @@ wave: 12
 ---
 
 ## Überblick
-Kellogg's ist mehr als nur Frühstückscerealien – es ist eine amerikanische Erfolgsgeschichte, die das moderne Marketing revolutionierte. Aus einer Gesundheitsbewegung des 19. Jahrhunderts entstanden, baute [[Will Keith Kellogg]] eines der ersten nationalen Lebensmittelimperien auf und erfand dabei die Frühstückskultur, wie wir sie heute kennen [1][9]. Das Unternehmen wurde zum Pionier aggressiver Werbestrategien, die von vollseitigen Zeitungsanzeigen bis zu legendären Werbegeschenken in Cerealpackungen reichten [3][8].
+Kellogg's ist eine amerikanische Erfolgsgeschichte, die das moderne Marketing revolutionierte. Aus einer Gesundheitsbewegung des 19. Jahrhunderts entstanden, baute [[Will Keith Kellogg]] eines der ersten nationalen Lebensmittelimperien auf und erfand dabei die Frühstückskultur, wie wir sie heute kennen [1][9]. Das Unternehmen wurde zum Pionier aggressiver Werbestrategien, die von vollseitigen Zeitungsanzeigen bis zu legendären Werbegeschenken in Cerealpackungen reichten [3][8].
 
 ## Historischer Kontext
 Geboren wurde Kellogg's im Sanatorium von Battle Creek, Michigan – einem Ort, der um 1900 zum Mekka der Gesundheitsreformbewegung wurde. Hier experimentierte [[John Harvey Kellogg]], Bruder des Gründers, mit vegetarischer Ernährung, Hydrotherapie und elektrischen Massagen [6]. In dieser Welt der Gesundheitsutopien und strengen Diätvorschriften entstand zufällig das Rezept für Corn Flakes [9]. Will Keith Kellogg erkannte das kommerzielle Potenzial und gründete 1906 die Battle Creek Toasted Corn Flake Company – genau zur richtigen Zeit, als Amerika sich für verpackte Lebensmittel und Massenwerbung zu begeistern begann.

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7396/11432908175_e7382cc54e.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/95eef6f0-1e7b-4d49-bff9-a3676343f76b/thumb/",
+    "caption": "Claudia by Juergen Teller. Styled by Tiina Laakkonen. British Vogue.",
+    "license": "CC BY 2.0",
+    "artist": "tiinal91",
+    "source_url": "https://www.flickr.com/photos/111723464@N05/11432908175",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 355,
+    "height": 500
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7643/16763554065_c5efd2a23c.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/97bd2149-0d64-4694-99da-f27622547ea7/thumb/",
+    "caption": "#beach #noosa #juergen teller #shadow #self portrait",
+    "license": "CC BY-ND 2.0",
+    "artist": "Bettina Zuric",
+    "source_url": "https://www.flickr.com/photos/40278612@N04/16763554065",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "EFlLiJbNzQA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/EFlLiJbNzQA",
+    "thumb_url": "https://img.youtube.com/vi/EFlLiJbNzQA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=EFlLiJbNzQA",
+    "caption": "Juergen Teller on Shooting Vivienne Westwood | Fashion Neurosis Podcast with Bella Freud | Video",
+    "duration": "52:24",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=EFlLiJbNzQA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

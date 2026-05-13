@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8438/7829164712_ef1c9c5465.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/90156f16-afed-4193-b3c8-d7908053cf28/thumb/",
+    "caption": "diva&timdelaney by Sven",
+    "license": "CC BY 2.0",
+    "artist": "Neeta Lind",
+    "source_url": "https://www.flickr.com/photos/71132408@N00/7829164712",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8305/7838355746_ac0d5fc31d_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/371baa8c-73e9-4f5a-b069-c319bb99194c/thumb/",
+    "caption": "IMG_1280",
+    "license": "CC BY 2.0",
+    "artist": "Neeta Lind",
+    "source_url": "https://www.flickr.com/photos/71132408@N00/7838355746",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "5_VJw-Ap4oE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/5_VJw-Ap4oE",
+    "thumb_url": "https://img.youtube.com/vi/5_VJw-Ap4oE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5_VJw-Ap4oE",
+    "caption": "172: Tim Delaney on building one of ad-land’s most brilliant careers | 172 | Call To Action®...",
+    "duration": "55:58",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=5_VJw-Ap4oE",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

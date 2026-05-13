@@ -1,0 +1,15 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Diedrich_Diederichsen%2C_1984%2C_auf_dem_Dach_der_D%C3%BCsseldorfer_Werbeagentur_GGK.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2f720b8b-8f36-4346-ab44-f17b95a30f25/thumb/",
+    "caption": "Diedrich Diederichsen, 1984, auf dem Dach der Düsseldorfer Werbeagentur GGK",
+    "license": "CC BY 4.0",
+    "artist": "Ralf Zeigermann",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=92828657",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1800,
+    "height": 1824
+  }
+]

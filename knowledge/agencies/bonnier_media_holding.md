@@ -36,8 +36,7 @@ wave: 16
 ---
 
 ## Überblick
-
-Die Bonnier Media Holding ist mehr als nur eine Dachorganisation – sie ist das strategische Zentrum einer der größten Eroberungen des deutschen Buchmarkts durch ausländisches Kapital. Als deutsche Schaltzentrale des schwedischen Medienkonglernats Bonnier kontrolliert sie einen beeindruckenden Teil der deutschsprachigen Literaturlandschaft. Ihre Macht konzentriert sich besonders dort, wo Geschichten entstehen: Sie ist Marktführer im Kinder-, Comic- und Geschenkbuchbereich und eine dominante Kraft in der Belletristik. Dieser Eintrag erzählt, wie eine schwedische Dynastie deutsche Verlagskultur erwarb und für immer veränderte.
+Die Bonnier Media Holding ist das strategische Zentrum einer der größten Eroberungen des deutschen Buchmarkts durch ausländisches Kapital. Als deutsche Schaltzentrale des schwedischen Medienkonglernats Bonnier kontrolliert sie einen beeindruckenden Teil der deutschsprachigen Literaturlandschaft. Ihre Macht konzentriert sich besonders dort, wo Geschichten entstehen: Sie ist Marktführer im Kinder-, Comic- und Geschenkbuchbereich und eine dominante Kraft in der Belletristik. Dieser Eintrag erzählt, wie eine schwedische Dynastie deutsche Verlagskultur erwarb und für immer veränderte.
 
 ## Historischer Kontext
 

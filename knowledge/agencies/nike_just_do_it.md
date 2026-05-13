@@ -62,7 +62,7 @@ wave: 10
 ---
 
 ## Überblick
-"Just Do It" war mehr als nur ein Werbeslogan – es war ein kulturelles Phänomen, das 1988 aus der Notwendigkeit heraus geboren wurde. Als Nike den damals noch relativ unbekannten Copywriter [[Dan Wieden]] beauftragte, ahnte niemand, dass diese drei Worte zur weltweit bekanntesten Marketingformel der Sportartikelbranche werden sollten [10]. Der Slogan verkörperte nicht nur eine Marke, sondern wurde zur Lebensphilosophie für Millionen Menschen [ungesichert].
+"Just Do It" war ein kulturelles Phänomen, das 1988 aus der Notwendigkeit heraus geboren wurde. Als Nike den damals noch relativ unbekannten Copywriter [[Dan Wieden]] beauftragte, ahnte niemand, dass diese drei Worte zur weltweit bekanntesten Marketingformel der Sportartikelbranche werden sollten [10]. Der Slogan verkörperte eine Marke und wurde zur Lebensphilosophie für Millionen Menschen [ungesichert].
 
 ## Historischer Kontext
 Die späten 1980er Jahre waren für Nike eine Zeit der existenziellen Krise. Die Marke hatte ihren rebellischen Schwung verloren, der Umsatz stagnierte und der Konkurrent Reebok war zum Marktführer aufgestiegen [ungesichert]. In dieser schwierigen Phase wagte Nike einen radikalen Neuanfang – statt reiner Produktwerbung setzte man auf emotionale Geschichten und psychologische Trigger. Die Kampagne traf den Nerv einer Generation, die Fitness und individuellen Ausdruck feierte [ungesichert].

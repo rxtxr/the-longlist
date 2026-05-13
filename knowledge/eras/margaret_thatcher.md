@@ -27,7 +27,7 @@ wave: 7
 ---
 
 ## Überblick
-Margaret Thatcher war mehr als nur eine Premierministerin — sie war ein kulturelles Erdbeben. Von 1979 bis 1990 regierte die "Eiserne Lady" Großbritannien und prägte eine Ära, die bis heute nachhallt [1]. Ihr Name wurde zum Synonym für eine kompromisslose Wirtschaftspolitik, die nicht nur die Politik, sondern auch die Werbebranche fundamental veränderte [3][7][9]. Thatcherismus war nicht nur Politik, sondern eine Marke — eine, die gezielt beworben und verkauft wurde.
+Margaret Thatcher war ein kulturelles Erdbeben. Von 1979 bis 1990 regierte die "Eiserne Lady" Großbritannien und prägte eine Ära, die bis heute nachhallt [1]. Ihr Name wurde zum Synonym für eine kompromisslose Wirtschaftspolitik, die die Politik und die Werbebranche fundamental veränderte [3][7][9]. Thatcherismus war eine Marke — eine, die gezielt beworben und verkauft wurde.
 
 ## Historischer Kontext
 Das Großbritannien, in dem Thatcher an die Macht kam, war ein Land in der Krise. Die 1970er Jahre waren geprägt von Streiks, Stromausfällen und dem Spitznamen "kranker Mann Europas" [1]. Während die Regierung verzweifelt nach Lösungen suchte, befand sich die Werbebranche in einer Phase der Konsolidierung und Professionalisierung. Große Agenturen wie Saatchi & Saatchi erkannten früh, dass Politik ebenso vermarktbar war wie Seife oder Autos [7][8]. Sie schufen eine neue Art politischer Kommunikation — und fanden in Thatcher die perfekte Protagonistin.

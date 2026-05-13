@@ -47,7 +47,7 @@ wave: 15
 ---
 
 ## Überblick
-David Sims ist mehr als nur ein Modefotograf — er ist der Chronist einer stilistischen Revolution. Der britische Künstler schuf seit den späten 1980er Jahren einen neuen visuellen Kodex für Luxus: melancholisch, minimalistisch und radikal echt. In einer Ära des Überflusses führte er die Modefotografie zurück auf ihren Kern — die Magie des Augenblicks, die Poesie des Unperfekten. Seine Bedeutung liegt nicht nur in ikonischen Bildern, sondern darin, dass er bewies: Kommerzielle Werbung kann Kunst sein, wenn man den Mut hat, auf Glanz zu verzichten.
+David Sims ist der Chronist einer stilistischen Revolution. Der britische Künstler schuf seit den späten 1980er Jahren einen neuen visuellen Kodex für Luxus: melancholisch, minimalistisch und radikal echt. In einer Ära des Überflusses führte er die Modefotografie zurück auf ihren Kern — die Magie des Augenblicks, die Poesie des Unperfekten. Seine Bedeutung liegt darin, dass er bewies: Kommerzielle Werbung kann Kunst sein, wenn man den Mut hat, auf Glanz zu verzichten.
 
 ## Historischer Kontext
 Die späten 1980er Jahre waren eine Zeit des visuellen Überschwangs. Modefotografie bedeutete oft: künstliches Licht, üppige Dekors und lächelnde Models in perfekten Posen. Doch unter der Oberfläche brodelte etwas Neues. Aus der Independent- und Jugendkultur drängte eine rauhere, authentischere Ästhetik in die Mainstream-Medien. Zeitschriften wie *The Face* und *i-D*, gegründet von [[Nick Logan]], wurden zu Laboratorien dieses neuen Blicks. Hier verschwammen die Grenzen zwischen Kunst, Dokumentation und Kommerz — und genau in diesem kreativen Nährboden entdeckte David Sims seine Bildsprache.

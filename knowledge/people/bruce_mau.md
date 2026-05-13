@@ -44,7 +44,7 @@ wave: 16
 ---
 
 ## Überblick
-Bruce Mau ist mehr als nur ein Designer – er ist ein kultureller Visionär, der die Disziplin des Grafikdesigns radikal neu interpretiert hat. Statt sich auf ästhetische Oberflächengestaltung zu beschränken, entwickelte er Design als systemische Methode zur Lösung komplexer globaler Probleme. Seine Bedeutung liegt in der Übertragung von Designprinzipien auf Bereiche wie Urbanistik, Nachhaltigkeit und Sozialinnovation. Mit seinem "Massive Change"-Konzept positionierte er Design erstmals als treibende Kraft für gesellschaftlichen Fortschritt – eine damals revolutionäre Perspektive [ungesichert].
+Bruce Mau ist ein kultureller Visionär, der die Disziplin des Grafikdesigns radikal neu interpretiert hat. Statt sich auf ästhetische Oberflächengestaltung zu beschränken, entwickelte er Design als systemische Methode zur Lösung komplexer globaler Probleme. Seine Bedeutung liegt in der Übertragung von Designprinzipien auf Bereiche wie Urbanistik, Nachhaltigkeit und Sozialinnovation. Mit seinem "Massive Change"-Konzept positionierte er Design als treibende Kraft für gesellschaftlichen Fortschritt – eine damals revolutionäre Perspektive.
 
 ## Historischer Kontext
 Maus Karriere begann in den turbulenten 1980er Jahren, als Grafikdesign sich gerade fundamental wandelte. Die Postmoderne hatte den ästhetischen Diskurs erobert, während digitale Werkzeuge die Branche technologisch revolutionierten. In dieser Zeit des Umbruchs begann Mau, Design nicht als handwerkliche Dienstleistung, sondern als konzeptionelle Denkweise zu begreifen. Die 1990er/2000er Jahre markierten dann seine bewusste Abkehr von klassischer Werbung hin zu transdisziplinären Projekten mit gesellschaftlicher Mission – ein damals ungewöhnlicher Weg für einen etablierten Designer [ungesichert].
@@ -62,7 +62,7 @@ Maus Karriere begann in den turbulenten 1980er Jahren, als Grafikdesign sich ger
 - **Schlüsselprojekte**: "S,M,L,XL" mit [[Rem Koolhaas]] (1995, ikonische Architekturpublikation), "Massive Change" (2004), "MC24" (2020)
 
 ## Bedeutung & Einfluss
-Mau transformierte das Designverständnis nachhaltig: Von dekorativer Oberflächenarbeit wurde Design zur strategischen Innovationsmethode. Sein "Incomplete Manifesto" entwickelte sich zum globalen Kulttext und beeinflusste eine Generation von Designern weltweit. Die "Massive Change"-[[Initiative]] etablierte Design erstmals als Schlüsseldisziplin für Herausforderungen wie Urbanistik, Mobilität und Nachhaltigkeit. Seine Zusammenarbeit mit Architekturstars wie [[Frank Gehry]] und [[Rem Koolhaas]] sowie Institutionen wie dem [[Art Institute of Chicago]] demonstrierte, wie weit Designthinking skalierbar ist – von Bucheinbänden bis zu globalen Systemveränderungen.
+Mau transformierte das Designverständnis nachhaltig: Von dekorativer Oberflächenarbeit wurde Design zur strategischen Innovationsmethode. Sein "Incomplete Manifesto" entwickelte sich zum globalen Kulttext und beeinflusste eine Generation von Designern weltweit. Die "Massive Change"-[[Initiative]] etablierte Design erstmals als Schlüsseldisziplin für Herausforderungen wie Urbanistik, Mobilität und Nachhaltigkeit. Seine Zusammenarbeit mit Architekturstars wie Frank Gehry und [[Rem Koolhaas]] sowie Institutionen wie dem [[Art Institute of Chicago]] demonstrierte, wie weit Designthinking skalierbar ist – von Bucheinbänden bis zu globalen Systemveränderungen.
 
 ## Verbindungen
 - Intensive Kollaboration mit [[Rem Koolhaas]]/[[OMA]] an architektonischen Publikationen – eine kreative Partnerschaft, die beide Seiten prägte [ungesichert]

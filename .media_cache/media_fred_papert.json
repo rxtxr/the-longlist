@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5509/14358456327_350abf2f86_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/6fbb61d7-ebd5-48fb-ae44-c3a142723d39/thumb/",
+    "caption": "Jacqueline Kennedy Onassis Grand Central Entry Dedication",
+    "license": "CC BY 2.0",
+    "artist": "MTAPhotos",
+    "source_url": "https://www.flickr.com/photos/61135621@N03/14358456327",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 802
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3917/14543984382_5f2252a2bf_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2764e29a-20c9-474d-abd0-b4fd0ce5756b/thumb/",
+    "caption": "Jacqueline Kennedy Onassis Grand Central Entry Dedication",
+    "license": "CC BY 2.0",
+    "artist": "MTAPhotos",
+    "source_url": "https://www.flickr.com/photos/61135621@N03/14543984382",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 862
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "OiIC_QJoc4A",
+    "embed_url": "https://www.youtube-nocookie.com/embed/OiIC_QJoc4A",
+    "thumb_url": "https://img.youtube.com/vi/OiIC_QJoc4A/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=OiIC_QJoc4A",
+    "caption": "The Steadicam Operator / Howard H Bingham",
+    "duration": "1:01",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=OiIC_QJoc4A",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

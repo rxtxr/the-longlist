@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/52474000597_8fe9601895_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/accb4a0f-11f0-43b8-82ce-2a280da88e01/thumb/",
+    "caption": "LS7_8514",
+    "license": "CC BY 2.0",
+    "artist": "Web Summit",
+    "source_url": "https://www.flickr.com/photos/74711243@N06/52474000597",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5573/14873721097_e59866f82d_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/cd355fa0-e71b-4c6b-89ba-64314113dce7/thumb/",
+    "caption": "Kerala! God's Own",
+    "license": "CC BY 2.0",
+    "artist": "Koshyk",
+    "source_url": "https://www.flickr.com/photos/97235261@N00/14873721097",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 527
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "Hr5xOhV6SSI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Hr5xOhV6SSI",
+    "thumb_url": "https://img.youtube.com/vi/Hr5xOhV6SSI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Hr5xOhV6SSI",
+    "caption": "Agentic AI Is Rewriting Business Models for Ad Agencies: S4 Capital's Sir Martin Sorrell",
+    "duration": "14:35",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=Hr5xOhV6SSI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

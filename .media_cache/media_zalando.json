@@ -1,0 +1,28 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8379/8552021625_9ed7c8a184.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e26ca7a4-4cce-42de-8d3f-afe913e78ecc/thumb/",
+    "caption": "Wrangler denim shirt via Zalando and Blk and Noir cross earrings (8)",
+    "license": "CC BY 2.0",
+    "artist": "Barbro Andersen",
+    "source_url": "https://www.flickr.com/photos/42720223@N03/8552021625",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 333,
+    "height": 500
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8387/8553125014_fd0bd25dcd.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2b3fbcb5-8697-4cbb-87aa-97329481a1e7/thumb/",
+    "caption": "Wrangler denim shirt via Zalando and Blk and Noir cross earrings (4)",
+    "license": "CC BY 2.0",
+    "artist": "Barbro Andersen",
+    "source_url": "https://www.flickr.com/photos/42720223@N03/8553125014",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 333,
+    "height": 500
+  }
+]

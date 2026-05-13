@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7201/6825813244_8a182d1762_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/2eab5746-dec9-4d0a-98a4-4de0d1771f6f/thumb/",
+    "caption": "WPP Group's Yoda",
+    "license": "CC BY-NC 2.0",
+    "artist": "Esthr",
+    "source_url": "https://www.flickr.com/photos/30866445@N00/6825813244",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 886,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2387/2213837741_8a9bc5d813.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/10b1f8d6-adc2-48fd-a42c-274047529440/thumb/",
+    "caption": "Sir Martin Sorrell, Lawrence Summers - World Economic Forum Annual Meeting Davos 2008",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "World Economic Forum",
+    "source_url": "https://www.flickr.com/photos/15237218@N00/2213837741",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 500,
+    "height": 341
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "MdNMoMAHkcA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/MdNMoMAHkcA",
+    "thumb_url": "https://img.youtube.com/vi/MdNMoMAHkcA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MdNMoMAHkcA",
+    "caption": "WPP: From Visionary Beginnings to Global Advertising Leadership - VINCENT JUBES",
+    "duration": "7:20",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=MdNMoMAHkcA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

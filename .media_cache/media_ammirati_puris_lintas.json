@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Air_France._Pour_venir_jusqu%27ici%2C_demandez_%C3%A0_Air_France._Pour_le_taxi%2C_nous_vous_sugg%C3%A9rons_Nanook_-_Affiche_-_Ammirati_Puris_Lintas_-_btv1b10116078s.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/8310b106-0919-4347-ad92-9735932cd0c6/thumb/",
+    "caption": "<div class='fn'> Air France. Pour venir jusqu'ici, demandez à Air France. Pour le taxi, nous vous suggérons Nanook : [Affiche] / [Ammirati Puris Linta",
+    "license": "CC0 1.0",
+    "artist": "Ammirati Puris Lintas. Agence de publicité (création)",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=154668289",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "public_domain",
+    "width": 2000,
+    "height": 2667
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/1277/591675802_1c710d0970_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/52211564-a297-4db5-b815-aad83795d301/thumb/",
+    "caption": "Softball Reunion",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "johnmac7227",
+    "source_url": "https://www.flickr.com/photos/92467890@N00/591675802",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "ndf9Zb-sDCw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ndf9Zb-sDCw",
+    "thumb_url": "https://img.youtube.com/vi/ndf9Zb-sDCw/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ndf9Zb-sDCw",
+    "caption": "Resource/Ammirati Sits Down with Dr. Kit Yarrow",
+    "duration": "4:02",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=ndf9Zb-sDCw",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

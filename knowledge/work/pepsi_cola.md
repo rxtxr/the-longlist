@@ -67,7 +67,7 @@ wave: 13
 ---
 
 ## Überblick
-Pepsi-Cola ist mehr als nur ein Getränk — es ist eine Jahrhundertgeschichte vom Aufstieg des Underdogs. Im ewigen Wettlauf mit [[Coca-Cola]] entwickelte sich die Marke zur Meisterin der provokativen Marketingstrategien, von vergleichenden Blindtests bis zur gezielten Ansprache vernachlässigter Zielgruppen [3][4]. Ihre Geschichte zeigt, wie man sich im Schatten eines Giganten nicht nur behauptet, sondern die Spielregeln der gesamten Branche neu definiert.
+Pepsi-Cola ist eine Jahrhundertgeschichte vom Aufstieg des Underdogs. Im ewigen Wettlauf mit [[Coca-Cola]] entwickelte sich die Marke zur Meisterin der provokativen Marketingstrategien, von vergleichenden Blindtests bis zur gezielten Ansprache vernachlässigter Zielgruppen [3][4]. Ihre Geschichte zeigt, wie man sich im Schatten eines Giganten behauptet und die Spielregeln der gesamten Branche neu definiert.
 
 ## Historischer Kontext
 Geboren im Amerika der "Gilded Age", entstand Pepsi in einer Ära, in der tonische Getränke aus Apotheken als Wundermittel gegen alles von der Verdauungsbeschwerde bis zur Müdigkeit angepriesen wurden [9]. Während Coca-Cola bereits einen monumentalen Vorsprung hatte, kämpfte sich Pepsi durch das 20. Jahrhundert — geprägt von Wirtschaftskrisen, Generationenkonflikten und einem erbarmungslosen Werbekrieg, der als "Cola-Kriege" in die Geschichte eingehen sollte [5]. Hier war Aggression nicht nur Strategie, sondern Überlebensnotwendigkeit.

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/8645/27663750644_f4d30a98d9_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/bdf8c40a-4d74-4e68-808a-ebb6ab04fa28/thumb/",
+    "caption": "Filipina women, WWII battle for Baguio Philippines late Feb. to early April 1945 (1)",
+    "license": "CC BY-NC 2.0",
+    "artist": "J. Tewell",
+    "source_url": "https://www.flickr.com/photos/9406236@N02/27663750644",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 662
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7720/27663756194_2460e5326c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/6e754106-115a-4e5f-90d7-e08a800ed220/thumb/",
+    "caption": "Filipina woman, WWII battle for Baguio Philippines late Feb. to early April 1945 (3)",
+    "license": "CC BY-NC 2.0",
+    "artist": "J. Tewell",
+    "source_url": "https://www.flickr.com/photos/9406236@N02/27663756194",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 958
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "fLdi8GobnKs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/fLdi8GobnKs",
+    "thumb_url": "https://img.youtube.com/vi/fLdi8GobnKs/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=fLdi8GobnKs",
+    "caption": "How an Unknown Swedish Car Company Fought Detroit's Empire",
+    "duration": "7:04",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=fLdi8GobnKs",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

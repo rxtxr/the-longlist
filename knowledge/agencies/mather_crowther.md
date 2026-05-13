@@ -44,7 +44,7 @@ wave: 22
 ---
 
 ## Überblick
-Mather & Crowther war mehr als nur eine britische Werbeagentur – sie war der Nährboden, aus dem einer der einflussreichsten Werber der Geschichte hervorging: [[David Ogilvy]]. Als Ausgangspunkt für die spätere weltweit agierende Agentur [[Ogilvy & Mather]] war sie von zentraler Bedeutung [ungesichert]. Ihre Geschichte erzählt vom Aufstieg der modernen Werbung, von dynastischen Verbindungen und dem Übergang vom viktorianischen Geschäftsgebaren zur kreativen Moderne.
+Mather & Crowther war der Nährboden, aus dem einer der einflussreichsten Werber der Geschichte hervorging: [[David Ogilvy]]. Als Ausgangspunkt für die spätere weltweit agierende Agentur [[Ogilvy & Mather]] war sie von zentraler Bedeutung. Ihre Geschichte erzählt vom Aufstieg der modernen Werbung, von dynastischen Verbindungen und dem Übergang vom viktorianischen Geschäftsgebaren zur kreativen Moderne.
 
 ## Historischer Kontext
 Die Wurzeln der Agentur reichen ins viktorianische Zeitalter zurück, eine Periode des industriellen Wachstums und der Expansion des Verlagswesens in Großbritannien [ungesichert]. In einer Zeit, als Werbung oft noch schlichte Produktannoncen bedeutete, legten Mather & Crowther den Grundstein für eine professionellere, strategischere Herangehensweise. London war das kommerzielle Herz des Empire – der perfekte Ort für eine Agentur, die britische Unternehmen bei der Erschließung neuer Märkte unterstützen wollte.

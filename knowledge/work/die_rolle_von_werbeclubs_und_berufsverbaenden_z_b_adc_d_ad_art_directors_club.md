@@ -21,7 +21,7 @@ wave: 2
 ---
 
 ## Überblick
-Werbeclubs wie der ADC oder D&AD sind mehr als nur Preisverleiher — sie sind die heimlichen Architekten der modernen Werbekultur. Diese internationalen Vereinigungen formten nicht nur ästhetische Standards, sondern schufen überhaupt erst das Berufsbild des kreativen Visionärs in der Werbung. Durch ihre prestigeträchtigen Awards, exklusiven Netzwerke und wegweisenden Jahresbände etablierten sie eine globale Sprache der Kreativität, die Agenturgrenzen überschritt und den Werber zum Künstler erhob.
+Werbeclubs wie der ADC oder D&AD sind die heimlichen Architekten der modernen Werbekultur. Diese internationalen Vereinigungen formten ästhetische Standards und schufen das Berufsbild des kreativen Visionärs in der Werbung. Durch ihre prestigeträchtigen Awards, exklusiven Netzwerke und wegweisenden Jahresbände etablierten sie eine globale Sprache der Kreativität, die Agenturgrenzen überschritt und den Werber zum Künstler erhob.
 
 ## Historischer Kontext
 Die Gründungswelle der Werbeclubs fiel in eine Epoche radikalen Wandels. In den "Roaring Twenties" entwickelte sich Werbung von textlastigen Anzeigen hin zu einer visuell dominierten Disziplin — befeuert durch illustrierte Magazine und eine boomende Konsumkultur. Plötzlich brauchte man Spezialisten, die Bilder denken konnten: Art Directors. Der [[ADC of New York]] (1920) war die Antwort auf diese neue Professionalisierungswelle. Als dann in den 1960er Jahren die [[Kreativ-Revolution]] die Branche erschütterte, gründeten britische Visionäre den [[D&AD]] (1962) — nicht mehr nur zur Förderung von Gestaltung, sondern von konzeptioneller Brillanz. Diese Clubs wurden zu Sammelbecken für Rebellen, die Werbung als Kunstform verstanden.

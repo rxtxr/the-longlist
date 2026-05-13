@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/871/40046835820_5e180248ef_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e03f2dd2-b6a1-486b-ad44-ff6dd4c906d7/thumb/",
+    "caption": "DG1_4494",
+    "license": "CC BY 2.0",
+    "artist": "collision.conf",
+    "source_url": "https://www.flickr.com/photos/126482574@N02/40046835820",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 682
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4513/37533615564_61711ae782_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/d5a99634-7713-48e0-8167-e27ed86434a9/thumb/",
+    "caption": "SM0_6574",
+    "license": "CC BY 2.0",
+    "artist": "Web Summit",
+    "source_url": "https://www.flickr.com/photos/74711243@N06/37533615564",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "iBLwlP3jVdg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/iBLwlP3jVdg",
+    "thumb_url": "https://img.youtube.com/vi/iBLwlP3jVdg/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iBLwlP3jVdg",
+    "caption": "Carter Murray: advertising, marketing, and focusing on people",
+    "duration": "59:21",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=iBLwlP3jVdg",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

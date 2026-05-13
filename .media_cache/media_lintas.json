@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/192/527401173_afe9b1bdb7_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/45e9a2d8-11fe-4543-aaaa-59b972eb8760/thumb/",
+    "caption": "1960s Advertising - Magazine Ad - Lintas Pubblicitá Italia (Italy)",
+    "license": "CC BY-NC 2.0",
+    "artist": "ChowKaiDeng",
+    "source_url": "https://www.flickr.com/photos/62205794@N00/527401173",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 731,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Nadine_Alexandra_Dewi_Ames_for_Lintas_Imaji_Netmediatama.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/da1d210d-f814-44af-87a3-5ee16ca54d09/thumb/",
+    "caption": "Nadine Alexandra Dewi Ames for Lintas Imaji Netmediatama",
+    "license": "CC BY 3.0",
+    "artist": "Netmediatama",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=92994275",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1252,
+    "height": 1888
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "jRqJm9-tCL8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/jRqJm9-tCL8",
+    "thumb_url": "https://img.youtube.com/vi/jRqJm9-tCL8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=jRqJm9-tCL8",
+    "caption": "Charles Cadell: Branding in the age of social media",
+    "duration": "16:41",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=jRqJm9-tCL8",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

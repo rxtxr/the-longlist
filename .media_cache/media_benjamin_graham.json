@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4065/4278866754_75d603fd0f_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/1a1475ed-1fed-415a-869d-637d866194ad/thumb/",
+    "caption": "Saturday collections in Balliol Hall - 2",
+    "license": "CC BY-NC 2.0",
+    "artist": "pcgn7",
+    "source_url": "https://www.flickr.com/photos/21204781@N07/4278866754",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 682
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3461/3900979436_d69577431b_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/a6bdac92-bb00-471f-acdf-be63e04e0962/thumb/",
+    "caption": "Lindsay Lohan Wears Benjamin Eyewear 'Graham'",
+    "license": "CC BY 2.0",
+    "artist": "The Guise Archives",
+    "source_url": "https://www.flickr.com/photos/24281144@N02/3900979436",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 677,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "xwX6XhVz9zU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/xwX6XhVz9zU",
+    "thumb_url": "https://img.youtube.com/vi/xwX6XhVz9zU/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=xwX6XhVz9zU",
+    "caption": "Benjamin Graham Quotes",
+    "duration": "5:29",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=xwX6XhVz9zU",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

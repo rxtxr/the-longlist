@@ -65,7 +65,7 @@ wave: 12
 ---
 
 ## Überblick
-Anton Stankowski war mehr als nur ein Grafiker – er war ein deutscher Visionär, der die Grenzen zwischen Kunst und Werbung neu definierte [1][2][3][4]. Als Maler, Fotograf und Werbedesigner gilt er als Pionier der Konstruktiven Grafik, einer Disziplin, die Ästhetik mit strenger Sachlichkeit verband [5][6]. Sein Lebenswerk war der Versuch, eine universelle visuelle Sprache zu schaffen, die komplexe Zusammenhänge nicht nur darstellt, sondern erklärt.
+Anton Stankowski war ein deutscher Visionär, der die Grenzen zwischen Kunst und Werbung neu definierte [1][2][3][4]. Als Maler, Fotograf und Werbedesigner gilt er als Pionier der Konstruktiven Grafik, einer Disziplin, die Ästhetik mit strenger Sachlichkeit verband [5][6]. Sein Lebenswerk war der Versuch, eine universelle visuelle Sprache zu schaffen, die komplexe Zusammenhänge darstellt und erklärt.
 
 ## Historischer Kontext
 Stankowskis Schaffen fiel in ein Jahrhundert der Extreme. Seine prägenden Jahre in den späten 1920ern erlebte er im Epizentrum der Moderne: Deutschland pulsierte unter dem Einfluss von [[Bauhaus]] und Neuer Sachlichkeit, während in Russland der Konstruktivismus revolutionäre Formensprachen entwickelte [ungesichert]. Als er 1929 in die Schweiz übersiedelte, fand er in Max Dalangs Werbeatelier ein Laboratorium der Möglichkeiten vor – eine Zeit, in denen Werbung sich vom dekorativen Plakat zum rationalen Informationsmedium wandelte [6][9]. Die Nachkriegszeit ab 1948 bot dann das perfekte Biotop für seinen systematischen Ansatz: Westdeutschlands Wirtschaftswunder brauchte neue, rationale Bildsprachen für Unternehmen, die wieder Vertrauen aufbauen mussten [ungesichert].

@@ -51,7 +51,7 @@ wave: 6
 ---
 
 ## Überblick
-David Kennedy war mehr als nur ein Werber – er war ein Revolutionär, der die Sprache der Marken für immer veränderte. Gemeinsam mit seinem Partner [[Dan Wieden]] gründete er [[Wieden+Kennedy]], eine Agentur, die aus einer Garage in Portland zur kreativen Macht hinter [[Nike]] aufstieg [1][2][4]. Sein Vermächtnis sind nicht nur Slogans, sondern kulturelle Phänomene wie "Just Do It", die bis heute nachhallen.
+David Kennedy war ein Revolutionär, der die Sprache der Marken für immer veränderte. Gemeinsam mit seinem Partner [[Dan Wieden]] gründete er [[Wieden+Kennedy]], eine Agentur, die aus einer Garage in Portland zur kreativen Macht hinter [[Nike]] aufstieg [1][2][4]. Sein Vermächtnis sind kulturelle Phänomene wie "Just Do It", die bis heute nachhallen.
 
 ## Historischer Kontext
 [ungesichert]  

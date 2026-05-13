@@ -57,7 +57,7 @@ wave: 6
 ---
 
 ## Überblick
-QuarkXPress war mehr als nur Software – es war die Waffe einer kreativen Revolution. In den späten 1980er und 1990er Jahren beherrschte dieses Desktop-Publishing-Programm (DTP) unangefochten den professionellen Layout- und Satzmarkt. Werbeagenturen, Druckereien und Verlage, die zuvor auf teure Spezialhardware und externe Setzereien angewiesen waren, konnten plötzlich hochwertige Publikationen direkt am Computer produzieren. QuarkXPress wurde zum unverzichtbaren Werkzeug einer ganzen Generation von Gestaltern und markierte den Übergang vom Handwerk zur digitalen Kreativität.
+QuarkXPress war die Waffe einer kreativen Revolution. In den späten 1980er und 1990er Jahren beherrschte dieses Desktop-Publishing-Programm (DTP) unangefochten den professionellen Layout- und Satzmarkt. Werbeagenturen, Druckereien und Verlage, die zuvor auf teure Spezialhardware und externe Setzereien angewiesen waren, konnten plötzlich hochwertige Publikationen direkt am Computer produzieren. QuarkXPress wurde zum unverzichtbaren Werkzeug einer ganzen Generation von Gestaltern und markierte den Übergang vom Handwerk zur digitalen Kreativität.
 
 ## Historischer Kontext
 Die Welt befand sich Mitte der 1980er Jahre im digitalen Aufbruch. [[Apple]]s Macintosh hatte den Computer für Designer zugänglich gemacht, und [[Adobe]]s PostScript-Druckertreiber ermöglichte erstmals präzisen Drucksatz auf dem Desktop. Die Wirtschaft boomte, der Bedarf an Werbemitteln, Zeitschriften und Broschüren explodierte – doch die Produktionswege waren noch analog, langsam und teuer. In diese Lücke stieß QuarkXPress 1987. Es war die perfekte Lösung für eine Branche, die nach Geschwindigkeit, Flexibilität und kreativer Kontrolle dürstete.

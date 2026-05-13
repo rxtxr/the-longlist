@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/2024_Washington_Initiative_2066.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2024_Washington_Initiative_2066.png/500px-2024_Washington_Initiative_2066.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Map of the results of initiative 2066 in Washington state in November of 2024",
+    "license": "CC0",
+    "artist": "Patrucio",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A2024%20Washington%20Initiative%202066.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 6900,
+    "height": 4326
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Initiative_maconnerie_1937_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Initiative_maconnerie_1937_2.jpg/500px-Initiative_maconnerie_1937_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Swiss advertisement for votation regarding interdiction of Freemasonry in 1937",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AInitiative%20maconnerie%201937%202.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 637,
+    "height": 906
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "vf5TnH1aMDs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/vf5TnH1aMDs",
+    "thumb_url": "https://img.youtube.com/vi/vf5TnH1aMDs/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=vf5TnH1aMDs",
+    "caption": "History of Environmental Initiatives | FUJIFILM",
+    "duration": "3:08",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=vf5TnH1aMDs",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

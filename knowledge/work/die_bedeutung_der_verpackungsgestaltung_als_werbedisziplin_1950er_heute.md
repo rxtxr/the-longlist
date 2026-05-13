@@ -21,7 +21,7 @@ wave: 2
 ---
 
 ## Überblick
-Die Verpackungsgestaltung ist mehr als nur schöne Hülle – sie ist die stille Verkäuferin im Regal, die Kunst der ersten Berührung, der physische Handschlag zwischen Marke und Mensch[1][9]. Diese einzigartige Disziplin vereint [[Grafikdesign]] und [[Industriedesign]] zu einer strategischen Kraft, die seit den 1950er Jahren unsere Konsumkultur prägt[1]. Wo einst einfache Schutzfunktionen dominierten, entwickelte sich die Verpackung zum zentralen Kommunikationsmedium – ein wandelbarer Spiegel von Gesellschafts- und Techniktrends[1][9].
+Die Verpackungsgestaltung ist die stille Verkäuferin im Regal, die Kunst der ersten Berührung, der physische Handschlag zwischen Marke und Mensch[1][9]. Diese einzigartige Disziplin vereint [[Grafikdesign]] und [[Industriedesign]] zu einer strategischen Kraft, die seit den 1950er Jahren unsere Konsumkultur prägt[1]. Wo einst einfache Schutzfunktionen dominierten, entwickelte sich die Verpackung zum zentralen Kommunikationsmedium – ein wandelbarer Spiegel von Gesellschafts- und Techniktrends[1][9].
 
 ## Historischer Kontext
 Die wahre Revolution begann in den Nachkriegsjahrzehnten, als ein fundamentaler Wandel der Einkaufskultur einsetzte[ungesichert]. Die traditionelle Beratung durch den Kaufmann hinter der Ladentheke wurde zunehmend durch [[Selbstbedienungsladen|Selbstbedienungsgeschäfte]] ersetzt[ungesichert]. Plötzlich stand die Ware einsam im Regal – und musste für sich selbst sprechen können. Parallel dazu eroberte das [[Fernsehen]] die Wohnzimmer und wurde zum Leitmedium der Massenkommunikation[ungesichert]. Die Verpackung mutierte zum physischen Ankerpunkt dieser neu geschaffenen Markenbilder – sie war das greifbare Versprechen der flimmernden Werbespots[ungesichert].

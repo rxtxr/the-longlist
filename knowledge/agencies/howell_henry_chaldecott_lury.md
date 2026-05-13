@@ -38,7 +38,7 @@ wave: 11
 ---
 
 ## Überblick
-Howell Henry Chaldecott Lury (HHCL) war eine der legendärsten Londoner Werbeagenturen der 1990er Jahre, bekannt für ihren radikal kreativen Ansatz und Werbekampagnen, die das britische Fernsehen und die Marketinglandschaft nachhaltig prägten [ungesichert]. Die Agentur verkörperte wie kaum eine andere den rebellischen Geist der Ära und bewies, dass Werbung nicht nur verkaufen, sondern auch unterhalten und kulturelle Debatten anstoßen konnte.
+Howell Henry Chaldecott Lury (HHCL) war eine der legendärsten Londoner Werbeagenturen der 1990er Jahre, bekannt für ihren radikal kreativen Ansatz und Werbekampagnen, die das britische Fernsehen und die Marketinglandschaft nachhaltig prägten [ungesichert]. Die Agentur verkörperte den rebellischen Geist der Ära und bewies, dass Werbung verkaufen, unterhalten und kulturelle Debatten anstoßen konnte.
 
 ## Historischer Kontext
 Gegründet 1987, mitten in der Ära von Thatcherismus und wirtschaftlichem Aufschwung, entstand HHCL in einer Zeit, in der die britische Werbebranche zunehmend selbstbewusst und experimentierfreudig wurde. Während große Netzwerkagenturen den Markt dominierten, positionierte sich HHCL als kreativer Underdog, der Konventionen bewusst brach. Die 1990er Jahre, geprägt von Britpop und einer aufkeimenden Jugendkultur, boten den perfekten Nährboden für ihre unkonventionellen Ideen.

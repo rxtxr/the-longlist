@@ -64,7 +64,7 @@ wave: 8
 ---
 
 ## Überblick
-Beck's ist mehr als nur ein Bier – es ist ein Stück deutscher Kulturgeschichte. Seit 1873 braut [[Brauerei Beck & Co.]] im Bremer Neustadtviertel jenes Pilsener, das weltweit zum Synonym für deutsches Bier werden sollte [1][7]. Mit der charakteristischen, schlanken Flasche und dem unverwechselbaren Ankerlogo schaffte es Beck's, sich nicht nur im deutschen Markt zu etablieren, sondern wurde zu einem der erfolgreichsten Bierexporte Deutschlands [7][8].
+Beck's ist ein Stück deutscher Kulturgeschichte. Seit 1873 braut [[Brauerei Beck & Co.]] im Bremer Neustadtviertel jenes Pilsener, das weltweit zum Synonym für deutsches Bier werden sollte [1][7]. Mit der charakteristischen, schlanken Flasche und dem unverwechselbaren Ankerlogo etablierte sich Beck's im deutschen Markt und wurde zu einem der erfolgreichsten Bierexporte Deutschlands [7][8].
 
 ## Historischer Kontext
 Die wahre Erfolgsgeschichte von Beck's begann nach dem Zweiten Weltkrieg, als das deutsche Wirtschaftswunder auch die Exportbemühungen der Brauerei beflügelte [ungesichert]. In den 1980er und 1990er Jahren eroberte Beck's dann systematisch internationale Märkte – gerade rechtzeitig, bevor die Craft-Beer-Revolution den globalen Biermarkt für immer verändern sollte [ungesichert]. In dieser Zeit wurde Beck's zum Statussymbol für Qualitätsbier weltweit, besonders in Märkten wie den USA und Großbritannien [ungesichert].

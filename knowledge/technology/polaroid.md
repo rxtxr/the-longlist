@@ -57,8 +57,7 @@ wave: 12
 ---
 
 ## Überblick
-
-Polaroid war nicht einfach eine Kamera. Es war ein magischer Apparat, der die Zeit einfror und sie sofort wieder ausspuckte. Die [[Polaroid Corporation]], gegründet 1937 vom visionären [[Edwin H. Land]], revolutionierte mit ihrer Sofortbild-Technologie nicht nur die Fotografie, sondern erschuf eine völlig neue Art, Momente zu erleben und zu teilen. Ihre Werbung, die jahrzehntelang von der legendären Agentur [[Doyle Dane Bernbach]] (DDB) gestaltet wurde, feierte diese Magie und machte Polaroid zu einem kulturellen Phänomen, das bis heute nachhallt.
+Polaroid war ein magischer Apparat, der die Zeit einfror und sie sofort wieder ausspuckte. Die [[Polaroid Corporation]], gegründet 1937 vom visionären [[Edwin H. Land]], revolutionierte mit ihrer Sofortbild-Technologie die Fotografie und erschuf eine völlig neue Art, Momente zu erleben und zu teilen. Ihre Werbung, die jahrzehntelang von der legendären Agentur [[Doyle Dane Bernbach]] (DDB) gestaltet wurde, feierte diese Magie und machte Polaroid zu einem kulturellen Phänomen, das bis heute nachhallt.
 
 ## Historischer Kontext
 

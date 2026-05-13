@@ -40,7 +40,7 @@ wave: 20
 ---
 
 ## Überblick
-E. Jerome McCarthy war mehr als nur ein Marketingprofessor — er war der Architekt eines der einflussreichsten Denkmodelle der Wirtschaftswelt. Sein Konzept der 4 Ps (Product, Price, Place, Promotion) wurde zur grammatikalischen Grundlage der modernen Marketinglehre [2]. Doch hinter der trockenen Formel verbirgt sich die Geschichte eines Mannes, der die chaotische Kunst der Marktführung in eine systematische Wissenschaft verwandelte.
+E. Jerome McCarthy war der Architekt eines der einflussreichsten Denkmodelle der Wirtschaftswelt. Sein Konzept der 4 Ps (Product, Price, Place, Promotion) wurde zur grammatikalischen Grundlage der modernen Marketinglehre [2]. Hinter der trockenen Formel verbirgt sich die Geschichte eines Mannes, der die chaotische Kunst der Marktführung in eine systematische Wissenschaft verwandelte.
 
 ## Historischer Kontext
 McCarthy entwickelte sein Modell in den 1960er Jahren — einer Zeit des radikalen Wandels [3]. Während [[Neil Borden]] bereits 1949 den Begriff "Marketing-Mix" prägte, fehlte noch eine einprägsame Struktur. Die Wirtschaftswelt befand sich im Übergang: Die Nachkriegsboomjahre ließen Konsumgütermärkte explodieren, Werbung wurde zum Massenphänomen [[Rosser Reeves]], und Unternehmen brauchten dringend ein Werkzeug, um komplexe Märkte zu navigieren. McCarthys genialer Wurf war die Übersetzung akademischer Konzepte in eine praktische Handlungsanleitung für Manager.

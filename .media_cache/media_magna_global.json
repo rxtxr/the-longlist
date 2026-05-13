@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/3283/3127041189_d0d8c07643.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/10904ebc-404d-4124-99c8-72150e5f26e0/thumb/",
+    "caption": "El imparable ascenso de la democracia en el Reino de España",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Jon Juanma",
+    "source_url": "https://www.flickr.com/photos/30642689@N06/3127041189",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 378,
+    "height": 500
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4027/4349056986_c89c3623de_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/6d6ab06d-962c-4afb-b4df-46144ce6e3af/thumb/",
+    "caption": "The Toa of Love",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "the BCth",
+    "source_url": "https://www.flickr.com/photos/33279927@N08/4349056986",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 852,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "QsvkQgYKNOA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/QsvkQgYKNOA",
+    "thumb_url": "https://img.youtube.com/vi/QsvkQgYKNOA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=QsvkQgYKNOA",
+    "caption": "#Magna-Inspiring Story Global Automotive Company-Products Innovation and Customers R& D Centers",
+    "duration": "14:21",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=QsvkQgYKNOA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

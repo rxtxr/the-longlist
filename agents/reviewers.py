@@ -217,7 +217,7 @@ class ReviewerArchivar(_Reviewer):
 
 class ReviewerCopywriter(_Reviewer):
     name = "reviewer_copywriter"
-    model_key = "historiker"
+    model_key = "journalist"  # DeepSeek V3.1 hat Billing-Probleme → Qwen
     system_prompt = _SYS_COPYWRITER
     review_prompt = _PROMPT_COPYWRITER
 

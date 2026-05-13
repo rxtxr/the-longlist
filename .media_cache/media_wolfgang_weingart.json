@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/2012-11-03_Simons_Visualising-Data_Bericht_plus_Anlagen.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012-11-03_Simons_Visualising-Data_Bericht_plus_Anlagen.pdf/page1-500px-2012-11-03_Simons_Visualising-Data_Bericht_plus_Anlagen.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Report about Wikimedia-Workshop, Visualising Data, April 2012, Gotha",
+    "license": "CC BY-SA 3.0",
+    "artist": "Olaf Simons",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A2012-11-03%20Simons%20Visualising-Data%20Bericht%20plus%20Anlagen.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 1239,
+    "height": 1752
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Forest_Service_organizational_directory_%28IA_SER74926648008%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Forest_Service_organizational_directory_%28IA_SER74926648008%29.pdf/page1-500px-Forest_Service_organizational_directory_%28IA_SER74926648008%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "23cm\nNAL holdings: Jan.1949-\nSubjects: Forest management Directories; United States Forest Service Directories",
+    "license": "Public domain",
+    "artist": "United States. Forest Service",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AForest%20Service%20organizational%20directory%20%28IA%20SER74926648008%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 1668,
+    "height": 2433
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "WA5CYRrd8qo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/WA5CYRrd8qo",
+    "thumb_url": "https://img.youtube.com/vi/WA5CYRrd8qo/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WA5CYRrd8qo",
+    "caption": "Wolfgang Weingart: 2013 AIGA Medalist",
+    "duration": "4:42",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=WA5CYRrd8qo",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

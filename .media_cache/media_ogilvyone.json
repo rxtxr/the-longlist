@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/2447/3601194316_ae3f12a140_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/9e6b6900-71db-4845-9df7-280fcba771bf/thumb/",
+    "caption": "Panos Sabrakos (OgilvyOne), Online Marketing 09, Athens",
+    "license": "CC BY 2.0",
+    "artist": "antony_mayfield",
+    "source_url": "https://www.flickr.com/photos/31433424@N00/3601194316",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/5068/5737541616_5af71f64eb_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/0f46e176-b7a1-4b8f-a232-4632651010e9/thumb/",
+    "caption": "The OgilvyOne team",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "perininetworks",
+    "source_url": "https://www.flickr.com/photos/52469915@N05/5737541616",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 685
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "CxvsQR8_6n0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/CxvsQR8_6n0",
+    "thumb_url": "https://img.youtube.com/vi/CxvsQR8_6n0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=CxvsQR8_6n0",
+    "caption": "How Ogilvy made $864 Million",
+    "duration": "11:15",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=CxvsQR8_6n0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

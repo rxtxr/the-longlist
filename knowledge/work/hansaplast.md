@@ -62,7 +62,7 @@ wave: 14
 ---
 
 ## Überblick
-Hansaplast ist mehr als nur eine deutsche Marke für Wundversorgungsprodukte – sie ist eine Legende der Alltagskultur. Seit ihrer Einführung durch [[Beiersdorf]] in den 1920er Jahren hat sie nicht nur den Umgang mit kleinen Verletzungen revolutioniert, sondern sich als fester Bestandteil deutscher Haushalte etabliert. Die charakteristische blaue Verpackung mit dem weißen Kreuz ist bis heute ein weltweit vertrautes Symbol für schnelle Hilfe [1][3][7][8][9][10].
+Hansaplast ist eine Legende der Alltagskultur. Seit ihrer Einführung durch [[Beiersdorf]] in den 1920er Jahren hat sie den Umgang mit kleinen Verletzungen revolutioniert und sich als fester Bestandteil deutscher Haushalte etabliert. Die charakteristische blaue Verpackung mit dem weißen Kreuz ist bis heute ein weltweit vertrautes Symbol für schnelle Hilfe [1][3][7][8][9][10].
 
 ## Historischer Kontext
 Die Marke entstand in einer Zeit des medizinischen Aufbruchs, in der Verbraucher zunehmend nach standardisierten und hygienischen Produkten für den Hausgebrauch suchten [ungesichert]. Nach dem Ersten Weltkrieg herrschte ein neues Bewusstsein für Hygiene und medizinische Versorgung. Während Ärzte noch oft mit improvisierten Verbänden arbeiteten, sehnte sich die Bevölkerung nach praktischen Lösungen für den Alltag [ungesichert]. In diese Lücke stieß [[Beiersdorf]] mit einer Innovation, die den Pflastermarkt für immer verändern sollte.

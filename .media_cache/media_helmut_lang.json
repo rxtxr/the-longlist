@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65/204623256_12db378ac2_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/15c21490-399d-4075-8c49-97af2d57fc28/thumb/",
+    "caption": "Helmut Lang, 8 months",
+    "license": "CC BY-SA 2.0",
+    "artist": "Kent Wang",
+    "source_url": "https://www.flickr.com/photos/27454212@N00/204623256",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 583,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/63/204624128_dd08b55fdd_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/e72a3706-c724-4de3-b51c-59fcc6aa84ef/thumb/",
+    "caption": "Helmut Lang, 8 months",
+    "license": "CC BY-SA 2.0",
+    "artist": "Kent Wang",
+    "source_url": "https://www.flickr.com/photos/27454212@N00/204624128",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 609,
+    "height": 1024
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "BmEH4ejkAE8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/BmEH4ejkAE8",
+    "thumb_url": "https://img.youtube.com/vi/BmEH4ejkAE8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=BmEH4ejkAE8",
+    "caption": "The Rise and Fall of Helmut Lang",
+    "duration": "23:19",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=BmEH4ejkAE8",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

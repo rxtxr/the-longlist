@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7060/26865452873_417fbcf90e_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/844d417b-9229-417f-abb3-59b8c1438c11/thumb/",
+    "caption": "cindy1a",
+    "license": "CC BY-NC 2.0",
+    "artist": "regina11163",
+    "source_url": "https://www.flickr.com/photos/143917955@N07/26865452873",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 740,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/135/362023417_b59f70a49f_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/44a03242-f264-4caa-afe0-7922a16e98e0/thumb/",
+    "caption": "The Next Cindy Crawford",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "Annie Chartrand",
+    "source_url": "https://www.flickr.com/photos/24453920@N00/362023417",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "_HYOFsAHBgw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/_HYOFsAHBgw",
+    "thumb_url": "https://img.youtube.com/vi/_HYOFsAHBgw/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=_HYOFsAHBgw",
+    "caption": "A chat with Cindy Crawford",
+    "duration": "4:07",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=_HYOFsAHBgw",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

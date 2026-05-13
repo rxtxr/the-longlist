@@ -59,7 +59,7 @@ wave: 8
 ---
 
 ## Überblick
-British Airways zählt nicht nur zu den größten, sondern auch zu den markenhistorisch bedeutendsten Fluggesellschaften der Welt. Ihre Werbekommunikation wurde über Jahrzehnte von ikonischen, oft preisgekrönten Kampagnen geprägt, die weit über die Luftfahrtbranche hinausstrahlten. Im Zentrum dieser Erfolgsgeschichte steht die langjährige und fruchtbare Zusammenarbeit mit der Werbeagentur [[Saatchi & Saatchi]], die das Image der Airline maßgeblich formte [1][9].
+British Airways zählt zu den größten und markenhistorisch bedeutendsten Fluggesellschaften der Welt. Ihre Werbekommunikation wurde über Jahrzehnte von ikonischen, oft preisgekrönten Kampagnen geprägt, die über die Luftfahrtbranche hinausstrahlten. Im Zentrum dieser Erfolgsgeschichte steht die langjährige und fruchtbare Zusammenarbeit mit der Werbeagentur [[Saatchi & Saatchi]], die das Image der Airline maßgeblich formte [1][9].
 
 ## Historischer Kontext
 Die Geschichte von British Airways ist eng mit der britischen Nachkriegsidentität und dem Wandel des nationalen Selbstverständnisses verflochten. [ungesichert] In den 1970er und 1980er Jahren, als viele britische Staatsunternehmen privatisiert wurden, stand auch die staatliche Fluggesellschaft vor der Herausforderung, sich im zunehmend wettbewerbsintensiven globalen Luftverkehr zu positionieren. Werbung wurde dabei zum entscheidenden Instrument, um nicht nur Tickets zu verkaufen, sondern auch ein modernes, selbstbewusstes und weltoffenes Bild Großbritanniens zu transportieren. [ungesichert]

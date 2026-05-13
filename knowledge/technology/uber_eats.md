@@ -63,7 +63,7 @@ wave: 20
 ---
 
 ## Überblick
-Uber Eats ist mehr als nur ein Essenslieferdienst — es ist die clevere Zweitverwertung eines globalen Ride-Hailing-Netzwerks. Was 2014 als Experiment namens UberFRESH in Los Angeles begann, entwickelte sich innerhalb weniger Jahre zu einem der weltweit dominierenden Player im Food-Delivery-Markt. Die Plattform nutzte bestehende Infrastrukturen, veränderte das Essverhalten in Städten weltweit und wurde zum profitablen Zweitstandbein des umstrittenen Uber-Konzerns.
+Uber Eats ist die clevere Zweitverwertung eines globalen Ride-Hailing-Netzwerks. Was 2014 als Experiment namens UberFRESH in Los Angeles begann, entwickelte sich innerhalb weniger Jahre zu einem der weltweit dominierenden Player im Food-Delivery-Markt. Die Plattform nutzte bestehende Infrastrukturen, veränderte das Essverhalten in Städten weltweit und wurde zum profitablen Zweitstandbein des umstrittenen Uber-Konzerns.
 
 ## Historischer Kontext
 Die 2010er Jahre waren das Jahrzehnt der "App-Economy" — Smartphones wurden zum ständigen Begleiter, und Unternehmen suchten nach Wegen, Alltagsprobleme mit digitalen Lösungen zu bewältigen [ungesichert]. In diesem Klima entstand Uber Eats: Eine Zeit, in der junge Stadtbewohner zunehmend Convenience schätzten, aber auch qualitativ hochwertiges Essen von lokalen Restaurants wollten [ungesichert]. Wirtschaftlich bot sich Uber die einmalige Chance, ihre bestehende Fahrerflotte und App-Infrastruktur für einen neuen Zweck zu nutzen — eine klassische Effizienzgeschichte des Plattformkapitalismus [ungesichert].

@@ -24,7 +24,7 @@ wave: 1
 ---
 
 ## Überblick
-In den Fluren der Werbeagenturen stand es jahrzehntelang im Regal wie eine Bibel: das Art Directors Annual. Diese jährlich erscheinende Publikation dokumentierte ab 1921 die preisgekrönten Werke des renommierten Wettbewerbs des Art Directors Club of New York [1]. Doch es war mehr als nur ein Buch — es war das archivierte Gedächtnis einer ganzen Branche, das kreative Maß aller Dinge und die begehrteste Trophäe für jeden Werbegestalter [1][2].
+In den Fluren der Werbeagenturen stand es jahrzehntelang im Regal wie eine Bibel: das Art Directors Annual. Diese jährlich erscheinende Publikation dokumentierte ab 1921 die preisgekrönten Werke des renommierten Wettbewerbs des Art Directors Club of New York [1]. Es war das archivierte Gedächtnis einer ganzen Branche, das kreative Maß aller Dinge und die begehrteste Trophäe für jeden Werbegestalter [1][2].
 
 ## Historischer Kontext
 Die Roaring Twenties brachten nicht nur wirtschaftlichen Aufschwung, sondern auch eine Revolution der visuellen Sprache. In dieser Zeit des Umbruchs professionalisierte sich die Werbebranche rasant — der Art Director stieg vom reinen Layouter zum kreativen Strategen auf [1]. Das Annual war das stolze Produkt dieses neuen Selbstbewusstseins der kreativen Disziplinen, ein Manifest der künstlerischen Ansprüche in einer kommerziellen Welt [1]. Man könnte sagen: Es war der Moment, in dem die Werbung erwachsen wurde und sich ihr eigenes Archiv schuf.

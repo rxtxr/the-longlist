@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/1818/44107244091_b0ea2ae08c_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/227070a7-d9d2-44c0-8982-b037d3e05e0c/thumb/",
+    "caption": "Grey group",
+    "license": "CC BY-NC-ND 2.0",
+    "artist": "~ l i t t l e F I R E ~",
+    "source_url": "https://www.flickr.com/photos/77784956@N00/44107244091",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 733,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4425/35675916513_80f3141e12_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/0d05830b-161a-4d6c-8805-c51238d84345/thumb/",
+    "caption": "Grey group, 24 May 1905",
+    "license": "CC BY-NC 2.0",
+    "artist": "David Knights-Whittome Photographic Archive",
+    "source_url": "https://www.flickr.com/photos/129320146@N08/35675916513",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 743
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "AH4VX0yxPx0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/AH4VX0yxPx0",
+    "thumb_url": "https://img.youtube.com/vi/AH4VX0yxPx0/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AH4VX0yxPx0",
+    "caption": "A 100 Years of Grey",
+    "duration": "1:13",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=AH4VX0yxPx0",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

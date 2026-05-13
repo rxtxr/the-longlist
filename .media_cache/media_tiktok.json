@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7882/33719073368_ae4f0ea904_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/1996be7e-e055-4b93-b7c8-f46edbf39de4/thumb/",
+    "caption": "Tiktok",
+    "license": "CC BY-ND 2.0",
+    "artist": "TheBetterDay",
+    "source_url": "https://www.flickr.com/photos/94977883@N08/33719073368",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 771,
+    "height": 1024
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/7899/46680455555_f49641f2a6_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/19722804-b493-4525-9472-f619bca47a05/thumb/",
+    "caption": "Tiktok",
+    "license": "CC BY-ND 2.0",
+    "artist": "TheBetterDay",
+    "source_url": "https://www.flickr.com/photos/94977883@N08/46680455555",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 782
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "SappNaKNmwA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/SappNaKNmwA",
+    "thumb_url": "https://img.youtube.com/vi/SappNaKNmwA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=SappNaKNmwA",
+    "caption": "10 Things To Know BEFORE Running TikTok Ads",
+    "duration": "12:36",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=SappNaKNmwA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

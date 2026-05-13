@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Augusto_De_Luca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Augusto_De_Luca.jpg/500px-Augusto_De_Luca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Augusto De Luca - (Exhibition of Irving Penn - Paris)",
+    "license": "CC BY-SA 3.0",
+    "artist": "GIUNCO",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAugusto%20De%20Luca.jpg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 850,
+    "height": 676
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Early_American_portrait_painters_in_miniature_%28IA_earlyamericanpor00bolt%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Early_American_portrait_painters_in_miniature_%28IA_earlyamericanpor00bolt%29.pdf/page1-500px-Early_American_portrait_painters_in_miniature_%28IA_earlyamericanpor00bolt%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Subjects: Miniature painting -- United States; Portrait painters -- United States; Portrait painting -- United States",
+    "license": "Public domain",
+    "artist": "Bolton, Theodore, b. 1889",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEarly%20American%20portrait%20painters%20in%20miniature%20%28IA%20earlyamericanpor00bolt%29.pdf",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 820,
+    "height": 1320
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "aL2C0tzyIGA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/aL2C0tzyIGA",
+    "thumb_url": "https://img.youtube.com/vi/aL2C0tzyIGA/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=aL2C0tzyIGA",
+    "caption": "No One Puts Irving Penn In A Corner - The Making Of The Master Photographer",
+    "duration": "9:12",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=aL2C0tzyIGA",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

@@ -53,7 +53,7 @@ wave: 6
 ---
 
 ## Überblick
-Hans Domizlaff (1892–1971) war mehr als nur ein Werbefachmann — er war ein deutscher Querdenker, der als [[Grafiker]], Schriftsteller und [[Bühnenbildner]] die Werbung von ihrer handwerklichen in ihre strategische Ära führte [1][6][9]. Er gilt nicht nur als "Erfinder der Markentechnik", sondern als erster, der [[Markenführung]] als langfristige Vertrauensbildung begriff [2][4][8]. Sein Lebenswerk transformierte die Werbung von kurzfristiger Produktwerbung zu systematischer [[Markenpflege]] [ungesichert].
+Hans Domizlaff (1892–1971) war ein deutscher Querdenker, der als [[Grafiker]], Schriftsteller und [[Bühnenbildner]] die Werbung von ihrer handwerklichen in ihre strategische Ära führte [1][6][9]. Er gilt als "Erfinder der Markentechnik" und als erster, der [[Markenführung]] als langfristige Vertrauensbildung begriff [2][4][8]. Sein Lebenswerk transformierte die Werbung von kurzfristiger Produktwerbung zu systematischer [[Markenpflege]] [ungesichert].
 
 ## Historischer Kontext
 Domizlaffs Wirken fiel in eine Zeit radikaler Umbrüche: die Weimarer Republik, das [[Dritte Reich]] und die frühe [[Bundesrepublik]]. In den 1920er und 1930er Jahren, als sich die deutsche Industrie professionalisierte und [[Massenproduktion]] aufkam, entwickelte er seine Prinzipien [8]. In einer Ära voll politischer Propaganda und wirtschaftlicher Unsicherheit bot seine "Markentechnik" Unternehmen Stabilität durch vertrauenswürdige [[Markenidentität]] [3].

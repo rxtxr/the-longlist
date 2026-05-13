@@ -68,7 +68,7 @@ wave: 11
 ---
 
 ## Überblick
-Chiquita ist mehr als nur eine Bananenmarke – sie ist ein Stück Kulturgeschichte. Mit ihrem blauen Aufkleber und der tanzenden Miss Chiquita prägte sie über Generationen hinweg das Bild der tropischen Frucht in den Supermärkten der Welt [ungesichert]. Ihre Bedeutung liegt in der einzigartigen Verknüpfung von Agrargeschichte, Marketinginnovation und globaler Wirtschaftsmacht, die bis heute nachwirkt [ungesichert].
+Chiquita ist ein Stück Kulturgeschichte. Mit ihrem blauen Aufkleber und der tanzenden Miss Chiquita prägte sie über Generationen hinweg das Bild der tropischen Frucht in den Supermärkten der Welt. Ihre Bedeutung liegt in der einzigartigen Verknüpfung von Agrargeschichte, Marketinginnovation und globaler Wirtschaftsmacht, die bis heute nachwirkt.
 
 ## Historischer Kontext
 Die Wurzeln der Marke reichen zurück in die Zeit des "Bananenimperialismus" – als US-amerikanische Unternehmen im späten 19. Jahrhundert begannen, tropische Früchte systematisch auf den nordamerikanischen Markt zu bringen [5][7][10]. In dieser Ära entstanden riesige Plantagenwirtschaften in Mittelamerika, die nicht nur Früchte exportierten, sondern ganze Länderwirtschaften dominierten [2][8]. Die zunehmende Verstädterung und das Wachstum der Supermärkte in der Mitte des 20. Jahrhunderts schufen dann den perfekten Nährboden für eine Marke wie Chiquita, die Bananen von einer anonymen Ware zu einem vertrauten Produkt mit Gesicht und Stimme verwandelte [ungesichert].

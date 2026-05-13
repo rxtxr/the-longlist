@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Z_antonmachtkringel.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/c29bce5b-2b47-40b9-a57f-d47ee9ede1cb/thumb/",
+    "caption": "Z antonmachtkringel",
+    "license": "CC BY 3.0",
+    "artist": "Anton Stankowski",
+    "source_url": "https://commons.wikimedia.org/w/index.php?curid=23664711",
+    "source_label": "OpenVerse / wikimedia",
+    "copyright_status": "clear_cc",
+    "width": 1862,
+    "height": 1325
+  },
+  {
+    "type": "image",
+    "url": "https://live.staticflickr.com/4546/38419933792_55cb7f9894_b.jpg",
+    "thumb_url": "https://api.openverse.org/v1/images/256a9cbf-4d6e-4b80-994c-6c120ec8ec90/thumb/",
+    "caption": "Helmut Matheis: game and poultry distributor; Anton Stankowski: steel company",
+    "license": "CC BY-NC-SA 2.0",
+    "artist": "Stewf",
+    "source_url": "https://www.flickr.com/photos/23806189@N00/38419933792",
+    "source_label": "OpenVerse / flickr",
+    "copyright_status": "clear_cc",
+    "width": 1024,
+    "height": 646
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "XHeFje673g8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/XHeFje673g8",
+    "thumb_url": "https://img.youtube.com/vi/XHeFje673g8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=XHeFje673g8",
+    "caption": "Deutsche Bank Logo - Anton Stankowski  |  Logo design & Designer review",
+    "duration": "5:45",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=XHeFje673g8",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

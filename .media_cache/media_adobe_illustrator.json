@@ -1,0 +1,43 @@
+[
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Adobe_Illustrator.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "caption": "Adobe Illustrator",
+    "license": "CC BY-SA 4.0",
+    "artist": "Filippos Fragkogiannis",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAdobe%20Illustrator.ogg",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "clear_cc",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "type": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Adobe_Illustrator_CS4_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Adobe_Illustrator_CS4_icon.png/500px-Adobe_Illustrator_CS4_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "caption": "Computer icon of Adobe Illustrator CS4",
+    "license": "Public domain",
+    "artist": "Adobe Systems",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAdobe%20Illustrator%20CS4%20icon.png",
+    "source_label": "Wikimedia Commons",
+    "copyright_status": "public_domain",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "type": "video",
+    "platform": "youtube",
+    "video_id": "Pq4hiF9K6tI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Pq4hiF9K6tI",
+    "thumb_url": "https://img.youtube.com/vi/Pq4hiF9K6tI/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Pq4hiF9K6tI",
+    "caption": "The History of Advertising Motion Graphic Info Graphic",
+    "duration": "2:05",
+    "license": "YouTube Standard License",
+    "artist": "",
+    "source_url": "https://www.youtube.com/watch?v=Pq4hiF9K6tI",
+    "source_label": "YouTube",
+    "copyright_status": "youtube"
+  }
+]

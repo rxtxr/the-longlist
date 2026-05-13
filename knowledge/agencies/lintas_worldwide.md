@@ -25,7 +25,7 @@ wave: 23
 ---
 
 ## Überblick
-Lintas:Worldware war mehr als nur eine Werbeagentur – es war die Emanzipation einer internen Werbeabteilung zum globalen Player. Aus der hauseigenen Marketingabteilung des Konsumgüterriesen Unilever entstanden, erkämpfte sich Lintas ab den 1960er Jahren einen Platz unter den großen internationalen Agenturnetzwerken[3][7][9]. Ihre Geschichte ist ein Lehrstück über Corporate Identity, globale Expansion und den unaufhaltsamen Konsolidierungsdruck der Werbebranche.
+Lintas:Worldware war die Emanzipation einer internen Werbeabteilung zum globalen Player. Aus der hauseigenen Marketingabteilung des Konsumgüterriesen Unilever entstanden, erkämpfte sich Lintas ab den 1960er Jahren einen Platz unter den großen internationalen Agenturnetzwerken[3][7][9]. Ihre Geschichte ist ein Lehrstück über Corporate Identity, globale Expansion und den unaufhaltsamen Konsolidierungsdruck der Werbebranche.
 
 ## Historischer Zeitkontext
 Die Wurzeln von Lintas liegen im späten 19. Jahrhundert, als die Seifenproduktion von einer handwerklichen zu einer industriellen Massenware wurde. Unternehmen wie Lever Brothers standen vor der Herausforderung, ihre neuen Markenartikel einer breiten Bevölkerung bekannt zu machen. In dieser Ära entstanden die ersten professionellen Werbeabteilungen großer Konzerne. Lever Brothers gründete seine eigene Abteilung in den 1890ern, um die Vermarktung von Seife effizient zu steuern[7]. Dies war keine Ausnahme; viele Großkonzerne vertrauten damals noch auf interne Ressourcen, bevor sie sich externen Agenturen öffneten.

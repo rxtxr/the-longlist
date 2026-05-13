@@ -65,7 +65,7 @@ wave: 12
 ---
 
 ## Überblick
-Christy Turlington war mehr als nur ein Gesicht – sie wurde zur Ikone einer ganzen Ära. Als Teil des legendären Supermodel-Quintetts der 1990er Jahre verkörperte sie einen neuen Frauentypus in der Modebranche: gebildet, selbstbewusst und geschäftstüchtig [1][8]. Ihre langjährigen Partnerschaften mit [[Calvin Klein]] und [[Maybelline]] zeigten erstmals, welchen wirtschaftlichen Wert ein Model als Markenbotschafterin haben konnte [2][8].
+Christy Turlington war ein Gesicht, das zur Ikone einer ganzen Ära wurde. Als Teil des legendären Supermodel-Quintetts der 1990er Jahre verkörperte sie einen neuen Frauentypus in der Modebranche: gebildet, selbstbewusst und geschäftstüchtig [1][8]. Ihre langjährigen Partnerschaften mit [[Calvin Klein]] und [[Maybelline]] zeigten erstmals, welchen wirtschaftlichen Wert ein Model als Markenbotschafterin haben konnte [2][8].
 
 ## Historischer Kontext
 Turlingtons Aufstieg fiel in eine Zeit, in der Models zu globalen Stars avancierten – die Ära der "Supermodels" [1][8]. Während Models früher oft anonyme Kleiderständer waren, wurden Persönlichkeiten wie Turlington zu gefeierten Ikonen. Wirtschaftlich profitierten Marken wie Calvin Klein von der zunehmenden Personalisierung der Werbung [ungesichert]. Die Modebranche erkannte, dass Gesichter Geschichten erzählen konnten – und Turlington erzählte eine besonders glaubwürdige.

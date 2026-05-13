@@ -21,8 +21,7 @@ wave: 2
 ---
 
 ## Überblick
-
-Scholz & Friends war mehr als eine Werbeagentur — sie war eine Revolution in Anzug und Cordhose. Als 1981 in Hamburg fünf Freunde eine Agentur gründeten, ahnte niemand, dass sie nicht nur die deutsche Werbung verändern, sondern einen neuen Agenturtyp erfinden würden. Ihr "Friends-Prinzip" wurde zum Mythos, ihre Kampagnen prägten die deutsche Popkultur und ihre Alumni gründeten selbst wieder legendäre Agenturen. Scholz & Friends war die Kaderschmiede der deutschen Kreativbranche und bewies, dass deutsche Werbung international mitspielen konnte.
+Scholz & Friends war eine Revolution in Anzug und Cordhose. Als 1981 in Hamburg fünf Freunde eine Agentur gründeten, ahnte niemand, dass sie die deutsche Werbung verändern und einen neuen Agenturtyp erfinden würden. Ihr "Friends-Prinzip" wurde zum Mythos, ihre Kampagnen prägten die deutsche Popkultur und ihre Alumni gründeten selbst wieder legendäre Agenturen. Scholz & Friends war die Kaderschmiede der deutschen Kreativbranche und bewies, dass deutsche Werbung international mitspielen konnte.
 
 ## Historischer Kontext
 
