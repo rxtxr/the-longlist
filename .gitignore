@@ -18,3 +18,4 @@ __pycache__/
 # Editor
 .vscode/
 .idea/
+.media_cache/
